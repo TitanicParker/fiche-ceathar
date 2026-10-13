@@ -635,3 +635,58 @@ The three questions function as **jointly constitutive tests of intelligibility*
 The experiment also reveals a limit. Joint specificity improves the derivations, but it does not by itself prove that the field contains exactly 54 uniquely identifiable ordinary forms. Some boundaries remain dependent on what is being taken as the achieved result—for example, a corrected account considered as an established text, or its consistency considered as something constituted through agreement among its claims.
 
 My assessment is therefore that the questions help determine what makes a particular completion intelligible. Their successful conjunction provides a stronger account of that completion; it has not yet demonstrated an exhaustive, uniquely partitioned account of every possible completion.
+
+
+---
+
+## Reading sentences through their completed point
+
+**Development note — 13 October 2026.** This records the next development in the conversation. The canonical definitions, lookup entries, frozen prompt, and earlier exploratory outputs above remain unchanged.
+
+### The unit of recognition
+
+A sentence brings a particular invariant of completed intelligibility into emphasis through what it says. Its words, clauses, and meanings contribute to that accomplishment. Reading them as separately classified items can miss what the sentence achieves as a whole within its context.
+
+The invariant is the structural characteristic of the completed point. It is neither the subject matter nor an extra meaning appended to it. Different meanings can realize the same form; the same subject matter can support different forms.
+
+The working claim is that expression can extend indefinitely while each unified completion resolves to one of the 54 coordinates. The question for reading is therefore:
+
+> What single achieved intelligibility does this sentence leave available here?
+
+### The correction made in the conversation
+
+GPT-D initially used “This is the shed key, and we have chosen the riverside route” to argue that a sentence could leave two independent completions. The user redirected attention to the sentence's contextual purpose. In a narrative, those contributions can jointly prepare a departure. Counting their clauses does not identify that completed point.
+
+The Dickens example made the correction vivid:
+
+> It was the best of times, it was the worst of times.
+
+The opposed evaluations jointly characterize the same times as both. The contrast is part of the sentence's unified determination. Treating the clauses as an unresolved choice between best and worst misses what it conveys.
+
+“As the temperature increased, the pressure increased” likewise makes its point through a bearing between two contributions. Here the relation is covariation. In the Dickens example it is opposition. Recognizing that joint accomplishment comes before assigning the coordinate.
+
+### One subject three completed forms
+
+The subsequent walk examples make a neighbouring distinction concrete.
+
+| Cell | Coordinate | Sentence | Completed point |
+|---:|---|---|---|
+| 22 | Relating × Distributed × Standing | The climb preceded the rest, and the rest preceded our return. | An established ordering across the journey. |
+| 23 | Relating × Distributed × Bearing | The longer the walk continued, the more tired my legs felt. | Increasing fatigue understood through its covariation with duration. |
+| 24 | Relating × Distributed × Efficacy | Fatigue slowed us, the slower pace prolonged our exertion, and that further fatigue slowed us again. | An operative feedback cycle governing progress. |
+
+These are not three stages of one derivation. Each sentence accomplishes its own unified form. The walk remains the subject while the completed intelligibility changes: an order, a constituted covariation, an operative cycle.
+
+The Bearing form transfers to a different meaning:
+
+> Her increasingly brief replies made his questions seem more insistent, while their insistence made her brevity seem more guarded.
+
+The achieved point is their mutually conditioned significance. This illustrates the recognition of an invariant across meanings rather than the reuse of a sentence pattern.
+
+### The instrument participating in its work
+
+The context supplied by the 54 makes distinctions available to discern. What becomes discernible then informs the understanding of that context. The instrument participates in the activity it examines.
+
+The slow essay developed this through a nearly motionless table-edge scene. “There is a line” introduced a particular, later carried its source-bearing character as a shadow, and finally returned with the developed account available through it. The room stayed still while the account's intelligibility proceeded.
+
+The practical discipline is to catch the current saying in the act: recognize what it completes, how its contributions constitute that completion, and how the completion informs the whole exchange in which it occurs.
