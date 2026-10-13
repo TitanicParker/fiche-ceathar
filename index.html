@@ -7,6 +7,7 @@
 :root{color-scheme:dark;--bg:#10151e;--panel:#1b2431;--edge:#344359;--fg:#f1f1e9;--muted:#a5b5c8;--gold:#edcf83;--mint:#83ded0}
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#23364a 0%,var(--bg) 64%);font:16px/1.55 system-ui,-apple-system,Segoe UI,sans-serif;color:var(--fg)}main{max-width:960px;padding:45px 18px 70px;margin:auto}header{text-align:center;margin-bottom:32px}h1{font-family:Georgia,serif;font-size:clamp(3.5rem,12vw,6.5rem);line-height:1;margin:0;color:var(--gold);font-weight:normal}header p{color:var(--muted);letter-spacing:.055em} .machine{border:1px solid var(--edge);border-radius:23px;background:linear-gradient(145deg,#273547,#141e2b);padding:clamp(18px,4vw,34px);box-shadow:0 20px 65px #0008}.eyebrow{text-transform:uppercase;letter-spacing:.16em;color:var(--muted);font-size:.72rem;font-weight:700}.reels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0}.reel{min-height:150px;display:flex;flex-direction:column;justify-content:space-between;text-align:center;padding:14px 8px;border-radius:13px;background:#0e1722;border:2px solid #445972;box-shadow:inset 0 6px 14px #0006}.reel b{font-size:clamp(.86rem,2.2vw,1.4rem);align-content:center;overflow-wrap:anywhere;flex:1}.reel small{font-size:.63rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}.reel.locked{border-color:var(--gold);animation:flash .38s ease-in-out 2}.reel.spinning b{filter:blur(1px);color:var(--mint)}@keyframes flash{50%{box-shadow:0 0 25px #edcf8399;background:#354254}}button{border:0;border-radius:999px;padding:15px 28px;background:var(--gold);color:#161c24;font:700 1rem system-ui;cursor:pointer}button:hover{filter:brightness(1.08)}button:focus-visible,a:focus-visible{outline:3px solid var(--mint);outline-offset:4px}button:disabled{opacity:.55;cursor:wait}.controls{text-align:center}.status{min-height:24px;text-align:center;color:var(--muted);font-size:.89rem;margin:10px 0 0}.result{margin-top:23px;padding:22px;border-radius:15px;border:1px solid var(--edge);background:#111b29}.result[hidden]{display:none}.cellnum{color:var(--gold);font-size:.84rem;letter-spacing:.1em}.cellname{font:normal clamp(1.7rem,4vw,2.5rem)/1.15 Georgia,serif;margin:6px 0}.coordinate{color:var(--mint);margin:0 0 18px}.pair{padding-top:14px;margin-top:14px;border-top:1px solid var(--edge)}.pair p{font-size:1.15rem;margin:5px 0}.small{font-size:.83rem;color:var(--muted)}footer{text-align:center;margin-top:25px;color:var(--muted);font-size:.87rem}a{color:var(--mint)}.notice{margin-top:16px;color:var(--muted);font-size:.85rem;text-align:center}.atlas{margin:20px 0 0;border:1px solid var(--edge);border-radius:13px;padding:16px;background:#14202d}.atlas summary{cursor:pointer}.atlas-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:6px;margin-top:12px}.atlas-list button{font-weight:500;text-align:left;background:#253549;color:var(--fg);border-radius:9px;padding:10px;font-size:.85rem}.atlas-list button:hover{background:#354c67}@media(max-width:480px){.reel{min-height:120px;padding:10px 3px}.reels{gap:5px}.reel small{font-size:.56rem}.machine{padding:14px}}
 @media(prefers-reduced-motion:reduce){.reel.locked{animation:none}.reel.spinning b{filter:none}}
+.example-next{margin-top:12px;padding:9px 16px;background:#253549;color:var(--fg);font-size:.85rem}.pair summary{cursor:pointer;margin-bottom:12px}
 </style>
 </head>
 <body><main>
@@ -25,19 +26,587 @@
 <div class="pair"><div class="eyebrow">Canonical short utterance</div><p id="short"></p></div>
 <div class="pair"><div class="eyebrow">GPT-D's question</div><p id="question"></p></div>
 <details class="pair" id="three-questions"><summary>What changed? What made it sufficient? How does it remain?</summary><div class="eyebrow">What changed?</div><p id="changed"></p><div class="eyebrow">What made it sufficient?</div><p id="sufficient"></p><div class="eyebrow">How does it remain?</div><p id="remains"></p></details>
-<div class="pair"><div class="eyebrow">Sample sentence</div><p id="sample"></p><div class="small" id="sample-note"></div></div>
+<div class="pair"><div class="eyebrow">Example sentence</div><p id="sample"></p><div class="small" id="sample-note"></div><button class="example-next" id="next-example" type="button" disabled>Another example</button></div>
+<details class="pair" id="example-explanation"><summary>The completed form and neighbouring cell</summary><div class="eyebrow">The completed form</div><p id="sample-reading"></p><div class="eyebrow">A neighbouring completion</div><p id="sample-neighbour"></p></details>
 </article>
 </section>
 <details class="atlas"><summary>Browse all 54 cells</summary><div class="atlas-list" id="atlas"></div></details>
 <p class="notice">The reels select a coordinate; Dimensional Conjunction determines one unified form. The canonical names and utterances come directly from <a href="THE_54_CONTROL.md">THE_54_CONTROL.md</a>.</p>
 <footer>One page. One controlling document. No accounts, API, database or build step.</footer>
 </main>
+<script type="application/json" id="example-corpus">
+{
+  "edition": 1,
+  "created": "2026-10-13",
+  "author": "GPT-D",
+  "generation": "Reference-informed example development using the frozen coordinate grammar",
+  "reference": "THE_54_CONTROL.md",
+  "records": [
+    {
+      "cell": 1,
+      "examples": [
+        "The shape on the chair has resolved into the cat.",
+        "The distinctive cut identifies this as the shed key."
+      ],
+      "reading": "An unresolved particular becomes distinctly identified; that identification is the achieved result.",
+      "neighbor": 2,
+      "contrast": "Cell 02 establishes what sets a particular apart through a constitutive contrast, rather than its identified standing."
+    },
+    {
+      "cell": 2,
+      "examples": [
+        "Against the dark surround, this grey square stands out as light.",
+        "Among the younger players, her recorded time is exceptional."
+      ],
+      "reading": "The focal particular's distinctiveness obtains through the reference setting.",
+      "neighbor": 1,
+      "contrast": "Cell 01 can retain an identification without retaining this contextual differential standing."
+    },
+    {
+      "cell": 3,
+      "examples": [
+        "The latch's engagement is the point at which the door stops yielding.",
+        "The marked face of the die determines whether the player takes another turn."
+      ],
+      "reading": "One decisive discrimination operates as a consequential boundary in continuation.",
+      "neighbor": 6,
+      "contrast": "Cell 06 requires operative differentiation across a constitutive range, rather than at this decisive discriminator."
+    },
+    {
+      "cell": 4,
+      "examples": [
+        "The four cloth samples now show a definite progression from smooth weave to coarse texture.",
+        "The repeated taps resolve into alternating short and long intervals across the phrase."
+      ],
+      "reading": "The relevant range acquires an established pattern of distinctions; an isolated identification would leave it unfinished.",
+      "neighbor": 5,
+      "contrast": "Cell 05 completes contextual differential standings, whose reference conditions constitute what the distinctions are."
+    },
+    {
+      "cell": 5,
+      "examples": [
+        "The middle swatch looks pale beside the darker one and dark beside the lighter one.",
+        "Their times are ordinary in the senior group but exceptional among the beginners."
+      ],
+      "reading": "Differences across the field are constituted through the comparisons in which they count.",
+      "neighbor": 4,
+      "contrast": "Cell 04 takes the established pattern of differences as the result; here its contextual standings are indispensable."
+    },
+    {
+      "cell": 6,
+      "examples": [
+        "The sorter accepts circles, triangles, and squares through their corresponding openings.",
+        "The laundry routine now assigns different handling to sturdy, delicate, and colour-sensitive garments."
+      ],
+      "reading": "Relevant differences become a determinate pattern of operative responses across cases.",
+      "neighbor": 3,
+      "contrast": "Cell 03 can be complete at one decisive discriminator; this handling depends on the full relevant range."
+    },
+    {
+      "cell": 7,
+      "examples": [
+        "One proposal calls for closure and the other for expansion; the label 'reform' no longer makes them interchangeable.",
+        "The street sounds resolve into footsteps, wheels, and dripping water once 'noise' stops flattening them."
+      ],
+      "reading": "A flattening description loses its determining force, leaving definite differences available as the result.",
+      "neighbor": 8,
+      "contrast": "Cell 08 retains differences through their constitutive comparative bearings, rather than as these established distinctions."
+    },
+    {
+      "cell": 8,
+      "examples": [
+        "Once pass or fail stops defining the comparison, the performances show different degrees of accuracy relative to the task.",
+        "Neither surface sets the ideal: one is rougher and the other smoother through their comparison."
+      ],
+      "reading": "A governing benchmark gives way to determinate comparative differences that obtain through their relevant bearings.",
+      "neighbor": 7,
+      "contrast": "Cell 07 establishes released distinctions themselves; these graded standings require their constitutive comparison."
+    },
+    {
+      "cell": 9,
+      "examples": [
+        "The sorter now rejects crumpled tokens; the label 'token' no longer guarantees admission.",
+        "The packing routine excludes fragile pieces from the heavy-load box, regardless of their former 'small item' classification."
+      ],
+      "reading": "An inherited admission category loses authority, and relevant differences operate as exclusionary discriminations.",
+      "neighbor": 6,
+      "contrast": "Cell 06 establishes differential handling without requiring a prior governing category to lose its authority."
+    },
+    {
+      "cell": 10,
+      "examples": [
+        "The new gate gives the enclosed garden a definite way in.",
+        "The guide establishes the first folder as an entry into the otherwise unapproachable archive."
+      ],
+      "reading": "Access gathers into an established entrance that remains available as the opening.",
+      "neighbor": 11,
+      "contrast": "Cell 11 completes access constituted through an enabling bearing, rather than this established avenue."
+    },
+    {
+      "cell": 11,
+      "examples": [
+        "Through this common introduction, either of the two groups is now accessible to us.",
+        "The shared stem gives both branches a connection to the same water supply."
+      ],
+      "reading": "Divergent availability obtains through one constitutive source connection.",
+      "neighbor": 12,
+      "contrast": "Cell 12 takes the accomplished generation of ways forward as the result, rather than their source-bearing availability."
+    },
+    {
+      "cell": 12,
+      "examples": [
+        "The newly opened junction lets the walker continue either along the bank or into the woods.",
+        "From this starting move, the game now supports three playable continuations."
+      ],
+      "reading": "One generative locus accomplishes a branching capacity to proceed.",
+      "neighbor": 15,
+      "contrast": "Cell 15 requires effective availability across the relevant span, rather than generative efficacy gathered at its source."
+    },
+    {
+      "cell": 13,
+      "examples": [
+        "The connected side lanes now provide another complete route around the closed main road.",
+        "The argument reaches its conclusion by a second established chain of steps."
+      ],
+      "reading": "An alternative passage is established across its constitutive course; knowing only its entrance would not suffice.",
+      "neighbor": 15,
+      "contrast": "Cell 15 completes effective availability across the range, rather than an alternative course available as a result."
+    },
+    {
+      "cell": 14,
+      "examples": [
+        "The far bank is reachable through the support of the bridge across the intervening span.",
+        "The upstairs room is accessible through the continuous flight of stairs connecting the levels."
+      ],
+      "reading": "Reach across an extent obtains through the connection or support constituting that span.",
+      "neighbor": 17,
+      "contrast": "Cell 17 additionally requires an interruption's governing force to be relinquished in the achieved continuity."
+    },
+    {
+      "cell": 15,
+      "examples": [
+        "The child can now read the story from beginning to end without an inaccessible stretch.",
+        "The connected channels now carry water to every bed along the extended garden."
+      ],
+      "reading": "Continuation is effectively available across the relevant span, rather than only at a local entry.",
+      "neighbor": 12,
+      "contrast": "Cell 12 can accomplish opening at a generative locus while the wider span remains unavailable."
+    },
+    {
+      "cell": 16,
+      "examples": [
+        "A nearby walking week becomes an available holiday once distance stops defining what counts as one.",
+        "As the water rises above the stones, the courses they had excluded become open."
+      ],
+      "reading": "A former restriction loses its hold, and genuine options stand available beyond it.",
+      "neighbor": 18,
+      "contrast": "Cell 18 completes an operative ability to proceed beyond the former limit, not the available options themselves."
+    },
+    {
+      "cell": 17,
+      "examples": [
+        "With the boards overlapping at the join, the path continues across the seam that used to interrupt it.",
+        "The sustained note carries the phrase across the bar line once that line stops dictating a pause."
+      ],
+      "reading": "An interrupting division loses governance, and continuous passage obtains through the bearing that bridges it.",
+      "neighbor": 14,
+      "contrast": "Cell 14 establishes span-bearing reach without requiring a former interruption to lose determining force."
+    },
+    {
+      "cell": 18,
+      "examples": [
+        "The portable light can now illuminate places beyond the reach dictated by its former power lead.",
+        "The storyteller can continue through unexpected questions without the memorised script deciding every next line."
+      ],
+      "reading": "A governing dependency loses control, and proceeding beyond its limit becomes an accomplished capacity.",
+      "neighbor": 16,
+      "contrast": "Cell 16 establishes released options; here operative continuation beyond the limit is the result."
+    },
+    {
+      "cell": 19,
+      "examples": [
+        "The kitchen drain connects directly to this pipe.",
+        "The disputed sentence refers back to the promise at the start of the letter."
+      ],
+      "reading": "A definite bearing is established at a privileged relational locus.",
+      "neighbor": 20,
+      "contrast": "Cell 20 completes a focal determination that obtains through counterbearing, rather than the direct connection as a fact."
+    },
+    {
+      "cell": 20,
+      "examples": [
+        "The beam rests level at its pivot through the opposed moments of the two weights.",
+        "The scrum remains poised at the contested point through the teams' counteracting pressure."
+      ],
+      "reading": "A focal balance is constituted through opposed bearings, rather than retained as an independently settled position.",
+      "neighbor": 19,
+      "contrast": "Cell 19 establishes a bearing as the result; this equilibrium exists through the counterbearing."
+    },
+    {
+      "cell": 21,
+      "examples": [
+        "Her greeting is met by an answering nod.",
+        "Pressing the bell produces the answering chime."
+      ],
+      "reading": "A focal solicitation acquires an accomplished responsive return.",
+      "neighbor": 19,
+      "contrast": "Cell 19 can establish the connection; here the answering effect constitutes the operative relation."
+    },
+    {
+      "cell": 22,
+      "examples": [
+        "The latch releases before the lid rises, and the lid rises before the tray slides out.",
+        "In the diary, the invitation precedes the visit and the visit precedes the farewell."
+      ],
+      "reading": "The order across the sequence is established as a relational arrangement.",
+      "neighbor": 24,
+      "contrast": "Cell 24 requires consequential circulation; this ordered sequence need not feed back into its beginning."
+    },
+    {
+      "cell": 23,
+      "examples": [
+        "Her laugh makes his remark playful, while his remark makes her laugh affectionate.",
+        "Her question makes his silence a refusal, while his silence makes her question a challenge."
+      ],
+      "reading": "The terms acquire mutually conditioned significance; neither achieved characterization is independent of the other.",
+      "neighbor": 24,
+      "contrast": "Cell 24 completes causal or operative circulation; these examples concern reciprocal constitution of significance."
+    },
+    {
+      "cell": 24,
+      "examples": [
+        "The microphone picks up the speaker's sound, which is amplified and returned to the speaker, closing the feedback loop.",
+        "Reassurance encourages disclosure, which invites further reassurance, and the exchange now sustains its own return."
+      ],
+      "reading": "Connections accomplish a recurring operative circuit across the relational field.",
+      "neighbor": 23,
+      "contrast": "Cell 23 concerns what terms are through their bearings; here the completed relation operates through a consequential return."
+    },
+    {
+      "cell": 25,
+      "examples": [
+        "Once size stops deciding the comparison, the small model and the large structure show the same arrangement.",
+        "With the names set aside as a governing guide, the two charts reveal the same pattern of connections."
+      ],
+      "reading": "A governing surface difference loses authority, and correspondence stands established as an arrangement.",
+      "neighbor": 26,
+      "contrast": "Cell 26 retains correspondence through role-bearing; this completion establishes the corresponding pattern itself."
+    },
+    {
+      "cell": 26,
+      "examples": [
+        "In the paper model, this fold represents the hinge once literal material stops deciding the correspondence.",
+        "In the retelling, the gatekeeper takes the role played by the ferryman in the earlier story."
+      ],
+      "reading": "An imposed identification loses control, allowing determinate correspondence through a role within its frame.",
+      "neighbor": 25,
+      "contrast": "Cell 25 establishes the same arrangement; this correspondence obtains through the role each term occupies."
+    },
+    {
+      "cell": 27,
+      "examples": [
+        "Once the metronome stops dictating the beat, the players' adjustments establish a common pulse.",
+        "After the fixed turn-taking rule is dropped, the pauses and replies establish a rhythm that coordinates the conversation."
+      ],
+      "reading": "Prescribed governance loses force, and the participants' responsiveness accomplishes an emergent coordinating relation.",
+      "neighbor": 24,
+      "contrast": "Cell 24 establishes an operative return circuit; this coordination emerges beyond a former determining scheme."
+    },
+    {
+      "cell": 28,
+      "examples": [
+        "The mistaken date has been replaced by the correct date in the final letter.",
+        "The crooked tile is now set square with the marked position."
+      ],
+      "reading": "Correction is achieved at the decisive item, and the corrected determination remains available.",
+      "neighbor": 29,
+      "contrast": "Cell 29 completes correctness constituted through a proportional or matching bearing, rather than the corrected item itself."
+    },
+    {
+      "cell": 29,
+      "examples": [
+        "The shelf is now level relative to the adjoining surface.",
+        "The two portions are correctly balanced in the required ratio."
+      ],
+      "reading": "A focal misfit becomes correctness that obtains through its reference or proportion.",
+      "neighbor": 28,
+      "contrast": "Cell 28 retains the corrected determination; here correctness requires the constitutive reference."
+    },
+    {
+      "cell": 30,
+      "examples": [
+        "The added bracket takes the excess load, so the sagging shelf carries its contents properly.",
+        "The replacement support carries the weight that had been bending the hinge."
+      ],
+      "reading": "Correction at the failing locus operates through a changed allocation of burden.",
+      "neighbor": 29,
+      "contrast": "Cell 29 completes right proportional standing; here the corrective load-carrying effect is accomplished."
+    },
+    {
+      "cell": 31,
+      "examples": [
+        "The revised account remains consistent when checked against the dates, letters, and diary entries.",
+        "The corrected measurement agrees across the repeated positions along the bench."
+      ],
+      "reading": "Correction stands established across the constitutive checks; an isolated successful instance would not settle it.",
+      "neighbor": 32,
+      "contrast": "Cell 32 completes a repair constituted through the fit between the implicated terms."
+    },
+    {
+      "cell": 32,
+      "examples": [
+        "The two replacement pieces now meet correctly at their shared joint.",
+        "The amended wording fits both the earlier definition and the later use of the term."
+      ],
+      "reading": "The repaired determination exists through proper agreement at the relation between the implicated terms.",
+      "neighbor": 31,
+      "contrast": "Cell 31 establishes correctness across checks; here the mutual fit constitutes the achieved repair."
+    },
+    {
+      "cell": 33,
+      "examples": [
+        "The steering adjustment corrects the drift throughout the boat's continuing course.",
+        "The revised pacing brings the running sequence back on target through its remaining stages."
+      ],
+      "reading": "Correction is operative across the ongoing course, rather than confined to a corrected point.",
+      "neighbor": 30,
+      "contrast": "Cell 30 completes a focal corrective effect; here correction must hold across the course."
+    },
+    {
+      "cell": 34,
+      "examples": [
+        "The revised stop prevents the drawer from travelling beyond its proper limit.",
+        "The corrected margin replaces the old cut-off that had been clipping the text."
+      ],
+      "reading": "A misgoverning limit loses authority, and a sound limiting determination is established.",
+      "neighbor": 35,
+      "contrast": "Cell 35 retains correction through the condition that makes reversal appropriate; this result is the corrected limit."
+    },
+    {
+      "cell": 35,
+      "examples": [
+        "For the left-hand corner, reversing the joint layout restores the fit that the right-handed template prevented.",
+        "With the sheet viewed from the other side, reversing the layout restores the intended alignment."
+      ],
+      "reading": "An inherited orientation ceases to govern, and correction obtains through the condition requiring reversal.",
+      "neighbor": 29,
+      "contrast": "Cell 29 can complete a proper match without a former governing orientation having to lose force."
+    },
+    {
+      "cell": 36,
+      "examples": [
+        "The drive runs smoothly without the repeated compensating adjustment that the old fault required.",
+        "The repaired latch closes properly without anyone holding the door in alignment."
+      ],
+      "reading": "The fault ceases to dictate operation, and proper functioning is accomplished without its compensating routine.",
+      "neighbor": 30,
+      "contrast": "Cell 30 locates sufficiency in a corrective effect at a privileged locus; here the fault's loss of governing force is decisive."
+    },
+    {
+      "cell": 37,
+      "examples": [
+        "The scattered fragments now compose one complete portrait.",
+        "The joined patches have become a single finished quilt."
+      ],
+      "reading": "Parts acquire roles through their determination as one focal whole, which stands as the result.",
+      "neighbor": 40,
+      "contrast": "Cell 40 completes the articulated role array across the whole, rather than unity gathered into this whole."
+    },
+    {
+      "cell": 38,
+      "examples": [
+        "The fragments hold as one picture through the frame that fixes their common arrangement.",
+        "The episodes form one account through the shared viewpoint that gives them their places."
+      ],
+      "reading": "Unity at the focal whole is constituted through its holding frame.",
+      "neighbor": 37,
+      "contrast": "Cell 37 takes the established whole as the result; here its unity obtains through the constitutive frame."
+    },
+    {
+      "cell": 39,
+      "examples": [
+        "Joined at the pivot, the two blades now make scissors that can cut.",
+        "With their grips coordinated, the two movers can lift the crate as one unit."
+      ],
+      "reading": "Contributions acquire roles in one focal working unity with an accomplished joint capacity.",
+      "neighbor": 42,
+      "contrast": "Cell 42 requires role activation across the operating field; here the joint ability gathers into one working unit."
+    },
+    {
+      "cell": 40,
+      "examples": [
+        "The timetable puts the collection, preparation, and delivery stages in their places within the whole undertaking.",
+        "In the completed garden plan, the paths, beds, and seating areas have defined roles in the layout."
+      ],
+      "reading": "Parts acquire determinate roles through their articulated organization across a whole.",
+      "neighbor": 37,
+      "contrast": "Cell 37 gathers completion into one whole; here the role array across it is constitutive."
+    },
+    {
+      "cell": 41,
+      "examples": [
+        "The woven strips hold the basket's shape through their support of one another.",
+        "The bridge's members keep one another in position through their interlocking support."
+      ],
+      "reading": "The whole's organization obtains through sustaining relations across its parts.",
+      "neighbor": 40,
+      "contrast": "Cell 40 establishes the role arrangement; here mutual support constitutes the whole's achieved coherence."
+    },
+    {
+      "cell": 42,
+      "examples": [
+        "The kitchen team now prepares and serves the meal through its coordinated working roles.",
+        "The feeder, cutter, and collector operate as a coordinated production sequence."
+      ],
+      "reading": "Organization accomplishes a joint capacity through activated roles across the undertaking.",
+      "neighbor": 39,
+      "contrast": "Cell 39 gathers joint ability into a focal working unity; this operation requires its role field."
+    },
+    {
+      "cell": 43,
+      "examples": [
+        "The woven basket keeps its complete shape without the forming frame fixing its strips.",
+        "The interlocked pieces stand as one stable arch without the assembly jig holding their positions."
+      ],
+      "reading": "External shaping control loses its determining force, leaving an integrated, stable whole as the result.",
+      "neighbor": 44,
+      "contrast": "Cell 44 completes equilibrium through the tensions that constitute its support, rather than the self-maintaining form as a standing result."
+    },
+    {
+      "cell": 44,
+      "examples": [
+        "With the temporary brace unloaded, the tent's poles and ropes hold its form through their opposing tensions.",
+        "The household holds together through balanced shared space and private time after one person's timetable stops dictating its organization."
+      ],
+      "reading": "A former governor loses control while the whole's equilibrium obtains through its balancing supports.",
+      "neighbor": 43,
+      "contrast": "Cell 43 retains the achieved stable whole; here the balance of constitutive supports is indispensable to its unity."
+    },
+    {
+      "cell": 45,
+      "examples": [
+        "Once separate commands stop fragmenting their movements, the crew's contributions converge in one coordinated lift.",
+        "The players' separate entries converge into one sustained chord after their isolated cues stop governing the performance."
+      ],
+      "reading": "Fragmenting governance loses force, and organized contributions accomplish one convergent act.",
+      "neighbor": 39,
+      "contrast": "Cell 39 establishes focal joint ability; here release from fragmenting control constitutes the integrated action."
+    },
+    {
+      "cell": 46,
+      "examples": [
+        "Of the three proposed routes, the riverside route is now the chosen one.",
+        "The blue cover is the settled choice for the book."
+      ],
+      "reading": "A live alternative is discharged through one definitive choice retained as the result.",
+      "neighbor": 48,
+      "contrast": "Cell 48 accomplishes the terminal fulfilment of a path, rather than retaining the selected alternative."
+    },
+    {
+      "cell": 47,
+      "examples": [
+        "The dispute is settled in the shared explanation both accounts now support.",
+        "We are reconciled on the promise to share this task."
+      ],
+      "reading": "A live matter closes at a unifying settlement whose status obtains through its supporting agreement or bearings.",
+      "neighbor": 50,
+      "contrast": "Cell 50 requires conditional settlement across a constitutive range; this issue gathers into one unifying resolution."
+    },
+    {
+      "cell": 48,
+      "examples": [
+        "The final step brings us onto the landing, completing the climb.",
+        "The last turn brings the key home in the lock, completing the required movement."
+      ],
+      "reading": "The live demand for continuation is fulfilled at its terminal locus as an accomplished arrival.",
+      "neighbor": 46,
+      "contrast": "Cell 46 retains a chosen determination; this completion is the fulfilment of the path."
+    },
+    {
+      "cell": 49,
+      "examples": [
+        "The repeated marks settle into a weekly pattern that accounts for the gaps across the diary.",
+        "The refrain returns after every verse, resolving the apparent omissions as a complete repeating pattern."
+      ],
+      "reading": "A recurrence across the sequence settles the demand for a complete account of its pattern.",
+      "neighbor": 50,
+      "contrast": "Cell 50 retains settlement through qualifying conditions; here the established recurrence is the result."
+    },
+    {
+      "cell": 50,
+      "examples": [
+        "The allocation is settled across the households under the agreed occupancy conditions.",
+        "Every disputed score is settled under the tie-break agreement whose conditions determine which results count as final."
+      ],
+      "reading": "Closure across the relevant field obtains through the conditions constituting settlement in those cases.",
+      "neighbor": 51,
+      "contrast": "Cell 51 completes operative discharge across cases; here their settled status remains condition-bound."
+    },
+    {
+      "cell": 51,
+      "examples": [
+        "Every disputed booking has been reissued or refunded, completing the required action across the cases.",
+        "All flagged entries have been accepted, corrected, or excluded, and none interrupts the calculation for a further ruling."
+      ],
+      "reading": "The live demands across the case field are discharged in operative outcomes.",
+      "neighbor": 50,
+      "contrast": "Cell 50 preserves conditional settled status; here the required dispositions are accomplished."
+    },
+    {
+      "cell": 52,
+      "examples": [
+        "The boat remains the boat we started with; replacement of its boards no longer keeps the identity question open.",
+        "The melody is still the same tune through these variations; ornament and tempo no longer demand treating it as another work."
+      ],
+      "reading": "Transformation loses its force to demand renewed determination, leaving identity settled through the changes.",
+      "neighbor": 53,
+      "contrast": "Cell 53 achieves explanatory settlement through constitutive retrospective bearings, rather than this retained determination of identity."
+    },
+    {
+      "cell": 53,
+      "examples": [
+        "Her use of the old timetable explains the missed connection, and its apparent randomness no longer calls for another account.",
+        "The earlier warning explains the later silence, settling what had seemed an unexplained refusal."
+      ],
+      "reading": "A governing explanatory perplexity loses its hold through retrospective bearings that constitute why the event makes sense.",
+      "neighbor": 52,
+      "contrast": "Cell 52 retains settled identity through transformation; here closure obtains through the explanatory relation to the earlier situation."
+    },
+    {
+      "cell": 54,
+      "examples": [
+        "The agreed handover is complete, and neither side owes another document before proceeding.",
+        "The requested changes have been delivered and accepted, so the work can continue without another revision round."
+      ],
+      "reading": "The demand for further uptake loses its governing force as an accomplished discharge of what continuation required.",
+      "neighbor": 52,
+      "contrast": "Cell 52 retains closure as a determination; here proceeding no longer requires further uptake."
+    }
+  ]
+}
+</script>
 <script>
 'use strict';
 const axes=[['Differentiation','Opening','Relating','Repair','Integration','Settlement'],['Focal','Distributed','Release'],['Standing','Bearing','Efficacy']];
 const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 const $=id=>document.getElementById(id);
-let cells=[],questions=new Map(),answers=new Map(),samples=new Map(),busy=false,last=-1;
+let cells=[],questions=new Map(),answers=new Map(),samples=new Map(),exampleRecords=new Map(),busy=false,last=-1,sampleCell=0,sampleIndex=-1;
+function parseExamples(text){
+  const data=JSON.parse(text);
+  if(data.edition!==1||!Array.isArray(data.records)||data.records.length!==54)throw Error('Expected one example record for every cell.');
+  const records=new Map();
+  const coordinate=n=>[Math.floor((n-1)/9),Math.floor(((n-1)%9)/3),(n-1)%3];
+  for(const record of data.records){
+    if(!Number.isInteger(record.cell)||record.cell<1||record.cell>54||records.has(record.cell))throw Error('Invalid or duplicate example cell.');
+    if(!Array.isArray(record.examples)||record.examples.length!==2||record.examples.some(x=>typeof x!=='string'||!x.trim()))throw Error('Expected two examples per cell.');
+    if(typeof record.reading!=='string'||!record.reading.trim()||typeof record.contrast!=='string'||!record.contrast.trim())throw Error('Missing example explanation.');
+    if(!Number.isInteger(record.neighbor)||record.neighbor<1||record.neighbor>54)throw Error('Invalid neighbouring cell.');
+    const a=coordinate(record.cell),b=coordinate(record.neighbor);
+    if(a.filter((x,i)=>x!==b[i]).length!==1)throw Error('Example contrast must change exactly one dimension.');
+    records.set(record.cell,record);
+  }
+  return records;
+}
 function parseReference(md){
   const canonical=md.split('## GPT-D')[0];
   const canonicalRows=canonical.split(/\r?\n/).filter(line=>/^\|\s*\d{2}\s*\|/.test(line));
@@ -53,10 +622,34 @@ function parseReference(md){
   if(full.length!==54||full.some((c,i)=>c.number!==i+1)||q.size!==54||a.size!==54)throw Error('Expected 54 canonical cells, questions and three-part answers in the controlling Markdown.');
   return {full,q,a};
 }
-function select(n){const c=cells[n-1];$('num').textContent='CELL '+String(n).padStart(2,'0');$('name').textContent=c.name;$('coord').textContent=c.coordinate;$('short').textContent='“'+c.short+'”';$('question').textContent=questions.get(n);const parts=answers.get(n);$('changed').textContent=parts.changed;$('sufficient').textContent=parts.sufficient;$('remains').textContent=parts.remains;$('three-questions').open=false;let arr=samples.get(n)||[];$('sample').textContent=arr.length?arr[Math.floor(Math.random()*arr.length)]:'Example corpus to be added after GPT-D generation and review.';$('sample-note').textContent=arr.length?'From the sample corpus in the controlling document.':'The canonical companion utterance above is not being mislabelled as a sample sentence.';$('result').hidden=false;last=n;}
-async function spin(n){if(busy||!cells.length)return;busy=true;$('spin').disabled=true;$('result').hidden=true;const target=n||pick();const indexes=[Math.floor((target-1)/9),Math.floor(((target-1)%9)/3),(target-1)%3];for(let r=0;r<3;r++){$('r'+r).classList.remove('locked');$('r'+r).classList.add('spinning');}for(let r=0;r<3;r++){const interval=setInterval(()=>{$('v'+r).textContent=axes[r][Math.floor(Math.random()*axes[r].length)]},70);await sleep(600+r*220);clearInterval(interval);$('v'+r).textContent=axes[r][indexes[r]];$('r'+r).classList.remove('spinning');$('r'+r).classList.add('locked');}select(target);$('status').textContent='One coordinate. Three mutually determining dimensions.';$('spin').disabled=false;busy=false;}
+function select(n){
+  const c=cells[n-1],record=exampleRecords.get(n);
+  if(!c||!record)throw Error('Unknown cell.');
+  $('num').textContent='CELL '+String(n).padStart(2,'0');
+  $('name').textContent=c.name;
+  $('coord').textContent=c.coordinate;
+  $('short').textContent='“'+c.short+'”';
+  $('question').textContent=questions.get(n);
+  const parts=answers.get(n);
+  $('changed').textContent=parts.changed;
+  $('sufficient').textContent=parts.sufficient;
+  $('remains').textContent=parts.remains;
+  const arr=samples.get(n);
+  sampleIndex=n===sampleCell?(sampleIndex+1)%arr.length:Math.floor(Math.random()*arr.length);
+  sampleCell=n;
+  $('sample').textContent=arr[sampleIndex];
+  $('sample-note').textContent='Example '+(sampleIndex+1)+' of '+arr.length+' — written for this cell.';
+  $('sample-reading').textContent=record.reading;
+  const neighbor=cells[record.neighbor-1];
+  $('sample-neighbour').textContent='Cell '+String(record.neighbor).padStart(2,'0')+' — '+neighbor.name+'. '+record.contrast;
+  if(last!==n){$('three-questions').open=false;$('example-explanation').open=false;}
+  $('result').hidden=false;
+  $('next-example').disabled=busy;
+  last=n;
+}
+async function spin(n){if(busy||!cells.length)return;busy=true;$('spin').disabled=true;$('next-example').disabled=true;$('result').hidden=true;const target=n||pick();const indexes=[Math.floor((target-1)/9),Math.floor(((target-1)%9)/3),(target-1)%3];for(let r=0;r<3;r++){$('r'+r).classList.remove('locked');$('r'+r).classList.add('spinning');}for(let r=0;r<3;r++){const interval=setInterval(()=>{$('v'+r).textContent=axes[r][Math.floor(Math.random()*axes[r].length)]},70);await sleep(600+r*220);clearInterval(interval);$('v'+r).textContent=axes[r][indexes[r]];$('r'+r).classList.remove('spinning');$('r'+r).classList.add('locked');}select(target);$('status').textContent='One coordinate. Three mutually determining dimensions.';$('spin').disabled=false;$('next-example').disabled=false;busy=false;}
 function pick(){let n;do{n=1+Math.floor(Math.random()*54)}while(n===last);return n;}
-async function init(){try{const response=await fetch('THE_54_CONTROL.md',{cache:'no-cache'});if(!response.ok)throw Error('HTTP '+response.status);const data=parseReference(await response.text());cells=data.full;questions=data.q;answers=data.a;$('spin').disabled=false;$('spin').textContent='Pull the lever';$('status').textContent='Ready. Pull the lever.';for(const c of cells){const btn=document.createElement('button');btn.type='button';btn.textContent=String(c.number).padStart(2,'0')+' — '+c.name;btn.addEventListener('click',()=>{spin(c.number);window.scrollTo({top:0,behavior:'smooth'})});$('atlas').append(btn)}$('spin').addEventListener('click',()=>spin());}catch(err){$('status').textContent='Unable to load THE_54_CONTROL.md. Keep both files together and serve them through GitHub Pages or a local HTTP server. '+err.message;$('spin').textContent='Reference unavailable';console.error(err);}}
+async function init(){try{const response=await fetch('THE_54_CONTROL.md',{cache:'no-cache'});if(!response.ok)throw Error('HTTP '+response.status);const data=parseReference(await response.text());cells=data.full;questions=data.q;answers=data.a;exampleRecords=parseExamples($('example-corpus').textContent);samples=new Map([...exampleRecords].map(([n,r])=>[n,r.examples]));$('next-example').disabled=false;$('spin').disabled=false;$('spin').textContent='Pull the lever';$('status').textContent='Ready. Pull the lever.';for(const c of cells){const btn=document.createElement('button');btn.type='button';btn.textContent=String(c.number).padStart(2,'0')+' — '+c.name;btn.addEventListener('click',()=>{spin(c.number);window.scrollTo({top:0,behavior:'smooth'})});$('atlas').append(btn)}$('spin').addEventListener('click',()=>spin());$('next-example').addEventListener('click',()=>{if(!busy&&last>0)select(last);});}catch(err){$('status').textContent='Unable to load THE_54_CONTROL.md. Keep both files together and serve them through GitHub Pages or a local HTTP server. '+err.message;$('spin').textContent='Reference unavailable';console.error(err);}}
 init();
 </script>
 </body></html>
