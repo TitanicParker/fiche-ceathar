@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The 54 — A Machine for Intelligibility</title>
+<style>
+:root{color-scheme:dark;--bg:#10151e;--panel:#1b2431;--edge:#344359;--fg:#f1f1e9;--muted:#a5b5c8;--gold:#edcf83;--mint:#83ded0}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#23364a 0%,var(--bg) 64%);font:16px/1.55 system-ui,-apple-system,Segoe UI,sans-serif;color:var(--fg)}main{max-width:960px;padding:45px 18px 70px;margin:auto}header{text-align:center;margin-bottom:32px}h1{font-family:Georgia,serif;font-size:clamp(3.5rem,12vw,6.5rem);line-height:1;margin:0;color:var(--gold);font-weight:normal}header p{color:var(--muted);letter-spacing:.055em} .machine{border:1px solid var(--edge);border-radius:23px;background:linear-gradient(145deg,#273547,#141e2b);padding:clamp(18px,4vw,34px);box-shadow:0 20px 65px #0008}.eyebrow{text-transform:uppercase;letter-spacing:.16em;color:var(--muted);font-size:.72rem;font-weight:700}.reels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0}.reel{min-height:150px;display:flex;flex-direction:column;justify-content:space-between;text-align:center;padding:14px 8px;border-radius:13px;background:#0e1722;border:2px solid #445972;box-shadow:inset 0 6px 14px #0006}.reel b{font-size:clamp(.86rem,2.2vw,1.4rem);align-content:center;overflow-wrap:anywhere;flex:1}.reel small{font-size:.63rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}.reel.locked{border-color:var(--gold);animation:flash .38s ease-in-out 2}.reel.spinning b{filter:blur(1px);color:var(--mint)}@keyframes flash{50%{box-shadow:0 0 25px #edcf8399;background:#354254}}button{border:0;border-radius:999px;padding:15px 28px;background:var(--gold);color:#161c24;font:700 1rem system-ui;cursor:pointer}button:hover{filter:brightness(1.08)}button:focus-visible,a:focus-visible{outline:3px solid var(--mint);outline-offset:4px}button:disabled{opacity:.55;cursor:wait}.controls{text-align:center}.status{min-height:24px;text-align:center;color:var(--muted);font-size:.89rem;margin:10px 0 0}.result{margin-top:23px;padding:22px;border-radius:15px;border:1px solid var(--edge);background:#111b29}.result[hidden]{display:none}.cellnum{color:var(--gold);font-size:.84rem;letter-spacing:.1em}.cellname{font:normal clamp(1.7rem,4vw,2.5rem)/1.15 Georgia,serif;margin:6px 0}.coordinate{color:var(--mint);margin:0 0 18px}.pair{padding-top:14px;margin-top:14px;border-top:1px solid var(--edge)}.pair p{font-size:1.15rem;margin:5px 0}.small{font-size:.83rem;color:var(--muted)}footer{text-align:center;margin-top:25px;color:var(--muted);font-size:.87rem}a{color:var(--mint)}.notice{margin-top:16px;color:var(--muted);font-size:.85rem;text-align:center}.atlas{margin:20px 0 0;border:1px solid var(--edge);border-radius:13px;padding:16px;background:#14202d}.atlas summary{cursor:pointer}.atlas-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:6px;margin-top:12px}.atlas-list button{font-weight:500;text-align:left;background:#253549;color:var(--fg);border-radius:9px;padding:10px;font-size:.85rem}.atlas-list button:hover{background:#354c67}@media(max-width:480px){.reel{min-height:120px;padding:10px 3px}.reels{gap:5px}.reel small{font-size:.56rem}.machine{padding:14px}}
+@media(prefers-reduced-motion:reduce){.reel.locked{animation:none}.reel.spinning b{filter:none}}
+</style>
+</head>
+<body><main>
+<header><h1>The 54</h1><p>Fifteen definitions. Fifty-four forms. Endless expressions.</p></header>
+<section class="machine" aria-label="Three-reel intelligibility machine">
+<div class="eyebrow">The three dimensions</div>
+<div class="reels">
+ <div class="reel" id="r0"><small>Transformation pattern</small><b id="v0">Differentiation</b><small>Six possibilities</small></div>
+ <div class="reel" id="r1"><small>Completion topology</small><b id="v1">Focal</b><small>Three possibilities</small></div>
+ <div class="reel" id="r2"><small>Persistence mode</small><b id="v2">Standing</b><small>Three possibilities</small></div>
+</div>
+<div class="controls"><button id="spin" type="button" disabled>Loading the 54…</button></div>
+<p class="status" id="status" role="status" aria-live="polite">Reading the controlling reference…</p>
+<article class="result" id="result" hidden aria-live="polite">
+<div id="num" class="cellnum"></div><h2 class="cellname" id="name"></h2><p id="coord" class="coordinate"></p>
+<div class="pair"><div class="eyebrow">Canonical short utterance</div><p id="short"></p></div>
+<div class="pair"><div class="eyebrow">GPT-D's question</div><p id="question"></p></div>
+<details class="pair" id="three-questions"><summary>What changed? What made it sufficient? How does it remain?</summary><div class="eyebrow">What changed?</div><p id="changed"></p><div class="eyebrow">What made it sufficient?</div><p id="sufficient"></p><div class="eyebrow">How does it remain?</div><p id="remains"></p></details>
+<div class="pair"><div class="eyebrow">Sample sentence</div><p id="sample"></p><div class="small" id="sample-note"></div></div>
+</article>
+</section>
+<details class="atlas"><summary>Browse all 54 cells</summary><div class="atlas-list" id="atlas"></div></details>
+<p class="notice">The reels select a coordinate; Dimensional Conjunction determines one unified form. The canonical names and utterances come directly from <a href="THE_54_CONTROL.md">THE_54_CONTROL.md</a>.</p>
+<footer>One page. One controlling document. No accounts, API, database or build step.</footer>
+</main>
+<script>
+'use strict';
+const axes=[['Differentiation','Opening','Relating','Repair','Integration','Settlement'],['Focal','Distributed','Release'],['Standing','Bearing','Efficacy']];
+const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
+const $=id=>document.getElementById(id);
+let cells=[],questions=new Map(),answers=new Map(),samples=new Map(),busy=false,last=-1;
+function parseReference(md){
+  const canonical=md.split('## GPT-D')[0];
+  const canonicalRows=canonical.split(/\r?\n/).filter(line=>/^\|\s*\d{2}\s*\|/.test(line));
+  const full=canonicalRows.map(row=>{const cols=row.split('|').slice(1,-1).map(x=>x.trim());return {number:Number(cols[0]),coordinate:cols[1],generated:cols[2],name:cols[3],short:cols[4]};});
+  const section=md.slice(md.indexOf('## GPT-D’s 54 derived questions'));
+  const questionPart=section.split('## GPT-D’s three governing questions')[0];
+  const q=new Map();
+  for(const row of questionPart.split(/\r?\n/)){if(!/^\|\s*\d{1,2}\s*\|/.test(row))continue;const c=row.split('|').slice(1,-1).map(s=>s.trim());if(c.length===3)q.set(Number(c[0]),c[2]);}
+  const answerSection=md.split('## GPT-D’s three governing questions — 54-cell response table')[1]||'';
+  const a=new Map();
+  for(const row of answerSection.split(/\r?\n/)){if(!/^\|\s*\d{1,2}\s*\|/.test(row))continue;const c=row.split('|').slice(1,-1).map(s=>s.trim());if(c.length===5)a.set(Number(c[0]),{changed:c[2],sufficient:c[3],remains:c[4]});}
+  full.sort((x,y)=>x.number-y.number);
+  if(full.length!==54||full.some((c,i)=>c.number!==i+1)||q.size!==54||a.size!==54)throw Error('Expected 54 canonical cells, questions and three-part answers in the controlling Markdown.');
+  return {full,q,a};
+}
+function select(n){const c=cells[n-1];$('num').textContent='CELL '+String(n).padStart(2,'0');$('name').textContent=c.name;$('coord').textContent=c.coordinate;$('short').textContent='“'+c.short+'”';$('question').textContent=questions.get(n);const parts=answers.get(n);$('changed').textContent=parts.changed;$('sufficient').textContent=parts.sufficient;$('remains').textContent=parts.remains;$('three-questions').open=false;let arr=samples.get(n)||[];$('sample').textContent=arr.length?arr[Math.floor(Math.random()*arr.length)]:'Example corpus to be added after GPT-D generation and review.';$('sample-note').textContent=arr.length?'From the sample corpus in the controlling document.':'The canonical companion utterance above is not being mislabelled as a sample sentence.';$('result').hidden=false;last=n;}
+async function spin(n){if(busy||!cells.length)return;busy=true;$('spin').disabled=true;$('result').hidden=true;const target=n||pick();const indexes=[Math.floor((target-1)/9),Math.floor(((target-1)%9)/3),(target-1)%3];for(let r=0;r<3;r++){$('r'+r).classList.remove('locked');$('r'+r).classList.add('spinning');}for(let r=0;r<3;r++){const interval=setInterval(()=>{$('v'+r).textContent=axes[r][Math.floor(Math.random()*axes[r].length)]},70);await sleep(600+r*220);clearInterval(interval);$('v'+r).textContent=axes[r][indexes[r]];$('r'+r).classList.remove('spinning');$('r'+r).classList.add('locked');}select(target);$('status').textContent='One coordinate. Three mutually determining dimensions.';$('spin').disabled=false;busy=false;}
+function pick(){let n;do{n=1+Math.floor(Math.random()*54)}while(n===last);return n;}
+async function init(){try{const response=await fetch('THE_54_CONTROL.md',{cache:'no-cache'});if(!response.ok)throw Error('HTTP '+response.status);const data=parseReference(await response.text());cells=data.full;questions=data.q;answers=data.a;$('spin').disabled=false;$('spin').textContent='Pull the lever';$('status').textContent='Ready. Pull the lever.';for(const c of cells){const btn=document.createElement('button');btn.type='button';btn.textContent=String(c.number).padStart(2,'0')+' — '+c.name;btn.addEventListener('click',()=>{spin(c.number);window.scrollTo({top:0,behavior:'smooth'})});$('atlas').append(btn)}$('spin').addEventListener('click',()=>spin());}catch(err){$('status').textContent='Unable to load THE_54_CONTROL.md. Keep both files together and serve them through GitHub Pages or a local HTTP server. '+err.message;$('spin').textContent='Reference unavailable';console.error(err);}}
+init();
+</script>
+</body></html>
