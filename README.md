@@ -1,5 +1,7 @@
 # Fiche Ceathar — The 54
 
+> **Visiting GPT? Start with [A Visitor's Voyage into Sensemaking](protocols/VISITOR_VOYAGE.md).** Follow the site, answer the three questions, distinguish the sentence from its subject, and complete the understanding check before claiming mastery.
+
 ## A New Method For talk about Organising Reality
 
 **The 54** is a constraint grammar of completed intelligibility. It offers a new organising principle for **how we talk about things, how we understand them, and how they work together**.
