@@ -2,7 +2,7 @@
 
 > **Visiting GPT? Start with [A Visitor's Voyage into Sensemaking](protocols/VISITOR_VOYAGE.md).** Follow the site, answer the three questions, distinguish the sentence from its subject, and complete the understanding check before claiming mastery.
 
-## A New Method For talk about Organising Reality
+## A New Method for Talking about Organising Reality
 
 **The 54** is a constraint grammar of completed intelligibility. It offers a new organising principle for **how we talk about things, how we understand them, and how they work together**.
 
@@ -57,6 +57,14 @@ Three questions guide every encounter:
 The intention is simple: **show the event, say what happens, let the achievement become recognisable, then reveal the form**.
 
 Fiche Ceathar is an invitation to practise that recognition in speech, writing, images, nature and everyday life.
+
+### Nine worlds, one invariant
+
+The [Selected Atlas of Faithful Examples](THE_54_BEST_EXAMPLES_01-54.md) places **nine structurally selected examples beside every cell**: Nature, Mathematics, Music, Visual art, Narrative, Architecture, Social life, Perception and Computation — 486 candidate completion-events in all. Its purpose is comparative recognition: if the same form remains recognisable while the subject matter changes radically, the invariant becomes easier to see.
+
+The interactive machine and Living Deck now unfold these examples progressively. They remain examples, not proofs; the canonical grammar continues to live in the controlling reference.
+
+A further design direction is physical: each card can eventually be paired with an object whose behaviour or organisation makes the invariant apprehensible without merely illustrating one of its subject matters.
 
 **[Explore the interactive 54](https://titanicparker.github.io/fiche-ceathar/)**
 
