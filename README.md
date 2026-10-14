@@ -59,3 +59,27 @@ Fiche Ceathar is an invitation to practise that recognition in speech, writing, 
 **[Explore the interactive 54](https://titanicparker.github.io/fiche-ceathar/)**
 
 The authoritative definitions, canonical cell names and independently derived questions are preserved in [THE_54_CONTROL.md](THE_54_CONTROL.md).
+
+
+## A Voyage into Sensemaking Made Examinable
+
+Sentence resolution is an inspectable two-instrument procedure, not an assertion that sentences have been successfully classified.
+
+**Sentence → GPT-A (blind assay) → frozen transfer → GPT-B (structural decoder) → candidate coordinate.**
+
+GPT-A describes the exact sentence's *own linguistic movement* without access to the grammar, the atlas, or intended answer. It first applies the completion gate: **no completion, no coordinate**. A materially unfinished sentence stops here.
+
+GPT-B receives **only** the exact sentence and GPT-A's frozen *Complete internal movement* paragraph. It must not rewrite the evidence. Given the fifteen primitive definitions and Dimensional Conjunction, it identifies one unified completion-event, tests the strongest rival, and returns a coordinate. Only afterward may a coordinator consult the canonical 54-cell table.
+
+### Canonical instructions for visiting GPTs
+
+- [GPT-A — Blind Sentence Assay (exact prompt)](protocols/GPT_A_BLIND_SENTENCE_ASSAY.md)
+- [GPT-B — Structural Decoder (exact prompt)](protocols/GPT_B_STRUCTURAL_DECODER.md)
+- [Full Persistence Coordinator: A, B, D, round-trip and canonical reference](protocols/PERSISTENCE_COORDINATOR_SOURCE.md)
+- [Run the sentence-examination GitHub Action](../../actions/workflows/a-voyage-into-sensemaking.yml)
+
+**Reproducible test.** Open two fresh GPT conversations; load the respective canonical prompts; wait for their exact Ready messages; send a literary sentence to GPT-A; copy its final fenced transfer into GPT-B; freeze and record GPT-B's response *before* consulting the canonical reference. Compare the recovered coordinate with neighbouring possibilities. Preserve refusals, divergences and ambiguities: they are results, not mistakes to erase.
+
+For the stronger **round-trip** test, pass *only* GPT-B's coordinate to a fresh GPT-D derivation session, without exposing the source sentence or canonical table. Compare its independently derived form with the original sentence and the canonical record, without forcing agreement.
+
+The automated GitHub Action creates an issue template for the three governing questions. **It does not yet execute GPT-A or GPT-B.** Demonstrating reliability requires actual recorded blind runs and rival-coordinate checks.
