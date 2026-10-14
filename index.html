@@ -8,6 +8,7 @@
 *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at top,#23364a 0%,var(--bg) 64%);font:16px/1.55 system-ui,-apple-system,Segoe UI,sans-serif;color:var(--fg)}main{max-width:960px;padding:45px 18px 70px;margin:auto}header{text-align:center;margin-bottom:32px}h1{font-family:Georgia,serif;font-size:clamp(3.5rem,12vw,6.5rem);line-height:1;margin:0;color:var(--gold);font-weight:normal}header p{color:var(--muted);letter-spacing:.055em} .machine{border:1px solid var(--edge);border-radius:23px;background:linear-gradient(145deg,#273547,#141e2b);padding:clamp(18px,4vw,34px);box-shadow:0 20px 65px #0008}.eyebrow{text-transform:uppercase;letter-spacing:.16em;color:var(--muted);font-size:.72rem;font-weight:700}.reels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:20px 0}.reel{min-height:150px;display:flex;flex-direction:column;justify-content:space-between;text-align:center;padding:14px 8px;border-radius:13px;background:#0e1722;border:2px solid #445972;box-shadow:inset 0 6px 14px #0006}.reel b{font-size:clamp(.86rem,2.2vw,1.4rem);align-content:center;overflow-wrap:anywhere;flex:1}.reel small{font-size:.63rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}.reel.locked{border-color:var(--gold);animation:flash .38s ease-in-out 2}.reel.spinning b{filter:blur(1px);color:var(--mint)}@keyframes flash{50%{box-shadow:0 0 25px #edcf8399;background:#354254}}button{border:0;border-radius:999px;padding:15px 28px;background:var(--gold);color:#161c24;font:700 1rem system-ui;cursor:pointer}button:hover{filter:brightness(1.08)}button:focus-visible,a:focus-visible{outline:3px solid var(--mint);outline-offset:4px}button:disabled{opacity:.55;cursor:wait}.controls{text-align:center}.status{min-height:24px;text-align:center;color:var(--muted);font-size:.89rem;margin:10px 0 0}.result{margin-top:23px;padding:22px;border-radius:15px;border:1px solid var(--edge);background:#111b29}.result[hidden]{display:none}.cellnum{color:var(--gold);font-size:.84rem;letter-spacing:.1em}.cellname{font:normal clamp(1.7rem,4vw,2.5rem)/1.15 Georgia,serif;margin:6px 0}.coordinate{color:var(--mint);margin:0 0 18px}.pair{padding-top:14px;margin-top:14px;border-top:1px solid var(--edge)}.pair p{font-size:1.15rem;margin:5px 0}.small{font-size:.83rem;color:var(--muted)}footer{text-align:center;margin-top:25px;color:var(--muted);font-size:.87rem}a{color:var(--mint)}.notice{margin-top:16px;color:var(--muted);font-size:.85rem;text-align:center}.atlas{margin:20px 0 0;border:1px solid var(--edge);border-radius:13px;padding:16px;background:#14202d}.atlas summary{cursor:pointer}.atlas-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:6px;margin-top:12px}.atlas-list button{font-weight:500;text-align:left;background:#253549;color:var(--fg);border-radius:9px;padding:10px;font-size:.85rem}.atlas-list button:hover{background:#354c67}@media(max-width:480px){.reel{min-height:120px;padding:10px 3px}.reels{gap:5px}.reel small{font-size:.56rem}.machine{padding:14px}}
 @media(prefers-reduced-motion:reduce){.reel.locked{animation:none}.reel.spinning b{filter:none}}
 .example-next{margin-top:12px;padding:9px 16px;background:#253549;color:var(--fg);font-size:.85rem}.pair summary{cursor:pointer;margin-bottom:12px}
+.world-grid{display:flex;flex-wrap:wrap;gap:7px;margin:13px 0}.world-grid button{padding:7px 11px;background:#253549;color:var(--fg);border:1px solid var(--edge);font-size:.77rem}.world-grid button.active{background:var(--mint);color:#102027;border-color:var(--mint)}.world-example{padding:14px 16px;border-radius:11px;background:#0d1721;border:1px solid #2f4357}.world-example p{font:normal 1.08rem/1.5 Georgia,serif}.card-link{display:inline-block;margin-top:12px;font-weight:700;text-decoration:none}
 </style>
 </head>
 <body><main>
@@ -28,13 +29,15 @@
 <div class="pair"><div class="eyebrow">GPT-D's question</div><p id="question"></p></div>
 <details class="pair" id="three-questions"><summary>What changed? What made it sufficient? How does it remain?</summary><div class="eyebrow">What changed?</div><p id="changed"></p><div class="eyebrow">What made it sufficient?</div><p id="sufficient"></p><div class="eyebrow">How does it remain?</div><p id="remains"></p></details>
 <div class="pair"><div class="eyebrow">Example sentence</div><p id="sample"></p><div class="small" id="sample-note"></div><button class="example-next" id="next-example" type="button" disabled>Another example</button></div>
+<details class="pair" id="worlds"><summary>See this invariant across nine worlds</summary><p class="small" id="world-characteristic"></p><div class="world-grid" id="world-buttons" aria-label="Example domains"></div><div class="world-example"><div class="eyebrow" id="world-label"></div><p id="world-text"></p></div><p class="small">Candidate completion-events selected for comparison, not proof of the grammar. <a href="THE_54_BEST_EXAMPLES_01-54.md">Open the Selected Atlas →</a></p></details>
+<div class="pair"><a class="card-link" id="card-link" href="deck.html">Take this form into the swipeable Living Deck →</a></div>
 <details class="pair" id="example-explanation"><summary>The completed form and neighbouring cell</summary><div class="eyebrow">The completed form</div><p id="sample-reading"></p><div class="eyebrow">A neighbouring completion</div><p id="sample-neighbour"></p></details>
 </article>
 </section>
 <p style="text-align:center;margin:24px 0"><a href="deck.html" style="display:inline-block;padding:15px 24px;border:1px solid #edcf83;border-radius:999px;color:#edcf83;text-decoration:none;font-weight:700">Explore the 54-card living deck →</a></p>
 <details class="atlas"><summary>Browse all 54 cells</summary><div class="atlas-list" id="atlas"></div></details>
-<p class="notice">The reels select a coordinate; Dimensional Conjunction determines one unified form. The canonical names and utterances come directly from <a href="THE_54_CONTROL.md">THE_54_CONTROL.md</a>.</p>
-<footer>One page. One controlling document. No accounts, API, database or build step.</footer>
+<p class="notice">The reels select a coordinate; Dimensional Conjunction determines one unified form. Canonical names and utterances come from <a href="THE_54_CONTROL.md">THE_54_CONTROL.md</a>; the nine-world comparisons come from the <a href="THE_54_BEST_EXAMPLES_01-54.md">Selected Atlas of Faithful Examples</a>.</p>
+<footer>Play first. Then unfold the same form through sentences, worlds, neighbours and the deeper atlas.</footer>
 </main>
 <script type="application/json" id="example-corpus">
 {
@@ -593,7 +596,8 @@
 const axes=[['Differentiation','Opening','Relating','Repair','Integration','Settlement'],['Focal','Distributed','Release'],['Standing','Bearing','Efficacy']];
 const sleep=ms=>new Promise(resolve=>setTimeout(resolve,ms));
 const $=id=>document.getElementById(id);
-let cells=[],questions=new Map(),answers=new Map(),samples=new Map(),exampleRecords=new Map(),busy=false,last=-1,sampleCell=0,sampleIndex=-1;
+let cells=[],questions=new Map(),answers=new Map(),samples=new Map(),exampleRecords=new Map(),worldRecords=new Map(),busy=false,last=-1,sampleCell=0,sampleIndex=-1;
+const worldOrder=['Nature','Mathematics','Music','Visual art','Narrative','Architecture','Social','Perception','Computation'];
 function parseExamples(text){
   const data=JSON.parse(text);
   if(data.edition!==1||!Array.isArray(data.records)||data.records.length!==54)throw Error('Expected one example record for every cell.');
@@ -609,6 +613,31 @@ function parseExamples(text){
     records.set(record.cell,record);
   }
   return records;
+}
+function parseSelectedAtlas(md){
+  const records=new Map();
+  const re=/^###\s+(\d{2})\s+—[^\n]*\n([\s\S]*?)(?=^###\s+\d{2}\s+—|^##\s|\Z)/gm;
+  for(const match of md.matchAll(re)){
+    const n=Number(match[1]),body=match[2];
+    const cm=body.match(/\*\*Irreducible characteristic:\*\*\s*([^\n]+)/);
+    const examples=new Map();
+    for(const line of body.split(/\r?\n/)){
+      const em=line.match(/^\d+\.\s+\*\*([^*]+):\*\*\s+(.+)$/);
+      if(em)examples.set(em[1].trim(),em[2].trim());
+    }
+    if(cm&&examples.size>=9)records.set(n,{characteristic:cm[1].trim(),examples});
+  }
+  if(records.size!==54)throw Error('Expected 54 cells in the Selected Atlas.');
+  return records;
+}
+function renderWorlds(n){
+  const record=worldRecords.get(n),box=$('world-buttons');
+  box.textContent='';
+  if(!record){$('world-characteristic').textContent='The comparative atlas is unavailable.';$('world-label').textContent='';$('world-text').textContent='';return;}
+  $('world-characteristic').textContent=record.characteristic;
+  const show=label=>{for(const b of box.querySelectorAll('button'))b.classList.toggle('active',b.dataset.world===label);$('world-label').textContent=label;$('world-text').textContent=record.examples.get(label)||'';};
+  for(const label of worldOrder){const b=document.createElement('button');b.type='button';b.dataset.world=label;b.textContent=label;b.addEventListener('click',()=>show(label));box.append(b);}
+  show('Nature');
 }
 function parseReference(md){
   const canonical=md.split('## GPT-D')[0];
@@ -645,14 +674,16 @@ function select(n){
   $('sample-reading').textContent=record.reading;
   const neighbor=cells[record.neighbor-1];
   $('sample-neighbour').textContent='Cell '+String(record.neighbor).padStart(2,'0')+' — '+neighbor.name+'. '+record.contrast;
-  if(last!==n){$('three-questions').open=false;$('example-explanation').open=false;}
+  renderWorlds(n);
+  $('card-link').href='deck.html#'+String(n).padStart(2,'0');
+  if(last!==n){$('three-questions').open=false;$('worlds').open=false;$('example-explanation').open=false;}
   $('result').hidden=false;
   $('next-example').disabled=busy;
   last=n;
 }
 async function spin(n){if(busy||!cells.length)return;busy=true;$('spin').disabled=true;$('next-example').disabled=true;$('result').hidden=true;const target=n||pick();const indexes=[Math.floor((target-1)/9),Math.floor(((target-1)%9)/3),(target-1)%3];for(let r=0;r<3;r++){$('r'+r).classList.remove('locked');$('r'+r).classList.add('spinning');}for(let r=0;r<3;r++){const interval=setInterval(()=>{$('v'+r).textContent=axes[r][Math.floor(Math.random()*axes[r].length)]},70);await sleep(600+r*220);clearInterval(interval);$('v'+r).textContent=axes[r][indexes[r]];$('r'+r).classList.remove('spinning');$('r'+r).classList.add('locked');}select(target);$('status').textContent='One coordinate. Three mutually determining dimensions.';$('spin').disabled=false;$('next-example').disabled=false;busy=false;}
 function pick(){let n;do{n=1+Math.floor(Math.random()*54)}while(n===last);return n;}
-async function init(){try{const response=await fetch('THE_54_CONTROL.md',{cache:'no-cache'});if(!response.ok)throw Error('HTTP '+response.status);const data=parseReference(await response.text());cells=data.full;questions=data.q;answers=data.a;exampleRecords=parseExamples($('example-corpus').textContent);samples=new Map([...exampleRecords].map(([n,r])=>[n,r.examples]));$('next-example').disabled=false;$('spin').disabled=false;$('spin').textContent='Pull the lever';$('status').textContent='Ready. Pull the lever.';for(const c of cells){const btn=document.createElement('button');btn.type='button';btn.textContent=String(c.number).padStart(2,'0')+' — '+c.name;btn.addEventListener('click',()=>{spin(c.number);window.scrollTo({top:0,behavior:'smooth'})});$('atlas').append(btn)}$('spin').addEventListener('click',()=>spin());$('next-example').addEventListener('click',()=>{if(!busy&&last>0)select(last);});}catch(err){$('status').textContent='Unable to load THE_54_CONTROL.md. Keep both files together and serve them through GitHub Pages or a local HTTP server. '+err.message;$('spin').textContent='Reference unavailable';console.error(err);}}
+async function init(){try{const response=await fetch('THE_54_CONTROL.md',{cache:'no-cache'});if(!response.ok)throw Error('HTTP '+response.status);const data=parseReference(await response.text());cells=data.full;questions=data.q;answers=data.a;exampleRecords=parseExamples($('example-corpus').textContent);samples=new Map([...exampleRecords].map(([n,r])=>[n,r.examples]));try{const worlds=await fetch('THE_54_BEST_EXAMPLES_01-54.md',{cache:'no-cache'});if(worlds.ok)worldRecords=parseSelectedAtlas(await worlds.text());}catch(e){console.warn('Selected Atlas unavailable',e)}$('next-example').disabled=false;$('spin').disabled=false;$('spin').textContent='Pull the lever';$('status').textContent='Ready. Pull the lever.';for(const c of cells){const btn=document.createElement('button');btn.type='button';btn.textContent=String(c.number).padStart(2,'0')+' — '+c.name;btn.addEventListener('click',()=>{spin(c.number);window.scrollTo({top:0,behavior:'smooth'})});$('atlas').append(btn)}$('spin').addEventListener('click',()=>spin());$('next-example').addEventListener('click',()=>{if(!busy&&last>0)select(last);});}catch(err){$('status').textContent='Unable to load THE_54_CONTROL.md. Keep both files together and serve them through GitHub Pages or a local HTTP server. '+err.message;$('spin').textContent='Reference unavailable';console.error(err);}}
 init();
 </script>
 </body></html>
