@@ -1,0 +1,93 @@
+name: A Voyage into Sensemaking Made Examinable
+
+run-name: "Examine a sentence"
+
+on:
+  workflow_dispatch:
+    inputs:
+      sentence:
+        description: "One sentence to examine"
+        required: true
+        type: string
+      work:
+        description: "Literary work (title)"
+        required: false
+        type: string
+      author:
+        description: "Author"
+        required: false
+        type: string
+      reference:
+        description: "Chapter, edition, page, or source URL"
+        required: false
+        type: string
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  open-examination:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create the examination
+        uses: actions/github-script@v7
+        env:
+          SOURCE_SENTENCE: ${{ inputs.sentence }}
+          SOURCE_WORK: ${{ inputs.work }}
+          SOURCE_AUTHOR: ${{ inputs.author }}
+          SOURCE_REFERENCE: ${{ inputs.reference }}
+        with:
+          script: |
+            const sentence = (process.env.SOURCE_SENTENCE || '').trim();
+            if (!sentence) {
+              core.setFailed('Please supply a sentence.');
+              return;
+            }
+            const work = process.env.SOURCE_WORK?.trim() || 'Not specified';
+            const author = process.env.SOURCE_AUTHOR?.trim() || 'Not specified';
+            const reference = process.env.SOURCE_REFERENCE?.trim() || 'Not specified';
+            const title = 'Sensemaking: ' + sentence.slice(0, 90);
+            const body = [
+              '# A Voyage into Sensemaking Made Examinable',
+              '',
+              'Begin with the sentence, not with a chosen coordinate.',
+              '',
+              '## The sentence',
+              '',
+              '> ' + sentence.replace(/\n/g, '\n> '),
+              '',
+              '**Work:** ' + work,
+              '**Author:** ' + author,
+              '**Location or source:** ' + reference,
+              '',
+              '## Three governing questions',
+              '',
+              '### 1. What changed?',
+              '_Identify the completed intelligible difference, in context._',
+              '',
+              '### 2. What made that change sufficient?',
+              '_Say what must be true for the achievement to count as complete._',
+              '',
+              '### 3. How does the achieved completion remain available?',
+              '_Identify its standing, bearing or efficacy._',
+              '',
+              '## Recognition',
+              '',
+              '**One intelligible achievement:**',
+              '',
+              '**Candidate cell (01–54):**',
+              '',
+              '**Nearest neighbour and distinguishing test:**',
+              '',
+              '**Context still needed:**',
+              '',
+              '---',
+              'A sentence can describe a change in the world, accomplish a change through speaking, or occasion a change in understanding. Distinguish these achievements.',
+              '',
+              'This action creates a reproducible examination record; it does not automatically assign a cell.'
+            ].join('\n');
+            const {data: issue} = await github.rest.issues.create({...context.repo, title, body});
+            core.notice('Created ' + issue.html_url);
+            await core.summary.addHeading('Sentence examination created')
+              .addLink('Open issue #' + issue.number, issue.html_url).write();
