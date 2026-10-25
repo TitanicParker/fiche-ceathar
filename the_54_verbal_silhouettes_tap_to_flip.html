@@ -1,0 +1,1100 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#09131c"><title>The 54 — Living Attractors</title><style>
+:root{color-scheme:dark;--bg:#08131b;--panel:#12232d;--ink:#ecf0eb;--soft:#b4c4c2;--quiet:#819c9f;--line:#31515a;--accent:#d9ad77;--a2:#83c5b9;--pad:clamp(17px,4vw,32px)}*{box-sizing:border-box}html{min-height:100%;scroll-behavior:smooth}body{background:radial-gradient(ellipse 65% 45% at 45% -15%,#234351,transparent 80%),var(--bg);color:var(--ink);margin:0;font:15px/1.53 system-ui,-apple-system,Segoe UI,Arial,sans-serif}button,input{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--a2);outline-offset:4px}a{color:var(--a2)}.shell{max-width:1240px;margin:auto;padding:18px clamp(13px,3vw,38px) 55px}.top{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-bottom:16px;border-bottom:1px solid #24404a}.brand{letter-spacing:.19em;font-size:12px;font-weight:800}.topright{display:flex;align-items:center;gap:9px}.ghost,.circle,.control{color:var(--ink);background:#142631;border:1px solid #33515b;border-radius:999px;padding:9px 14px}.ghost:hover,.circle:hover,.control:hover{background:#24404a}.intro{max-width:770px;text-align:center;margin:33px auto 20px}.overline{font-size:10px;font-weight:800;letter-spacing:.26em;color:var(--a2);text-transform:uppercase}.intro h1{font:normal clamp(36px,6vw,65px)/1.06 Georgia,'Times New Roman',serif;letter-spacing:-.045em;margin:10px 0}.intro p{color:var(--soft);margin:10px auto;max-width:630px}.main{display:grid;grid-template-columns:minmax(0,1fr) minmax(300px,390px);gap:clamp(16px,3vw,35px);align-items:start;margin-top:24px}.deckside{min-width:0}.linehead{display:flex;justify-content:space-between;align-items:center;color:var(--quiet);text-transform:uppercase;font-size:10px;font-weight:750;letter-spacing:.19em;margin-bottom:12px}.progress{height:3px;background:#1b3640;border-radius:9px;overflow:hidden;margin-bottom:15px}.progress>div{height:100%;background:var(--accent);transition:width .3s}.cardwrap{perspective:1500px;min-height:640px;position:relative;touch-action:pan-y;user-select:none;cursor:pointer}.card{min-height:640px;position:relative;transform-style:preserve-3d;transition:transform .62s cubic-bezier(.23,.8,.23,1);border-radius:22px}.card.flipped{transform:rotateY(180deg)}.face{position:absolute;inset:0;overflow-y:auto;overscroll-behavior:contain;backface-visibility:hidden;-webkit-backface-visibility:hidden;border:1px solid var(--line);background:radial-gradient(ellipse at 50% 22%,#1d3c46,var(--panel) 75%);border-radius:22px;display:flex;flex-direction:column;padding:var(--pad);box-shadow:0 20px 55px #0005}.back{transform:rotateY(180deg);background:#132630}.face-top{display:flex;justify-content:space-between;gap:14px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--a2);font-weight:750}.visual{height:clamp(210px,30vw,315px);display:flex;align-items:center;justify-content:center;position:relative;margin:14px -10px 3px}.visual:before{content:'';position:absolute;width:70%;aspect-ratio:1;background:radial-gradient(circle,#9ae2c414,transparent 68%);pointer-events:none}.visual svg{width:min(100%,460px);height:100%;overflow:visible}.family{font-size:10px;letter-spacing:.19em;text-transform:uppercase;color:var(--accent);font-weight:800}.face h2{font:normal clamp(30px,5vw,45px)/1.06 Georgia,serif;letter-spacing:-.035em;margin:7px 0 5px}.saying{font:italic clamp(18px,2.8vw,23px) Georgia,serif;color:var(--a2);margin:0}.micro{margin-top:17px;font-size:15px;line-height:1.65;color:var(--ink)}.facefoot{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:11px;color:var(--quiet);padding-top:17px}.facefoot button{background:transparent;border:1px solid #547078;color:var(--ink);border-radius:99px;padding:8px 15px}.facefoot button:hover{background:#26444c}.back h2{font-size:clamp(26px,4vw,37px)}.axes{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 16px}.chip{border:1px solid #456773;border-radius:50px;padding:4px 9px;font-size:11px;color:#b6dcd6}.block{margin-bottom:15px}.block h3{margin:0 0 3px;font-size:10px;color:var(--a2);text-transform:uppercase;letter-spacing:.15em}.block p{font-size:14px;color:#e4ece8;line-height:1.57;margin:0}.divider{height:1px;background:#31515a;margin:5px 0 18px}.nav{display:flex;gap:9px;margin:17px 0}.nav button{flex:1;min-height:44px}.nav .strong{background:#d8b17d;color:#17232a;border:0;font-weight:750}.hint{text-align:center;color:var(--quiet);font-size:12px;margin:12px 0}.panel{background:#11232c;border:1px solid #294954;border-radius:19px;padding:22px}.panel h3{font:normal 26px Georgia,serif;margin:7px 0 10px}.panel p{color:var(--soft);font-size:14px;line-height:1.7}.point{color:var(--ink)!important}.section-label{font-size:10px;color:var(--a2);letter-spacing:.18em;text-transform:uppercase;font-weight:800}.quote{font:italic 21px/1.4 Georgia,serif!important;color:var(--ink)!important;margin:10px 0 19px}.bigline{height:1px;background:var(--line);margin:18px 0}.axes-label{font-size:12px;color:var(--soft)}.switches{display:flex;gap:7px;flex-wrap:wrap}.tag{font-size:10px;border:1px solid var(--line);padding:4px 8px;border-radius:25px;color:var(--soft)}.readmore{color:var(--ink);background:#1d3942;border:1px solid #45636b;padding:10px 12px;border-radius:10px;text-align:left;width:100%;margin-top:12px}.readmore:hover{background:#294a52}.detail{display:none;margin-top:14px;border-top:1px solid var(--line);padding-top:14px}.detail.visible{display:block}.detail p{font-size:13px}.atlas{margin-top:37px;border-top:1px solid var(--line);padding-top:23px}.atlashead{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between}.atlas h2{font:normal 31px Georgia,serif;margin:0}.atlas-controls{display:flex;gap:8px;flex-wrap:wrap;margin:19px 0}.atlas-controls button{border:1px solid #385761;background:#132832;color:var(--ink);font-size:12px;padding:8px 12px;border-radius:50px}.atlas-controls button.selected{background:#b2d6c8;color:#10252a}.search{color:var(--ink);background:#132832;border:1px solid #385761;border-radius:50px;padding:10px 15px;min-width:200px;max-width:100%}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(176px,1fr));gap:10px}.tile{border:1px solid #2f4b55;border-radius:13px;background:#13242e;color:var(--ink);text-align:left;padding:13px;min-height:112px;transition:background .2s}.tile:hover,.tile.active{background:#23414a;border-color:#b8d2bb}.tile .n{display:block;color:var(--a2);font-size:10px;font-weight:750;letter-spacing:.13em}.tile strong{display:block;font:normal 19px Georgia,serif;margin:9px 0 3px}.tile small{color:var(--quiet)}.footer{padding:38px 0 6px;color:var(--quiet);font-size:12px;text-align:center}.footer a{color:var(--a2)}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}@media(max-width:850px){.main{grid-template-columns:1fr}.cardwrap{min-height:655px}.card{min-height:655px}.panel{max-width:none}.intro{margin-top:25px}}@media(max-width:490px){.shell{padding-left:11px;padding-right:11px}.intro h1{font-size:39px}.intro p{font-size:13px}.top .ghost{padding:8px 10px;font-size:12px}.cardwrap,.card{min-height:660px}.visual{height:230px;margin-top:24px}.face h2{font-size:33px}.face{padding:22px}.back .block{margin-bottom:12px}.back .block p{font-size:13px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.tile{min-height:103px;padding:10px}.tile strong{font-size:16px}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+.silhouette-box{padding:19px 18px;margin:4px 0 23px;background:linear-gradient(150deg,#142831,#0b1922);border:1px solid #3c5860;border-radius:17px}
+.silhouette-box .section-label{color:#deb88a;margin-bottom:10px}.negative{color:#b6c4c5;font:italic 1.07rem/1.55 Georgia,serif;margin:9px 0}.negative:before{content:"— ";color:#b18f7a}.positive{font:1.29rem/1.45 Georgia,serif;color:#e8e8d9;margin:8px 0 0}.verbal-front{border-left:2px solid var(--accent);padding:3px 0 3px 13px;margin:8px 0 8px}.verbal-label{font:600 .61rem/1.5 system-ui;letter-spacing:.16em;color:var(--a2)}.verbal-front p{font:1.12rem/1.35 Georgia,serif;color:#e5ede6;margin:7px 0 0}.front .visual{max-height:190px;min-height:165px}.front .micro{font-size:.88rem}
+@media(max-width:650px){.silhouette-box{padding:15px}.positive{font-size:1.16rem}.verbal-front p{font-size:1.01rem}}
+</style></head><body><div class="shell"><header class="top"><div class="brand">THE 54 <span style="color:#8caaa7;font-weight:400;letter-spacing:0">/ living attractors</span></div><div class="topright"><a href="https://github.com/TitanicParker/fiche-ceathar" target="_blank" rel="noopener" class="ghost" style="text-decoration:none">Source ↗</a><button class="ghost" id="browse">Browse all 54</button></div></header><div class="intro"><div class="overline">An encounter with completed intelligibility</div><h1>Let the form emerge from its shadow.</h1><p>Each of the 54 is disclosed through what it is not. Feel the near misses, recognize the decisive completion, then turn the card to examine its structure.</p></div><main class="main"><section class="deckside" aria-label="Interactive card deck"><div class="linehead"><span id="counter">01 / 54</span><span id="familyTop">Differentiation</span></div><div class="progress"><div id="progress"></div></div><div class="cardwrap" id="gesture"><div class="card" id="card"><article class="face front" aria-label="Front of card"><div class="face-top"><span id="frontNo">CELL 01</span><span id="frontCoord">FOCAL · STANDING</span></div><div class="visual" id="visual" aria-label="Conceptual visual motif"></div><div class="family" id="family">Differentiation</div><h2 id="name">Focal mark</h2><p class="saying" id="utterance">“This.”</p><div class="verbal-front"><span class="verbal-label">THE VERBAL SILHOUETTE</span><p id="frontEmerge"></p></div><p class="micro" id="scene"></p><div class="facefoot"><span>Tap anywhere to turn ↻</span><button id="turnFront" aria-label="Flip to explanation">Turn card ↻</button></div></article><article class="face back" aria-label="Back of card"><div class="face-top"><span id="backNo">CELL 01</span><span>THE STRUCTURE</span></div><h2 id="backName">Focal mark</h2><div class="axes" id="axes"></div><div class="block"><h3>What changes</h3><p id="change"></p></div><div class="block"><h3>What makes it sufficient</h3><p id="sufficient"></p></div><div class="block"><h3>What remains</h3><p id="remains"></p></div><div class="divider"></div><div class="block"><h3>Why not the neighbour?</h3><p id="contrast"></p></div><div class="block"><h3>Coordinate-generated form</h3><p id="generated" style="color:#b4cac6"></p></div><div class="facefoot"><span>Tap anywhere to return ↶</span><button id="turnBack" aria-label="Flip back to scene">↶ Back</button></div></article></div></div><nav class="nav"><button class="control" id="prev">← Previous</button><button class="control strong" id="flip">Turn card ↻</button><button class="control" id="next">Next →</button></nav><p class="hint">Tap anywhere on the card to flip · Swipe left/right to move · Arrow keys to navigate</p></section><aside class="panel"><div class="section-label">THE RECOGNITION GUIDE</div><h3 id="guideName">Focal mark</h3><div class="axes-label" id="guideCoord">Differentiation × Focal × Standing</div><div class="bigline"></div><div class="silhouette-box"><div class="section-label">WHAT IT IS NOT</div><p class="negative" id="not1"></p><p class="negative" id="not2"></p><div class="section-label" style="margin-top:18px">WHAT COMES INTO FOCUS</div><p class="positive" id="emerges"></p></div><div class="section-label">A moment in the world</div><p class="quote" id="guideScene"></p><div class="section-label">Ask three questions</div><p><strong class="point">What changed?</strong> <span id="guideChange"></span></p><p><strong class="point">What was enough?</strong> <span id="guideSufficient"></span></p><p><strong class="point">What remains?</strong> <span id="guideRemains"></span></p><div class="bigline"></div><div class="section-label">Visual intention</div><p id="visualText"></p><button class="readmore" id="detailsToggle" aria-expanded="false">Compare the neighbouring form +</button><div class="detail" id="extra"><div class="section-label">Boundary of this cell</div><p id="extraContrast"></p><div class="section-label">Canonical vs generated</div><p id="extraGenerated"></p><p style="font-size:12px">The short canonical name is a crystallization of the coordinate-generated form, not its literal synonym.</p></div><div class="bigline"></div><div class="section-label">Current coordinate</div><div class="switches"><span class="tag" id="tagT"></span><span class="tag" id="tagK"></span><span class="tag" id="tagP"></span></div><p style="font-size:12px">Change a dimension in the atlas below to encounter a nearby but genuinely different completion.</p></aside></main><section class="atlas" id="atlas"><div class="atlashead"><div><div class="overline">The complete field</div><h2>All 54 cards</h2></div><input class="search" id="search" type="search" placeholder="Find a form or coordinate…" aria-label="Search cards"></div><div class="atlas-controls" id="filters"></div><div class="grid" id="tiles"></div></section><footer class="footer">Educational interpretation grounded in <a href="https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md">THE_54_CONTROL.md</a> · Canonical names and utterances are preserved · Visual motifs and explanations are editorial proposals.</footer></div><script id="data" type="application/json">[
+  {
+    "id": 1,
+    "name": "Focal mark",
+    "utterance": "This.",
+    "generated": "Focal distinguished standing",
+    "t": "Differentiation",
+    "k": "Focal",
+    "p": "Standing",
+    "change": "An uncertain particular becomes distinctly identifiable.",
+    "sufficient": "One privileged identity resolves the uncertainty.",
+    "remains": "The identified determination itself stands.",
+    "scene": "A star is picked out in a hazy sky.",
+    "contrast": "02 needs contrast to constitute distinctness; this one is identified in its own right.",
+    "visual": "One luminous point resolves out of atmospheric grain.",
+    "silhouette": {
+      "not1": "Not merely a contrast,",
+      "not2": "not yet a boundary that decides,",
+      "emerges": "one uncertain particular becomes unmistakably this one."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Binary bearing",
+    "utterance": "This, not that.",
+    "generated": "Focal contrast-bearing distinction",
+    "t": "Differentiation",
+    "k": "Focal",
+    "p": "Bearing",
+    "change": "One thing becomes distinctive by contrast.",
+    "sufficient": "A focal comparison makes the difference determinate.",
+    "remains": "Its distinction depends on what surrounds or opposes it.",
+    "scene": "A red square stands out among grey ones.",
+    "contrast": "01 identifies a particular without requiring constitutive comparison.",
+    "visual": "One vivid tile in a subdued field.",
+    "silhouette": {
+      "not1": "Not identity alone,",
+      "not2": "not a difference that yet decides action,",
+      "emerges": "this one stands out only through what it stands against."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Boundary act",
+    "utterance": "This far.",
+    "generated": "Focal operative distinction",
+    "t": "Differentiation",
+    "k": "Focal",
+    "p": "Efficacy",
+    "change": "A difference becomes a discriminator.",
+    "sufficient": "One threshold determines which continuation occurs.",
+    "remains": "The distinction remains operative as a decision.",
+    "scene": "A sensor crosses the threshold that opens a gate.",
+    "contrast": "02 distinguishes relationally; here the difference actually selects a course.",
+    "visual": "A clear dividing threshold sending a signal along one route.",
+    "silhouette": {
+      "not1": "Not just being noticeable,",
+      "not2": "not merely being unlike another,",
+      "emerges": "a distinction has become the threshold at which something different happens."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Scope standing",
+    "utterance": "Within this.",
+    "generated": "Distributed distinguished standing",
+    "t": "Differentiation",
+    "k": "Distributed",
+    "p": "Standing",
+    "change": "A formerly blurred field differentiates.",
+    "sufficient": "The whole relevant range becomes legibly articulated.",
+    "remains": "The distributed pattern of differences stands.",
+    "scene": "A map reveals distinct land-use zones.",
+    "contrast": "01 is settled at one particular, not across an entire range.",
+    "visual": "One field divided into distinct readable regions.",
+    "silhouette": {
+      "not1": "Not one thing picked out,",
+      "not2": "not a ranking tied to a particular surrounding,",
+      "emerges": "the whole field has acquired an articulated map of differences."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Context-bound mark",
+    "utterance": "This here.",
+    "generated": "Context-bearing distinction",
+    "t": "Differentiation",
+    "k": "Distributed",
+    "p": "Bearing",
+    "change": "The members of a field acquire contextual distinctness.",
+    "sufficient": "Their comparative standings become determinate together.",
+    "remains": "Each standing depends on its surrounding field.",
+    "scene": "A tall tree looks small among much taller trees.",
+    "contrast": "04 establishes a field of differences; 05 makes context constitutive of each standing.",
+    "visual": "A single vertical form changing its scale against two horizons.",
+    "silhouette": {
+      "not1": "Not a map of independent kinds,",
+      "not2": "not a trigger for different treatments,",
+      "emerges": "each member is distinguishable through its place within the surrounding field."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Field separation",
+    "utterance": "These among these.",
+    "generated": "Distributed differential efficacy",
+    "t": "Differentiation",
+    "k": "Distributed",
+    "p": "Efficacy",
+    "change": "Differentiation becomes effective across a plurality.",
+    "sufficient": "The field supports distinct operative responses.",
+    "remains": "The differential pattern changes what happens throughout it.",
+    "scene": "A routing system sends categories to different destinations.",
+    "contrast": "05 constitutes contextual standings; 06 puts distributed distinctions to work.",
+    "visual": "A field of many nodes sorting flows toward separate outlets.",
+    "silhouette": {
+      "not1": "Not simply an inventory of differences,",
+      "not2": "not merely contextual prominence,",
+      "emerges": "differences across the field now make different continuations possible."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Opposed standing",
+    "utterance": "Opposed.",
+    "generated": "Released differentiated standing",
+    "t": "Differentiation",
+    "k": "Release",
+    "p": "Standing",
+    "change": "A genuine opposition emerges beyond an old label.",
+    "sufficient": "A previous classification stops governing the distinction.",
+    "remains": "The opposed determination now stands.",
+    "scene": "Two lineages remain distinct despite the old grouping.",
+    "contrast": "01 marks a particular; 07 requires the prior governor to lose force.",
+    "visual": "Two opposed forms visible after an old overlay fades.",
+    "silhouette": {
+      "not1": "Not another new label,",
+      "not2": "not a comparison still ruled by the old classification,",
+      "emerges": "a real opposition stands once the former labels cease to govern."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Graded contrast",
+    "utterance": "More and less.",
+    "generated": "Released comparative bearing",
+    "t": "Differentiation",
+    "k": "Release",
+    "p": "Bearing",
+    "change": "A rigid standard yields to relational gradation.",
+    "sufficient": "The old binary ceases to govern; differences of degree are established.",
+    "remains": "The comparison remains as a continuum of relative positions.",
+    "scene": "Salinity appears as a gradient rather than fresh versus salt.",
+    "contrast": "07 establishes opposition; 08 retains degree and comparative bearing.",
+    "visual": "A smooth gradient emerging through dissolved bands.",
+    "silhouette": {
+      "not1": "Not an absolute opposition,",
+      "not2": "not yet an exclusion that controls action,",
+      "emerges": "degrees become legible when the old either-or stops dictating the comparison."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Exclusive cut",
+    "utterance": "Not admitted.",
+    "generated": "Released exclusionary efficacy",
+    "t": "Differentiation",
+    "k": "Release",
+    "p": "Efficacy",
+    "change": "An exclusionary distinction becomes operative under a changed rule.",
+    "sufficient": "The old category loses authority and a new cut governs admission.",
+    "remains": "A consequential boundary now selects continuations.",
+    "scene": "A revised eligibility rule rejects one application.",
+    "contrast": "08 is gradational; 09 has decisive exclusionary efficacy.",
+    "visual": "An old boundary dissolves while a new gate selects flow.",
+    "silhouette": {
+      "not1": "Not a gradient to contemplate,",
+      "not2": "not exclusion justified merely by the old categories,",
+      "emerges": "a newly governing distinction can now admit or refuse."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Source field",
+    "utterance": "From here.",
+    "generated": "Focal available field",
+    "t": "Opening",
+    "k": "Focal",
+    "p": "Standing",
+    "change": "An origin of access becomes identifiable.",
+    "sufficient": "One privileged entrance makes the opening complete.",
+    "remains": "A definite available source stands.",
+    "scene": "An entrance to a sealed courtyard is found.",
+    "contrast": "11 requires the enabling source relation to constitute divergent availability.",
+    "visual": "One illuminated doorway in a closed wall.",
+    "silhouette": {
+      "not1": "Not every possible road,",
+      "not2": "not access still dependent on a particular bearer,",
+      "emerges": "there is a definite place from which entry is now available."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Source-carried divergence",
+    "utterance": "From here, either way.",
+    "generated": "Source-bearing divergence",
+    "t": "Opening",
+    "k": "Focal",
+    "p": "Bearing",
+    "change": "Alternatives become available through one source.",
+    "sufficient": "A common enabling connection supports distinct continuations.",
+    "remains": "Their openness remains source-dependent.",
+    "scene": "A bridgehead gives access to either shore route.",
+    "contrast": "12 is productive branching capacity; 11 is divergence carried by a source.",
+    "visual": "One junction holding two suspended routes.",
+    "silhouette": {
+      "not1": "Not the entrance simply standing there,",
+      "not2": "not branches already generating further branches,",
+      "emerges": "the alternatives obtain through one enabling source."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Branching output",
+    "utterance": "More ways open.",
+    "generated": "Focal generative opening",
+    "t": "Opening",
+    "k": "Focal",
+    "p": "Efficacy",
+    "change": "One source becomes capable of producing multiple paths.",
+    "sufficient": "Generative continuation works at a focal locus.",
+    "remains": "An accomplished branching capacity remains.",
+    "scene": "A bud begins producing multiple shoots.",
+    "contrast": "11 alternatives are source-borne; 12 actively generates continuation.",
+    "visual": "One stem flowering into three active branches.",
+    "silhouette": {
+      "not1": "Not options merely listed,",
+      "not2": "not a divergence that survives only by reference to its source,",
+      "emerges": "one generative locus can now produce more continuations."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Alternate passage",
+    "utterance": "Another way through.",
+    "generated": "Distributed passage standing",
+    "t": "Opening",
+    "k": "Distributed",
+    "p": "Standing",
+    "change": "An extended repertoire of passages becomes available.",
+    "sufficient": "More than one viable route is established across the field.",
+    "remains": "The available route-set stands.",
+    "scene": "A maze reveals several traversable routes.",
+    "contrast": "10 is one source; 13 needs the set of routes.",
+    "visual": "A maze with several independently lit crossings.",
+    "silhouette": {
+      "not1": "Not a single doorway,",
+      "not2": "not a distance sustained only by its bridge,",
+      "emerges": "a repertoire of genuine routes through has been established."
+    }
+  },
+  {
+    "id": 14,
+    "name": "Span-carried reach",
+    "utterance": "Reachable across.",
+    "generated": "Span-bearing reach",
+    "t": "Opening",
+    "k": "Distributed",
+    "p": "Bearing",
+    "change": "Reach becomes possible across a distance.",
+    "sufficient": "A span of enabling connections is sufficient.",
+    "remains": "Access continues to depend on that bridge or condition.",
+    "scene": "Stepping stones connect opposite riverbanks.",
+    "contrast": "13 establishes alternatives; 14 is constituted through enabling span.",
+    "visual": "A bridge of small suspended links spanning an open gap.",
+    "silhouette": {
+      "not1": "Not alternatives merely available,",
+      "not2": "not access already working everywhere,",
+      "emerges": "reach exists across a span because its sustaining connection holds."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Field distribution",
+    "utterance": "Available throughout.",
+    "generated": "Distributed availability",
+    "t": "Opening",
+    "k": "Distributed",
+    "p": "Efficacy",
+    "change": "Availability begins working throughout a network.",
+    "sufficient": "Usable continuation reaches the relevant plurality.",
+    "remains": "Distributed access persists as operative reach.",
+    "scene": "Leaf veins supply water across the leaf.",
+    "contrast": "14 is span-supported reach; 15 is efficacy across the field.",
+    "visual": "Radiating channels carrying luminous pulses everywhere.",
+    "silhouette": {
+      "not1": "Not a route that simply exists,",
+      "not2": "not a conditional bridge between two positions,",
+      "emerges": "access now works throughout the relevant field."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Released option",
+    "utterance": "Free to choose.",
+    "generated": "Released option standing",
+    "t": "Opening",
+    "k": "Release",
+    "p": "Standing",
+    "change": "A formerly barred option genuinely opens.",
+    "sufficient": "The governing prohibition loses its authority.",
+    "remains": "The option now stands as available.",
+    "scene": "An expired rule permits a previously banned route.",
+    "contrast": "10 establishes a focal entrance; 16 requires loss of a former veto.",
+    "visual": "A faded prohibition floating above an open choice.",
+    "silhouette": {
+      "not1": "Not a newly made entrance,",
+      "not2": "not a permission still held at someone else’s discretion,",
+      "emerges": "an option stands because its former prohibition no longer governs."
+    }
+  },
+  {
+    "id": 17,
+    "name": "Continual passage",
+    "utterance": "Through without break.",
+    "generated": "Released continuity bearing",
+    "t": "Opening",
+    "k": "Release",
+    "p": "Bearing",
+    "change": "Continuing access ceases to depend on permission.",
+    "sufficient": "The former veto no longer governs and a valid entitlement spans passage.",
+    "remains": "Continuity is grounded in the enabling right or condition.",
+    "scene": "An access pass is replaced by an established right of way.",
+    "contrast": "16 is a standing option; 17 is continuing access through constitutive bearing.",
+    "visual": "A continuous line passing through ghosted checkpoints.",
+    "silhouette": {
+      "not1": "Not simply the lifting of a ban,",
+      "not2": "not yet independent ability to act without clearance,",
+      "emerges": "passage holds continuously through a relation that no discretionary veto may interrupt."
+    }
+  },
+  {
+    "id": 18,
+    "name": "Edge opening",
+    "utterance": "Beyond.",
+    "generated": "Released beyond-limit efficacy",
+    "t": "Opening",
+    "k": "Release",
+    "p": "Efficacy",
+    "change": "Action can proceed beyond a former limit.",
+    "sufficient": "The old clearance requirement ceases to determine initiation.",
+    "remains": "The achieved ability to proceed operates freely.",
+    "scene": "A vessel can depart without approval from the former authority.",
+    "contrast": "17 rests on entitlement; 18 emphasizes effective independent continuation.",
+    "visual": "A vessel-shaped arrow beyond a dissolving boundary.",
+    "silhouette": {
+      "not1": "Not an open possibility alone,",
+      "not2": "not merely protected continuity of access,",
+      "emerges": "the old limit no longer controls whether one can proceed."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Direct bearing",
+    "utterance": "This bears on that.",
+    "generated": "Focal relation standing",
+    "t": "Relating",
+    "k": "Focal",
+    "p": "Standing",
+    "change": "A relation gains a determinate anchor.",
+    "sufficient": "One focal connection settles where a term bears.",
+    "remains": "The connection itself stands.",
+    "scene": "A map identifies the bridge linking two places.",
+    "contrast": "20 defines a position through counterbearing, not just anchored connection.",
+    "visual": "A precise line joining two fixed points.",
+    "silhouette": {
+      "not1": "Not a balanced exchange,",
+      "not2": "not yet a response set in motion,",
+      "emerges": "this one connection has become a definite relational fact."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Pivoted balance",
+    "utterance": "Held in counterbalance.",
+    "generated": "Focal counterbearing",
+    "t": "Relating",
+    "k": "Focal",
+    "p": "Bearing",
+    "change": "A role is constituted through its counterpart.",
+    "sufficient": "Counterbearing around a focus settles the relational standing.",
+    "remains": "The result lives through that balance.",
+    "scene": "Two weights hold a scale beam at equilibrium.",
+    "contrast": "19 identifies a connection; 20 requires constitutive counterbalance.",
+    "visual": "A pivot with opposed but balanced forces.",
+    "silhouette": {
+      "not1": "Not connection alone,",
+      "not2": "not an accomplished answering effect,",
+      "emerges": "this term is what it is through its counterbearing against that one."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Responsive return",
+    "utterance": "Answered.",
+    "generated": "Focal responsive efficacy",
+    "t": "Relating",
+    "k": "Focal",
+    "p": "Efficacy",
+    "change": "A focal connection becomes an accomplished response.",
+    "sufficient": "An initiative reliably produces its answer.",
+    "remains": "The response relation operates as an effect.",
+    "scene": "A doorbell press produces a chime.",
+    "contrast": "20 holds a relation; 21 makes response consequential.",
+    "visual": "A pulse moving from signal to answering ring.",
+    "silhouette": {
+      "not1": "Not a static counterbalance,",
+      "not2": "not an entire cycle of propagated changes,",
+      "emerges": "a focal relation has actually become an answer."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Sequential link",
+    "utterance": "Then.",
+    "generated": "Distributed relation standing",
+    "t": "Relating",
+    "k": "Distributed",
+    "p": "Standing",
+    "change": "An order among events becomes determinate.",
+    "sufficient": "The plurality resolves into an intelligible sequence.",
+    "remains": "That ordered arrangement stands.",
+    "scene": "Footprints reveal a definite order of passage.",
+    "contrast": "19 is one anchored connection; 22 needs the configuration across steps.",
+    "visual": "A sequence of illuminated nodes on a winding path.",
+    "silhouette": {
+      "not1": "Not a lone link,",
+      "not2": "not mutual standing between every term,",
+      "emerges": "the relation has settled as an ordered configuration across a sequence."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Reciprocal shift",
+    "utterance": "Each changes the other.",
+    "generated": "Reciprocal bearing",
+    "t": "Relating",
+    "k": "Distributed",
+    "p": "Bearing",
+    "change": "Terms become mutually defining.",
+    "sufficient": "A reciprocal field settles what each is to the other.",
+    "remains": "Their standings persist through mutual bearing.",
+    "scene": "Two dancers continually adjust their positions together.",
+    "contrast": "24 is operative propagation in a cycle; 23 is reciprocal constitution.",
+    "visual": "Two curved forms co-adjusting about a shared centre.",
+    "silhouette": {
+      "not1": "Not simply first-then-next,",
+      "not2": "not yet a feedback mechanism in operation,",
+      "emerges": "each participant receives its standing through the others’ reciprocal bearings."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Relational cycle",
+    "utterance": "Back into itself.",
+    "generated": "Distributed relational efficacy",
+    "t": "Relating",
+    "k": "Distributed",
+    "p": "Efficacy",
+    "change": "Relations become an operative feedback cycle.",
+    "sufficient": "Consequences circulate through the relevant system.",
+    "remains": "The relational pattern continues to affect what happens.",
+    "scene": "Ants strengthen the very trail that guides them.",
+    "contrast": "23 is mutual standing; 24 is recursive efficacy.",
+    "visual": "A circulating closed-loop pulse through several nodes.",
+    "silhouette": {
+      "not1": "Not mutual identity alone,",
+      "not2": "not just a list of successive links,",
+      "emerges": "the network sends its changes back through itself with operative consequence."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Pattern alignment",
+    "utterance": "The same arrangement.",
+    "generated": "Released correspondence standing",
+    "t": "Relating",
+    "k": "Release",
+    "p": "Standing",
+    "change": "Configurations become comparable beyond an old divide.",
+    "sufficient": "The former separating frame stops governing correspondence.",
+    "remains": "A definite alignment of patterns stands.",
+    "scene": "Two differently named charts reveal the same topology.",
+    "contrast": "22 establishes order; 25 establishes released correspondence.",
+    "visual": "Two aligned constellations with a ghosted partition.",
+    "silhouette": {
+      "not1": "Not two copies because a label says so,",
+      "not2": "not correspondence fixed by former boundaries,",
+      "emerges": "a shared arrangement becomes visible when the old separation ceases to determine the comparison."
+    }
+  },
+  {
+    "id": 26,
+    "name": "Role correspondence",
+    "utterance": "This plays that role.",
+    "generated": "Released correspondence bearing",
+    "t": "Relating",
+    "k": "Release",
+    "p": "Bearing",
+    "change": "A role can correspond across different bearers.",
+    "sufficient": "Old rank or carrier identity ceases to fix the relational assignment.",
+    "remains": "The correspondence persists through roles.",
+    "scene": "Different instruments perform equivalent functions in two ensembles.",
+    "contrast": "25 matches arrangements; 26 depends on constitutive role-bearing.",
+    "visual": "Unlike shapes joined by matching function lines.",
+    "silhouette": {
+      "not1": "Not visual sameness alone,",
+      "not2": "not a fixed rank deciding who may correspond,",
+      "emerges": "different carriers acquire matching roles after the old hierarchy loses authority."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Emergent coordination",
+    "utterance": "Something appears between them.",
+    "generated": "Released emergent efficacy",
+    "t": "Relating",
+    "k": "Release",
+    "p": "Efficacy",
+    "change": "Coordinated effects emerge without prior command.",
+    "sufficient": "An old directing authority stops determining interaction.",
+    "remains": "A genuinely distributed capacity for coordination remains.",
+    "scene": "A flock turns without a central leader.",
+    "contrast": "24 is a feedback loop; 27 requires de-governed emergent efficacy.",
+    "visual": "A leaderless cloud of dots turning together.",
+    "silhouette": {
+      "not1": "Not ordered correspondence alone,",
+      "not2": "not a centrally commanded response,",
+      "emerges": "coordination becomes effective through the exchange itself after the old director loses its hold."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Focal adjustment",
+    "utterance": "Set right.",
+    "generated": "Focal corrected standing",
+    "t": "Repair",
+    "k": "Focal",
+    "p": "Standing",
+    "change": "One specified misfit is corrected.",
+    "sufficient": "A decisive locus now satisfies the operative criterion.",
+    "remains": "The corrected determination stands.",
+    "scene": "One displaced key is seated correctly in a keyboard.",
+    "contrast": "29 is defined through proportional fit; 28 is a focal corrected state.",
+    "visual": "One misaligned tile returned to its intended line.",
+    "silhouette": {
+      "not1": "Not a better proportion across two terms,",
+      "not2": "not a change that must transfer a burden,",
+      "emerges": "the decisive fault has been corrected here and the corrected state stands."
+    }
+  },
+  {
+    "id": 29,
+    "name": "Proportional correction",
+    "utterance": "Rightly balanced.",
+    "generated": "Focal proportional bearing",
+    "t": "Repair",
+    "k": "Focal",
+    "p": "Bearing",
+    "change": "A defect is corrected by proportion or match.",
+    "sufficient": "The focal result satisfies its constitutive relation.",
+    "remains": "Correctness remains dependent on that fit.",
+    "scene": "A measuring balance is calibrated against its standard.",
+    "contrast": "28 has a corrected state; 29 is correct through relational match.",
+    "visual": "A pair of balancing scales reaching an exact alignment.",
+    "silhouette": {
+      "not1": "Not a locally tidy appearance,",
+      "not2": "not an operative redistribution of weight,",
+      "emerges": "rightness consists in the restored proportion to what this point must match."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Load transfer",
+    "utterance": "The burden shifts.",
+    "generated": "Focal corrective efficacy",
+    "t": "Repair",
+    "k": "Focal",
+    "p": "Efficacy",
+    "change": "A focal failure is corrected by transferring burden.",
+    "sufficient": "The transfer restores effective functioning.",
+    "remains": "The repaired load-bearing capacity works.",
+    "scene": "A support brace takes load from a strained beam.",
+    "contrast": "29 is proportional rightness; 30 is accomplished corrective action.",
+    "visual": "A stressed beam relieved by a new support arrow.",
+    "silhouette": {
+      "not1": "Not a corrected figure merely standing,",
+      "not2": "not balance admired from outside the operation,",
+      "emerges": "the local misfit is repaired because the burden can now be carried differently."
+    }
+  },
+  {
+    "id": 31,
+    "name": "Cross-position validation",
+    "utterance": "Does it still hold across?",
+    "generated": "Distributed corrected standing",
+    "t": "Repair",
+    "k": "Distributed",
+    "p": "Standing",
+    "change": "A distributed inconsistency is resolved.",
+    "sufficient": "Every relevant position now fits the corrected account.",
+    "remains": "A coherent corrected pattern stands.",
+    "scene": "Survey measurements reconcile across the map.",
+    "contrast": "28 could fix only one point; 31 requires cross-position consistency.",
+    "visual": "Scattered measurements locking into a complete grid.",
+    "silhouette": {
+      "not1": "Not one fault adjusted,",
+      "not2": "not a system repaired only through reciprocal supports,",
+      "emerges": "the correction holds across every position required by the account."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Joint-bound repair",
+    "utterance": "Right between both.",
+    "generated": "Distributed corrective bearing",
+    "t": "Repair",
+    "k": "Distributed",
+    "p": "Bearing",
+    "change": "A plurality is repaired through mutual constraints.",
+    "sufficient": "Fit is achieved across the jointly determining positions.",
+    "remains": "Correctness remains in the reciprocal fit.",
+    "scene": "A pair of interlocking pieces is adjusted together.",
+    "contrast": "31 is consistent standing; 32 requires mutually constituted fit.",
+    "visual": "Interlocking puzzle fragments settling into alignment.",
+    "silhouette": {
+      "not1": "Not consistency on paper alone,",
+      "not2": "not operation already restored end to end,",
+      "emerges": "the repaired parts fit because their mutually binding constraints now agree."
+    }
+  },
+  {
+    "id": 33,
+    "name": "In-course correction",
+    "utterance": "Corrected in course.",
+    "generated": "Distributed corrective efficacy",
+    "t": "Repair",
+    "k": "Distributed",
+    "p": "Efficacy",
+    "change": "An ongoing system corrects its fault while operating.",
+    "sufficient": "The relevant sequence runs correctly across its span.",
+    "remains": "Effective corrected continuation remains.",
+    "scene": "A train route is repaired while service continues.",
+    "contrast": "32 is joint-bound fit; 33 is operation corrected in course.",
+    "visual": "A flowing route bending smoothly around an old error.",
+    "silhouette": {
+      "not1": "Not a fixed arrangement finally checked,",
+      "not2": "not merely a pair of matched components,",
+      "emerges": "correction occurs throughout the ongoing course and restores its effective operation."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Limit reset",
+    "utterance": "A better limit.",
+    "generated": "Released corrected standing",
+    "t": "Repair",
+    "k": "Release",
+    "p": "Standing",
+    "change": "An erroneous governing limit loses force.",
+    "sufficient": "The former boundary no longer distorts the result.",
+    "remains": "A corrected limit stands.",
+    "scene": "A wrong survey line is replaced by the accurate border.",
+    "contrast": "28 corrects a focal point; 34 releases an old governing limit.",
+    "visual": "A false border fading beneath a sharply reset line.",
+    "silhouette": {
+      "not1": "Not a fault patched under its old rule,",
+      "not2": "not yet a response conditionally reversed,",
+      "emerges": "the mistaken limit has stopped governing and a corrected boundary stands."
+    }
+  },
+  {
+    "id": 35,
+    "name": "Condition reversal",
+    "utterance": "Reverse when this holds.",
+    "generated": "Released conditional correction",
+    "t": "Repair",
+    "k": "Release",
+    "p": "Bearing",
+    "change": "An old response rule is displaced by actual conditions.",
+    "sufficient": "The faulty conditional governor no longer determines action.",
+    "remains": "The corrected reversal remains condition-dependent.",
+    "scene": "A thermostat reverses a mistaken response to temperature.",
+    "contrast": "34 resets a boundary; 35 reverses conditional bearing.",
+    "visual": "A reversible arrow responding to a distinct condition.",
+    "silhouette": {
+      "not1": "Not a new fixed limit,",
+      "not2": "not simply disorder disappearing,",
+      "emerges": "the former rule gives way precisely when the real condition calls for reversal."
+    }
+  },
+  {
+    "id": 36,
+    "name": "Disorder released",
+    "utterance": "Free of the fault.",
+    "generated": "Released corrective efficacy",
+    "t": "Repair",
+    "k": "Release",
+    "p": "Efficacy",
+    "change": "A malfunction ceases to govern the system.",
+    "sufficient": "The repaired process works without the former workaround.",
+    "remains": "Unencumbered corrective efficacy remains.",
+    "scene": "A jammed conveyor resumes running without manual intervention.",
+    "contrast": "33 corrects during activity; 36 releases activity from the fault.",
+    "visual": "A freed mechanism turning after a snag dissolves.",
+    "silhouette": {
+      "not1": "Not adjustment while the fault still rules,",
+      "not2": "not a fresh setting of the same malfunction,",
+      "emerges": "the system can operate because its old disorder no longer governs it."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Focal whole",
+    "utterance": "One whole.",
+    "generated": "Focal integrated standing",
+    "t": "Integration",
+    "k": "Focal",
+    "p": "Standing",
+    "change": "Parts become one identifiable organized whole.",
+    "sufficient": "One integrative locus makes their unity determinate.",
+    "remains": "The whole stands as a whole.",
+    "scene": "Pieces form a complete circular mosaic.",
+    "contrast": "38 requires a constitutive frame; 37 establishes focal unity.",
+    "visual": "Fragments resolved into a single centered disk.",
+    "silhouette": {
+      "not1": "Not a pile of parts,",
+      "not2": "not unity still dependent on an external frame,",
+      "emerges": "distinct contributions now constitute one identifiable whole at a focal centre."
+    }
+  },
+  {
+    "id": 38,
+    "name": "Frame-held whole",
+    "utterance": "Held as one.",
+    "generated": "Focal unity bearing",
+    "t": "Integration",
+    "k": "Focal",
+    "p": "Bearing",
+    "change": "Unity forms through an enabling frame.",
+    "sufficient": "A focal support constitutes the integration.",
+    "remains": "The whole continues through its frame.",
+    "scene": "Glass pieces form a rose window through tracery.",
+    "contrast": "37 is integrated standing; 38 depends upon framing support.",
+    "visual": "A luminous window held by a precise central frame.",
+    "silhouette": {
+      "not1": "Not a whole simply named,",
+      "not2": "not joint action yet accomplished,",
+      "emerges": "its unity exists through the frame that holds the elements as one."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Joint capacity",
+    "utterance": "Together able.",
+    "generated": "Focal integrated efficacy",
+    "t": "Integration",
+    "k": "Focal",
+    "p": "Efficacy",
+    "change": "Distinct contributions gain one joint capacity.",
+    "sufficient": "Their convergence at a focal locus makes operation possible.",
+    "remains": "The whole can now accomplish what parts could not.",
+    "scene": "Several gears drive one shaft.",
+    "contrast": "38 is held integration; 39 is operative joint power.",
+    "visual": "Independent mechanisms driving a common wheel.",
+    "silhouette": {
+      "not1": "Not parts merely held together,",
+      "not2": "not a distributed roster of roles,",
+      "emerges": "the focal integration yields a capacity that none could exercise alone."
+    }
+  },
+  {
+    "id": 40,
+    "name": "Role array",
+    "utterance": "Each in its place.",
+    "generated": "Distributed integrated standing",
+    "t": "Integration",
+    "k": "Distributed",
+    "p": "Standing",
+    "change": "Different parts acquire roles in one distributed whole.",
+    "sufficient": "The arrangement across parts is sufficient to constitute unity.",
+    "remains": "The organized role-array stands.",
+    "scene": "A stage crew occupies distinct coordinated stations.",
+    "contrast": "37 centers unity; 40 needs the differentiated role field.",
+    "visual": "Distinct shapes making one organized tessellation.",
+    "silhouette": {
+      "not1": "Not unity gathered at one centre,",
+      "not2": "not yet reciprocal support between all roles,",
+      "emerges": "the differentiated roles form one complete distributed arrangement."
+    }
+  },
+  {
+    "id": 41,
+    "name": "Mutual-support structure",
+    "utterance": "Held through each other.",
+    "generated": "Distributed mutual-support bearing",
+    "t": "Integration",
+    "k": "Distributed",
+    "p": "Bearing",
+    "change": "The parts become mutually supporting.",
+    "sufficient": "Dependence across the field constitutes the integrated structure.",
+    "remains": "The whole endures through reciprocal support.",
+    "scene": "An interwoven basket holds its shape.",
+    "contrast": "40 locates roles; 41 requires mutual sustaining bearing.",
+    "visual": "An interlaced lattice with reciprocal tension.",
+    "silhouette": {
+      "not1": "Not an array where every part merely has a place,",
+      "not2": "not necessarily a team already acting,",
+      "emerges": "the whole holds through the parts supporting one another."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Role activation",
+    "utterance": "In operation.",
+    "generated": "Distributed integrated efficacy",
+    "t": "Integration",
+    "k": "Distributed",
+    "p": "Efficacy",
+    "change": "The distributed role structure begins to function together.",
+    "sufficient": "The contributions make an operative whole across the field.",
+    "remains": "Integrated system capacity remains active.",
+    "scene": "A crew hoists a sail by working in different roles.",
+    "contrast": "41 is mutually held structure; 42 is its operation.",
+    "visual": "A network of distinct stations activating in sequence.",
+    "silhouette": {
+      "not1": "Not support alone,",
+      "not2": "not a central machine supplying all unity,",
+      "emerges": "distributed roles have become an accomplished joint operation."
+    }
+  },
+  {
+    "id": 43,
+    "name": "Self-maintaining equilibrium",
+    "utterance": "Able to remain.",
+    "generated": "Released integrated standing",
+    "t": "Integration",
+    "k": "Release",
+    "p": "Standing",
+    "change": "A whole stands without a former external governor.",
+    "sufficient": "An old controlling division no longer determines coherence.",
+    "remains": "Its self-maintaining organization stands.",
+    "scene": "A mobile retains its balance after braces are removed.",
+    "contrast": "37 is focal unity; 43 is unity achieved through de-governance.",
+    "visual": "A balanced suspended form after supports fade.",
+    "silhouette": {
+      "not1": "Not a whole made by naming its centre,",
+      "not2": "not a balance still held by external braces,",
+      "emerges": "the former governing division is gone and an integrated whole can now maintain itself."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Sustained equilibrium",
+    "utterance": "Tension that holds.",
+    "generated": "Released equilibrium bearing",
+    "t": "Integration",
+    "k": "Release",
+    "p": "Bearing",
+    "change": "Unity persists through internal balance after release.",
+    "sufficient": "Old imposed separation ceases governing, while internal counterbearings sustain the whole.",
+    "remains": "The equilibrium remains relationally supported.",
+    "scene": "An arch holds through stone-on-stone compression.",
+    "contrast": "43 is self-maintaining standing; 44 is constitutive counterbearing.",
+    "visual": "An arch sustained by opposed internal forces.",
+    "silhouette": {
+      "not1": "Not self-maintenance asserted without conditions,",
+      "not2": "not yet a single convergent act,",
+      "emerges": "the released whole holds through its own constitutive counter-tensions."
+    }
+  },
+  {
+    "id": 45,
+    "name": "Convergent whole",
+    "utterance": "Many become one act.",
+    "generated": "Released integrated efficacy",
+    "t": "Integration",
+    "k": "Release",
+    "p": "Efficacy",
+    "change": "Separate contributions converge into one effective act.",
+    "sufficient": "Former partitions cease to control their coordination.",
+    "remains": "The convergent whole operates.",
+    "scene": "Independent teams perform one coordinated rescue.",
+    "contrast": "42 functions through distributed roles; 45 functions after prior divisions lose force.",
+    "visual": "Multiple streams converging to drive one wheel.",
+    "silhouette": {
+      "not1": "Not distributed work under a surviving controller,",
+      "not2": "not stability that merely persists,",
+      "emerges": "former divisions lose authority and the many can act together as one."
+    }
+  },
+  {
+    "id": 46,
+    "name": "Settled alternative",
+    "utterance": "Chosen.",
+    "generated": "Focal settled standing",
+    "t": "Settlement",
+    "k": "Focal",
+    "p": "Standing",
+    "change": "A live focal choice is discharged.",
+    "sufficient": "One alternative is definitively selected.",
+    "remains": "The answer stands settled.",
+    "scene": "A ballot decides among final options.",
+    "contrast": "47 needs settlement through a constitutive shared frame.",
+    "visual": "One path remains lit among fading alternatives.",
+    "silhouette": {
+      "not1": "Not agreement that needs all parties to sustain it,",
+      "not2": "not a course already travelled to its end,",
+      "emerges": "the live choice is over: this alternative stands selected."
+    }
+  },
+  {
+    "id": 47,
+    "name": "Unified settlement",
+    "utterance": "Together now.",
+    "generated": "Focal settlement bearing",
+    "t": "Settlement",
+    "k": "Focal",
+    "p": "Bearing",
+    "change": "A live question is settled through common terms.",
+    "sufficient": "A focal resolution counts through agreement or unifying condition.",
+    "remains": "Its settledness depends on that relation.",
+    "scene": "Two parties sign a shared resolution.",
+    "contrast": "46 stands as choice; 47 remains constituted through common terms.",
+    "visual": "Two lines meeting at a common seal.",
+    "silhouette": {
+      "not1": "Not a solitary verdict,",
+      "not2": "not simply arriving at the end of a path,",
+      "emerges": "the issue is settled through the common terms that constitute the resolution."
+    }
+  },
+  {
+    "id": 48,
+    "name": "Path completion",
+    "utterance": "Arrived.",
+    "generated": "Focal settlement efficacy",
+    "t": "Settlement",
+    "k": "Focal",
+    "p": "Efficacy",
+    "change": "A focal demand for a course to finish is discharged.",
+    "sufficient": "Arrival or completion becomes operative reality.",
+    "remains": "The finished path enables the next action.",
+    "scene": "A walker arrives at the mapped destination.",
+    "contrast": "46 selects; 48 completes the chosen course.",
+    "visual": "A line arriving at a bright terminal marker.",
+    "silhouette": {
+      "not1": "Not merely deciding which road to take,",
+      "not2": "not a repeated pattern across many occasions,",
+      "emerges": "the outstanding course has been completed and its demand is discharged."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Recurrence settlement",
+    "utterance": "It returns.",
+    "generated": "Distributed settled standing",
+    "t": "Settlement",
+    "k": "Distributed",
+    "p": "Standing",
+    "change": "A demand spanning recurrence is resolved.",
+    "sufficient": "The relevant sequence establishes a definite repetition.",
+    "remains": "The recurring pattern stands.",
+    "scene": "A cycle of seasons is recognized across years.",
+    "contrast": "46 is one outcome; 49 requires the series.",
+    "visual": "A repeated motif emerging across concentric rings.",
+    "silhouette": {
+      "not1": "Not one decision,",
+      "not2": "not a settlement dependent on an if,",
+      "emerges": "the recurring sequence has been sufficiently resolved as a recognizable whole."
+    }
+  },
+  {
+    "id": 50,
+    "name": "Condition-bound settlement",
+    "utterance": "Settled if.",
+    "generated": "Distributed conditional settlement",
+    "t": "Settlement",
+    "k": "Distributed",
+    "p": "Bearing",
+    "change": "Settlement becomes determinate through relevant conditions.",
+    "sufficient": "The plurality is resolved on its governing conditional terms.",
+    "remains": "The settlement remains condition-bound.",
+    "scene": "A contract becomes effective only if every condition is met.",
+    "contrast": "49 is recurrence; 50 is conditional constitution.",
+    "visual": "A sequence of interlocked conditional gates.",
+    "silhouette": {
+      "not1": "Not mere repetition,",
+      "not2": "not an operational answer already delivered to every case,",
+      "emerges": "the settlement holds precisely under the conditions that make it valid."
+    }
+  },
+  {
+    "id": 51,
+    "name": "Case settlement",
+    "utterance": "Settled across the cases.",
+    "generated": "Distributed settlement efficacy",
+    "t": "Settlement",
+    "k": "Distributed",
+    "p": "Efficacy",
+    "change": "Outstanding cases receive operative resolution.",
+    "sufficient": "The rule or procedure accounts for the relevant plurality.",
+    "remains": "The system can settle cases as they arise.",
+    "scene": "A workflow resolves each case in its queue.",
+    "contrast": "50 is conditional standing; 51 is completed case-handling efficacy.",
+    "visual": "A stream of individual cases emerging with determinate outputs.",
+    "silhouette": {
+      "not1": "Not a conditional verdict still awaiting each instance,",
+      "not2": "not one final answer taken as sufficient for a field,",
+      "emerges": "the outstanding cases have been effectively disposed of across their plurality."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Transformation release",
+    "utterance": "Still itself.",
+    "generated": "Released settled standing",
+    "t": "Settlement",
+    "k": "Release",
+    "p": "Standing",
+    "change": "An old demand to change something loses its force.",
+    "sufficient": "That requirement no longer governs the completed result.",
+    "remains": "The achieved identity stands without forced alteration.",
+    "scene": "A restored artifact is accepted without further modification.",
+    "contrast": "46 chooses an option; 52 releases the demand to transform.",
+    "visual": "A quiet stable object beneath a dissolved alteration arrow.",
+    "silhouette": {
+      "not1": "Not choosing among still-live alternatives,",
+      "not2": "not understanding the past through a new explanation,",
+      "emerges": "the demand to keep transforming has lost its authority and the achieved identity may stand."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Retrospective settlement",
+    "utterance": "Now it makes sense.",
+    "generated": "Released explanatory bearing",
+    "t": "Settlement",
+    "k": "Release",
+    "p": "Bearing",
+    "change": "A demand for explanation stops governing the past.",
+    "sufficient": "A new relational reading makes what happened intelligible.",
+    "remains": "The settlement lives through the explanatory connections.",
+    "scene": "A late clue makes earlier events cohere.",
+    "contrast": "52 frees from further change; 53 settles through explanatory bearing.",
+    "visual": "Fragments of a timeline connected into one legible pattern.",
+    "silhouette": {
+      "not1": "Not simply declaring the matter closed,",
+      "not2": "not yet freedom from every future obligation,",
+      "emerges": "the demand for explanation ceases to govern because the past now has intelligible bearing."
+    }
+  },
+  {
+    "id": 54,
+    "name": "Continuation discharge",
+    "utterance": "Nothing further is owed.",
+    "generated": "Released settlement efficacy",
+    "t": "Settlement",
+    "k": "Release",
+    "p": "Efficacy",
+    "change": "A demand for further uptake loses its authority.",
+    "sufficient": "Nothing remains owed by way of continuation or re-opening.",
+    "remains": "The achieved freedom to move on is operative.",
+    "scene": "A completed obligation no longer requires follow-up.",
+    "contrast": "53 explains what happened; 54 discharges continued obligation.",
+    "visual": "An unfinished loop opening into an unobstructed horizon.",
+    "silhouette": {
+      "not1": "Not an explanation that finally satisfies curiosity,",
+      "not2": "not one more continuation owed by the old demand,",
+      "emerges": "the claim for further uptake has lost force: one can truly move on."
+    }
+  }
+]</script><script>
+'use strict';const DATA=JSON.parse(document.getElementById('data').textContent);const $=x=>document.getElementById(x);const familyNames=['Differentiation','Opening','Relating','Repair','Integration','Settlement'];const pal=[['#d3b379','#84e0bc'],['#e3c08d','#71bfd0'],['#caa9dd','#86ddc7'],['#f1aa8c','#a0d8c2'],['#bedca7','#8bbccf'],['#d4c1a5','#88d7ca']];let idx=0,flipped=false,filter='All';const state=()=>DATA[idx];function circ(x,y,r,fill,extra=''){return `<circle cx="${x}" cy="${y}" r="${r}" fill="${fill}" ${extra}/>`}function line(x,y,X,Y,stroke,w=2,extra=''){return `<path d="M${x} ${y} L${X} ${Y}" stroke="${stroke}" stroke-width="${w}" stroke-linecap="round" fill="none" ${extra}/>`}function visual(d){let f=Math.floor((d.id-1)/9),j=(d.id-1)%9,top=Math.floor(j/3),pm=j%3,n=d.id,[a,b]=pal[f],cx=230,cy=134;let s=`<defs><radialGradient id="h"><stop stop-color="${b}" stop-opacity=".25"/><stop offset="1" stop-color="${b}" stop-opacity="0"/></radialGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="${a}"/><stop offset="1" stop-color="${b}"/></linearGradient></defs><circle cx="230" cy="134" r="127" fill="url(#h)"/>`;
+// Family-specific visual grammar, varied by topology/persistence and cell seed.
+if(f===0){if(top===0){s+=circ(cx,cy,pm===0?35:23,'none',`stroke="${a}" stroke-width="2"`);for(let q=0;q<14;q++){let x=45+(q*71+n*9)%365,y=35+(q*43+n*13)%190;if(Math.hypot(x-cx,y-cy)>51)s+=circ(x,y,2.3,'#456a72')}if(pm===1)s+=circ(cx+53,cy,25,'none',`stroke="${b}" stroke-dasharray="4 7"`)+line(cx+28,cy,cx+72,cy,b,2);if(pm===2)s+=line(cx+35,cy,cx+128,cy,a,4)+`<path d="M350 125l12 9-12 9" fill="none" stroke="${a}" stroke-width="3"/>`;}else{for(let q=0;q<9;q++){let x=82+(q%3)*145,y=64+Math.floor(q/3)*70;s+=`<rect x="${x-24}" y="${y-24}" width="48" height="48" rx="8" fill="${q===n%9?a:'#243e48'}" stroke="${b}" stroke-opacity=".55"/>`;if(pm===2)s+=line(x+18,y,x+36,y+15,b,2)}if(top===2)s+=`<path d="M55 25L405 243" stroke="${a}" stroke-opacity=".3" stroke-width="10" stroke-dasharray="8 24"/>`;}}
+if(f===1){s+=line(55,cy,155,cy,b,3);if(top===0){s+=circ(160,cy,11,a);for(let q=0;q<2+pm;q++)s+=line(170,cy,350,cy+(q-1)*63,a,3)}else{for(let q=0;q<4+pm;q++){let yy=40+q*40;s+=`<path d="M90 134 Q${160+q*16} ${yy} 380 ${yy}" fill="none" stroke="${q%2?a:b}" stroke-width="3"/>`}}if(top===2)s+=`<rect x="230" y="15" width="11" height="238" rx="3" fill="#172d37" stroke="${a}" stroke-dasharray="7 11" opacity=".6"/>`}
+if(f===2){let count=top===0?2:top===1?5:9;for(let q=0;q<count;q++){let an=q*2*Math.PI/count-.8,r=top===0?105:86,x=cx+Math.cos(an)*r,y=cy+Math.sin(an)*r;s+=circ(x,y,10,q%2?a:b);if(q){}s+=line(x,y,cx,cy,b,1.5,`opacity=".65"`)}s+=circ(cx,cy,top===0?9:20,'none',`stroke="${a}" stroke-width="3"`);if(pm===2)s+=`<circle cx="230" cy="134" r="58" fill="none" stroke="${b}" stroke-width="3" stroke-dasharray="24 10"/>`;if(top===2)s+=`<path d="M76 49Q230 -30 384 49" fill="none" stroke="${a}" stroke-opacity=".25" stroke-dasharray="5 12" stroke-width="10"/>`}
+if(f===3){for(let q=0;q<6;q++){let x=78+q*60,off=(q===pm+1)?30:0;s+=line(x,66+off,x,194-off,q===pm+1?a:b,5);s+=circ(x,66+off,5,a)}s+=line(55,195,404,195,a,2);if(top===0)s+=circ(78+(pm+1)*60,134,50,'none',`stroke="${a}" stroke-width="2"`);if(top===2)s+=`<path d="M40 215L420 51" stroke="${a}" opacity=".5" stroke-width="8" stroke-dasharray="7 16"/>`}
+if(f===4){let count=top===0?7:12;for(let q=0;q<count;q++){let an=q*2*Math.PI/count,r=top===0?89:100,x=cx+Math.cos(an)*r,y=cy+Math.sin(an)*r;s+=line(x,y,cx,cy,b,top===0?2.5:1.6);s+=circ(x,y,7,q%3===0?a:b)}s+=circ(cx,cy,pm===2?25:12,a);if(pm===1)s+=`<circle cx="230" cy="134" r="108" fill="none" stroke="${a}" stroke-opacity=".7" stroke-width="2"/>`;if(top===2)s+=`<path d="M68 20L390 242" stroke="${b}" stroke-opacity=".25" stroke-width="18" stroke-dasharray="7 25"/>`}
+if(f===5){for(let q=0;q<5;q++){let x=60+q*85;s+=circ(x,cy,13,q===4?a:'#38616a');if(q<4)s+=line(x+15,cy,x+67,cy,b,2.5)}s+=circ(400,cy,28,'none',`stroke="${a}" stroke-width="3"`);if(top===1)for(let q=0;q<4;q++)s+=line(80+q*85,cy-15,80+q*85,cy-60,a,1.5);if(top===2)s+=`<path d="M210 42L210 225" stroke="${a}" stroke-opacity=".35" stroke-width="11" stroke-dasharray="8 14"/>`;if(pm===2)s+=`<path d="M407 108l13 26-13 26" fill="none" stroke="${b}" stroke-width="3"/>`}
+// Distinct and legible per-cell detail: 54 placements alter a constellation of tiny markers.
+for(let q=0;q<3;q++){let x=70+((n*37+q*89)%318),y=27+((n*23+q*71)%210);s+=circ(x,y,1.8,a,`opacity=".6"`)}return `<svg role="img" aria-label="${escapeHtml(d.visual)}" viewBox="0 0 460 268" xmlns="http://www.w3.org/2000/svg">${s}</svg>`}
+function escapeHtml(s){return String(s).replace(/[&<>"']/g,x=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[x]))}function render(){let d=state(),n=String(d.id).padStart(2,'0');$('counter').textContent=n+' / 54';$('familyTop').textContent=d.t;$('progress').style.width=(d.id/54*100)+'%';$('frontNo').textContent=$('backNo').textContent='CELL '+n;$('frontCoord').textContent=d.k+' · '+d.p;$('family').textContent=d.t;$('name').textContent=$('backName').textContent=$('guideName').textContent=d.name;$('utterance').textContent='“'+d.utterance+'”';$('scene').textContent=$('guideScene').textContent=d.scene;$('not1').textContent=d.silhouette.not1;$('not2').textContent=d.silhouette.not2;$('emerges').textContent=$('frontEmerge').textContent=d.silhouette.emerges;$('change').textContent=$('guideChange').textContent=d.change;$('sufficient').textContent=$('guideSufficient').textContent=d.sufficient;$('remains').textContent=$('guideRemains').textContent=d.remains;$('contrast').textContent=$('extraContrast').textContent=d.contrast;$('generated').textContent=d.generated;$('extraGenerated').textContent=d.generated;$('visualText').textContent=d.visual;$('guideCoord').textContent=d.t+' × '+d.k+' × '+d.p;$('axes').innerHTML=[d.t,d.k,d.p].map(s=>'<span class="chip">'+s+'</span>').join('');$('tagT').textContent=d.t;$('tagK').textContent=d.k;$('tagP').textContent=d.p;$('visual').innerHTML=visual(d);$('card').classList.toggle('flipped',flipped);$('card').style.setProperty('--accent',pal[Math.floor(idx/9)][0]);$('card').style.setProperty('--a2',pal[Math.floor(idx/9)][1]);history.replaceState(null,'','#'+n);document.querySelectorAll('.tile').forEach(t=>t.classList.toggle('active',Number(t.dataset.id)===d.id))}function go(i,scroll=false){idx=(i+54)%54;flipped=false;render();if(scroll)document.querySelector('.deckside').scrollIntoView({behavior:'smooth',block:'start'})}function flip(){flipped=!flipped;render()}$('flip').onclick=flip;$('turnFront').onclick=e=>{e.stopPropagation();flip()};$('turnBack').onclick=e=>{e.stopPropagation();flip()};$('visual').style.cursor='pointer';$('next').onclick=()=>go(idx+1);$('prev').onclick=()=>go(idx-1);$('browse').onclick=()=>$('atlas').scrollIntoView({behavior:'smooth'});$('detailsToggle').onclick=()=>{let open=!$('extra').classList.contains('visible');$('extra').classList.toggle('visible',open);$('detailsToggle').setAttribute('aria-expanded',String(open));$('detailsToggle').textContent=open?'Hide neighbour contrast −':'Compare the neighbouring form +'};let start=null,ignoreClick=false;$('card').setAttribute('role','button');$('card').setAttribute('tabindex','0');$('card').setAttribute('aria-label','Flip card by tapping anywhere');$('card').addEventListener('click',e=>{if(ignoreClick){ignoreClick=false;return}if(e.target.closest('button'))return;flip()});$('card').addEventListener('keydown',e=>{if(e.target!==$('card'))return;if(e.key==='Enter'||e.key===' '){e.preventDefault();flip()}});$('gesture').addEventListener('pointerdown',e=>{start={x:e.clientX,y:e.clientY}});$('gesture').addEventListener('pointerup',e=>{if(!start)return;let dx=e.clientX-start.x,dy=e.clientY-start.y;start=null;if(Math.abs(dx)>52&&Math.abs(dx)>Math.abs(dy)*1.25){ignoreClick=true;go(idx+(dx<0?1:-1));setTimeout(()=>ignoreClick=false,350)}});$('gesture').addEventListener('pointercancel',()=>start=null);document.addEventListener('keydown',e=>{if(['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName))return;if(e.key==='ArrowRight')go(idx+1);if(e.key==='ArrowLeft')go(idx-1)});const filters=['All',...familyNames];filters.forEach(label=>{let b=document.createElement('button');b.textContent=label;b.onclick=()=>{filter=label;refreshTiles()};$('filters').append(b)});$('search').addEventListener('input',refreshTiles);function refreshTiles(){let q=$('search').value.trim().toLowerCase();Array.from($('filters').children).forEach(b=>b.classList.toggle('selected',b.textContent===filter));$('tiles').replaceChildren();let subset=DATA.filter(d=>(filter==='All'||d.t===filter)&&(!q||[d.name,d.t,d.k,d.p,d.utterance,d.generated,String(d.id)].join(' ').toLowerCase().includes(q)));for(let d of subset){let b=document.createElement('button');b.className='tile'+(d.id===idx+1?' active':'');b.dataset.id=d.id;b.innerHTML=`<span class="n">${String(d.id).padStart(2,'0')} · ${escapeHtml(d.k)} / ${escapeHtml(d.p)}</span><strong>${escapeHtml(d.name)}</strong><small>${escapeHtml(d.utterance)}</small>`;b.onclick=()=>go(d.id-1,true);$('tiles').append(b)}if(!subset.length)$('tiles').textContent='No matching forms.'}let initial=Number(location.hash.slice(1));if(initial>=1&&initial<=54)idx=initial-1;refreshTiles();render();
+</script></body></html>
