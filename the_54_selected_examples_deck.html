@@ -95,10 +95,33 @@ function flip(){state.flipped=!state.flipped;$('card').classList.toggle('flipped
 function go(delta){const next=Math.max(0,Math.min(53,state.index+delta));if(next===state.index)return;state.index=next;render();$('flip').textContent='Flip ↻';}
 function jump(n){if(!Number.isInteger(n)||n<1||n>54)return;state.index=n-1;render();$('flip').textContent='Flip ↻';}
 function buildIndex(){const jumpbox=$('jump');jumpbox.replaceChildren();for(const c of state.cells){const option=document.createElement('option');option.value=String(c.n);option.textContent=String(c.n).padStart(2,'0')+' — '+c.name;jumpbox.append(option);const tile=document.createElement('button');tile.type='button';tile.dataset.cell=String(c.n);const title=document.createElement('span'),sub=document.createElement('small');title.textContent=String(c.n).padStart(2,'0')+' · '+c.name;sub.textContent=c.family;tile.append(title,sub);tile.addEventListener('click',()=>{jump(c.n);document.querySelector('.browser').open=false;window.scrollTo({top:0,behavior:'smooth'});});$('grid').append(tile);}}
-function setup(){ $('prev').addEventListener('click',()=>go(-1));$('next').addEventListener('click',()=>go(1));$('flip').addEventListener('click',flip);$('jump').addEventListener('change',e=>jump(Number(e.target.value)));$('card').addEventListener('click',e=>{if(e.target.closest('.scrollarea'))return;flip();});
- $('card').addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();flip();}});
+function setup(){
+ const card=$('card');let touchStart=null,mouseStart=null,suppressClick=false;
+ function navigateGesture(dx,dy){
+  if(Math.abs(dx)<45||Math.abs(dx)<Math.abs(dy)*1.15)return false;
+  suppressClick=true;
+  go(dx<0?1:-1);
+  return true;
+ }
+ $('prev').addEventListener('click',()=>go(-1));$('next').addEventListener('click',()=>go(1));$('flip').addEventListener('click',flip);
+ $('jump').addEventListener('change',e=>jump(Number(e.target.value)));
+ // A horizontal swipe also works when it starts over the scrollable list.
+ // Touchend still fires on mobile browsers that cancel a pointer gesture to manage page scrolling.
+ card.addEventListener('touchstart',e=>{if(e.touches.length!==1){touchStart=null;return;}const t=e.touches[0];touchStart={x:t.clientX,y:t.clientY};},{passive:true});
+ card.addEventListener('touchend',e=>{
+  if(!touchStart||e.changedTouches.length!==1)return;
+  const t=e.changedTouches[0],dx=t.clientX-touchStart.x,dy=t.clientY-touchStart.y;
+  touchStart=null;
+  if(navigateGesture(dx,dy)){e.preventDefault();}
+ },{passive:false});
+ card.addEventListener('touchcancel',()=>touchStart=null,{passive:true});
+ // Trackpad users can use arrows; desktop users can also drag a card horizontally.
+ card.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse'&&e.button===0)mouseStart={x:e.clientX,y:e.clientY};});
+ card.addEventListener('pointerup',e=>{if(!mouseStart||e.pointerType!=='mouse')return;const dx=e.clientX-mouseStart.x,dy=e.clientY-mouseStart.y;mouseStart=null;if(navigateGesture(dx,dy))e.preventDefault();});
+ card.addEventListener('pointercancel',()=>mouseStart=null);
+ card.addEventListener('click',e=>{if(suppressClick){suppressClick=false;e.preventDefault();e.stopPropagation();return;}if(e.target.closest('.scrollarea'))return;flip();});
+ card.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();flip();}});
  window.addEventListener('keydown',e=>{if(e.target.closest('input,select,button'))return;if(e.key==='ArrowRight')go(1);else if(e.key==='ArrowLeft')go(-1);});
- let start=null;const card=$('card');card.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse')return;start={x:e.clientX,y:e.clientY};});card.addEventListener('pointerup',e=>{if(!start)return;const dx=e.clientX-start.x,dy=e.clientY-start.y;start=null;if(Math.abs(dx)>65&&Math.abs(dx)>Math.abs(dy)*1.35){go(dx<0?1:-1);e.preventDefault();}});card.addEventListener('pointercancel',()=>start=null);
  $('search').addEventListener('input',e=>{const q=e.target.value.toLowerCase().trim();for(const b of $('grid').children){const c=state.cells[Number(b.dataset.cell)-1];b.hidden=!!q&&!((c.n+' '+c.name+' '+c.family).toLowerCase().includes(q));}});
 }
 (async function init(){try{const response=await fetch(source,{cache:'no-cache'});if(!response.ok)throw Error('HTTP '+response.status);state.cells=parse(await response.text());buildIndex();setup();const requested=Number(location.hash.slice(1));state.index=Number.isInteger(requested)&&requested>=1&&requested<=54?requested-1:0;render();window.addEventListener('hashchange',()=>{const n=Number(location.hash.slice(1));if(n>=1&&n<=54)jump(n);});}catch(e){const el=$('error');el.hidden=false;el.textContent='Could not load the complete 486-example atlas. '+e.message;$('count').textContent='Atlas unavailable';console.error(e);}})();
