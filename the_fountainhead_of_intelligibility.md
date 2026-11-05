@@ -1829,3 +1829,154 @@ On the table beside you there may be a book, a cup, a device, a letter not yet a
 The page does not demand that you stop here. It has brought one movement far enough to leave another possible, and the difference between those two achievements is already something you can recognize. The next reading will not begin from precisely the same place. Some distinctions are already easier to notice; others will come forward as the circumstances of attention change.
 
 A person turns back to the beginning of a paragraph, not because the paragraph failed, but because a word near its end has changed what the earlier sentence now allows her to see.
+
+
+## LXXXVII. The Word That Arrives Later
+
+She reads the paragraph again. This time a word near the beginning seems to have acquired a different weight. It was there on the first reading. She can point to its letters; she has not discovered a new sentence hidden beneath the old one. Yet what she is able to understand through it has changed.
+
+There are changes that require the object to alter and changes that require a new relation to become available. They are easy to confuse because both can be experienced as something happening now. A photograph turns pale in sunlight. That is an alteration of the object. A photograph of an unfamiliar street becomes recognizable after you have walked along it. The paper may be exactly as it was, while the street on it now bears upon a place you know. The second experience is not merely a different feeling about the same picture. Something has become intelligible in a relation that was unavailable before.
+
+The reader returns to the first sentence and discovers that it was preparing a question she did not know to ask. There was a name, then a description, then a modest reference to a time of day. At the end she learned that the person named had been waiting for someone who never arrived. Now the reference to the late afternoon matters. The day was not merely progressing; it was being spent in expectation. The earlier sentence has not been retrospectively rewritten, yet it has become able to bear a significance it did not carry for this reader on first encounter.
+
+If the sentence had been incomplete, the second reading might supply its missing grammatical end. That is not what has happened. It landed the first time. We should not strip it of its achieved determination simply because later knowledge makes a richer reading possible. The later sentence has accomplished something of its own. It has established a relation through which the earlier one can now be taken up differently.
+
+A child hears a similar difference in a story whose heroine gives away her last piece of bread to a stranger. The act is intelligible when it occurs. Perhaps it seems kind, or foolish, or both. Several pages later the stranger returns and leads the heroine through a mountain pass. The earlier gift becomes part of an unfolding relation of assistance and return. Yet it was not necessary to wait for the return before the giving could be understood as giving. Nor is the later rescue the proof that the original act was right. A tale can invite us to recognize a generous possibility without converting goodness into a transaction guaranteed to pay.
+
+Here the inheritance of narrative is particularly delicate. Children may learn that kindness makes further help imaginable, that a seemingly insignificant encounter can bear upon a later difficulty, that what we are able to do now can change the range of what follows. These are lessons in the intelligible shape of continuation. They are not empirical promises that every kindness will be rewarded. A story becomes a poor guide to the world if its imaginative justice is mistaken for a mechanical law of events.
+
+The reader closes the book for a moment and looks across the room. There is a cup on the table, a plant near the window, a coat hung behind the door. The room has not become a demonstration. It is simply there, as rich and ordinary as before. She notices that the plant has put out a pale new leaf. She cannot say when it began. Yesterday she noticed only the dry edge of an older one. Both belong to the plant; attending to the new leaf need not deny the dry edge. But the plant is now present to her as an activity rather than as one fixed condition.
+
+She moves it a little nearer the light. This may help it grow; it may not be enough, or the light may prove too strong. What matters immediately is that a recognizable possibility has entered practical reach. The change of attention has not compelled the plant to flourish. It has made a next act available, and that act can meet the plant's actual conditions.
+
+Then she opens the book again. The reread sentence is no longer merely an account of waiting. It has become an example of how one moment can remain complete while a later moment alters its available bearing. The book did not have to announce that fact. She has recognized it in following what the sentence did.
+
+## LXXXVIII. The Basket at the Door
+
+Early one morning a person leaves a small basket outside a neighbour's door. Inside are apples from a tree that has produced more fruit than one household can eat. A note says, “Please take some if you would like them.” The giver goes home without waiting to discover whether the basket will be emptied.
+
+From the neighbour's side, the basket is an offering and an option. It is not a demand to be grateful, a contract of exchange, or an instruction to eat an apple. The condition is light but real: the fruit is there for taking, should the neighbour want it. The distinction between making something available and requiring its uptake is part of the generosity of the act.
+
+A child coming downstairs notices the basket. “Someone has left us apples,” she says. Her parent reads the note. The child takes one. Nothing has changed about the remaining apples, yet the basket now holds one fewer. The act of taking is a particular completion within a larger opening that continues to be available. Another person can still choose, and there is no need to decide in advance who that person will be.
+
+At noon the giver sees that the basket is nearly empty. She is pleased, not simply because her own problem of surplus has been solved, but because the fruit has found a use beyond the boundaries of her kitchen. That pleasure is not evidence that the apples reached everyone who needed them. She knows only that some were taken. It is possible to appreciate a good occurrence precisely without inflating it into a general assurance about the world.
+
+The neighbour later leaves a jar of jam in return. The giver laughs at the unexpected exchange, but she does not begin to regard her original gift as an investment. The jar is another event. It can be received as thanks without becoming the condition that made the giving worthwhile. If no jar had appeared, the initial act would still have made apples available. Some forms of sufficiency are altered by later relations; others remain what they were even when the larger story takes a different course.
+
+The basket itself has a modest geometry. The apples occupy different positions. The ones at the bottom hold the weight of the ones above. A bruised apple may spoil if left too long in warmth. Giving them away in several small baskets might increase the number of people able to take some, while leaving the particular quantity of fruit unchanged. Different arrangements offer different possibilities of distribution. Their effectiveness cannot be judged from the total alone.
+
+Suppose a person brings a basket to a gathering and places it on a table that everyone can see but only a few can reach. The intention to share has been expressed. The practical capacity to share has not been fully realized. Moving the basket to an accessible place may make the intended opening operative for more of the people present. A statement that something is available and the conditions under which it is actually reachable have to meet.
+
+A mathematician could describe a distribution by a function assigning quantities to recipients. In one problem, equal portions might be the aim. In another, everyone must receive at least one apple. In another, the goal might be to minimize waste before the fruit spoils. Each creates a different demand, and each admits different forms of sufficient solution. An equation can clarify the problem, but only after the relevant purpose has been specified. Mathematics does not decide by itself whom the giver ought to include, or what hospitality means.
+
+The child who took the first apple asks whether she may leave the last two for the people next door. Her parent agrees. The child carries them over. She has not found a new source of fruit; she has recognized a further possible course for what remained. One gift has not guaranteed another, but it has made another intelligible.
+
+In the evening the original giver retrieves the empty basket. There is no need to keep asking whether the first offering was accepted. That undertaking is over. Yet the small chain of events is not closed as a story of relations among neighbours. They may remember it the next time someone has too much of something, or needs help, or merely wishes to make a pleasant gesture. The remembered basket can become a resource for recognizing what can be done in another circumstance.
+
+There is no necessity in that future. The apples may be forgotten. The neighbours may move away. Still, nothing in the uncertainty makes the present exchange less real. One possible good has been accomplished. It remains available as something that happened, and perhaps as a form that can be taken up again.
+
+## LXXXIX. The Square Made of Smaller Squares
+
+A teacher draws a square and divides it into four equal smaller squares. She asks the children whether the total area changes when the little squares are coloured separately. Some say no at once. Others hesitate, because the lines have made the original square appear to contain more things.
+
+A child carefully colours the four regions. She sees that no part of the large square remains uncovered and that no coloured region lies outside it. The boundaries introduce distinctions within the figure without adding area to it. What is counted as four regions is still held within one whole. The recognition depends on what the partition does, and on what it does not do.
+
+The teacher draws the same square on a transparent sheet and lays it over a different division of the plane. The pieces are no longer all the same shape. She asks whether the area can still be found by adding the areas of the pieces. The children need a condition: the pieces must cover the square without leaving gaps and without overlapping in areas that would be counted twice. It is not the beauty of a tessellation that guarantees the sum. It is the relation between the parts and the whole under the measure being used.
+
+Later, in more formal mathematics, one can establish finite additivity for suitable disjoint regions, and in appropriate settings extend the account to much larger collections. But a careful proof will preserve its hypotheses. It will not take the intuitive act of colouring a finite square and quietly treat it as a proof for every imaginable division of every imaginable set. The general result must earn its generality.
+
+There is another useful question. Suppose the teacher cuts a small square out of the middle. The four corner pieces can still be arranged neatly on the table, but their areas no longer total the original square's area unless the missing centre is included in the account. The visual appearance of a tidy whole cannot conceal the missing part. An appropriate measure makes the remainder determinate.
+
+The children are learning to distinguish an intact arrangement from a completed account of its parts. The first may be pleasant to see. The second requires that nothing relevant be left unreckoned. A beautifully drawn diagram can fail a proof, while a rough sketch can correctly direct attention to the necessary relation.
+
+One child turns a small triangular piece upside down and finds that it fits into a gap made by two others. The discovery pleases her. It is a new fit, not simply a new count. She begins trying other placements, and the teacher lets the work continue. A correction that places one piece exactly may belong to a different achievement from a configuration in which all pieces fit consistently. If the whole puzzle requires several joints to meet, an individually correct-looking position may still be wrong for the arrangement.
+
+Outside school, the same child helps lay paper shapes on a window for a festival. She recognizes that a bright yellow piece becomes more noticeable beside a dark blue one. Its colour has not changed. Its standing within the visual field has. She may move the pieces to create an alternating rhythm and discover that the whole window gains a pattern not present in a mere pile of separate shapes. Later the sun passes behind a cloud, and the window looks different again. The object, its arrangement and the conditions of its appearance participate in distinct but connected determinations.
+
+A mathematical relationship can sometimes free us from a misleading presentation. A figure turned sideways may look unfamiliar, yet a rotation preserving distances and angles does not alter its congruence class. A graph with vertices moved around the page may retain all its adjacencies. A statement written with different bound variable names may express the same logical form. In each case the release from an incidental feature is not an excuse to ignore the features that constitute identity. A rotation need not preserve the direction of an arrow relative to the room; a relabelling must preserve the graph's edges; changing a variable name must avoid changing what the variable is bound to.
+
+The teacher asks one last question before the class leaves. “If I draw more lines, have I made more square?”
+
+The children laugh, and one says no. Then another adds, “You've made more parts.” Both answers can stand. Their difference is not a problem to be resolved by choosing one and discarding the other. A new articulation has arisen within an unchanged area. The square has become available under more than one question.
+
+The teacher erases the board. The relationships do not evaporate with the chalk. But tomorrow's explanation will have to find fresh marks or words through which the children can enter them again. What remains established in mathematics and what remains present to a particular learner are not identical, even when the one helps sustain the other.
+
+## XC. The Door Left Unlatched
+
+In the afternoon a woman arrives at a community hall where several people are preparing a meal. She has offered to help, but the door is closed. She tries the handle and finds that it opens. There is a difference between an entrance that looks welcoming and one through which a person can actually pass. Here the passage works. She steps inside and hears voices from the kitchen.
+
+One volunteer is chopping vegetables; another is checking a list of people who requested meals; a third is waiting for a delivery. The woman asks what needs doing. Someone points to a stack of clean containers. “Could you put lids on those?” The request is definite enough for her to begin, but after placing three lids she discovers that two sizes are mixed together. A lid can rest on a container without sealing it. The work requires a fit whose adequacy becomes evident under a little pressure.
+
+She separates the lids by size. This is not yet the same as making the containers ready. It makes the relevant differences apparent and supports the next action. She tries each correct lid and places the sealed container in a row. The arrangement becomes progressively more capable of carrying food. One may see the work changing at several scales without declaring every completed step identical.
+
+The delivery arrives late, and the kitchen has to alter its sequence. At first the volunteers had planned to cook one large dish, portion it, and send it out. Now they decide to prepare the side dishes while the main ingredients are still in transit. Their work does not become meaningless because the original schedule has failed. A new course can be found within what remains available. But the new plan must answer to food safety, time and actual capacity; optimism alone will not cook the meal.
+
+A volunteer notices that the person packing containers is beginning to run out of space. She clears a table without being asked. This small recognition changes the next several movements. The packer no longer has to pause while someone finds room for each completed portion. A single improvement in the environment can become operative across a sequence of actions. Its efficacy lies not in the pleasure of having a neat table but in the continuation it permits.
+
+Soon the room begins to work with greater ease. People are not doing the same thing. They occupy complementary roles, adjust their timing and take account of the work passing between them. The whole has a practical competence that cannot be supplied by any one person's task alone. If the cook finishes the food while the delivery addresses remain unknown, the undertaking is not yet ready to proceed. If the driver has a complete list but the containers leak, another relation fails. The success of the group involves a connected sufficiency across its indispensable handovers.
+
+At the far end of the room two volunteers disagree about the order of deliveries. One wants to visit the nearest addresses first. Another knows that a recipient must receive food before leaving for an appointment. A route minimizing distance is not automatically the route that meets the actual conditions of the task. A mathematical model can help compare travel costs and deadlines, but the relative importance of those demands must be made explicit. The best route is not a property that can be attached to a list of streets independently of the undertaking.
+
+They reconsider the order, check the times, and agree on a workable course. The correction is not merely a new opinion. They have changed the schedule so that the relevant constraints can be met together. When the driver leaves, a plan has passed into execution. The kitchen continues preparing other meals, and the group remains able to answer messages if conditions change.
+
+One person comes back from a delivery and says that the recipient was not at home. A good plan has encountered a circumstance it could not guarantee in advance. The group phones the recipient, learns where the food can be safely left, and acts accordingly. The completed delivery requires an actual handover under the agreed conditions. A box placed at an arbitrary doorstep would not count as the same success merely because it had left the kitchen.
+
+A newcomer watching the work may think the volunteers are unusually fortunate that everything keeps finding a way forward. The participants might describe it more modestly. They attend to what has become possible, notice what is already in place, correct what does not fit, and remain willing to revise a route. Some afternoons their work will not go smoothly. Their care does not command events. Yet their ability to recognize small resources and act upon them is one real reason that more can be done than their first difficulty suggested.
+
+The last container is packed. A table is wiped; a light is switched off. Another volunteer asks whether the hall is ready for tomorrow. It has been cleared, and the equipment is stored, but the delivery list for the next day has not yet arrived. The room can be ready in one respect and waiting in another. No one needs to force those two conditions into a verdict of success or failure for the whole day.
+
+The woman leaves by the door through which she entered. This time she checks that it is latched. The available entrance has served its purpose. Securing the building now matters. What counted as a proper opening in the afternoon need not count as the proper condition when everyone has gone home. The environment has changed its practical demands without ceasing to be intelligible.
+
+## XCI. A Sentence About Tomorrow
+
+Someone says, “Tomorrow will be easier.”
+
+The sentence is easy to understand. Whether it is true remains unsettled. It may be encouragement, prediction, hope, or a reassurance offered without sufficient grounds. The words have completed an utterance; tomorrow has not yet occurred. If we attend to the sentence as an event of language, its completion cannot be borrowed from the future it depicts.
+
+Now consider, “Tomorrow may be easier if we begin with the part we already know how to do.” The statement does not promise a better day. It identifies a possible route under a condition and gives the speakers something they can test. The difference between the two utterances is not that one is optimistic and the other cautious. It is that the second has made a relation between an available capacity and a possible continuation explicit.
+
+The person addressed might answer, “We could begin with the measurements.” A next move becomes available. They can check the dimensions of the room before moving furniture, gather the supplies already on hand before ordering more, or read the information they have before guessing about what they lack. The proposed action may reveal further difficulties. It may also reveal that some anticipated obstacle does not arise. Both outcomes can advance an intelligible undertaking.
+
+A mind preoccupied by everything unfinished can sometimes treat the entire situation as though it consisted only of its deficiencies. That is understandable when demands are pressing. There may be real failures, painful losses or circumstances beyond anyone's control. To suggest that a person could change them all by looking elsewhere would be neither kind nor exact. But attention can become too narrow for its own practical purposes. The broken latch may occupy the whole scene while the unbroken window, the available phone, the neighbour willing to help, or the repair instructions on the table remain unnoticed.
+
+Recognizing one usable condition does not cancel the broken latch. It changes the field in which the latch can be dealt with. A call can be made. A temporary measure can be arranged. Someone may discover that the door can be secured from inside until the proper repair is possible. These are contingent achievements, and their significance lies partly in being real rather than merely wished for.
+
+There is a modest freedom in saying, “This is where we are now,” without allowing *now* to become a permanent judgment upon the whole of what follows. The phrase can be exact about the present. It need not imply that the present is the final form of the situation. A task is not complete merely because it is becoming; neither is it hopeless merely because it is unfinished.
+
+The same discipline appears in proof. Suppose a mathematician has established a lemma but does not yet see how to derive the desired theorem. The lemma is not nothing. It remains a valid determination within its assumptions. The mathematician may look for where it can be used, whether another lemma can be proved, or whether the theorem must be changed. A failed attempt does not diminish the truth of what was genuinely established. At the same time, the established lemma does not guarantee that the theorem will follow. Its standing and its possible further bearing must both be respected.
+
+In a story, a traveller reaches a crossroads after losing the path. The tale may linger there. Three roads are visible; a stranger is approaching; evening is falling. The traveller has more than one possible continuation, but not enough information to know which is safe. A fairy tale may reward a choice of kindness or courage. A careful reader can recognize the narrative significance of the choice without confusing it with a universal forecast. What stories hand down is often a way of becoming attentive to possibility while risk remains real.
+
+The traveller speaks to the stranger. The stranger knows the road to the village, but only as far as a bridge damaged by the rain. The answer is partial, and usefully so. It advances the undertaking without pretending to settle its whole course. The traveller can reach the bridge and inspect it. Perhaps another crossing will be needed. It is possible to proceed adequately from one achieved understanding to another without possessing the end of the journey at the beginning.
+
+The sentence “Tomorrow will be easier” returns in a different light. We may still wish to say it, and sometimes we are right. But a richer sentence may be one that does not need to assert tomorrow's obedience: “There is something here we can begin with.” It speaks to what has actually become available. It permits anticipation to grow from a recognized condition rather than requiring the future to fulfill our reassurance.
+
+As you read, the relation is being made available through examples that do not all share one destination. The mathematician may change the theorem. The volunteers may correct the route. The child may find a fresh game when the field is flooded. The plant may need different light. Their developments do not amount to a hidden law that every event improves. They show how a continuing world can remain open to achieved differences, some of which are good, some difficult, and some not yet understood.
+
+The next moment may make another resource apparent. It may also ask for an honest acknowledgment that none is presently sufficient. Both recognitions belong to the environment of intelligibility, and either can guide what comes next.
+
+## XCII. The One Who Notices the Light
+
+A person enters a room in which a friend has been working for several hours. The friend is tired, and a sheet of calculations lies unfinished beside an empty cup. The visitor does not know whether to speak. She notices that the afternoon light has reached the far wall and made the room gentler than it was in the morning.
+
+“It is brighter in here now,” she says.
+
+The friend looks up. Nothing in the calculations has changed, but the sentence directs attention toward something true that had been present without being noticed. The friend turns toward the window. For a little while they watch the light.
+
+One might say that attention has moved from a failure to a good thing. That is a rough description. The calculations were not a failure merely because they were unfinished. The light is not a solution to them. What has changed is the room's immediate intelligibility for these two people. The work no longer occupies every available part of the moment. Something else has been allowed to become present.
+
+The visitor sees that the friend has made progress in the calculations. Several lines have been checked and a complicated expression simplified. The final answer remains unavailable, but the work is not where it was at the beginning of the afternoon. The friend can now begin from a result that earlier had to be established. The visitor asks whether this is the right line, and the friend explains why it is.
+
+During the explanation the friend notices a term she had overlooked. It appears in the denominator of a fraction and determines where the expression is defined. The missing condition does not undo every previous step, but it changes the range over which the current result may stand. The friend marks the restriction and begins to reconsider the next move.
+
+A small success has led toward a difficulty. We should not say that the attention to something good has made only good things appear. It has made a more exact field of work available. The overlooked condition is a genuine obstacle to a careless general claim, and recognizing it is itself a valuable achievement. One may be pleased to discover an error before relying upon it. The error has not become good by being noticed; the improved understanding has made its correction possible.
+
+They try a simple case. The expression behaves as expected there. They try a boundary case, and it fails under the old formulation. The friend sees what must be revised. The next hour may still be hard. Yet the task has acquired a better shape: it is no longer an indefinite sense of being stuck, but a definite question about a condition and a possible method of meeting it.
+
+The visitor offers to make tea. The friend says yes. The offer is not a proof and does not need to be one. It is a small act of care in the same afternoon as the mathematics. The visitor fills the kettle, and the friend writes another line. Both activities become present in the time that passes. The room is not a diagram in which each detail has to justify its inclusion by serving the argument.
+
+When the tea is ready, the friend sets down the pencil. The calculations can be resumed. Nothing compels an immediate conclusion. The work has acquired further determinations; the room has acquired the smell of tea. Outside, a cloud crosses the sun, and the bright patch moves from the wall to the edge of the desk.
+
+The visitor notices the change and says nothing. There is no need for a new sentence simply because another thing has become visible. The friend takes the cup and turns the paper over to find a clean space. On the reverse is the beginning of an earlier attempt, written before the present difficulty was understood. She reads the first line again.
+
+This time she sees why it might be useful.
