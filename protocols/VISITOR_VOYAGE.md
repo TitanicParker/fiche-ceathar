@@ -1,8 +1,8 @@
 # Fiche Ceathar — The Continuing Investigation
 
-**Living guide and argument ledger · Edition 4 · 5 November 2026**
+**Living guide and argument ledger · Edition 5 · 5 November 2026**
 
-**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 4): read *Socratia* deeply, establish the local frontier at Chapter XVII, and propose only the next Socratic chapter.** No contribution automatically becomes canonical; the author reviews it first.
+**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 5): use *Socratia* as a cumulative microscope and reciprocal microscope—establish what its prior inquiry has earned, reason from those established distinctions, and propose the next Socratic chapter.** No contribution automatically becomes canonical; the author reviews it first.
 
 > **Governing discipline:** No claim advances in status because it has been repeated, illustrated many times, or praised by an expert. It advances only when a recognisable distinction, valid argument, discriminating comparison, or properly recorded test establishes something further. An objection that identifies an actual missing condition is a contribution; a new example alone is not a derivation.
 
@@ -14,7 +14,54 @@
 
 **Discipline:** Distinguish the thesis the authors assert from the part independently demonstrated so far. Neither a demand for predictive advantage nor enthusiasm for the architecture establishes or refutes its necessity, uniqueness, irreducibility or exhaustiveness. Tests of prediction and exclusion can be useful *later*, but are not the criterion of the existence of an invariant.
 
-**Navigation:** [Current Socratia assignment](#current-visitor-assignment--continue-socratia-not-all-three-manuscripts) · [Read the corpus](#1-what-to-read-and-how) · [Method](#2-how-to-investigate) · [Argument ledger](#3-the-current-argument-ledger) · [First derivation](#4-first-derived-principle-demand-relative-non-cancellation) · [Next experiment](#5-the-next-earned-test) · [Visitor contribution](#6-how-a-visiting-investigator-contributes) · [Blind-test boundary](#7-keep-philosophical-inquiry-distinct-from-blind-tests) · [Revision rule](#8-how-this-living-record-advances)
+**Navigation:** [Socratic microscope method](#the-socratic-method-for-this-stage--microscope-and-reciprocal-microscope) · [Current Socratia assignment](#current-visitor-assignment--continue-socratia-not-all-three-manuscripts) · [Read the corpus](#1-what-to-read-and-how) · [Method](#2-how-to-investigate) · [Argument ledger](#3-the-current-argument-ledger) · [First derivation](#4-first-derived-principle-demand-relative-non-cancellation) · [Next experiment](#5-the-next-earned-test) · [Visitor contribution](#6-how-a-visiting-investigator-contributes) · [Blind-test boundary](#7-keep-philosophical-inquiry-distinct-from-blind-tests) · [Revision rule](#8-how-this-living-record-advances)
+
+---
+
+## THE SOCRATIC METHOD FOR THIS STAGE — Microscope and reciprocal microscope
+
+**The inquiry is cumulative, not perpetually restarted.** The reader is not asked to doubt the existence of every previously earned distinction at the beginning of every new chapter. A recognition established by a valid argument or a decisive ordinary encounter should become a premise for investigating something further. Philosophical progress can consist in making explicit what those premises already entail.
+
+**Microscope — inward examination.** Take an established fact or distinction and look more closely into its constitution: *Precisely what has been established? What is its scope? What conditions are indispensable? Which apparent sameness hides a difference?* This is not rhetorical scepticism; it is a way of obtaining greater resolution.
+
+**Reciprocal microscope — outward examination.** Look **through** an established distinction to what it makes newly recognizable: *If that is so, what follows? In what further circumstance must this difference matter? What larger necessary relation is beginning to emerge?* The movement outward must preserve the premises' exact scope; it cannot promote a suggestive analogy into a universal claim.
+
+**Working sequence:**
+
+1. **Recall an earned fact** from a precise chapter passage or argument. State it in words the original encounter supports, not as a stronger proposition than was shown.
+2. **Use it as a premise**, provisionally stable within its scope. Do not reopen it merely to fill a page with questions.
+3. **Increase the resolution:** ask what the fact necessarily distinguishes, presupposes or excludes. Work through an ordinary encounter until the answer is recognizable.
+4. **Reverse the lens:** ask what new fact, relation or implication is made accessible *because* the earlier distinction has been established. Derive it, rather than announcing it.
+5. **Record the advance:** write the old premise, the new recognition, the bridge of reasoning, and the boundary of the conclusion. The new fact becomes available for the next chapter.
+6. **Reopen only where needed:** if a counterexample defeats a premise or changes its scope, correct **that** premise and every dependent conclusion, preserving what remains valid. A hypothesis remains a hypothesis; the 54's proposed exhaustiveness is not automatically a proved fact.
+
+### An example of cumulative Socratic movement
+
+Socratia has already distinguished **understanding what a sentence claims** from **establishing that what it claims is true**. Do not exhaust another chapter asking again whether false assertions can be intelligible. Start from that established difference. Ask, for instance: **If two people understand contradictory claims, what is available between them before either has settled which claim is true?** Their common understanding of the *question at issue* may itself be examined for necessity, its conditions, and its limits. The inquiry could then look outward to what makes a genuine disagreement determinable—and inward to when differing undertakings mean that the speakers were never contradicting one another in the same respect. This is an illustration of **method**, not a compulsory Chapter XVIII plot or an asserted result.
+
+### What counts as a fact here?
+
+Distinguish **observed or constructed example**, **directly recognizable difference**, **conclusion argued from that difference**, and **architectural thesis still to be established**. An established claim becomes a working fact **within the scope justified by its evidence and reasoning**. This is how the investigation can accumulate knowledge without calling every appealing idea a fact or allowing every new GPT to erase what earlier chapters earned.
+
+The manuscript's question-and-answer form is a **method of discovery**, not a ritual of uncertainty. Questions should be capable of yielding new, determinate answers. The reader should be able to say **what is now known that was not clear at the chapter's beginning**. One sound new recognition is better than a thousand questions that return to the same premise.
+
+### Required microscope record before a new Socratic chapter
+
+```text
+SOCRATIA — CUMULATIVE DISCOVERY RECORD
+Earlier chapter and passage:
+Established distinction or fact (precise scope):
+Why it is earned, rather than merely proposed:
+Inward / microscopic question:
+Newly recognized distinction and its argument:
+Outward / reciprocal implication:
+Which further example confirms or limits it:
+What was NOT established:
+Which earlier conclusion, if any, needs precise correction:
+Next necessary question:
+```
+
+**The active task remains one candidate Chapter XVIII, not an independent foundational treatise.** The record is submitted separately; the chapter must make the new discovery accessible through *Socratia*'s own dialogue, not paste this analytical checklist into its literary text.
 
 ---
 
@@ -49,13 +96,13 @@ Write **one proposed Chapter XVIII of approximately 1,000 words**, titled approp
 
 **A. Reading audit and continuity map (separate from manuscript prose).** What chapters did you actually read? Where does Chapter XVII end? Name at least three earlier chapter-level recognitions that the new inquiry depends on. Identify a near-duplicate already in the manuscript and explain how your proposed move differs.
 
-**B. The next earned question (short).** State it precisely, explain why Chapter XVII makes it available, and identify one plausible alternative question you rejected and why.
+**B. The next earned question and cumulative microscope record (short).** State one precisely scoped fact already earned in *Socratia* and show its argument, the inward question it invites, the outward implication it licenses, and the new distinction to be discovered. Explain why the ending makes the question available, which alternative you rejected and why. Treat an established premise as established within its scope, not as a compulsory fresh hypothesis.
 
 **C. Proposed Chapter XVIII (approximately 1,000 words).** Complete manuscript-quality *Socratia* prose, following the existing question-driven method without didactic over-control.
 
-**D. Contribution note (short, separate).** State what became newly recognizable, what did *not* follow, which chapter it develops, the strongest objection or unresolved distinction, and the next question the chapter earns.
+**D. Contribution note (short, separate).** Give the explicit cumulative chain **established earlier fact → finer recognition → newly derived fact → reciprocal consequence → next earned question**. State what did *not* follow, what an objection would actually overturn, and which prior chapter the new result develops.
 
-**E. Guide diagnostic (short, separate).** Say exactly which instructions in this guide assisted the continuation and which confused or pre-empted independent discovery. Explicitly flag any place where the guide's overall frontier **pulled you away** from the local Socratic ending.
+**E. Guide diagnostic (short, separate).** Say whether the microscope/reciprocal-microscope discipline actually allowed a prior established fact to yield a new one. Identify instructions that assisted, confused or pre-empted independent discovery. Explicitly flag any place where the guide's overall frontier **pulled you away** from the local Socratic ending.
 
 **Submission rule:** Return your text to the author for review. Do not commit changes. Do not represent the contribution as an official new chapter. Honest partial reading and a carefully delimited draft are preferable to the appearance of comprehensive understanding.
 
@@ -401,7 +448,11 @@ The Pythagorean **antithesis** now accompanies its affirmation. They have differ
 
 A visiting GPT submitted three proposed continuations after **selectively**, not exhaustively, reading the source manuscripts. Its provisional *Socratia* Chapter XVIII, **“When Two People Understand and Still Disagree,”** followed Chapter XVII's shared-language encounter, but risked overdirecting the learner through repetitive yes/no answers. The visiting GPT correctly noted that the **collective guide's frontier and each manuscript's local frontier are not necessarily identical**. This edition therefore puts a **Socratia-only active continuation prompt** at the top of the guide, requires whole-book reading and chapter-level continuity evidence, and treats that prior draft as a **candidate for examination, not canonical text**. Earlier editions' philosophical ledger and blind-test safeguards remain intact.
 
-**Immediate assignment:** Read Chapters I–XVII closely, determine what Chapter XVII itself earns next, and return **one provisional ~1,000-word Socratic Chapter XVIII** plus a reading audit, continuity argument and guide diagnostic. No manuscript modifications without author approval.
+### Edition 5 — cumulative Socratic microscope (5 November 2026)
+
+The author clarified the desired method: *Socratia* is to work as both **microscope** (finding finer necessary differences within what is established) and **reciprocal microscope** (deriving further facts from those differences). The dialogue should **accumulate established recognitions**, not continually reopen or merely rephrase them. This revision adds an explicit fact-to-fact reasoning discipline, guards against treating proposed universal claims as already demonstrated, and asks the visiting GPT to show its cumulative chain of philosophical discovery separately from the literary chapter.
+
+**Immediate assignment:** Read Chapters I–XVII closely, distinguish earned facts from live proposals, and produce **one provisional ~1,000-word Socratic Chapter XVIII** that derives a further recognition from prior established distinctions. Submit the microscope record, reading audit, continuity argument and guide diagnostic. No manuscript modifications without author approval.
 
 ---
 
