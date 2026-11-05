@@ -2051,6 +2051,98 @@ This is not a command imposed upon the world.
 
 It is part of how an intelligible life unfolds.
 
+Let us return to the island.
+
+A storm has passed during the night.
+
+The people emerge from their shelters and begin examining the damage.
+
+One roof has lost several branches. The path to the spring is covered by fallen leaves. A cooking vessel has cracked. Near the shore, a small boat has been pulled high enough above the water to remain undamaged.
+
+Different tasks become apparent.
+
+Someone gathers branches.
+
+Someone clears the path.
+
+Someone tests the vessel and discovers that it cannot hold water.
+
+Someone else goes to inspect the boat.
+
+The people communicate as they work.
+
+They point, request, warn, promise, correct and explain.
+
+Some expressions have become familiar enough to be understood immediately. Others are still uncertain.
+
+A child hears two adults disagreeing about whether the boat moved during the storm.
+
+One points to its present position.
+
+The other indicates where it had been left the previous evening.
+
+The distinction matters.
+
+The boat is above the water now.
+
+But did it move?
+
+A third person comes over and notices a furrow in the sand.
+
+The mark begins near the place where the boat had stood and ends beneath its present position.
+
+The adults examine it.
+
+One gestures along the furrow.
+
+The other nods.
+
+Something has been established.
+
+The boat moved during the storm.
+
+It is now safely above the water.
+
+The community will need ways of saying both.
+
+The child watches the adults, then looks back at the mark in the sand.
+
+Later, while playing beside the shelter, the child drags a piece of wood across the ground.
+
+It leaves a line behind it.
+
+The child stops and looks at the line.
+
+Then the child moves the wood again.
+
+A second line appears.
+
+Nobody has asked for an explanation.
+
+Nobody has issued an instruction.
+
+Yet something that occurred on the shore has become available again, in a different place, through a child's activity.
+
+The mark remains after the movement ends.
+
+The child notices.
+
+And in that recognition, the same elementary difference with which we began has appeared once more.
+
+Something happened.
+
+Something is now the case.
+
+The language of the island is still developing.
+
+The child has not yet learned all its words.
+
+But the difference is already there to be understood.
+
+And the child is beginning to make something of it.
+
+---
+
 ## Chapter VII — The Same Answer, a Different Question
 
 The morning after the storm, a woman arrives at the shelter and finds the door closed. She asks whether anyone saw it close during the night. Someone answers that it is closed now.
