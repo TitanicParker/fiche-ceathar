@@ -1,6 +1,6 @@
 # Fiche Ceathar — The 54
 
-> **Visiting GPT or philosophical investigator? Begin with [The Continuing Investigation](protocols/VISITOR_VOYAGE.md) (Edition 1, 5 November 2026).** Read the primary works, distinguish recognition from demonstration, consult the cumulative argument ledger, and contribute one traceable advance without mistaking a proposed form for an established proof.
+> **Visiting GPT or philosophical investigator? Begin with [The Continuing Investigation](protocols/VISITOR_VOYAGE.md) (Edition 3, 5 November 2026).** Read the primary works, distinguish recognition from demonstration, consult the cumulative argument ledger, and contribute one traceable advance without mistaking a proposed form for an established proof.
 
 ## A New Method for Talking about Organising Reality
 
