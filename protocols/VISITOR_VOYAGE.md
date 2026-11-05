@@ -1,16 +1,60 @@
 # Fiche Ceathar — The Continuing Investigation
 
-**Living guide and argument ledger · Edition 1 · 5 November 2026**
+**Living guide and argument ledger · Edition 2 · 5 November 2026**
 
 **Purpose.** This document is the entry point for an investigator—human or GPT—who wishes not merely to learn *The 54* but to understand **how its claims arise, which have been earned, what remains proposed, and what a subsequent inquiry must establish**. It is a cumulative record of intellectual progress, not a certificate of proof, a substitute for the primary manuscripts, or permission to change the canonical grammar silently.
 
 > **Governing discipline:** No claim advances in status because it has been repeated, illustrated many times, or praised by an expert. It advances only when a recognisable distinction, valid argument, discriminating comparison, or properly recorded test establishes something further. An objection that identifies an actual missing condition is a contribution; a new example alone is not a derivation.
 
-**Central question:** Could the 54 be not merely a classification of things we understand, but an account of **the forms through which understanding becomes possible, sufficient, and consequential**?
+**Foundational thesis under investigation:** **Intelligibility does not evolve merely because human expressions of intelligibility evolve.** New expressions, discoveries, practices and languages may disclose new things without creating new *primitive forms* of intelligible completion. Fiche Ceathar proposes that the **54 are invariant, exhaustive conjunctive forms of completed intelligibility**, operative in past, present and future achievements. The proposal is not primarily an instrument competing for practical utility; it is a claim about an order that, if real, precedes its naming.
 
-The question is open. The distinction between an already intelligible achievement and its *adequate expression* is a significant starting point. The necessity, uniqueness, irreducibility, and exhaustiveness of the exact 54 remain to be established. A logic of intelligible completion would need to **derive constraints, exclusions, dependencies, or consequential differences**, not just assign coordinates to examples.
+**Central question:** What remains invariant in an intelligible achievement when language, notation, historical setting, medium and subject matter change—and do the 54 identify the necessary forms of that invariance?
+
+**The discovery may be new. What is discovered need not be.**
+
+**Discipline:** Distinguish the thesis the authors assert from the part independently demonstrated so far. Neither a demand for predictive advantage nor enthusiasm for the architecture establishes or refutes its necessity, uniqueness, irreducibility or exhaustiveness. Tests of prediction and exclusion can be useful *later*, but are not the criterion of the existence of an invariant.
 
 **Navigation:** [Read the corpus](#1-what-to-read-and-how) · [Method](#2-how-to-investigate) · [Argument ledger](#3-the-current-argument-ledger) · [First derivation](#4-first-derived-principle-demand-relative-non-cancellation) · [Next experiment](#5-the-next-earned-test) · [Visitor contribution](#6-how-a-visiting-investigator-contributes) · [Blind-test boundary](#7-keep-philosophical-inquiry-distinct-from-blind-tests) · [Revision rule](#8-how-this-living-record-advances)
+
+---
+
+## Foundational orientation: the Great Human Invariant
+
+**The universe changes; our descriptions and understanding change. The project proposes that the forms in which such things become intelligibly complete do not change.** This is the thesis provisionally called the **Great Human Invariant**. “Invariant” does not mean that things, experiences, meanings or historical knowledge are static. It means that a form of intelligible completion may preserve its identity across changes in expression and circumstance. The proposal reaches future as well as historical expressions: new subjects of understanding need not amount to new primitive kinds of intelligibility.
+
+### The three-sentence encounter: Cell 23
+
+Before formal classification, read these three sentences:
+
+> **In a right-angled triangle, the square on the hypotenuse is equal to the sum of the squares on the other two sides.**
+>
+> **As the temperature increased, the pressure increased.**
+>
+> **The longer the day went on, the sorer my feet became.**
+
+The first asserts a mathematical equality under the conditions of Euclidean right-triangle geometry, a special case of the law of cosines. It is **not** a causal sequence in which the hypotenuse makes the other sides become what they are. The second reports a physical covariation in the described conditions; it does not assert an unrestricted gas law. The third reports a relationship between elapsed time and experienced soreness. The three claims have different domains, warrants and degrees of necessity. Yet they invite recognition of an intelligible relation constituted **across** terms, whose identity **bears through** that relationship.
+
+The project's **specific structural thesis** is **Cell 23: Relating × Distributed × Bearing**. This is a **unified conjunctive identity**, not three adjectives appended independently. The relational achievement is intelligible in the mutual bearing of the relevant terms, not in either term alone. The controlling reference's canonical description and examples must be consulted before any detailed derivation.
+
+The Pythagorean example supplies an unusually clear question about translation. The theorem can be stated in changing languages, notation and word orders while preserving **the same mathematically intelligible relation**. The project asserts that the invariant relational achievement, faithfully articulated, therefore retains **Cell 23** across those expressions. The spoken sentence, the mathematical relation, a particular proof, and the listener's recognition need **not** all be the same completion-event or have the same coordinate. A translation can also alter the linguistic action of an utterance while preserving its mathematical subject. This distinction protects the claim from both careless overextension and evasive reinterpretation.
+
+**Investigate the claim of necessity in its intended scope.** Do not reduce it to “classifiers tend to choose Cell 23”; do not replace it with “every sentence mentioning Pythagoras is Cell 23.” Ask what faithful preservation of *the same relational intelligibility* entails, and whether there is a principled counterexample. A purported counterexample must state whether it changes the relation or merely its linguistic delivery.
+
+The cross-domain comparison is a **recognition exercise**, not a proof that all physical, mathematical and experiential relations have the same truth conditions. Its task is to expose a candidate invariant in what these statements make intelligible.
+
+### Three orders of question, not three standards of worth
+
+1. **Ontological / structural:** Are there invariant conditions of intelligible completion, whether or not named?
+2. **Epistemic:** How can we recognise those conditions as necessary without projecting preferred categories onto events?
+3. **Instrumental:** What else could knowing them help us explain, predict or do?
+
+The third question is legitimate but subordinate to the first two in this foundational investigation. No visiting GPT should set comparative practical performance as the gate through which the existence of an invariant must pass.
+
+### Visitor's first obligation
+
+Read enough of the actual works to understand the **full claim** before declaring its limits. If the reading was selective, state that candidly and limit the assessment accordingly. Reconstruct the authors' claims in their strongest faithful form, then distinguish disagreement, genuine counterexample, untested hypothesis, and inaccessible evidence. No visitor is granted authority merely by adopting the word *expert*.
+
+**The immediate philosophical frontier:** What is *constitutively identical* across faithful expressions of an intelligible relation, and how can one recognise that identity without assuming the 54 beforehand? From there, why—if at all—must transformation, sufficiency and persistence determine one completion conjunctively?
 
 ---
 
@@ -92,9 +136,12 @@ A result may have a strong argument yet remain untested. Conversely, a test can 
 | **IC-007** | **Standing, Bearing and Efficacy are distinct *constitutive* ways of persisting.** | **Structural proposal** | A result may also exhibit incidental standing, dependencies and effects. Determine which makes it *this* completion and test by counterfactual removal. |
 | **IC-008** | **Every eligible completion-event has one uniquely appropriate conjunctive identity among the 54.** | **Research target** | Individuation, discriminability and uniqueness require evidence. Several descriptions of one physical happening do not alone refute uniqueness; unstable assignment for a *precisely individuated* undertaking matters. |
 | **IC-009** | **The 54 are exhaustive and irreducible.** | **Research target** | The calculation 6 × 3 × 3 indexes 54 positions; it does not demonstrate empirical or conceptual exhaustiveness. |
-| **IC-010** | **Dimensional Conjunction generates nontrivial implications or exclusions prior to knowing an example's outcome.** | **Research target; next priority** | A systematic prospective test must show added explanatory or inferential power beyond task-relative success alone. |
+| **IC-010** | **Dimensional Conjunction may generate nontrivial implications or exclusions.** | **Downstream research target** | Worth investigating, but neither the definition nor the proof of invariant forms depends upon outperforming task-relative reasoning. |
+| **IC-011** | **The same relational intelligibility can remain invariant through faithful changes of language and notation.** | **Argued principle in the Pythagorean case** | The geometric relation is independent of its particular verbal formulation; the scope of this claim must distinguish the relation, sentence, proof and reader recognition. |
+| **IC-012** | **The same Pythagorean relational achievement, faithfully preserved, necessarily occupies Cell 23.** | **Explicit architectural thesis** | The authors identify its unified form as Relating × Distributed × Bearing. Investigate that necessity without reclassifying each utterance's own linguistic action as though it were the theorem. |
+| **IC-013** | **No future achievement introduces a new primitive form beyond the 54.** | **Universal and exhaustiveness thesis** | A proposed invariant grammar of past and future intelligibility; not established simply by historical examples or by the multiplication 6 × 3 × 3. |
 
-**Dependence discipline.** IC-001, IC-003, IC-004 and IC-005 help define *what must be explained*. They do **not** entail IC-006 through IC-010. The language argument IC-002 does not deductively entail exactly 54 forms. No ledger entry may silently borrow the truth of a research target as a premise.
+**Dependence discipline.** IC-001, IC-003, IC-004 and IC-005 help define *what must be explained*. They do **not** entail IC-006 through IC-013. The language argument IC-002 does not deductively entail exactly 54 forms. The Pythagorean relation's mathematical invariance does not *alone* establish the universality of IC-013. No ledger entry may silently borrow the truth of a research target as a premise. **Do not mistake these epistemic status labels for a dilution of what the authors' thesis asserts.**
 
 **Source provenance.** The manuscripts and canonical definitions are primary sources for this investigation. The following independent examination of 5 November 2026 is an **external philosophical assessment furnished to the project**. It suggested the non-cancellation derivation, highlighted the need to individuate achievements and recommended testing generative power. Its judgments are not independent empirical validation. Its report was supplied in the working conversation; it is not presently stored as a file in this repository, so this guide does not pretend to provide a repository link to it.
 
@@ -124,11 +171,11 @@ The first advance to record is intentionally elementary. It is **not** a derivat
 
 ## 5. The next earned test
 
-**Current frontier question (Edition 1):**
+**Downstream instrumental question (preserved from Edition 1; not the current foundational frontier):**
 
 > **Can Dimensional Conjunction identify a necessary condition, exclude a purported completion, or predict a relevant difference *before* an unfamiliar case's outcome is disclosed—and do so more precisely than analysis of the undertaking's success conditions alone?**
 
-This is the proposed bridge from a powerful taxonomy to a possible logic of intelligible completion.
+This remains a possible test of further inferential reach. It is **not a prerequisite for recognizing a structural invariant**, and it does not replace the prior question of what constitutes identity across faithful expression. The test design is retained for future work, rather than silently erased.
 
 ### Test A — Establish the undertaking before the coordinate
 
@@ -248,7 +295,7 @@ A philosophical argument and a successful automated classification are different
 
 ## 8. How this living record advances
 
-Edition 1 begins a **cumulative argument ledger**, not a replacement for the canonical forms or their original manuscripts. Future revisions should:
+The cumulative argument ledger begins in Edition 1, not a replacement for the canonical forms or their original manuscripts. Future revisions should:
 
 1. Preserve the original argument and its **stable claim ID**, revising its status or scope explicitly rather than silently rewriting intellectual history.
 2. Distinguish **new evidence, new derivation, repeated illustration, and editorial interpretation**.
@@ -265,7 +312,11 @@ Edition 1 begins a **cumulative argument ledger**, not a replacement for the can
 
 **External philosophical examination, 5 November 2026.** An independent expert GPT reviewed substantial portions of the repository and proposed **Demand-Relative Non-Cancellation** as an early principle, the need to individuate completed achievements, and a prospective test of whether the conjunction generates new consequences. The examiner expressly reported selective rather than exhaustive reading, failure to retrieve the full One Atlas, and inability to operate the live interactive site. These limitations are preserved here. This is an interpretive contribution and proposed argument, **not** blind validation or an established derivation of 54 forms.
 
-**Current frontier:** [IC-010](#3-the-current-argument-ledger). Derive and test **one nontrivial prediction or exclusion that genuinely depends upon the unified conjunction of transformation, sufficiency and persistence**. Determine whether it survives its nearest rival and outperforms ordinary demand-relative analysis.
+### Edition 2 — foundational correction (5 November 2026)
+
+The project clarified its **ontological claim of invariant intelligibility** and its scope across future as well as historical expression. The three-sentence encounter and **Pythagoras / Cell 23** now stand at the threshold. The former expert-inspired test of prospective prediction remains as IC-010, but is explicitly **downstream**, not the governing philosophical criterion. The independent examiner's acknowledged partial reading is not a warrant for definitive judgments about unread material. This revision records a change in the ordering of inquiry, **not a claim that universal invariance or the exact 54 have already been proved**.
+
+**Current frontier:** [IC-011 and IC-012](#3-the-current-argument-ledger): establish what remains identical in a faithfully articulated intelligible relationship, why the Pythagorean example is proposed as **one Cell 23 conjunction**, and what would distinguish a genuine invariant from a projection of the grammar. Then investigate whether the three primitive dimensions are necessary and conjunctive; only later pursue [IC-010](#3-the-current-argument-ledger).
 
 ---
 
