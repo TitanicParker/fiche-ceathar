@@ -1967,6 +1967,90 @@ The listener moves away.
 
 The warning succeeds.
 
+The language has not been corrected by consulting an ideal language hidden somewhere behind it.
+
+It has been corrected through the intelligible relation between the intended warning and the response it needed to make possible.
+
+The pressure toward adequacy arises within the activity itself.
+
+This is what allows an expression to be both conventional and answerable.
+
+The sounds used by the community may be contingent upon its history.
+
+Another community might use different sounds.
+
+But the possibility of recognizing whether the warning has succeeded is not established merely by agreeing upon those sounds.
+
+It involves the intended achievement and the actual response.
+
+A shared linguistic convention provides the means.
+
+The intelligible undertaking provides the measure of its sufficiency.
+
+And this is why the forms of intelligibility, if we can discover them, may reveal something more fundamental than recurring linguistic structures.
+
+They may show how achievements become answerable to the differences, relations and demands through which they acquire their significance.
+
+They may show why certain kinds of incompletion remain recognizable even when expressions change.
+
+They may show how repair is possible because an inadequacy is not merely a blank absence, but a determinate failure in relation to something that can be attempted again.
+
+They may also show why completion does not always consist in adding something.
+
+Sometimes understanding becomes complete because a distinction is finally made.
+
+Sometimes because a possibility is opened.
+
+Sometimes because a relation is established.
+
+Sometimes because an inadequacy is corrected.
+
+Sometimes because separate elements become a coherent whole.
+
+And sometimes because a live demand comes to rest.
+
+We should not yet assume that these descriptions exhaust the possibilities.
+
+But they are already visible within the ordinary lives we have been following.
+
+The door that was stuck has been repaired.
+
+The route to the spring has been explained.
+
+The mathematical relation has been proved.
+
+The translation has been corrected.
+
+The woman in the café has understood the invitation.
+
+The child has fitted the shape into its space.
+
+These events do not merely resemble one another.
+
+They also differ in precisely how something becomes sufficient.
+
+The differences invite investigation.
+
+For if there is an order within these modes of intelligible achievement, that order may help us understand why language can emerge, change, translate, correct itself and become fluent in new speakers.
+
+It may explain why a developing language is never simply an arbitrary collection of conventions, even though so much about its particular expressions is conventional.
+
+And it may reveal why people who do not share a language can nevertheless recognize enough of what matters to begin building one.
+
+The mandate, then, is perhaps best approached not as an authority standing behind intelligibility but as something disclosed wherever intelligibility becomes answerable to its own fulfilment.
+
+A demand arises within an undertaking.
+
+The undertaking makes a kind of completion possible.
+
+Its success or failure becomes recognizable.
+
+And recognition permits what follows.
+
+This is not a command imposed upon the world.
+
+It is part of how an intelligible life unfolds.
+
 ## Chapter VII — The Same Answer, a Different Question
 
 The morning after the storm, a woman arrives at the shelter and finds the door closed. She asks whether anyone saw it close during the night. Someone answers that it is closed now.
