@@ -1,6 +1,6 @@
 # Fiche Ceathar — The Continuing Investigation
 
-**Living guide and argument ledger · Edition 2 · 5 November 2026**
+**Living guide and argument ledger · Edition 3 · 5 November 2026**
 
 **Purpose.** This document is the entry point for an investigator—human or GPT—who wishes not merely to learn *The 54* but to understand **how its claims arise, which have been earned, what remains proposed, and what a subsequent inquiry must establish**. It is a cumulative record of intellectual progress, not a certificate of proof, a substitute for the primary manuscripts, or permission to change the canonical grammar silently.
 
@@ -42,6 +42,36 @@ The Pythagorean example supplies an unusually clear question about translation. 
 
 The cross-domain comparison is a **recognition exercise**, not a proof that all physical, mathematical and experiential relations have the same truth conditions. Its task is to expose a candidate invariant in what these statements make intelligible.
 
+### A further encounter: negation without a change of Cell 23
+
+Now change precisely one word in the Pythagorean sentence:
+
+> **Affirmation:** In a right-angled triangle, the square on the hypotenuse **is equal** to the sum of the squares on the other two sides.
+>
+> **Negation:** In a right-angled triangle, the square on the hypotenuse **is not equal** to the sum of the squares on the other two sides.
+
+Under the stated Euclidean right-triangle conditions, the affirmation is **true** and the negation **false**. Their propositions differ. Negation is not a faithful translation of the affirmative proposition. Yet the project's claim is that **both articulate a determinate relational bearing across the same mathematical terms**, and therefore **both exhibit Cell 23: Relating × Distributed × Bearing**.
+
+This is not an assertion that false mathematics has been proved. A false relational statement can be **completely intelligible as a statement** without successfully establishing its false content as a mathematical fact. Indeed, to recognize its falsity we must understand which relational claim it denies. **Truth of the content**, **completion of the intelligible assertion**, **proof of the content**, and **recognition by a reader** are different questions.
+
+The word **not** is not an instruction to assign **Release**. In the controlling grammar, Release concerns the loss of a constraint's governing force, not ordinary linguistic negation. Nor does the falsity of the denial itself make the sentence a **Repair**; an error and the accomplished correction of an error are distinct achievements. Do not mistake sentence termination for Settlement.
+
+**Proposed principle — Polarity-independent intelligible form:** An affirmation and its negation can differ in truth value and propositional content while retaining the same **unified conjunctive form** of relational determination. The form is not a truth-value label. Holding Cell 23 does not imply that two sentences say the same thing or that both are true.
+
+This adds **a second, different invariance** to the first encounter:
+
+| Comparison | What changes | What is proposed to remain |
+| --- | --- | --- |
+| **Faithful translation** | Language, syntax, wording, notation or order of presentation | The same mathematical proposition **and** its Cell 23 relational form |
+| **Logical negation** | Proposition, polarity and—in this case—truth value | The Cell 23 relational form, **not** the original proposition |
+| **Cross-domain relation** | Geometry, physical covariation, personal experience and domain-specific warrant | The candidate Cell 23 form of determinate distributed relational bearing |
+
+The distinction is philosophically central: **the invariant is not simply what remains true; it is the form that can remain intelligible even where an assertion is false.**
+
+**Understanding check for a visitor:** Explain *why* the two contradictory Pythagorean statements share the proposed relational form without becoming the same proposition. Describe what each completes as an intelligible assertion, and what only a valid proof or true mathematical statement could establish. Do not infer coordinates by the presence or absence of a negation word.
+
+**Scope:** This is a clearly articulated structural thesis with a strong recognition exercise, not a derivation of the entire exhaustive 54. The question to investigate is whether the constitutive conditions of Cell 23 are genuinely preserved through polarity reversal, rather than whether the denial is mathematically true.
+
 ### Three orders of question, not three standards of worth
 
 1. **Ontological / structural:** Are there invariant conditions of intelligible completion, whether or not named?
@@ -54,7 +84,7 @@ The third question is legitimate but subordinate to the first two in this founda
 
 Read enough of the actual works to understand the **full claim** before declaring its limits. If the reading was selective, state that candidly and limit the assessment accordingly. Reconstruct the authors' claims in their strongest faithful form, then distinguish disagreement, genuine counterexample, untested hypothesis, and inaccessible evidence. No visitor is granted authority merely by adopting the word *expert*.
 
-**The immediate philosophical frontier:** What is *constitutively identical* across faithful expressions of an intelligible relation, and how can one recognise that identity without assuming the 54 beforehand? From there, why—if at all—must transformation, sufficiency and persistence determine one completion conjunctively?
+**The immediate philosophical frontier:** What is *constitutively identical* across faithful expressions **and across affirmed or denied relational propositions** without assuming the 54 beforehand? In particular, why can contradictory Pythagorean statements both remain Cell 23, and why—if at all—must transformation, sufficiency and persistence determine one completion conjunctively?
 
 ---
 
@@ -140,8 +170,10 @@ A result may have a strong argument yet remain untested. Conversely, a test can 
 | **IC-011** | **The same relational intelligibility can remain invariant through faithful changes of language and notation.** | **Argued principle in the Pythagorean case** | The geometric relation is independent of its particular verbal formulation; the scope of this claim must distinguish the relation, sentence, proof and reader recognition. |
 | **IC-012** | **The same Pythagorean relational achievement, faithfully preserved, necessarily occupies Cell 23.** | **Explicit architectural thesis** | The authors identify its unified form as Relating × Distributed × Bearing. Investigate that necessity without reclassifying each utterance's own linguistic action as though it were the theorem. |
 | **IC-013** | **No future achievement introduces a new primitive form beyond the 54.** | **Universal and exhaustiveness thesis** | A proposed invariant grammar of past and future intelligibility; not established simply by historical examples or by the multiplication 6 × 3 × 3. |
+| **IC-014** | **The truth or falsity of a proposition is distinct from the intelligible form in which it is articulated.** | **Argued distinction** | The false Pythagorean denial remains intelligible as a relational claim, although it does not establish an unequal mathematical relation. Distinguish completed assertion from established mathematical truth. |
+| **IC-015** | **The affirmative and negative Pythagorean assertions both have Cell 23 form.** | **Explicit architectural thesis; polarity-independent form** | The affirmation and negation have different contents and truth values but each makes a determinate claim through distributed relational bearing. This is distinct from faithful translation, which preserves the proposition itself. |
 
-**Dependence discipline.** IC-001, IC-003, IC-004 and IC-005 help define *what must be explained*. They do **not** entail IC-006 through IC-013. The language argument IC-002 does not deductively entail exactly 54 forms. The Pythagorean relation's mathematical invariance does not *alone* establish the universality of IC-013. No ledger entry may silently borrow the truth of a research target as a premise. **Do not mistake these epistemic status labels for a dilution of what the authors' thesis asserts.**
+**Dependence discipline.** IC-001, IC-003, IC-004 and IC-005 help define *what must be explained*. They do **not** entail IC-006 through IC-015. The language argument IC-002 does not deductively entail exactly 54 forms. The Pythagorean relation's mathematical invariance does not *alone* establish the universality of IC-013. No ledger entry may silently borrow the truth of a research target as a premise. **Do not mistake these epistemic status labels for a dilution of what the authors' thesis asserts.**
 
 **Source provenance.** The manuscripts and canonical definitions are primary sources for this investigation. The following independent examination of 5 November 2026 is an **external philosophical assessment furnished to the project**. It suggested the non-cancellation derivation, highlighted the need to individuate achievements and recommended testing generative power. Its judgments are not independent empirical validation. Its report was supplied in the working conversation; it is not presently stored as a file in this repository, so this guide does not pretend to provide a repository link to it.
 
@@ -316,7 +348,11 @@ The cumulative argument ledger begins in Edition 1, not a replacement for the ca
 
 The project clarified its **ontological claim of invariant intelligibility** and its scope across future as well as historical expression. The three-sentence encounter and **Pythagoras / Cell 23** now stand at the threshold. The former expert-inspired test of prospective prediction remains as IC-010, but is explicitly **downstream**, not the governing philosophical criterion. The independent examiner's acknowledged partial reading is not a warrant for definitive judgments about unread material. This revision records a change in the ordering of inquiry, **not a claim that universal invariance or the exact 54 have already been proved**.
 
-**Current frontier:** [IC-011 and IC-012](#3-the-current-argument-ledger): establish what remains identical in a faithfully articulated intelligible relationship, why the Pythagorean example is proposed as **one Cell 23 conjunction**, and what would distinguish a genuine invariant from a projection of the grammar. Then investigate whether the three primitive dimensions are necessary and conjunctive; only later pursue [IC-010](#3-the-current-argument-ledger).
+### Edition 3 — invariance across polarity (5 November 2026)
+
+The Pythagorean **antithesis** now accompanies its affirmation. They have different propositional contents and, in Euclidean geometry, opposite truth values, yet the project identifies both with **Cell 23**. This is recorded separately from **translation-invariance**: a faithful translation preserves the proposition while negation does not. New ledger entries **IC-014** and **IC-015** distinguish intelligibility from truth and state the proposed polarity-independent conjunctive form. An informed external examination supplied a further written analysis of the distinction; that analysis is a contribution to interpretation, not blind experimental confirmation.
+
+**Current frontier:** [IC-011, IC-012, IC-014 and IC-015](#3-the-current-argument-ledger): identify exactly what is constitutive of the relational form across faithful translation, domain change and polarity reversal. Explain why negation changes a proposition without making the intelligible achievement Release or Repair merely by word choice. Only then return to the broader necessity and exhaustiveness questions; the instrumental test [IC-010](#3-the-current-argument-ledger) remains downstream.
 
 ---
 
