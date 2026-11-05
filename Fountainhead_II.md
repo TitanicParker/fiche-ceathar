@@ -877,6 +877,275 @@ The child knows how to make it happen again.
 
 ---
 
+### Chapter III
+### The Language That Was Not Yet There
+
+There is a moment in the life of a child when a sound becomes a word.
+
+It may be difficult to identify the moment precisely. A sound that was once made in play begins to be used when a particular person enters the room. The sound is repeated. Someone responds. The child hears it again, attempts it again, and begins to recognize that it can be used to accomplish something.
+
+The change is not simply that the child has learned to produce a sound.
+
+The child could produce sounds before.
+
+Nor is it simply that the child now associates a sound with an object. There are many associations in a child's life that do not yet amount to speaking.
+
+Something more has happened.
+
+The child has discovered that a sound can be offered to another person as a way of making something available between them.
+
+The sound can be heard, recognized, responded to, and used again.
+
+A new possibility has entered the child's life.
+
+We might say that language has begun.
+
+Yet if we look closely at what has happened, we find that the beginning depends upon a surprising abundance of things that are already available.
+
+The child must be able to distinguish the person from other people, or at least to recognize something about the person's recurring presence. The child must be capable of expectation, of noticing a response, of encountering repetition, and of participating in a relation that extends beyond the immediate sound.
+
+The other person must also recognize something.
+
+They hear the sound and take it as an attempt to make contact. They respond in a way that allows the child to discover what the sound has accomplished.
+
+Sometimes they misunderstand. Sometimes the child is merely playing with the sound. Sometimes what seemed like a word yesterday disappears for weeks.
+
+The development is not uniform.
+
+But amid these uncertainties, a remarkable arrangement begins to take shape.
+
+A difference becomes recognizable.
+
+A sound becomes repeatable.
+
+A relation becomes established.
+
+An attempt becomes successful.
+
+And what has succeeded becomes available for further use.
+
+We should notice how much intelligibility is involved before we can say that the child has successfully learned a word.
+
+The word is not the first intelligible event in the sequence.
+
+It is an achievement within a sequence already rich in intelligibility.
+
+A similar observation can be made about the community on the island.
+
+At the beginning, several survivors discover a spring near the base of a hill. They return to the settlement carrying water, and others accompany them the following morning.
+
+The spring is difficult to find. It lies behind a group of trees, beyond a narrow passage between rocks.
+
+A woman who knows the route attempts to explain it to a man who has not yet been there.
+
+They do not share a language.
+
+She points toward the hill and makes a movement with her hand. He follows her gesture with his eyes but does not understand whether she is indicating the spring, the hill, or the direction in which they must travel.
+
+She tries again.
+
+This time she takes a short branch and draws a rough line in the earth. She makes two marks to indicate the rocks and points between them.
+
+He looks at the drawing.
+
+Something changes.
+
+He now recognizes that the passage between the rocks matters.
+
+She adds another mark beyond the passage and imitates the movement of collecting water.
+
+He nods.
+
+They begin walking.
+
+The drawing has succeeded where the gesture did not.
+
+Why?
+
+The answer cannot simply be that drawings are more intelligible than gestures. Another drawing might have failed. A different gesture might have worked.
+
+Nor is the answer that the woman has transmitted a complete internal picture to the man. We have no reason to suppose that his understanding is identical in every detail to hers.
+
+What matters is that the second attempt has made the relevant arrangement sufficiently available for their undertaking.
+
+He now knows enough to follow the route.
+
+The difficulty has been resolved for the purpose at hand.
+
+And the marks in the earth have played a part in that resolution.
+
+The woman draws the same two rocks the following day when someone else needs directions.
+
+The man recognizes the marks.
+
+He points to them and repeats a sound she had used while drawing.
+
+She repeats the sound.
+
+It begins to belong to their shared activity.
+
+Later, another survivor uses it while discussing a different passage between rocks.
+
+The word's use has widened.
+
+At first it was attached to a particular place. Now it is available for a kind of place.
+
+The speakers have begun to recognize a likeness between different circumstances.
+
+A familiar expression is carried into a new situation because something about the new situation can be encountered in the same way.
+
+The language is growing.
+
+But notice what is growing with it.
+
+The people are not merely acquiring a larger inventory of sounds.
+
+They are discovering that something recognized in one circumstance can be recognized again in another, and that an expression established in the first can become useful in the second.
+
+The development of language brings an enlargement of intelligible reach.
+
+It makes what has been learned in one place available elsewhere.
+
+And this capacity for extension is not wholly created by the expression.
+
+For the people must be able to encounter a relevant likeness in order to find the extension useful.
+
+A word may help them notice the likeness more readily. It may make the likeness easier to remember or communicate. It may allow a distinction that was previously uncertain to become familiar.
+
+But its usefulness depends upon the possibility of recognizing something through it.
+
+The language and the understanding develop together.
+
+They are not identical.
+
+This becomes especially clear when a word is used incorrectly.
+
+A man who has learned the word associated with the passage between rocks begins to use it for every narrow place.
+
+He uses it for a path between trees, a gap in a wall, and finally a crack in a cooking vessel.
+
+Sometimes the others understand him. Sometimes they laugh. Sometimes they correct him by showing what they mean.
+
+The word is not simply either right or wrong in every new circumstance. Its range is being established through use.
+
+The community discovers which differences matter to its speakers.
+
+A narrow passage may be useful to distinguish from an opening that cannot be passed through. A crack in a vessel may demand attention because it allows water to escape rather than permitting someone to enter.
+
+An expression that was useful in one situation may prove inadequate in another.
+
+The people discover this through the consequences of attempting to use it.
+
+And the language acquires greater definiteness.
+
+Something that had been uncertain becomes settled through repeated encounters.
+
+Something that had been settled becomes open again when a new circumstance arises.
+
+The language's developing stability is therefore not the absence of change.
+
+It is the capacity to preserve useful distinctions while remaining available to further experience.
+
+This matters because the language is not being constructed once, from beginning to end, according to a completed plan.
+
+It is being lived into existence.
+
+The people are making arrangements that become familiar enough to be used without constant negotiation. Yet those arrangements may be altered when experience gives them reason to distinguish something further.
+
+In this respect, the developing language has a striking resemblance to the repaired door.
+
+The first door was sufficient for its purpose until the frame swelled.
+
+Then its adequacy was interrupted.
+
+The people discovered the obstruction, changed the arrangement, and restored the movement.
+
+The language, too, may be sufficient for a circumstance until another circumstance reveals what it cannot yet accomplish.
+
+The response is not necessarily to abandon what has already been made.
+
+Often it is to develop the existing arrangement.
+
+A new distinction becomes available.
+
+What was previously difficult to communicate becomes familiar.
+
+What was previously dependent upon the immediate scene can now be expressed when the scene is absent.
+
+A person can say that the water is beyond the rocks without standing beside them.
+
+A child can ask for water without pointing to the spring.
+
+Someone can warn that the passage was blocked yesterday.
+
+Another can say that it is clear today.
+
+An expression can reach beyond the moment in which it is spoken.
+
+This is an immense change.
+
+The language allows the community to make absent things available to one another.
+
+The spring can be discussed by people who are nowhere near it.
+
+An event from yesterday can become part of the understanding of today.
+
+A possible event tomorrow can become a reason for acting now.
+
+The distance between expression and immediate circumstance has increased.
+
+Yet communication remains possible because the speakers have developed ways of making the relevant distinctions recognizable.
+
+A spoken word does not carry the spring into the settlement.
+
+It makes the spring available in another way.
+
+A warning does not bring tomorrow into the present.
+
+It makes an anticipated possibility available for present action.
+
+A story does not restore the past.
+
+It allows something that happened to become present to understanding.
+
+These achievements differ.
+
+We shall need to understand their differences.
+
+For now, what matters is the transformation in the community's life.
+
+The language permits people to share an intelligibility that exceeds the circumstances they can presently see, touch or demonstrate.
+
+And this transformation grows from a life in which recognition, anticipation, relation and correction were already possible.
+
+We might be tempted to say that the community has moved from a prelinguistic world into a linguistic world.
+
+But that description conceals what is most important.
+
+The people have not exchanged one world for another.
+
+They have developed a new capacity within the same continuing life.
+
+The trees remain where they stood.
+
+The water still flows.
+
+The door still opens and closes.
+
+A promise can now be expressed in words that others recognize. A warning can reach someone who has not seen the danger. A discovery can be preserved after the discoverer has died.
+
+Something genuinely new has become possible.
+
+Yet its novelty is intelligible only because it enlarges capacities whose beginnings we have already encountered.
+
+Language does not merely arrive upon the scene.
+
+It changes what the scene can become for those who inhabit it.
+
+And, in doing so, it reveals the intelligibility within which it has come to exist.
+
+---
+
 ## Chapter VII — The Same Answer, a Different Question
 
 The morning after the storm, a woman arrives at the shelter and finds the door closed. She asks whether anyone saw it close during the night. Someone answers that it is closed now.
