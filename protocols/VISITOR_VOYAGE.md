@@ -1,8 +1,8 @@
 # Fiche Ceathar — The Continuing Investigation
 
-**Living guide and argument ledger · Edition 3 · 5 November 2026**
+**Living guide and argument ledger · Edition 4 · 5 November 2026**
 
-**Purpose.** This document is the entry point for an investigator—human or GPT—who wishes not merely to learn *The 54* but to understand **how its claims arise, which have been earned, what remains proposed, and what a subsequent inquiry must establish**. It is a cumulative record of intellectual progress, not a certificate of proof, a substitute for the primary manuscripts, or permission to change the canonical grammar silently.
+**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 4): read *Socratia* deeply, establish the local frontier at Chapter XVII, and propose only the next Socratic chapter.** No contribution automatically becomes canonical; the author reviews it first.
 
 > **Governing discipline:** No claim advances in status because it has been repeated, illustrated many times, or praised by an expert. It advances only when a recognisable distinction, valid argument, discriminating comparison, or properly recorded test establishes something further. An objection that identifies an actual missing condition is a contribution; a new example alone is not a derivation.
 
@@ -14,7 +14,50 @@
 
 **Discipline:** Distinguish the thesis the authors assert from the part independently demonstrated so far. Neither a demand for predictive advantage nor enthusiasm for the architecture establishes or refutes its necessity, uniqueness, irreducibility or exhaustiveness. Tests of prediction and exclusion can be useful *later*, but are not the criterion of the existence of an invariant.
 
-**Navigation:** [Read the corpus](#1-what-to-read-and-how) · [Method](#2-how-to-investigate) · [Argument ledger](#3-the-current-argument-ledger) · [First derivation](#4-first-derived-principle-demand-relative-non-cancellation) · [Next experiment](#5-the-next-earned-test) · [Visitor contribution](#6-how-a-visiting-investigator-contributes) · [Blind-test boundary](#7-keep-philosophical-inquiry-distinct-from-blind-tests) · [Revision rule](#8-how-this-living-record-advances)
+**Navigation:** [Current Socratia assignment](#current-visitor-assignment--continue-socratia-not-all-three-manuscripts) · [Read the corpus](#1-what-to-read-and-how) · [Method](#2-how-to-investigate) · [Argument ledger](#3-the-current-argument-ledger) · [First derivation](#4-first-derived-principle-demand-relative-non-cancellation) · [Next experiment](#5-the-next-earned-test) · [Visitor contribution](#6-how-a-visiting-investigator-contributes) · [Blind-test boundary](#7-keep-philosophical-inquiry-distinct-from-blind-tests) · [Revision rule](#8-how-this-living-record-advances)
+
+---
+
+## CURRENT VISITOR ASSIGNMENT — Continue *Socratia*, not all three manuscripts
+
+**Treat this section as your active instruction if you are an independent GPT beginning from this guide.** The current experiment is deliberately **one manuscript, one next chapter**. Do not independently expand *The Fountainhead* or *Fountainhead II* for this assignment. Their arguments remain relevant background, not additional deliverables. Do not edit the repository or claim that a draft has been accepted.
+
+### Reading before writing
+
+1. **Read [Socratia.md](../Socratia.md) in full**, from Chapter I through Chapter XVII, rather than only its outline, opening and ending. Trace the progression of its questions and instances. Verify the repository's present chapter count and ending before you number a proposed continuation.
+2. Read this guide, [THE_54_CONTROL.md](../THE_54_CONTROL.md), and the relevant [One Atlas](../THE_54_ONE_ATLAS.md) entries. Consult [the extended first Fountainhead](../the_fountainhead_of_intelligibility.md) and [Fountainhead II](../Fountainhead_II.md) wherever required to understand a distinction, without importing those books' narrative voice into *Socratia*.
+3. Provide a **verifiable reading audit**: chapters actually examined, any inaccessible passages, and specific references to earlier Socratic recognitions supporting your next step. If you have only read selectively, **do not declare the manuscript fully understood or the draft seamless**. Report the limitation and produce a clearly provisional proposal rather than inventing continuity.
+4. Read the existing ending closely: **Chapter XVII, “The Word That Has No Equivalent.”** One speaker learns to use a word directly, after recognition and correction, without an exact translation into the learner's earlier language. The chapter ends when the word is used in the garden and understood without further explanation. The new word gives an already recognizable experience another way to become present between people. **Do not mistake an absent dictionary equivalent for an absence of intelligibility.**
+
+### Find Socratia's local frontier before composing
+
+The collective argument ledger is **not** a ready-made chapter outline. First reconstruct what *Socratia* has already earned in Chapters I–XVII. Identify the **last unresolved question genuinely generated by the ending**, and check that earlier chapters have not already answered it. Write a brief continuity note citing at least **three concrete chapter-level antecedents**, including one from the first half and one from the latter half of the book.
+
+A prior visiting GPT proposed **“When Two People Understand and Still Disagree”** as Chapter XVIII. Its candidate insight was that *shared understanding is not necessarily shared judgment*, and it explored disagreement about whether a familiar word is appropriate. This is **a preserved candidate, not an accepted next chapter**. Examine whether Chapter XVII already raises this difference; whether earlier chapters have substantially addressed it; and whether a more exact next question follows from the text. **Do not automatically repeat, adopt or reject that draft.** If you work from the same question, make clear what new discovery—not simply more examples—you can earn.
+
+### Compose as Socratia, not as an examiner
+
+Write **one proposed Chapter XVIII of approximately 1,000 words**, titled appropriately and continuing the existing dialogue's recognitions. Begin from an ordinary situation that grows naturally out of Chapter XVII, unless the text itself warrants another move.
+
+- A genuine Socratic question **opens a distinction for the reader** rather than inserting the expected answer into the question. Allow some questions to remain unsettled until an example makes the difference recognizable. The prior continuation relied heavily on prompt/“Yes”/“No” exchanges and therefore risked becoming a guided quiz; **vary the questions, permit reconsideration, and let participants discover or resist a conclusion**.
+- Preserve differences among **shared expression**, **shared intelligible distinction**, **agreement about truth**, **appropriateness of use**, and **successful completion of an undertaking**. These cannot be declared equivalent merely because speakers recognize a word.
+- Do not turn the chapter into a lecture about the 54. Do not introduce canonical cells by name unless the narrative itself earns their necessity. A familiar example is not a discovery if it merely retells a principle already reached.
+- Preserve the distinction between **what a sentence makes intelligible**, **the worldly relation or event it describes**, **the claim's truth or falsity**, and **the reader's act of understanding**. The Pythagorean affirmation and denial, both proposed as Cell 23, are useful background examples of why polarity is not a change of form—but **do not force them into the garden dialogue**.
+- The chapter should **complete one local recognition and leave one specifically earned question open**. No artificial universal proof, forced 54-cell count, or instrumental prediction is required.
+
+### Return these deliverables, in this order
+
+**A. Reading audit and continuity map (separate from manuscript prose).** What chapters did you actually read? Where does Chapter XVII end? Name at least three earlier chapter-level recognitions that the new inquiry depends on. Identify a near-duplicate already in the manuscript and explain how your proposed move differs.
+
+**B. The next earned question (short).** State it precisely, explain why Chapter XVII makes it available, and identify one plausible alternative question you rejected and why.
+
+**C. Proposed Chapter XVIII (approximately 1,000 words).** Complete manuscript-quality *Socratia* prose, following the existing question-driven method without didactic over-control.
+
+**D. Contribution note (short, separate).** State what became newly recognizable, what did *not* follow, which chapter it develops, the strongest objection or unresolved distinction, and the next question the chapter earns.
+
+**E. Guide diagnostic (short, separate).** Say exactly which instructions in this guide assisted the continuation and which confused or pre-empted independent discovery. Explicitly flag any place where the guide's overall frontier **pulled you away** from the local Socratic ending.
+
+**Submission rule:** Return your text to the author for review. Do not commit changes. Do not represent the contribution as an official new chapter. Honest partial reading and a carefully delimited draft are preferable to the appearance of comprehensive understanding.
 
 ---
 
@@ -352,7 +395,13 @@ The project clarified its **ontological claim of invariant intelligibility** and
 
 The Pythagorean **antithesis** now accompanies its affirmation. They have different propositional contents and, in Euclidean geometry, opposite truth values, yet the project identifies both with **Cell 23**. This is recorded separately from **translation-invariance**: a faithful translation preserves the proposition while negation does not. New ledger entries **IC-014** and **IC-015** distinguish intelligibility from truth and state the proposed polarity-independent conjunctive form. An informed external examination supplied a further written analysis of the distinction; that analysis is a contribution to interpretation, not blind experimental confirmation.
 
-**Current frontier:** [IC-011, IC-012, IC-014 and IC-015](#3-the-current-argument-ledger): identify exactly what is constitutive of the relational form across faithful translation, domain change and polarity reversal. Explain why negation changes a proposition without making the intelligible achievement Release or Repair merely by word choice. Only then return to the broader necessity and exhaustiveness questions; the instrumental test [IC-010](#3-the-current-argument-ledger) remains downstream.
+**Collective foundational frontier (unchanged from Edition 3):** [IC-011, IC-012, IC-014 and IC-015](#3-the-current-argument-ledger): identify what is constitutive of the relational form across translation, domain change and polarity reversal. This is **not** automatically the local next question of *Socratia*.
+
+### Edition 4 — *Socratia* continuation experiment (5 November 2026)
+
+A visiting GPT submitted three proposed continuations after **selectively**, not exhaustively, reading the source manuscripts. Its provisional *Socratia* Chapter XVIII, **“When Two People Understand and Still Disagree,”** followed Chapter XVII's shared-language encounter, but risked overdirecting the learner through repetitive yes/no answers. The visiting GPT correctly noted that the **collective guide's frontier and each manuscript's local frontier are not necessarily identical**. This edition therefore puts a **Socratia-only active continuation prompt** at the top of the guide, requires whole-book reading and chapter-level continuity evidence, and treats that prior draft as a **candidate for examination, not canonical text**. Earlier editions' philosophical ledger and blind-test safeguards remain intact.
+
+**Immediate assignment:** Read Chapters I–XVII closely, determine what Chapter XVII itself earns next, and return **one provisional ~1,000-word Socratic Chapter XVIII** plus a reading audit, continuity argument and guide diagnostic. No manuscript modifications without author approval.
 
 ---
 
