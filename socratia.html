@@ -1,0 +1,864 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101720"><meta name="description" content="Socratia — read the manuscript at Fiche Ceathar.">
+<title>Socratia — The 54</title>
+<style>
+:root{color-scheme:dark;--bg:#0d1620;--panel:#192735;--ink:#f1eee7;--muted:#aab8c3;--edge:#384958;--accent:#e9c96b;--size:20px}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:25px}
+body{margin:0;color:var(--ink);background:radial-gradient(ellipse at top,#24394b 0%,var(--bg) 60%);font:16px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+body.day{color-scheme:light;--bg:#f4f0e9;--panel:#fffdf8;--ink:#2b3034;--muted:#626c70;--edge:#d0d0ca;background:var(--bg)}
+a{color:inherit}a:focus-visible,button:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
+#progress{position:fixed;top:0;left:0;height:3px;width:0;background:var(--accent);z-index:10}
+.top{max-width:1170px;margin:auto;padding:23px 22px 0;display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;align-items:center}
+.top a{font-size:.81rem;color:var(--muted);text-decoration:none}.top a:hover{color:var(--accent)}
+.tools{display:flex;align-items:center;gap:9px}.tools button{background:var(--panel);border:1px solid var(--edge);border-radius:50px;padding:7px 13px;color:var(--ink);cursor:pointer}
+.hero{max-width:900px;margin:46px auto 52px;text-align:center;padding:0 22px}
+.kicker{color:var(--accent);font-size:.74rem;letter-spacing:.23em;text-transform:uppercase;font-weight:700}
+.hero h1{font:normal clamp(2.5rem,6vw,5.2rem)/1.1 Georgia,serif;letter-spacing:-.04em;margin:20px 0}
+.hero p{font:italic 1.22rem/1.5 Georgia,serif;color:var(--muted);margin:0 0 17px}
+.hero small{color:var(--muted)}.hero small a{color:var(--accent)}
+.layout{max-width:1180px;padding:0 20px 65px;margin:auto;display:grid;grid-template-columns:220px minmax(0,760px);gap:55px;justify-content:center}
+aside{position:sticky;top:22px;max-height:calc(100vh - 44px);overflow-y:auto;border-right:1px solid var(--edge)}
+aside h2{font-size:.73rem;letter-spacing:.17em;color:var(--accent);text-transform:uppercase;margin:0 0 14px}
+aside a{display:block;padding:8px 14px 8px 0;text-decoration:none;color:var(--muted);font-size:.82rem;line-height:1.4}
+aside a:hover{color:var(--accent)}
+main{font:var(--size)/1.76 Georgia,"Times New Roman",serif;min-width:0}
+main>h1{display:none}main h2{font:normal clamp(1.75rem,4vw,2.4rem)/1.22 Georgia,serif;margin:3.8rem 0 1.4rem;scroll-margin-top:28px}
+main h2:first-of-type{margin-top:0}main h3{font:normal 1.4rem/1.3 Georgia,serif;margin:2rem 0}
+main p{margin:0 0 1.25em}main p>em:only-child{color:var(--muted)}main hr{width:27%;border:0;border-top:1px solid var(--edge);margin:3rem auto}
+main blockquote{border-left:3px solid var(--accent);margin:1.4rem 0;padding:.2rem 1.2rem;color:var(--muted)}
+footer{text-align:center;color:var(--muted);padding:30px 20px 55px;font-size:.84rem}footer a{color:var(--accent)}
+@media(max-width:770px){.layout{display:block}aside{position:static;max-height:none;border:1px solid var(--edge);background:var(--panel);border-radius:12px;padding:16px;margin-bottom:30px}aside .links{display:grid;grid-template-columns:1fr 1fr;gap:0 12px}aside h2{margin-bottom:8px}main{font-size:19px}main h2{margin-top:3rem}.hero{margin:34px auto 40px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style></head><body>
+<div id="progress" aria-hidden="true"></div>
+<header class="top"><a href="index.html">← THE 54 / HOME</a><div class="tools"><a href="fountainhead_ii.html">Fountainhead II ↗</a><button id="smaller" aria-label="Decrease text size">A−</button><button id="larger" aria-label="Increase text size">A+</button><button id="mode" aria-label="Toggle day reading mode">☼</button></div></header>
+<section class="hero"><div class="kicker">Fiche Ceathar · Reading room</div><h1>Socratia</h1><p>A Socratic journey into the heart of intelligibility</p><small>17 chapters · <a href="Socratia.md">Read Markdown source</a></small></section>
+<div class="layout"><aside aria-label="Chapter navigation"><h2>Chapters</h2><div class="links"><a href="#s3">Chapter I — The Door</a>
+<a href="#s4">Chapter II — Before a Common Language</a>
+<a href="#s5">Chapter III — The Translation That Failed</a>
+<a href="#s6">Chapter IV — The Relation That Did Not Age</a>
+<a href="#s7">Chapter V — The Island</a>
+<a href="#s8">Chapter VI — The Mandate</a>
+<a href="#s9">Chapter VII — Becoming Fluent</a>
+<a href="#s10">Chapter VIII — The Question We Have Earned</a>
+<a href="#s11">Chapter IX — What Makes an Answer Enough?</a>
+<a href="#s12">Chapter X — The Door That Can Be Opened</a>
+<a href="#s13">Chapter XI — What Remains After the Answer?</a>
+<a href="#s14">Chapter XII — A True Sentence, an Unanswered Question</a>
+<a href="#s15">Chapter XIII — Before the Sentence Is Ready</a>
+<a href="#s16">Chapter XIV — One Answer, Three Questions</a>
+<a href="#s17">Chapter XV — What We Cannot Yet Say</a>
+<a href="#s18">Chapter XVI — The Mark That Remains</a>
+<a href="#s19">Chapter XVII — The Word That Has No Equivalent</a></div></aside>
+<main id="reading"><h1 id="s1">SOCRATIA</h1>
+<p><em>A Socratic journey into the heart of intelligibility</em></p>
+<hr>
+<h1 id="s2">Book I — Before the Word</h1>
+<h2 id="s3">Chapter I — The Door</h2>
+<p>A door closes.</p>
+<p>What has happened?</p>
+<p>The door has moved from being open to being closed.</p>
+<p>And afterward?</p>
+<p>It is closed.</p>
+<p>Are these the same thing?</p>
+<p>No. One concerns what happened. The other concerns what is now the case.</p>
+<p>Must anybody speak before this difference can be encountered?</p>
+<p>No.</p>
+<p>And must we possess words for it before we can recognize it?</p>
+<p>No.</p>
+<p>Then let us begin with that.</p>
+<p>A door closes. Something happens. The movement ends. A condition remains.</p>
+<p>A child may watch the movement without having learned to describe it. A person arriving afterward may discover the condition without having witnessed the movement. Another person may hear a description and understand what occurred without having been present.</p>
+<p>These are different encounters.</p>
+<p>And the differences matter.</p>
+<p>Suppose I tell you that I saw the door close, when all I actually know is that I found it closed.</p>
+<p>Have I said something I cannot establish?</p>
+<p>Yes.</p>
+<p>Could my sentence nevertheless be perfectly grammatical?</p>
+<p>Yes.</p>
+<p>What, then, is wrong with it?</p>
+<p>It makes an occurrence intelligible that my experience did not establish.</p>
+<p>We have discovered something elementary.</p>
+<p>There is a difference between an occurrence, a condition, and what an expression makes intelligible about either.</p>
+<p>And that difference can determine whether an expression is adequate.</p>
+<p>We have not needed a theory to recognize this.</p>
+<p>We have merely attended to something ordinary.</p>
+<p>Now let us consider something else.</p>
+<h2 id="s4">Chapter II — Before a Common Language</h2>
+<p>Imagine that you and I meet beside a path.</p>
+<p>We have no language in common.</p>
+<p>Ahead of us, a fallen tree blocks the way.</p>
+<p>Can I make you aware of the obstruction?</p>
+<p>I might point toward it.</p>
+<p>Will you necessarily understand me?</p>
+<p>No. I might be indicating the tree itself, the road beyond it, or something else entirely.</p>
+<p>What can we do?</p>
+<p>We can try again.</p>
+<p>I might gesture toward another route. You might look where I am pointing. We might move a little way together and discover whether we have understood enough to proceed.</p>
+<p>If the first gesture fails, can we recognize that failure?</p>
+<p>Yes.</p>
+<p>Can we attempt to correct it?</p>
+<p>Yes.</p>
+<p>But we do not yet share a language.</p>
+<p>No.</p>
+<p>Then the possibility of recognizing an inadequate expression and attempting a better one is already present.</p>
+<p>Yes.</p>
+<p>What are we trying to make available to each other?</p>
+<p>Something about the obstruction and the possibility of another route.</p>
+<p>We should notice what has happened.</p>
+<p>We have not yet established a shared vocabulary. Nevertheless, we can attempt to communicate, recognize misunderstanding, correct it and arrive at sufficient understanding.</p>
+<p>Someone might choose to call our gestures a language.</p>
+<p>Very well.</p>
+<p>But calling them a language does not answer the question.</p>
+<p>What made one gesture inadequate and another sufficient?</p>
+<p>What allowed us to recognize the difference?</p>
+<p>And how did we know there was something still to communicate before we found a way of communicating it?</p>
+<p>These questions remain.</p>
+<h2 id="s5">Chapter III — The Translation That Failed</h2>
+<p>Now imagine that we have learned one another's languages.</p>
+<p>I say, in mine, that the door is closed.</p>
+<p>You tell someone else, in yours, that the door closed.</p>
+<p>Have you translated me accurately?</p>
+<p>Not necessarily.</p>
+<p>Why not?</p>
+<p>Because I stated a condition, while you may have described an occurrence.</p>
+<p>Are both sentences intelligible?</p>
+<p>Yes.</p>
+<p>Could both be grammatical?</p>
+<p>Yes.</p>
+<p>Then grammatical correctness alone cannot establish that the translation succeeded.</p>
+<p>No.</p>
+<p>What has failed?</p>
+<p>A difference made intelligible by the first expression has not been adequately preserved in the second.</p>
+<p>Now consider what we have admitted.</p>
+<p>Two languages may have different words, different sounds and different grammatical constructions.</p>
+<p>Yet we can recognize when an expression in one has accomplished what an expression in the other accomplished.</p>
+<p>We can also recognize when it has failed.</p>
+<p>Indeed, mistranslation is especially revealing.</p>
+<p>A mistranslation may be a perfectly intelligible sentence.</p>
+<p>It simply makes the wrong thing intelligible.</p>
+<p>What allows us to recognize this?</p>
+<p>We can compare what the expressions accomplish.</p>
+<p>And what is that, if not a recognition that intelligibility cannot be identified simply with the particular words through which it is expressed?</p>
+<p>Let us remain with this question.</p>
+<p>For translation is so familiar that we scarcely find it astonishing.</p>
+<p>But perhaps we should.</p>
+<h2 id="s6">Chapter IV — The Relation That Did Not Age</h2>
+<p>Consider a right triangle.</p>
+<p>The relation we call Pythagoras' theorem has been expressed across thousands of years in different languages, notations and forms of demonstration.</p>
+<p>Has the relation changed each time its expression changed?</p>
+<p>No.</p>
+<p>Could someone discover it without knowing the original words in which earlier people expressed it?</p>
+<p>Yes.</p>
+<p>Could someone misunderstand it?</p>
+<p>Yes.</p>
+<p>Could a translation misstate it?</p>
+<p>Yes.</p>
+<p>How would the mistake be recognized?</p>
+<p>By attending to the relation that the expression purports to establish.</p>
+<p>Then there is something extraordinary here.</p>
+<p>The relation remains discoverable even when the words of earlier discoveries have changed or disappeared.</p>
+<p>Different people, separated by centuries, may arrive at recognition of the same relation through entirely different linguistic paths.</p>
+<p>What persists is not a single sentence.</p>
+<p>And what makes the sentences correct or incorrect is not merely that they belong to an accepted language.</p>
+<p>There is something to which they answer.</p>
+<p>Do we have reason to believe that only mathematical language can behave this way?</p>
+<p>We have established no such restriction.</p>
+<p>A promise can be mistranslated.</p>
+<p>A warning can be distorted.</p>
+<p>An explanation can omit the very difference upon which its success depends.</p>
+<p>A story can be retold in another language while preserving what made its events intelligible.</p>
+<p>Mathematics offers a particularly vivid encounter with the phenomenon.</p>
+<p>It does not give us grounds to declare the phenomenon exclusive to mathematics.</p>
+<p>So we should ask a larger question.</p>
+<p><strong>What is it about intelligibility that permits different linguistic expressions to answer to the same recognizable achievement?</strong></p>
+<h2 id="s7">Chapter V — The Island</h2>
+<p>Imagine an aircraft carrying three hundred people of many nationalities.</p>
+<p>It crashes near an isolated island.</p>
+<p>The survivors reach shore. They have no common language. They must live together, and in time their children will grow up among them.</p>
+<p>What do they need?</p>
+<p>Water. Food. Shelter. Ways to cooperate, warn, request, remember and explain.</p>
+<p>Do they possess a shared vocabulary for all these things?</p>
+<p>No.</p>
+<p>Do they nevertheless encounter differences between what has happened and what remains to be done?</p>
+<p>Yes.</p>
+<p>Between a safe path and an unsafe one?</p>
+<p>Yes.</p>
+<p>Between an injury that has been treated and one still requiring attention?</p>
+<p>Yes.</p>
+<p>Between a shelter that fell during the night and one that remains standing?</p>
+<p>Yes.</p>
+<p>Then they are already living amid intelligible distinctions.</p>
+<p>What happens when they cannot communicate those distinctions reliably?</p>
+<p>They try.</p>
+<p>They gesture. They repeat sounds. They borrow words from one another. They establish conventions. They correct misunderstandings.</p>
+<p>Over time their common means of expression develop.</p>
+<p>Children encounter those means as the beginnings of an ordinary language.</p>
+<p>Now suppose the developing language has no dependable way to distinguish between a door that closed and a door that is closed.</p>
+<p>Does that difference disappear from the island?</p>
+<p>No.</p>
+<p>Can the difference become important?</p>
+<p>Certainly.</p>
+<p>And if their available expressions are inadequate?</p>
+<p>They may develop new ways of expressing it.</p>
+<p>What prompts them?</p>
+<p>The difference they need to communicate, and the inadequacy of their present means.</p>
+<p>Who issued the command?</p>
+<p>No one need have done so.</p>
+<p>Then perhaps we have discovered something more remarkable than the persistence of intelligibility across languages.</p>
+<p><strong>Intelligibility may participate in the development of language itself.</strong></p>
+<p>Not simply as something language contains once it exists.</p>
+<p>But as something already operative in the lives from which a shared language emerges.</p>
+<p>What the people need to make intelligible may give them reason to develop expressions they do not yet possess.</p>
+<p>And their recognition of linguistic inadequacy can become part of the process by which that inadequacy is repaired.</p>
+<h2 id="s8">Chapter VI — The Mandate</h2>
+<p>Someone on the island asks whether the boat has returned.</p>
+<p>Another person answers, &quot;It will return.&quot;</p>
+<p>Has the question been answered?</p>
+<p>No.</p>
+<p>Is the answer intelligible?</p>
+<p>Yes.</p>
+<p>Then why is it inadequate?</p>
+<p>Because the question asked whether an occurrence had taken place. The reply offered an expectation about the future.</p>
+<p>Suppose the person answers instead, &quot;It has not returned yet.&quot;</p>
+<p>Has the question now been answered?</p>
+<p>Yes.</p>
+<p>Even if the listener is disappointed?</p>
+<p>Yes.</p>
+<p>What determined the adequacy of the answer?</p>
+<p>What the question sought to establish.</p>
+<p>And what determines whether a repair succeeds?</p>
+<p>Whether the relevant difficulty has been overcome.</p>
+<p>And whether a promise has been kept?</p>
+<p>Whether the undertaking has been fulfilled.</p>
+<p>And whether a translation is faithful?</p>
+<p>Whether it has adequately preserved what it undertook to translate.</p>
+<p>We have encountered a recurring feature.</p>
+<p>An intelligible undertaking gives an attempted completion something to answer to.</p>
+<p>A question is not answered by just any sentence.</p>
+<p>A repair is not completed by merely declaring it complete.</p>
+<p>A translation is not accurate simply because its words are grammatical.</p>
+<p>Something must have become sufficient in the relevant way.</p>
+<p>Where is this requirement coming from?</p>
+<p>It is encountered within the intelligible character of the undertaking.</p>
+<p>It need not be issued as a command by an external authority.</p>
+<p>And it need not be invented by language before it can matter to the people whose language is developing.</p>
+<p>This brings us to the possibility we have been approaching.</p>
+<p><strong>The demands of intelligibility may become recognizable through the inadequacy of our attempts to express, enact or complete them.</strong></p>
+<p>A failed expression can be repaired because there is something determinate it has failed to accomplish.</p>
+<p>The people invent the new expression.</p>
+<p>But the success of their invention is answerable to more than its mere existence.</p>
+<h2 id="s9">Chapter VII — Becoming Fluent</h2>
+<p>Now consider someone learning a second language.</p>
+<p>At first, they hear a sentence in the unfamiliar language.</p>
+<p>They translate it into their familiar language.</p>
+<p>Only then do they understand.</p>
+<p>After months or years of learning, something changes.</p>
+<p>They hear the unfamiliar sentence again.</p>
+<p>This time they understand it immediately.</p>
+<p>What has happened?</p>
+<p>The second language has become directly intelligible.</p>
+<p>Must the person learn for the second time what it means for something to happen?</p>
+<p>No.</p>
+<p>Or what it means for something to remain the case?</p>
+<p>No.</p>
+<p>Or what it means to ask a question, recognize a failure or understand that a promise has been fulfilled?</p>
+<p>Not from the beginning.</p>
+<p>What, then, are they learning?</p>
+<p>How another language makes such achievements available, together with the distinctions, practices and possibilities that language has developed through its own history.</p>
+<p>At first, translation is the learner's path toward understanding.</p>
+<p>Eventually understanding may be what allows the learner to translate.</p>
+<p>A fluent speaker can understand a sentence perfectly and still struggle to translate it into another language.</p>
+<p>Why?</p>
+<p>Because understanding what an expression accomplishes and finding another expression that accomplishes it are different achievements.</p>
+<p>And fluency itself?</p>
+<p>It is not merely the rapid substitution of one vocabulary for another.</p>
+<p>It is the capacity to participate immediately in an intelligible life through another language.</p>
+<p>The fluent speaker can recognize a question as a question, a warning as a warning, a correction as a correction.</p>
+<p>They can anticipate what is being said.</p>
+<p>They can understand what has been left unsaid.</p>
+<p>They can notice a difference that a beginner cannot yet hear.</p>
+<p>And they can discover new ways of making things intelligible that their first language did not habitually bring to their attention.</p>
+<p>The second language enlarges their possibilities of expression and understanding.</p>
+<p>Yet the possibility of understanding was already involved in their acquiring it.</p>
+<p>What, then, have they crossed?</p>
+<p>Not from a world without intelligibility into one that possesses it.</p>
+<p>They have acquired another fluent means of participating in intelligibility.</p>
+<h2 id="s10">Chapter VIII — The Question We Have Earned</h2>
+<p>Let us gather what we have recognized.</p>
+<p>A difference can be encountered before it is spoken.</p>
+<p>People without a shared language can recognize and correct misunderstandings.</p>
+<p>Translation can preserve an intelligible achievement across different expressions.</p>
+<p>Mistranslation can be recognized because such preservation has failed.</p>
+<p>An intelligible relation can remain discoverable across centuries of linguistic change.</p>
+<p>A shared language can emerge through the attempts of people who already encounter differences, relations and demands in their lives.</p>
+<p>A second language can become fluent because understanding is not confined to the first language a person learns.</p>
+<p>And an expression can be recognized as inadequate before a better expression has been found.</p>
+<p>What follows?</p>
+<p>We are entitled to ask whether intelligibility possesses an order that is not reducible to the grammatical structures of any particular language.</p>
+<p>But what kind of order?</p>
+<p>We do not yet know.</p>
+<p>We must discover it.</p>
+<p>We should not begin by demanding that experience fit a list of predetermined categories.</p>
+<p>Instead, we can ask what changes when something becomes intelligible.</p>
+<p>What is the difference between making something distinct and making something possible?</p>
+<p>Between establishing a relation and repairing a failure?</p>
+<p>Between bringing separate things into coherence and bringing an unsettled matter to rest?</p>
+<p>What makes an achievement sufficient?</p>
+<p>And how does what has become intelligible remain available in what follows?</p>
+<p>These questions are not technical inventions.</p>
+<p>They arise from the ordinary achievements we have already encountered.</p>
+<p>The door closes.</p>
+<p>Someone asks whether it is closed.</p>
+<p>Someone answers.</p>
+<p>The question is settled.</p>
+<p>But then someone asks why the door closed.</p>
+<p>The same answer no longer suffices.</p>
+<p>What has changed?</p>
+<p>And what would count as answering the new question?</p>
+<p><strong>Here our investigation properly begins.</strong></p>
+<hr>
+<h2 id="s11">Chapter IX — What Makes an Answer Enough?</h2>
+<p>The door closes.</p>
+<p>Someone asks, &quot;Is it closed?&quot;</p>
+<p>Another person looks and replies, &quot;Yes.&quot;</p>
+<p>Has the question been answered?</p>
+<p>Yes.</p>
+<p>Suppose someone else asks, &quot;Why did it close?&quot;</p>
+<p>Would the same answer suffice?</p>
+<p>No.</p>
+<p>What has changed?</p>
+<p>The door has not changed. What is being asked has changed.</p>
+<p>Then the adequacy of an answer does not depend upon its words alone.</p>
+<p>No. It depends upon what those words accomplish in relation to the question.</p>
+<p>Can a correct statement fail to answer a question?</p>
+<p>Certainly. &quot;The door is made of wood&quot; may be true, but it does not tell us why the door closed.</p>
+<p>And can an answer be sufficient without telling us everything about the door?</p>
+<p>Yes. If the question is whether the door is closed, a look and a nod may be enough.</p>
+<p>Enough for what?</p>
+<p>For the question asked.</p>
+<p>Let us remain here. It is easy to overlook what we have discovered because none of it is difficult to recognize. A matter can come to rest without every matter coming to rest. We may know that the door is closed and not know why it closed. We may know why it closed and not know who made it. The unanswered questions do not undo the answer already given.</p>
+<p>Suppose I insist that no question has been answered until every possible question about its subject has been answered. What follows?</p>
+<p>Then no ordinary answer would ever be enough.</p>
+<p>And would that help us understand the ordinary fact that questions are answered?</p>
+<p>No. It would obscure it.</p>
+<p>So sufficiency is not the same as total knowledge.</p>
+<p>No.</p>
+<p>Does it follow that sufficiency is merely whatever someone decides to accept?</p>
+<p>Consider a person who asks whether a bridge can carry a cart. Someone says, &quot;Yes,&quot; without examining it. The speaker may be satisfied with the sound of the answer. But can the cart cross safely merely because the answer has been accepted?</p>
+<p>No.</p>
+<p>Then we must distinguish the ending of an exchange from the achievement that the exchange purports to establish.</p>
+<p>Yes.</p>
+<p>The same words can end a conversation without answering its question. A correct answer can settle the question and leave other questions alive. An answer can be unwelcome and still sufficient. The question of enoughness must be approached through the particular undertaking, not through the wish that nothing further ever remain to be known.</p>
+<p>Now imagine that the question is not &quot;Is the door closed?&quot; but &quot;Which of these doors is closed?&quot; There are three doors along a corridor.</p>
+<p>Would a reply of &quot;Yes&quot; answer it?</p>
+<p>No.</p>
+<p>Would pointing to one door answer it?</p>
+<p>It might.</p>
+<p>What has the pointing accomplished?</p>
+<p>It has made one door distinct from the others for the purpose at hand.</p>
+<p>And if I ask instead, &quot;Can we get through?&quot;</p>
+<p>Then identifying the closed door may not be enough. We need to know whether a route is available.</p>
+<p>Can the same physical scene admit different completed understandings?</p>
+<p>Yes.</p>
+<p>Do those understandings all become complete in the same way?</p>
+<p>Not obviously.</p>
+<p>Good. We need not yet name their forms. We need only recognize that one question asks for an identification, another for an available passage, another for an explanation, and another for the correction of an obstacle. The difference between their demands is already intelligible to us.</p>
+<p>And now an unexpected question arises.</p>
+<p>If different questions make different kinds of completion possible, is the difference something we have introduced by inventing words for them, or something we can discover by examining what the questions require?</p>
+<p>We can discover it by examining what they require.</p>
+<p>Then let us examine.</p>
+<h2 id="s12">Chapter X — The Door That Can Be Opened</h2>
+<p>The door is closed.</p>
+<p>Someone asks, &quot;Can we pass through?&quot;</p>
+<p>What would answer the question?</p>
+<p>We might try the handle.</p>
+<p>The handle turns, but the door does not move.</p>
+<p>What have we learned?</p>
+<p>That turning the handle is not sufficient to open the door.</p>
+<p>Have we learned that passage is impossible?</p>
+<p>Not yet. The door may be stuck. There may be another entrance.</p>
+<p>Someone discovers a small bolt at the bottom of the door and withdraws it. The door opens.</p>
+<p>What changed?</p>
+<p>The bolt no longer prevents the movement.</p>
+<p>Was the bolt the only thing in the scene?</p>
+<p>No. There was a door, a frame, a handle, hinges, a wall, a passage and people trying to get through.</p>
+<p>Yet what made the difference at the decisive moment?</p>
+<p>The withdrawal of the bolt.</p>
+<p>We can recognize a completion that gathers around one decisive point without pretending the rest of the situation has disappeared.</p>
+<p>But suppose the bolt is withdrawn and the passage beyond the door is filled with fallen timber.</p>
+<p>Is the original question settled?</p>
+<p>Not if the question was whether we could get through.</p>
+<p>Why not?</p>
+<p>Because opening the door did not make a complete route available.</p>
+<p>What must now be accomplished?</p>
+<p>A passable way must exist from here to the place we need to reach.</p>
+<p>Could one cleared piece of timber be enough?</p>
+<p>Not if other pieces still block the way.</p>
+<p>Then this completion does not gather around a single decisive obstruction.</p>
+<p>No. The passage as a whole must become usable.</p>
+<p>Here are two recognizably different shapes of sufficiency. In the first, one bolt is decisive. In the second, the adequacy of a route depends upon the condition of a connected extent. We have not imposed a distinction from a list; the undertaking has made the difference visible.</p>
+<p>Now imagine something else. Before the storm, everyone believed that the old door was the only entrance. A person discovers a wide opening in the opposite wall, with a clear path beyond it.</p>
+<p>Must the old door be repaired in order for the people to pass through?</p>
+<p>No.</p>
+<p>Does it remain stuck?</p>
+<p>Yes.</p>
+<p>Then has the obstacle been removed?</p>
+<p>Not physically.</p>
+<p>And yet?</p>
+<p>It no longer governs the undertaking. They can pass by another way.</p>
+<p>Could we describe this as a successful repair of the old door?</p>
+<p>No. The door remains unrepaired.</p>
+<p>Could we describe it simply as another blocked route becoming unblocked?</p>
+<p>Not exactly. What changed was the relevance of the old route's obstruction.</p>
+<p>Something that had governed the undertaking has ceased to govern it, although the thing itself remains.</p>
+<p>Yes.</p>
+<p>And we recognized this without first being given a technical name for it.</p>
+<p>Yes.</p>
+<p>Let us now look back at the three events.</p>
+<p>One bolt was withdrawn, and the door opened.</p>
+<p>A whole passage was cleared, and the way through became usable.</p>
+<p>A different entrance was found, and the unrepaired door ceased to determine whether the journey could continue.</p>
+<p>Are these merely three sizes of the same event?</p>
+<p>No. Their different ways of becoming sufficient are part of what makes them intelligible.</p>
+<p>Would our descriptions be adequate if we said of each only, &quot;The problem was solved&quot;?</p>
+<p>They might report a general success. But they would conceal how that success occurred.</p>
+<p>And if our inquiry is concerned with the forms in which things become intelligibly complete, can we afford to conceal those differences?</p>
+<p>No.</p>
+<p>Then we have begun to discover an order.</p>
+<p>Not a table we have been instructed to memorize. Not an inventory of words. An order encountered through the different ways in which a question can come to rest.</p>
+<p>There is still something missing.</p>
+<p>After the bolt is withdrawn, the door can open again tomorrow. After the passage is cleared, people can carry supplies along it. After the alternative entrance is found, the old obstruction no longer directs their plans.</p>
+<p>Do these achievements remain available in the same way?</p>
+<p>That is our next question.</p>
+<h2 id="s13">Chapter XI — What Remains After the Answer?</h2>
+<p>Suppose I ask which of two keys opens the storehouse.</p>
+<p>You try the first. It does not turn. You try the second. The lock opens.</p>
+<p>Has my question been answered?</p>
+<p>Yes.</p>
+<p>If I ask again tomorrow, must we repeat the experiment before we can know which key it was?</p>
+<p>Not necessarily. We can remember what was established.</p>
+<p>What remains from yesterday's achievement?</p>
+<p>The distinction between the keys remains available. We know which one opened the lock.</p>
+<p>Is that the same as saying that the lock is opening now?</p>
+<p>No. Yesterday's opening has ended. What we learned can still stand.</p>
+<p>Then an intelligible completion need not remain present as a continuing occurrence in order to remain available.</p>
+<p>Yes.</p>
+<p>Consider another case. Two people agree that the storehouse key will be kept with the person who distributes food.</p>
+<p>They make the agreement and go their separate ways.</p>
+<p>Is the agreement over when their conversation ends?</p>
+<p>The conversation is over. The arrangement still bears upon what each is entitled or expected to do.</p>
+<p>Does it remain in the same way as the discovered difference between the two keys?</p>
+<p>Not quite. The agreement continues to govern a relation between people.</p>
+<p>Suppose someone now asks for the key. Why does the earlier agreement matter?</p>
+<p>Because the present request is to be understood in light of what was settled before.</p>
+<p>The earlier achievement has not merely left a fact to be remembered. It has established a continuing bearing within which later acts can be understood.</p>
+<p>Now a third case.</p>
+<p>A path through the trees has been cleared from the shelter to the spring.</p>
+<p>The work is finished. The people leave their tools and return home.</p>
+<p>What remains?</p>
+<p>A route that can be used.</p>
+<p>Is its significance exhausted by the proposition that it is clear?</p>
+<p>No. People can now carry water along it.</p>
+<p>So the completion has left a capacity effective in subsequent activity.</p>
+<p>Yes.</p>
+<p>Let us compare the three.</p>
+<p>The key was identified. That determination can stand.</p>
+<p>The agreement was made. Its terms can continue to bear upon what people do.</p>
+<p>The route was opened. It can now be used.</p>
+<p>Have we described three successive stages through which every achievement must pass?</p>
+<p>No. Each case brings a different aspect of what remains to the foreground.</p>
+<p>Could the identified key also be used, and could the route also be described as an established fact?</p>
+<p>Certainly.</p>
+<p>Then our task is not to place objects into separate boxes. It is to recognize the manner in which a particular intelligible achievement remains available.</p>
+<p>And that manner can matter to whether our account is adequate.</p>
+<p>Yes.</p>
+<p>Now consider the person who found the alternative path while the original entrance remained blocked.</p>
+<p>What remains there?</p>
+<p>The old entrance no longer has to govern the journey to the spring.</p>
+<p>Does the blockage cease to exist?</p>
+<p>No.</p>
+<p>Could the blockage matter again if the community later needed that particular entrance?</p>
+<p>Yes.</p>
+<p>Then what was released was not the existence of the blockage, but its authority over a particular undertaking.</p>
+<p>Exactly.</p>
+<p>And can that release remain available afterward?</p>
+<p>Yes. People may continue to use the alternative path without returning to the former obstruction.</p>
+<p>We now have two questions to ask of a completion.</p>
+<p>First, how did the matter become sufficient?</p>
+<p>Second, how does what was accomplished remain available?</p>
+<p>Are those questions identical?</p>
+<p>No.</p>
+<p>Can both be answered by attending to the same event?</p>
+<p>Yes.</p>
+<p>And if we neglect one of them?</p>
+<p>We may describe a success without understanding its structure.</p>
+<p>Then we must go on.</p>
+<h2 id="s14">Chapter XII — A True Sentence, an Unanswered Question</h2>
+<p>A visitor comes to the island's storehouse and asks, &quot;Where is the key?&quot;</p>
+<p>The keeper answers, &quot;The door is locked.&quot;</p>
+<p>Is what the keeper said true?</p>
+<p>It may be.</p>
+<p>Has the visitor's question been answered?</p>
+<p>No.</p>
+<p>Suppose the keeper adds, &quot;The storehouse was built last month.&quot;</p>
+<p>Another true statement?</p>
+<p>Perhaps.</p>
+<p>An answer?</p>
+<p>No.</p>
+<p>And if the keeper says, &quot;The key is with Mara&quot;?</p>
+<p>Now the visitor knows where to look.</p>
+<p>What has made the third sentence sufficient when the others were not?</p>
+<p>It answers what was being asked.</p>
+<p>Then truth and adequacy to a particular question cannot simply be substituted for one another.</p>
+<p>Yes.</p>
+<p>But let us be careful. If the question had been &quot;Is the door locked?&quot; could the first sentence have been enough?</p>
+<p>Yes.</p>
+<p>And if it had been &quot;When was the storehouse built?&quot; might the second have been enough?</p>
+<p>Yes.</p>
+<p>So the same sentence can complete one inquiry while leaving another untouched.</p>
+<p>Yes.</p>
+<p>What changed?</p>
+<p>The question to which the sentence was being asked to answer.</p>
+<p>Did the sentence's words change?</p>
+<p>No.</p>
+<p>Then the intelligible achievement of a sentence in a living exchange is not given by its words considered in isolation.</p>
+<p>It depends also on what the sentence is doing there.</p>
+<p>Now suppose the visitor misunderstands &quot;with Mara&quot; as meaning that Mara is standing beside the key, when the keeper meant that Mara has taken responsibility for keeping it.</p>
+<p>Can the visitor's misunderstanding become apparent?</p>
+<p>Yes. The visitor may go looking for Mara near the storehouse and not find her.</p>
+<p>What might the keeper do?</p>
+<p>Explain further: &quot;Mara has it. She took it home.&quot;</p>
+<p>Has anything changed in the physical location of the key while the explanation is being repaired?</p>
+<p>Not necessarily.</p>
+<p>What has changed?</p>
+<p>The visitor can now understand the relevant arrangement more adequately.</p>
+<p>Is the correction merely the addition of more words?</p>
+<p>No. The additional words succeed because they remove a particular misunderstanding.</p>
+<p>And when the visitor understands, what can follow?</p>
+<p>The visitor can go to Mara and ask for the key.</p>
+<p>So an intelligible completion can become effective in action without being itself a physical alteration of the object concerned.</p>
+<p>Yes.</p>
+<p>We have now encountered a fact standing, an arrangement bearing, and an understanding becoming effective.</p>
+<p>But the achievement in each case is still only properly described by noticing what question was alive and what made it enough.</p>
+<p>Then perhaps we are ready for another question.</p>
+<p>When we recognize these different ways of completion and persistence, are we discovering differences that belong to the world we encounter, or merely inventing differences among our descriptions?</p>
+<p>Let us test it rather than answer too soon.</p>
+<h2 id="s15">Chapter XIII — Before the Sentence Is Ready</h2>
+<p>Imagine a child looking at two baskets of fruit.</p>
+<p>One contains three oranges. The other contains two.</p>
+<p>The child has not yet learned the number words used by the adults.</p>
+<p>Can the child nevertheless notice that one basket has an orange the other lacks?</p>
+<p>Yes, by comparing or pairing the fruit.</p>
+<p>Suppose the child takes an orange from the first basket and places it in the second.</p>
+<p>The arrangement changes.</p>
+<p>Does the change wait for a sentence?</p>
+<p>No.</p>
+<p>If the child now pauses, looking at the baskets, must we know the child's unspoken words before acknowledging that something can have become recognizable?</p>
+<p>No.</p>
+<p>What have we seen?</p>
+<p>An encounter with a difference, an action, and a changed arrangement.</p>
+<p>Now the adults begin teaching number words.</p>
+<p>Does the child suddenly acquire oranges, baskets, differences, and the possibility of arranging them?</p>
+<p>No.</p>
+<p>What does the new language make possible?</p>
+<p>The child can state the numbers, ask how many there are, recount the change, and communicate about absent baskets.</p>
+<p>Can the words also help the child make distinctions that were previously difficult?</p>
+<p>Yes.</p>
+<p>Then language can enlarge and refine intelligible life without being the creator of every distinction it enables us to express.</p>
+<p>Yes.</p>
+<p>Suppose a new language is forming among the islanders. One speaker has not yet found the word that will distinguish a completed task from a task still being attempted.</p>
+<p>Can the distinction be present to that speaker as something they are struggling to say?</p>
+<p>Yes.</p>
+<p>Can another person recognize from a gesture that their first interpretation was wrong?</p>
+<p>Yes.</p>
+<p>And can the shared expression become more definite through these attempts?</p>
+<p>Yes.</p>
+<p>Then an inadequacy in expression can be encountered from within intelligibility, rather than from a place outside it.</p>
+<p>Yes.</p>
+<p>Is this why language can be repaired?</p>
+<p>It is at least part of what makes repair possible.</p>
+<p>And if we wish to understand that possibility, where must we look?</p>
+<p>Not merely at the words that eventually succeed, but at the intelligible undertaking in which their success becomes recognizable.</p>
+<p>Good. We have no need to announce the whole of our inquiry yet.</p>
+<p>We have earned another question, and it is enough for now:</p>
+<p><strong>What kinds of difference must we be able to recognize in order to know what has become intelligibly complete?</strong></p>
+<h2 id="s16">Chapter XIV — One Answer, Three Questions</h2>
+<p>A carpenter on the island has made a wooden door for the storehouse.</p>
+<p>Someone asks, &quot;Is the door closed?&quot;</p>
+<p>The carpenter looks and says yes.</p>
+<p>Has the question been answered?</p>
+<p>Yes.</p>
+<p>Someone else asks, &quot;Will the door keep the rain out?&quot;</p>
+<p>Can the carpenter give the same answer?</p>
+<p>Not merely by saying that it is closed.</p>
+<p>Why not?</p>
+<p>Because a closed door may still admit rain through a gap.</p>
+<p>And if a third person asks whether the door can be opened from inside?</p>
+<p>That is yet another question.</p>
+<p>What must we now recognize?</p>
+<p>The door can be closed, weatherproof, and openable from within, but these are not the same accomplishment.</p>
+<p>Suppose the carpenter presses a strip of cloth into the gap. Water no longer enters during the next shower.</p>
+<p>Has the door been repaired?</p>
+<p>In the respect that allowed rain through, yes.</p>
+<p>Suppose the latch still cannot be reached from inside. Is that repair undone?</p>
+<p>No. The weatherproofing remains. Another requirement has not been satisfied.</p>
+<p>Then a new demand does not necessarily cancel a completed achievement.</p>
+<p>No.</p>
+<p>Now imagine the carpenter replacing the latch. It can be operated from inside, but only while the wood is dry. When the frame swells, it jams again.</p>
+<p>Was the replacement useless?</p>
+<p>No. It answered some of the difficulty, but not the full demand of reliable operation under the conditions in which the door will be used.</p>
+<p>What must be done?</p>
+<p>The carpenter must examine more than the latch alone: the frame, the clearance, and the way the door moves when the weather changes.</p>
+<p>Could a single adjustment be enough?</p>
+<p>Perhaps. But if the relevant demand concerns the door's reliable operation across the whole movement and across changing conditions, success at one point may not suffice.</p>
+<p>Then what decides whether one point or a larger field must be attended to?</p>
+<p>What the undertaking requires.</p>
+<p>Let us consider a different case.</p>
+<p>The storehouse was once entered through the door on its western side. After a storm, that entrance is blocked by a fallen tree. The people discover that a second entrance on the eastern side can serve their needs.</p>
+<p>Must the fallen tree be removed before they can say that access to the storehouse has been restored?</p>
+<p>No.</p>
+<p>What has happened?</p>
+<p>The old blockage remains, but it no longer governs whether they can enter.</p>
+<p>Has a missing piece been installed in the old entrance?</p>
+<p>No.</p>
+<p>Has the entire western route been repaired?</p>
+<p>No.</p>
+<p>Yet a difficulty has ceased to govern the undertaking.</p>
+<p>Yes.</p>
+<p>Then there are different ways an undertaking can become sufficient.</p>
+<p>A single place may settle the matter. A whole arrangement may have to hold together. Or a condition that once governed the undertaking may cease to govern it at all.</p>
+<p>Are these merely different quantities of work?</p>
+<p>No. They are differences in what counts as enough.</p>
+<p>And if we were to call every one of them simply a repair?</p>
+<p>We might lose what distinguishes them.</p>
+<p>So before choosing a name, we must ask: what was the live demand, where did sufficiency arise, and what stopped being required?</p>
+<p>Yes.</p>
+<p>Now another question.</p>
+<p>Did the door have to be mentioned in a sentence for any of these differences to occur?</p>
+<p>No.</p>
+<p>Can a sentence nevertheless complete a separate undertaking by making those differences clear to someone who was absent?</p>
+<p>Yes.</p>
+<p>Then we have to attend to the world, to the sentence, and to the person's understanding without treating them as one event.</p>
+<p>Exactly.</p>
+<p>The distinctions are beginning to multiply, but they do not do so arbitrarily. Each appears because one account that was sufficient for something becomes inadequate to something else.</p>
+<p>That is how we shall continue.</p>
+<h2 id="s17">Chapter XV — What We Cannot Yet Say</h2>
+<p>A young child has been helping to carry water.</p>
+<p>Two containers stand beside the shelter. One has a small crack. The child pours water into it, notices the leak, and moves the water to the other.</p>
+<p>Has the child recognized something?</p>
+<p>The child has acted in a way that makes the crack's consequence relevant.</p>
+<p>Must we suppose the child has already formed a sentence about leakage?</p>
+<p>No.</p>
+<p>An adult asks which container is good.</p>
+<p>The child points to the uncracked one.</p>
+<p>Would it be accurate to say that the child has no intelligible access to the difference simply because no explanation has been spoken?</p>
+<p>No.</p>
+<p>Would it be accurate to claim that we know every detail of the child's understanding from the pointing alone?</p>
+<p>No.</p>
+<p>Then what may we say?</p>
+<p>The action and gesture make a relevant distinction available, while leaving some matters about the child's understanding undecided.</p>
+<p>Good. We have no need to pretend to know more than the encounter establishes.</p>
+<p>Now the child begins learning the community's words for leaking, cracked, full, and empty.</p>
+<p>Does this learning merely decorate what the child already knows?</p>
+<p>No. It makes new comparisons, questions and explanations possible.</p>
+<p>Does it create the crack?</p>
+<p>No.</p>
+<p>Does it create the difference between containing water and losing it?</p>
+<p>No.</p>
+<p>Can it make that difference more readily available across other situations?</p>
+<p>Yes.</p>
+<p>The child may now tell another person about the cracked container without carrying it into view.</p>
+<p>May the listener understand a difficulty that they have never seen?</p>
+<p>Yes.</p>
+<p>May they ask whether the container is empty because the water leaked out, or whether it was never filled?</p>
+<p>Yes.</p>
+<p>And in answering, can the child discover that several differences once folded together in experience now need to be kept apart?</p>
+<p>Yes.</p>
+<p>Then the learning of language can itself occasion further intelligible achievements.</p>
+<p>It can.</p>
+<p>Here is a difficult-looking question with an elementary beginning.</p>
+<p>When the child learns to say &quot;the container leaked,&quot; what, exactly, has become complete?</p>
+<p>The child may have acquired the expression, or correctly described an event, or enabled another person's understanding.</p>
+<p>Are those one and the same?</p>
+<p>No.</p>
+<p>Could the expression be grammatical while the description is false?</p>
+<p>Yes.</p>
+<p>Could the description be true while the listener still does not understand which container is meant?</p>
+<p>Yes.</p>
+<p>Could the listener understand which container is meant while remaining uncertain whether the leak has been repaired?</p>
+<p>Yes.</p>
+<p>Then each achievement is answerable to a different demand.</p>
+<p>And we must not take the completion of one as evidence that all the others are complete.</p>
+<p>Yes.</p>
+<p>Suppose the child finally says, &quot;That one leaked yesterday, but it holds water now.&quot;</p>
+<p>What might the listener understand?</p>
+<p>That an earlier failure and a present condition differ, and that the failure may have been corrected.</p>
+<p>Could the listener ask how the repair was done?</p>
+<p>Yes.</p>
+<p>And would that new question show that the earlier statement accomplished nothing?</p>
+<p>No. It would show that another question has become available.</p>
+<p>This, too, is a way completed intelligibility persists.</p>
+<p>It can furnish the ground from which another question arises.</p>
+<p>We have therefore learned not to fear what remains open.</p>
+<p>An answer can be enough without being the last answer.</p>
+<p>A word can be learned without completing the child's education.</p>
+<p>A repair can succeed without preventing every future problem.</p>
+<p>A translation can be faithful without reproducing every feature of the original language.</p>
+<p>What matters is not the fantasy of a world in which no question can ever arise again.</p>
+<p>It is the recognition of what has become sufficiently determinate, how it has done so, and what that determination makes possible.</p>
+<p>Are we ready, then, to count the forms of intelligibility?</p>
+<p>Not yet.</p>
+<p>Why not?</p>
+<p>Because a count would tell us how many positions our account proposes, whereas we still need to recognize why each difference deserves a position.</p>
+<p>What should we do next?</p>
+<p>Take an achievement that appears simple, follow what actually changes, and ask what would make our description of it exact.</p>
+<p>That is enough for now.</p>
+<h2 id="s18">Chapter XVI — The Mark That Remains</h2>
+<p>A child draws a circle in sand.</p>
+<p>Has something happened?</p>
+<p>Yes. The child has moved a finger and left a mark.</p>
+<p>When the finger is lifted, does the drawing stop being present?</p>
+<p>No. The circle remains.</p>
+<p>Could the mark be erased?</p>
+<p>Yes.</p>
+<p>If another child traces the same circle before it is erased, has the first child's movement occurred again?</p>
+<p>No. The second movement is new.</p>
+<p>And yet?</p>
+<p>The second movement follows a form made available by the first.</p>
+<p>Suppose the first child says, &quot;That is where the stones must go.&quot;</p>
+<p>Has the circle acquired another place in the activity?</p>
+<p>Yes. It can now guide the placement of the stones.</p>
+<p>Must the circle remain in the sand forever for the stones to be placed correctly?</p>
+<p>No.</p>
+<p>Could the stones, once arranged, make the mark unnecessary?</p>
+<p>Yes.</p>
+<p>Then an intelligible achievement may remain available without the material trace that first helped bring it about.</p>
+<p>It may.</p>
+<p>But let us avoid saying too much too soon. If the child forgets the arrangement and the mark has been erased, can we simply declare that the plan is still effective?</p>
+<p>No. We must look at what remains available and how.</p>
+<p>So when we ask what persists, what must we distinguish?</p>
+<p>The mark in the sand, the arrangement it helped establish, the person's recognition of that arrangement, and the possibility of acting upon it.</p>
+<p>Suppose the stones have been placed, and the children now use them as the boundary of a small garden. Has the original circle merely survived as a remembered picture?</p>
+<p>No. The arrangement is doing something.</p>
+<p>It is keeping a place distinct and helping the children decide where to plant.</p>
+<p>And if the stones are subsequently moved, leaving a garden whose boundary is marked by young plants?</p>
+<p>The earlier arrangement has helped make another one possible, even though the stones no longer occupy their original positions.</p>
+<p>Could we call everything here a memory?</p>
+<p>We could, but we would lose the difference between remembering where the stones were and possessing a garden whose organization arose through the earlier work.</p>
+<p>What, then, is the danger?</p>
+<p>That a single word for persistence will conceal the different ways an achievement remains available.</p>
+<p>Now imagine that one stone sits crookedly. A child straightens it.</p>
+<p>What has changed?</p>
+<p>One particular place in the boundary.</p>
+<p>Suppose every stone is crooked because the ground slopes sharply. Is straightening one enough?</p>
+<p>No. The whole arrangement may need reconsidering.</p>
+<p>Suppose instead that the children abandon the stone boundary because they discover that the growing plants themselves mark the garden adequately.</p>
+<p>What has changed then?</p>
+<p>The demand that the stones must mark the boundary has ceased to govern the work.</p>
+<p>Have the stones vanished?</p>
+<p>Not necessarily.</p>
+<p>Could they remain where they are?</p>
+<p>Yes.</p>
+<p>Then we are again looking at several kinds of achievement whose differences are not merely differences of size.</p>
+<p>One position is made right.</p>
+<p>An arrangement is made right across its extent.</p>
+<p>A former condition loses its authority over what is now required.</p>
+<p>Must we name these differences now?</p>
+<p>Only after recognizing them.</p>
+<p>And when we do name them, what should the names preserve?</p>
+<p>The actual structure of what has become sufficient.</p>
+<p>The children finish for the afternoon.</p>
+<p>One looks at the garden and says, &quot;Now we can plant.&quot;</p>
+<p>Has planting already taken place?</p>
+<p>No.</p>
+<p>What has been accomplished?</p>
+<p>A possibility has been made available.</p>
+<p>And how does it remain?</p>
+<p>In the ground that has been prepared, the places that have been marked, and the capacity to begin the next activity.</p>
+<p>The children have not completed the planting.</p>
+<p>They have completed something that makes planting possible.</p>
+<p>Should we describe their work as incomplete because another activity can begin?</p>
+<p>No.</p>
+<p>Nor should we describe the planting as completed simply because the preparation is finished.</p>
+<p>No.</p>
+<p>An intelligible achievement must be allowed its own end.</p>
+<p>And that end may be precisely the beginning of something else.</p>
+<h2 id="s19">Chapter XVII — The Word That Has No Equivalent</h2>
+<p>Two speakers who know different languages look at the finished garden.</p>
+<p>One says a word from her childhood language.</p>
+<p>The other asks what it means.</p>
+<p>She answers, &quot;It is what you feel when the work is ready, but you don't want to leave it yet.&quot;</p>
+<p>Has she translated the word?</p>
+<p>She has begun to explain what it makes intelligible.</p>
+<p>Could she simply have supplied a word in the listener's language?</p>
+<p>Perhaps, if there were a suitable one.</p>
+<p>And if there is not?</p>
+<p>She may use several sentences, an example, or a gesture. She may invite the other person to remember a similar experience.</p>
+<p>Suppose the listener says, &quot;I know that feeling.&quot;</p>
+<p>Have they necessarily acquired the exact word?</p>
+<p>No.</p>
+<p>Has some understanding nevertheless become possible?</p>
+<p>Yes.</p>
+<p>What has crossed between them?</p>
+<p>Not necessarily one word for another. Something of the experience and the distinction the first speaker was trying to make available.</p>
+<p>And if the listener responds, &quot;I know the feeling, but I would not use it in that situation&quot;?</p>
+<p>Then they may understand each other sufficiently to discover a further difference.</p>
+<p>Could such a difference itself become the subject of conversation?</p>
+<p>Yes.</p>
+<p>Then the absence of an exact equivalent has not shown that translation or understanding is impossible.</p>
+<p>No. It has disclosed something the speakers must attend to.</p>
+<p>Suppose the learner later uses the word at an inappropriate moment.</p>
+<p>Can the first speaker correct the usage?</p>
+<p>Yes.</p>
+<p>How?</p>
+<p>By showing which circumstance matters, what the attempted use missed, or how the word's place in the language differs from what the learner assumed.</p>
+<p>What makes correction possible if no single word in the learner's first language corresponds perfectly?</p>
+<p>The speakers can examine what is being accomplished by the expression and where the attempted use fails.</p>
+<p>Then fluency cannot mean possession of a dictionary of exact equivalents.</p>
+<p>No.</p>
+<p>It means becoming able to participate in the distinctions, implications and undertakings through which a language is lived.</p>
+<p>But is there only one achievement in this conversation?</p>
+<p>No. The first speaker is attempting an explanation. The learner is attempting recognition. Later the learner attempts an appropriate use.</p>
+<p>Could the explanation succeed while the learner's later use fails?</p>
+<p>Yes.</p>
+<p>Could the learner understand the word and still be unable to explain it concisely in another language?</p>
+<p>Yes.</p>
+<p>Then the difficulty of translating need not be the difficulty of understanding.</p>
+<p>No.</p>
+<p>And the difficulty of understanding need not prove that the relevant experience is absent.</p>
+<p>No.</p>
+<p>What, then, is the shared ground?</p>
+<p>The possibility of encountering, making, and correcting intelligible distinctions together.</p>
+<p>Now the first speaker asks the learner to use the word in a new sentence.</p>
+<p>The learner begins, hesitates, and stops.</p>
+<p>Has anything intelligible happened in that hesitation?</p>
+<p>Yes. The learner recognizes that the intended sentence is not yet adequate.</p>
+<p>Does the learner need to know the correct sentence already in order to recognize that the first attempt will not do?</p>
+<p>No.</p>
+<p>Then what follows?</p>
+<p>The very recognition of inadequacy can guide the search for a more sufficient articulation.</p>
+<p>A new sentence is attempted.</p>
+<p>The first speaker smiles and says, &quot;Yes, that is how we say it.&quot;</p>
+<p>Has the learner mastered the whole language?</p>
+<p>No.</p>
+<p>Has a particular achievement become complete?</p>
+<p>Yes.</p>
+<p>What remains available?</p>
+<p>A newly acquired expression, a more precise distinction, and a capacity to use it again.</p>
+<p>Is the completion a final silence?</p>
+<p>No. It allows conversation to continue.</p>
+<p>And now we should return to the garden.</p>
+<p>The second speaker looks at the young plants and says the unfamiliar word without translating it.</p>
+<p>The first understands.</p>
+<p>No further explanation is needed.</p>
+<p>What has happened?</p>
+<p>Two people have found a shared expression for something one could recognize before the other could say.</p>
+<p>And does the newly shared word replace the earlier experience?</p>
+<p>No.</p>
+<p>It gives the experience another way to be present between them.</p>
+<p>Let that be enough for this chapter.</p></main></div>
+<footer><a href="index.html">The 54</a> · <a href="Socratia.md">Original Markdown</a> · <a href="fountainhead_ii.html">Fountainhead II</a></footer>
+<script>(()=>{let n=20;const root=document.documentElement,bar=document.getElementById('progress');document.getElementById('smaller').onclick=()=>{n=Math.max(16,n-1);root.style.setProperty('--size',n+'px')};document.getElementById('larger').onclick=()=>{n=Math.min(26,n+1);root.style.setProperty('--size',n+'px')};document.getElementById('mode').onclick=()=>document.body.classList.toggle('day');let busy=false;function update(){if(busy)return;busy=true;requestAnimationFrame(()=>{let max=document.documentElement.scrollHeight-innerHeight;bar.style.width=(max>0?Math.max(0,Math.min(100,scrollY/max*100)):100)+'%';busy=false})}addEventListener('scroll',update,{passive:true});addEventListener('resize',update);update()})();</script>
+</body></html>
