@@ -1146,6 +1146,157 @@ And, in doing so, it reveals the intelligibility within which it has come to exi
 
 ---
 
+### Chapter IV
+### The Claim That Outlived Its Words
+
+A long time before the people on the island learned to speak together, other people had looked at triangles.
+
+They had measured, compared, drawn and calculated.
+
+They had discovered that certain relations remained reliable across differences of size and orientation.
+
+A triangle drawn in sand could be examined. Another could be marked upon stone. A larger one might be used in construction.
+
+The drawings differed.
+
+The relation could be recognized again.
+
+Eventually a claim concerning right triangles became part of the mathematical knowledge transmitted across generations.
+
+Today we commonly associate that claim with Pythagoras.
+
+Its historical passage through cultures is complex. The relation was known in more than one ancient mathematical tradition, and the words in which people first expressed it are not the words in which most people now encounter it.
+
+That complexity is appropriate to our subject.
+
+For what has survived is not a single untouched sentence travelling through time.
+
+Languages have changed.
+
+Mathematical symbols have been introduced.
+
+Methods of demonstration have multiplied.
+
+The knowledge has been taught in schools whose founders could not have imagined the languages in which future generations would study it.
+
+Yet the relation remains available.
+
+A child can encounter it without knowing the history of its transmission.
+
+The child may draw a right triangle and measure its sides.
+
+At first there may be nothing particularly remarkable about it.
+
+The triangle has three sides.
+
+One angle is a right angle.
+
+Someone marks the lengths and introduces a relation among their squares.
+
+The child follows the calculation.
+
+Then perhaps there is a moment when the significance changes.
+
+The relation is not merely true of the particular triangle in the drawing.
+
+It belongs to every right triangle under the relevant geometric conditions.
+
+The child turns the page and draws another.
+
+The lengths change.
+
+The relation remains.
+
+A third drawing is made.
+
+Again, the relation holds.
+
+The child may initially regard this as an interesting coincidence.
+
+Then an explanation is offered.
+
+Perhaps squares are drawn upon the sides. Perhaps a larger square is partitioned into regions whose areas can be compared. Perhaps the proof proceeds through a different construction.
+
+However it is accomplished, the child comes to see why the relation holds.
+
+There is a new achievement.
+
+Before, the child may have known that several examples worked.
+
+Now the child understands something about what makes the relation necessary within the geometry being studied.
+
+The difference matters.
+
+It is possible to repeat a true statement without understanding why it is true.
+
+It is possible to calculate a correct answer by following a procedure whose significance remains obscure.
+
+It is possible to recognize a pattern without yet seeing what establishes it.
+
+And it is possible for an explanation to change this situation.
+
+The mathematical relation becomes intelligible in a new way.
+
+Not simply encountered.
+
+Not simply remembered.
+
+Understood through what makes it hold.
+
+Consider how extraordinary it is that this can happen so long after the original discovery.
+
+The child does not require the original words.
+
+Nor is the child's understanding limited to reconstructing the thoughts of a particular ancient mathematician.
+
+The child can discover the relation through a proof that did not exist when the relation was first recognized.
+
+A later expression may disclose what an earlier expression left unexplained.
+
+An old claim may become newly intelligible.
+
+Thus the persistence of intelligibility through language is not merely the preservation of an identical possession.
+
+It can include the development of understanding itself.
+
+What one generation recognizes, another may explain.
+
+What one language expresses awkwardly, another formulation may make clearer.
+
+What was once shown by a particular construction may later be shown through a more general relation.
+
+The claim remains answerable to the same geometrical conditions even as the ways of understanding it develop.
+
+And this brings us to a distinction that is easy to miss.
+
+The enduring truth of the relation is not the same thing as the persistence of somebody's understanding of it.
+
+A theorem may be forgotten by an entire community.
+
+A manuscript may be lost.
+
+A mathematical practice may disappear.
+
+Centuries later, another community may discover the relation independently.
+
+The truth has not travelled between the communities through an unbroken chain of words.
+
+The discovery has occurred again.
+
+This possibility is among the strongest invitations to reconsider the relationship between intelligibility and language.
+
+If a relation can be discovered independently, the capacity to recognize it cannot depend upon inheriting the precise linguistic expression in which another person previously stated it.
+
+The discovery requires activity, attention, methods and understanding.
+
+But it does not require the survival of one original sentence.
+
+A relation may be encountered through several histories of recognition.
+
+The histories are different.
+
+The relation remains recognizable.
+
 ## Chapter VII — The Same Answer, a Different Question
 
 The morning after the storm, a woman arrives at the shelter and finds the door closed. She asks whether anyone saw it close during the night. Someone answers that it is closed now.
