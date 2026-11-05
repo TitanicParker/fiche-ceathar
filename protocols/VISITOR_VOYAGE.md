@@ -35,6 +35,28 @@
 5. **Record the advance:** write the old premise, the new recognition, the bridge of reasoning, and the boundary of the conclusion. The new fact becomes available for the next chapter.
 6. **Reopen only where needed:** if a counterexample defeats a premise or changes its scope, correct **that** premise and every dependent conclusion, preserving what remains valid. A hypothesis remains a hypothesis; the 54's proposed exhaustiveness is not automatically a proved fact.
 
+### The living function of microscopic reciprocity — one moment at a time
+
+**The microscope and reciprocal microscope are not merely two instructions for examining a finished account. They describe a recurrent function of intelligible inquiry itself.** We encounter something; we ask; an answer makes one aspect sufficiently determinate; that achievement changes what can now be asked. The inward microscope increases the resolution of what has been recognized. The outward microscope discovers what follows from that recognition. The new discovery becomes the starting condition for another inward examination, and the movement continues.
+
+In ordinary life the interrogatives **what, when, who, where, why, and how** give familiar directions to inquiry. They are not a six-cell alternative to the 54, nor do they map one-to-one onto the six Transformation Patterns. A *why* question, for example, might be completed by making a relation intelligible, establishing a repaired condition, or disclosing how parts operate together. The interrogative identifies the demand; it does not predetermine the conjunctive form of its completion.
+
+**An assertion creates further intelligible possibilities because a sentence does not stand without context.** “The door closed” can complete the question *what happened?* and make *when?*, *how?*, or *why?* newly relevant. Conversely, *why did it close?* governs what would count as an adequate answer: “at noon” might be true while still failing that demand. Not every conceivable follow-up is owed by the original assertion. Distinguish demands inherent in the asserted content, demands established by the live undertaking, and questions newly introduced by a later investigator.
+
+The movement is therefore not a mechanical sequence in which every answer automatically settles the next question:
+
+**Encounter → question → undertaking-relative sufficient determination → further available question → finer examination → further determination.**
+
+The questions are historically situated, revisable, and often ephemeral. An achievement can nevertheless be sufficient *in its own respect* without settling every question about its subject. Further inquiry need not cancel what was earned. It may preserve it, qualify its scope, show a constitutive condition was missing, or change its bearing within a richer account.
+
+**One sentence at a time. One realisation at a time. One moment at a time.** A question may become more exact even before its answer is available. Discovering which question must be asked can itself complete a distinct undertaking. But do not confuse a question's having become intelligible with the successful answer to that question.
+
+This has a reflexive consequence: **the investigation of intelligibility participates in the activity it studies.** The guide is an instrument undergoing correction through the discoveries it helps bring into view. Its records should accumulate actual advances rather than continually restart the same debate. The next visitor should ask what a newly earned recognition makes possible that could not responsibly have been asked before.
+
+**Relation to the Great Human Invariant.** The project proposes that the 54 identify the invariant, jointly constituted forms in which such particular intelligible achievements come to completion and remain available. The recurrence of question, answer and further question is a way of investigating that thesis; it does not by itself prove uniqueness or exhaustiveness of the 54. Do not classify questions by their interrogative words. Individuate the completed achievement, identify its live demand, and only then ask whether the controlling grammar specifies its invariant form.
+
+**Additional microscope record fields:** What was the previous achieved determination? Which interrogative or implicit demand did it make possible? What new difference is actually established by the next answer? Which earlier result survives, is narrowed, or is overturned? What further question is now earned? Record when no further conclusion is warranted rather than manufacturing a new turn in the cycle.
+
 ### An example of cumulative Socratic movement
 
 Socratia has already distinguished **understanding what a sentence claims** from **establishing that what it claims is true**. Do not exhaust another chapter asking again whether false assertions can be intelligible. Start from that established difference. Ask, for instance: **If two people understand contradictory claims, what is available between them before either has settled which claim is true?** Their common understanding of the *question at issue* may itself be examined for necessity, its conditions, and its limits. The inquiry could then look outward to what makes a genuine disagreement determinable—and inward to when differing undertakings mean that the speakers were never contradicting one another in the same respect. This is an illustration of **method**, not a compulsory Chapter XVIII plot or an asserted result.
