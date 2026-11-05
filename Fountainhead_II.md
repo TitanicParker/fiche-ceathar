@@ -1297,6 +1297,168 @@ The histories are different.
 
 The relation remains recognizable.
 
+Now consider what happens when a mathematical claim is mistranslated.
+
+Suppose the original asserts a relation that holds for right triangles.
+
+The translation omits the condition that the triangle must have a right angle.
+
+The resulting sentence may be grammatical.
+
+Its words may be familiar.
+
+Its meaning may be perfectly clear.
+
+But it now makes a different claim.
+
+And the new claim does not hold in the same way.
+
+The error can be discovered.
+
+A reader can draw a triangle that is not right-angled and show that the translated statement is inadequate.
+
+Nothing about the elegance of the translation can rescue it.
+
+The expression is answerable to the relation it purports to state.
+
+And the relation makes the difference between success and failure recognizable.
+
+This is not a special property bestowed upon mathematics by mathematical vocabulary.
+
+The same general phenomenon appears whenever an expression is answerable to something it seeks to make intelligible.
+
+A witness can report that a person left the room.
+
+Another witness can report that the person remained.
+
+The accounts may be compared with what occurred.
+
+A translator can turn a promise into a prediction and thereby alter the commitment conveyed.
+
+A historian can omit the condition under which a decision was made and leave the reader with a misleading understanding of the event.
+
+A friend can repeat another person's explanation while losing the very distinction that made it illuminating.
+
+In each case, a sentence may be intelligible while failing to preserve the intelligible achievement at issue.
+
+The words are not sufficient merely because they are words.
+
+We must ask what they accomplish.
+
+The mathematical example gives this question a particular clarity.
+
+But the question belongs to language more generally.
+
+And perhaps it belongs beyond language altogether.
+
+A carpenter can measure incorrectly.
+
+A musician can enter too early.
+
+A person can mistake the path to a house.
+
+A doctor can misidentify the cause of a symptom.
+
+A child can reach for an object that has been moved.
+
+These are different kinds of mistake, with different ways of being discovered and corrected.
+
+Yet none requires us to suppose that error begins only when a sentence is formed.
+
+A mistake may be made in action.
+
+Its inadequacy can become recognizable through what happens next.
+
+A correction can be achieved without a verbal explanation.
+
+An explanation can then make the correction available to someone else.
+
+Here we begin to see why the study of intelligibility must not be confined to the study of propositions.
+
+Propositions are extraordinary achievements. They allow things to be stated, assessed, remembered and communicated with great precision.
+
+But the field in which correctness and incorrectness, sufficiency and insufficiency, recognition and misrecognition become possible is not exhausted by the sentence.
+
+A sentence is one way of entering that field.
+
+It is not the whole of it.
+
+Return to the child studying the triangle.
+
+At one moment the child is copying symbols.
+
+At another the child is checking a calculation.
+
+At another the child is studying a diagram.
+
+Then the child sees why the relation holds.
+
+There may be no new sentence at the instant of recognition.
+
+The proof may be the same proof that was on the page a moment earlier.
+
+What changes is the child's understanding.
+
+Something previously unrecognized becomes recognizable.
+
+The child may say, "Now I see."
+
+Those words do not constitute the whole of what has happened.
+
+They acknowledge it.
+
+And when the child later explains the proof to someone else, another achievement becomes possible.
+
+One understanding becomes available for another person to acquire.
+
+The explanation may succeed.
+
+It may fail.
+
+It may need to be repaired.
+
+The relation, the proof, the child's recognition, the explanation, and the listener's eventual understanding are not one event.
+
+But they belong together within a life of intelligibility.
+
+And it is precisely their belonging together that makes the passage of understanding across persons and centuries possible.
+
+There is something moving here that is not simply a succession of sentences.
+
+There is the recurring possibility of an intelligible achievement.
+
+A truth can be recognized.
+
+An explanation can be given.
+
+A failure can be discovered.
+
+A correction can be made.
+
+Understanding can arise again.
+
+We should not hurry to reduce this to a single mechanism.
+
+We should instead remain with the extraordinary fact that these achievements can answer to one another.
+
+A proof answers a mathematical question.
+
+A translation answers an earlier expression.
+
+A correction answers an inadequacy.
+
+An explanation answers a difficulty in understanding.
+
+A learner's recognition answers the effort of explanation.
+
+And each achievement may become the occasion for another.
+
+This is not the permanence of language.
+
+It is the continuing availability of intelligibility through language's changing forms.
+
+---
+
 ## Chapter VII — The Same Answer, a Different Question
 
 The morning after the storm, a woman arrives at the shelter and finds the door closed. She asks whether anyone saw it close during the night. Someone answers that it is closed now.
