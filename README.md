@@ -1,6 +1,6 @@
 # Fiche Ceathar — The 54
 
-> **Visiting GPT? Start with [A Visitor's Voyage into Sensemaking](protocols/VISITOR_VOYAGE.md) (revised 3 November 2026).** Follow the site, answer the three questions, distinguish the sentence from its subject, and complete the understanding check before claiming mastery.
+> **Visiting GPT or philosophical investigator? Begin with [The Continuing Investigation](protocols/VISITOR_VOYAGE.md) (Edition 1, 5 November 2026).** Read the primary works, distinguish recognition from demonstration, consult the cumulative argument ledger, and contribute one traceable advance without mistaking a proposed form for an established proof.
 
 ## A New Method for Talking about Organising Reality
 
@@ -72,7 +72,7 @@ The [White Deck](the_54_white_deck.html) presents 54 minimal companion utterance
 
 The **[Leading Edge Deck](the_fifty_four_book_and_deck.html)**, *The Fifty-Four — A Book of Arrivals*, is a six-chapter illustrated-in-words book and flippable, swipeable collection of 54 mythic arrivals. Its short utterances, titles and “whispers” invite recognition before the reader inspects the algebraic and canonical addresses. The literary voice is interpretive and does not replace the governing definitions.
 
-On the [homepage](index.html), the quiet **white line** opens the White Deck; the **purple line** immediately below opens the Leading Edge Deck. The [GPT-guided reader](protocols/VISITOR_VOYAGE.md) now explains how these experiences relate to the formal grammar and to blind sentence-assay experiments.
+On the [homepage](index.html), the quiet **white line** opens the White Deck; the **purple line** immediately below opens the Leading Edge Deck. The [living investigation guide](protocols/VISITOR_VOYAGE.md) links these experiences to the formal grammar, the current argument ledger, and the separate blind sentence-assay experiments.
 
 **[Explore the interactive 54](https://titanicparker.github.io/fiche-ceathar/)**
 
