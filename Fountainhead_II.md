@@ -1,6 +1,879 @@
 # THE FOUNTAINHEAD OF INTELLIGIBILITY II
+## A Second Beginning
 
-*Continuation of the six opening chapters composed in chat; this file contains Chapters VII–VIII.*
+### Chapter I
+### Before the Word
+
+A door closes.
+
+There is a brief movement, a sound, and then stillness. The door, which had stood open, now stands closed.
+
+Someone watching from across the room has seen what happened. Another person, entering a moment later, sees only what is now the case.
+
+The first has witnessed a change. The second encounters a condition.
+
+Neither needs to speak.
+
+Nor is either waiting for a sentence before the difference becomes available.
+
+A child might have watched the door with interest. A dog might have turned at the sound. Someone carrying a tray might have been relieved to see that the draught had stopped. Someone expecting a visitor might have been disappointed.
+
+The same occurrence enters several lives differently. Yet there is nothing obscure about the difference between the door's movement into a closed position and the condition that remains when the movement is over.
+
+We can say that the door closed.
+
+We can say that the door is closed.
+
+These are different things to say because they make different things intelligible.
+
+We should allow ourselves to be surprised by this.
+
+Not by the fact that doors close. Nor by the fact that languages possess ways of speaking about them.
+
+The surprise is that the difference to which these expressions answer is already there for us to encounter.
+
+A language can express it well or badly. A person can describe it accurately or confuse it with something else. A child can learn how to communicate it. A translator can preserve it or lose it.
+
+But the difference is not waiting for any of these activities to bring it into existence.
+
+The door closes before anyone says that it has closed.
+
+And the door remains closed whether anyone mentions its condition or not.
+
+This is where we shall begin.
+
+Not with a definition of intelligibility, since a definition would already require us to recognize the very thing we wish to investigate.
+
+Not with a theory of language, since the possibility of language is among the things we shall need to understand.
+
+Not with a list of categories, however carefully devised, since we have yet to see why there should be categories at all.
+
+We begin with something happening and something becoming available to understanding.
+
+The difference between these two descriptions is itself worth noticing.
+
+A thing may happen without anyone noticing it. A door may close in an empty house. Rain may begin over a field no one is watching. A stone may fall from a wall and lie where it lands.
+
+When someone subsequently encounters what has occurred, the event may become intelligible through its consequences. The fallen stone is found on the ground. The wall has a gap. The earth beneath is disturbed.
+
+A person examines the scene and understands something that was not present to them when it happened.
+
+The understanding has its own occurrence. It arrives.
+
+Perhaps the person sees at once what must have happened. Perhaps there is uncertainty, followed by closer inspection, followed by recognition.
+
+In either case, something becomes determinate for someone.
+
+The movement from uncertainty to recognition is not the same as the stone's movement from the wall to the ground.
+
+Yet both can be understood.
+
+This is already an extraordinary situation.
+
+We inhabit a world in which things happen, conditions persist, and relations obtain. We also inhabit lives in which those happenings, conditions and relations become recognizable.
+
+And then we speak.
+
+We tell another person what we saw. We ask what happened. We answer a question. We correct a mistaken account. We find that a sentence has made something clear.
+
+Speech is not an addition to an otherwise empty life.
+
+It enters a life already filled with differences that matter.
+
+Consider a child who has not yet learned to say *again*.
+
+Someone lifts the child, lowers them, and lifts them once more. The child laughs. The movement stops. The child reaches upward, anticipating its return.
+
+The word is absent. The expectation is not.
+
+Later the child will learn to ask for the movement to be repeated. Eventually there may be many ways of asking, each carrying a different urgency, playfulness or insistence.
+
+But the acquisition of the word does not mark the first appearance of repetition in the child's life.
+
+The word makes a recognizable possibility available in another way.
+
+It becomes possible to request repetition when the movement has ceased, when the person is farther away, when the circumstances have changed. It becomes possible to talk about repetition rather than merely participate in it.
+
+Language transforms what can be done with an intelligible difference.
+
+It does not follow that language must have created the difference.
+
+This observation seems modest enough to pass almost unnoticed.
+
+Yet its consequences extend farther than we might expect.
+
+For there are thousands of languages in the world, and their speakers do not inhabit thousands of mutually inaccessible orders of intelligibility.
+
+They can meet.
+
+They can misunderstand one another.
+
+They can discover that they have misunderstood.
+
+They can attempt to make something clearer.
+
+And sometimes, without possessing a single word in common, they can succeed.
+
+Imagine two travellers standing beside a damaged bridge.
+
+One points to a broken support. The other looks toward the road beyond the bridge and shakes their head.
+
+The travellers speak different languages.
+
+One draws a line through the air to indicate another route. The other points toward a path through the trees.
+
+They begin to walk.
+
+There may have been considerable uncertainty between them. The first gesture might have been taken to indicate the river rather than the bridge. The path might not lead where either hoped.
+
+Yet their exchange is possible.
+
+Something about the broken support has become recognizable as a reason not to cross. Something about the path has become recognizable as an alternative.
+
+The gestures do not resemble sentences in any elaborate way. They may be improvised and never used again.
+
+Nevertheless, they accomplish something intelligible.
+
+One person makes a difficulty available to another. Together they establish what to do next.
+
+If we call this communication, we should not let the familiar word conceal the achievement.
+
+How did they know there was anything to communicate?
+
+How did either recognize what the other was attempting to make available?
+
+And what allowed their uncertain expressions to become sufficient for the situation?
+
+We are accustomed to asking how communication occurs within a language.
+
+Here we encounter communication at the edge of any shared language.
+
+The distinction is important because we can now ask a different question.
+
+What makes a shared language possible in the first place?
+
+Imagine an aircraft carrying three hundred people from many countries. During a long journey, something goes terribly wrong. The aircraft comes down near a remote island, and those who survive reach its shore.
+
+Their circumstances are extraordinary, and they are far from any settled community that can offer assistance.
+
+They have no common language.
+
+There may be small groups who understand one another, but no language belongs to everyone. Their histories, vocabularies and inherited ways of speaking are different.
+
+Yet they must live together.
+
+They need water.
+
+They need shelter.
+
+They must care for the injured.
+
+They must distinguish food that can be eaten from food that cannot.
+
+They must discover which paths lead inland, which places flood, where the sun gives way to shade, and what changes when the weather turns.
+
+At first, communication may be difficult.
+
+Someone points. Someone imitates. A word from one language is repeated by speakers of another. Gestures acquire customary meanings. A particular sound becomes associated with a particular activity.
+
+The first shared expressions may be awkward.
+
+One expression may have to accomplish many things.
+
+A gesture may be understood only when the object is visible.
+
+A word may mean one thing to the person who introduced it and something slightly different to the person who has begun using it.
+
+But life continues.
+
+A shelter is built.
+
+A fire is maintained.
+
+Water is carried.
+
+Arrangements are made, broken, repaired and made again.
+
+The community's means of expression change under the demands of these activities.
+
+A distinction that was once dependent upon gesture becomes expressible through a word.
+
+A distinction that once required the whole situation to be visible becomes available when the situation is absent.
+
+A distinction that repeatedly caused confusion becomes more reliably expressed.
+
+Children are born.
+
+They grow up among the developing conventions. What their parents assembled from fragments becomes the ordinary environment of their own first speech.
+
+The language is no longer merely an emergency arrangement between strangers.
+
+It has a history, regularities, habits, possibilities of error and ways of putting errors right.
+
+Its speakers tell stories.
+
+They anticipate events.
+
+They describe what has happened.
+
+They ask what remains to be done.
+
+They say that the door closed.
+
+They say that the door is closed.
+
+We should attend carefully to what has occurred.
+
+The islanders have developed a language. But they did not first develop a world in which events differ from conditions, actions from their consequences, possibilities from their fulfilment, or successful attempts from unsuccessful ones.
+
+They arrived in such a world.
+
+Their developing language became a way of inhabiting that intelligible life together.
+
+The distinction between an event and a condition did not have to be imported from any of the languages the survivors once spoke.
+
+It was encountered in the lives they continued to lead.
+
+And when their common expressions proved inadequate to something they needed to distinguish, that inadequacy itself could become recognizable.
+
+A person might try to say that a shelter had collapsed during the night.
+
+Another might understand that it remained in danger of collapsing.
+
+The difference matters. One situation calls for rebuilding. The other may call for strengthening a structure that still stands.
+
+They try again.
+
+One points to the fallen beams.
+
+Another makes a gesture indicating the earlier movement.
+
+An expression begins to acquire a more definite use.
+
+On another occasion, a similar difficulty arises, and the distinction is made more quickly.
+
+With repetition, the community's means of expressing it become increasingly familiar.
+
+We might say that the language is improving.
+
+But this description invites a question that deserves far more attention than it usually receives.
+
+**Improving in relation to what?**
+
+The speakers are not consulting a grammar of the language they have yet to develop.
+
+There is no completed dictionary against which every attempted expression can be measured.
+
+Nor is there an external committee instructing them which distinctions a proper language must possess.
+
+Nevertheless, they can recognize when communication has failed.
+
+They can discover that one expression has been taken for another.
+
+They can recognize that an intended distinction was lost.
+
+They can try to make that distinction available again.
+
+And they can succeed.
+
+The possibility of recognizing inadequacy is already remarkable.
+
+For an expression cannot simply be inadequate in the abstract. It is inadequate to something.
+
+A warning that does not warn effectively may leave someone exposed to danger.
+
+An instruction that does not distinguish what has been done from what remains to be done may leave a task incomplete.
+
+An explanation that does not establish the relevant relation may leave its listener unable to understand why something happened.
+
+The inadequacy becomes intelligible through what the expression failed to accomplish.
+
+And this failure may become the occasion for developing a better expression.
+
+A language is therefore not merely an accumulation of sounds that a community happens to accept.
+
+It is a developing practice through which people try to make intelligible achievements available to one another.
+
+Its forms are learned, repeated, altered and preserved within that activity.
+
+The intelligibility of the life being articulated gives those alterations their point.
+
+This is not to imagine that every new expression is a step toward perfection. Languages change for countless reasons. People forget, improvise, imitate, joke, borrow and invent. A convention can spread simply because a community takes pleasure in it.
+
+But when speakers encounter an inability to say what they need to say, they encounter a particular kind of pressure.
+
+The difference they need to communicate has not disappeared merely because their present language expresses it poorly.
+
+They must find a way.
+
+And often they do.
+
+The significance of this is immense.
+
+**An intelligible distinction can make demands upon its own expression.**
+
+We need to understand this carefully.
+
+The distinction is not a little person issuing commands. It does not know that a language is developing. It does not stand outside the community and demand a particular grammatical construction.
+
+Rather, the people encounter situations in which a difference matters, and their attempts to communicate that difference can succeed or fail.
+
+The pressure arises within the encounter between what is intelligible and what their present means of expression can accomplish.
+
+Their language answers to something.
+
+It is this answering that we shall need to investigate.
+
+For the same phenomenon appears in a setting so familiar that we hardly notice its strangeness.
+
+Someone decides to learn a second language.
+
+At first, the undertaking may seem to consist of replacing one set of words with another.
+
+A person learns the names of objects, the forms of verbs, the conventions of greeting, the arrangements of questions and answers.
+
+They recognize a word in the new language and silently supply its equivalent in the familiar one.
+
+An unfamiliar sentence becomes an awkward journey through a known sentence.
+
+The learner hears.
+
+They translate.
+
+They understand.
+
+Then something begins to change.
+
+A familiar expression is heard, and its significance arrives without the intervening sentence.
+
+A question is answered before the learner has consciously converted its words.
+
+A joke becomes funny at the moment it is spoken, rather than after its construction has been examined.
+
+A warning produces an immediate response.
+
+An invitation is recognized in the tone and phrasing through which it is offered.
+
+The learner is no longer continually carrying each expression back into the first language to discover what it means.
+
+They are beginning to understand directly in the second.
+
+And eventually, if fluency develops sufficiently, something extraordinary becomes ordinary.
+
+The new language becomes a place in which the person can think, anticipate, question, remember, correct, explain and settle matters without first performing a translation.
+
+They have not acquired a second world in which doors close.
+
+They have not acquired a second experience of the difference between an event and a condition.
+
+They have acquired another fluent means of encountering, articulating and sharing intelligibility.
+
+Of course, the new language may disclose unfamiliar distinctions. Its expressions may draw attention toward features of experience that the learner previously passed over. Its inherited practices may introduce forms of address, intimacy, obligation, humour and social understanding that require time and participation to recognize.
+
+The learner may discover more than they brought to the undertaking.
+
+But this discovery is itself intelligible.
+
+A new distinction can become recognizable because the learner already lives within the possibility of recognizing differences, encountering unfamiliar relations and understanding more than was understood before.
+
+The acquisition of another language is not a departure from intelligibility into something foreign to it.
+
+It is an enlargement of the ways in which intelligibility can be lived.
+
+The islanders and the language learner appear to be engaged in opposite tasks.
+
+The islanders must develop a shared language where none yet exists.
+
+The learner must enter a language that others already share.
+
+Yet the two activities reveal a common condition.
+
+In each case, intelligibility is already operative.
+
+The islanders can create new expressions because their lives present them with things to distinguish, relate, anticipate, correct and resolve.
+
+The learner can acquire unfamiliar expressions because those expressions can become recognizable as accomplishing things within an intelligible life.
+
+The movement of understanding does not wait until every linguistic difficulty has been overcome.
+
+It is already involved in overcoming them.
+
+And this may be why the difference between speaking a language haltingly and speaking it fluently is so profound.
+
+At first, a person has to work to discover what an expression has accomplished.
+
+Later, the accomplishment becomes directly recognizable.
+
+The sentence is no longer a puzzle standing between the speaker and the matter being understood.
+
+It becomes a way in which that matter is immediately available.
+
+There is a change in fluency, but not a change in the fundamental fact that understanding can occur.
+
+What has changed is the person's access to a particular language's means of making understanding possible.
+
+We should now turn to another familiar wonder.
+
+For thousands of years, human beings have been able to preserve discoveries across changes of language.
+
+Consider the geometrical relation we call Pythagoras' theorem.
+
+The words in which that relation has been taught have varied from one culture and century to another. The notation has varied. Proofs have taken different forms. A person may encounter the relation in a language that did not exist when it was first discovered.
+
+And still the relation is available.
+
+A child can encounter it without knowing the history of its transmission.
+
+The child may draw a right triangle and measure its sides.
+
+At first there may be nothing particularly remarkable about it.
+
+The triangle has three sides.
+
+One angle is a right angle.
+
+Someone marks the lengths and introduces a relation among their squares.
+
+The child follows the calculation.
+
+Then perhaps there is a moment when the significance changes.
+
+The relation is not merely true of the particular triangle in the drawing.
+
+It belongs to every right triangle under the relevant geometric conditions.
+
+The child turns the page and draws another.
+
+The lengths change.
+
+The relation remains.
+
+A third drawing is made.
+
+Again, the relation holds.
+
+The child may initially regard this as an interesting coincidence.
+
+Then an explanation is offered.
+
+Perhaps squares are drawn upon the sides. Perhaps a larger square is partitioned into regions whose areas can be compared. Perhaps the proof proceeds through a different construction.
+
+However it is accomplished, the child comes to see why the relation holds.
+
+There is a new achievement.
+
+Before, the child may have known that several examples worked.
+
+Now the child understands something about what makes the relation necessary within the geometry being studied.
+
+The difference matters.
+
+It is possible to repeat a true statement without understanding why it is true.
+
+It is possible to calculate a correct answer by following a procedure whose significance remains obscure.
+
+It is possible to recognize a pattern without yet seeing what establishes it.
+
+And it is possible for an explanation to change this situation.
+
+The mathematical relation becomes intelligible in a new way.
+
+Not simply encountered.
+
+Not simply remembered.
+
+Understood through what makes it hold.
+
+Consider how extraordinary it is that this can happen so long after the original discovery.
+
+The child does not require the original words.
+
+Nor is the child's understanding limited to reconstructing the thoughts of a particular ancient mathematician.
+
+The child can discover the relation through a proof that did not exist when the relation was first recognized.
+
+A later expression may disclose what an earlier expression left unexplained.
+
+An old claim may become newly intelligible.
+
+Thus the persistence of intelligibility through language is not merely the preservation of an identical possession.
+
+It can include the development of understanding itself.
+
+What one generation recognizes, another may explain.
+
+What one language expresses awkwardly, another formulation may make clearer.
+
+What was once shown by a particular construction may later be shown through a more general relation.
+
+The claim remains answerable to the same geometrical conditions even as the ways of understanding it develop.
+
+And this brings us to a distinction that is easy to miss.
+
+The enduring truth of the relation is not the same thing as the persistence of somebody's understanding of it.
+
+A theorem may be forgotten by an entire community.
+
+A manuscript may be lost.
+
+A mathematical practice may disappear.
+
+Centuries later, another community may discover the relation independently.
+
+The truth has not travelled between the communities through an unbroken chain of words.
+
+The discovery has occurred again.
+
+This possibility is among the strongest invitations to reconsider the relationship between intelligibility and language.
+
+If a relation can be discovered independently, the capacity to recognize it cannot depend upon inheriting the precise linguistic expression in which another person previously stated it.
+
+The discovery requires activity, attention, methods and understanding.
+
+But it does not require the survival of one original sentence.
+
+A relation may be encountered through several histories of recognition.
+
+The histories are different.
+
+The relation remains recognizable.
+
+Now consider what happens when a mathematical claim is mistranslated.
+
+Suppose the original asserts a relation that holds for right triangles.
+
+The translation omits the condition that the triangle must have a right angle.
+
+The resulting sentence may be grammatical.
+
+Its words may be familiar.
+
+Its meaning may be perfectly clear.
+
+But it now makes a different claim.
+
+And the new claim does not hold in the same way.
+
+The error can be discovered.
+
+A reader can draw a triangle that is not right-angled and show that the translated statement is inadequate.
+
+Nothing about the elegance of the translation can rescue it.
+
+The expression is answerable to the relation it purports to state.
+
+And the relation makes the difference between success and failure recognizable.
+
+This is not a special property bestowed upon mathematics by mathematical vocabulary.
+
+The same general phenomenon appears whenever an expression is answerable to something it seeks to make intelligible.
+
+A witness can report that a person left the room.
+
+Another witness can report that the person remained.
+
+The accounts may be compared with what occurred.
+
+A translator can turn a promise into a prediction and thereby alter the commitment conveyed.
+
+A historian can omit the condition under which a decision was made and leave the reader with a misleading understanding of the event.
+
+A friend can repeat another person's explanation while losing the very distinction that made it illuminating.
+
+In each case, a sentence may be intelligible while failing to preserve the intelligible achievement at issue.
+
+The words are not sufficient merely because they are words.
+
+We must ask what they accomplish.
+
+The mathematical example gives this question a particular clarity.
+
+But the question belongs to language more generally.
+
+And perhaps it belongs beyond language altogether.
+
+A carpenter can measure incorrectly.
+
+A musician can enter too early.
+
+A person can mistake the path to a house.
+
+A doctor can misidentify the cause of a symptom.
+
+A child can reach for an object that has been moved.
+
+These are different kinds of mistake, with different ways of being discovered and corrected.
+
+Yet none requires us to suppose that error begins only when a sentence is formed.
+
+A mistake may be made in action.
+
+Its inadequacy can become recognizable through what happens next.
+
+A correction can be achieved without a verbal explanation.
+
+An explanation can then make the correction available to someone else.
+
+Here we begin to see why the study of intelligibility must not be confined to the study of propositions.
+
+Propositions are extraordinary achievements. They allow things to be stated, assessed, remembered and communicated with great precision.
+
+But the field in which correctness and incorrectness, sufficiency and insufficiency, recognition and misrecognition become possible is not exhausted by the sentence.
+
+A sentence is one way of entering that field.
+
+It is not the whole of it.
+
+Return to the child studying the triangle.
+
+At one moment the child is copying symbols.
+
+At another the child is checking a calculation.
+
+At another the child is studying a diagram.
+
+Then the child sees why the relation holds.
+
+There may be no new sentence at the instant of recognition.
+
+The proof may be the same proof that was on the page a moment earlier.
+
+What changes is the child's understanding.
+
+Something previously unrecognized becomes recognizable.
+
+The child may say, "Now I see."
+
+Those words do not constitute the whole of what has happened.
+
+They acknowledge it.
+
+And when the child later explains the proof to someone else, another achievement becomes possible.
+
+One understanding becomes available for another person to acquire.
+
+The explanation may succeed.
+
+It may fail.
+
+It may need to be repaired.
+
+The relation, the proof, the child's recognition, the explanation, and the listener's eventual understanding are not one event.
+
+But they belong together within a life of intelligibility.
+
+And it is precisely their belonging together that makes the passage of understanding across persons and centuries possible.
+
+There is something moving here that is not simply a succession of sentences.
+
+There is the recurring possibility of an intelligible achievement.
+
+A truth can be recognized.
+
+An explanation can be given.
+
+A failure can be discovered.
+
+A correction can be made.
+
+Understanding can arise again.
+
+We should not hurry to reduce this to a single mechanism.
+
+We should instead remain with the extraordinary fact that these achievements can answer to one another.
+
+A proof answers a mathematical question.
+
+A translation answers an earlier expression.
+
+A correction answers an inadequacy.
+
+An explanation answers a difficulty in understanding.
+
+A learner's recognition answers the effort of explanation.
+
+And each achievement may become the occasion for another.
+
+This is not the permanence of language.
+
+It is the continuing availability of intelligibility through language's changing forms.
+
+---
+
+### Chapter II
+### What Answers to What
+
+The next morning, the door will not open.
+
+Someone pulls it, then pushes. The frame has swollen during the night. The wood presses against the wood, and the simple movement that had been possible yesterday is now prevented.
+
+The person tries again.
+
+A second person comes to help. Together they examine the frame and discover where it catches.
+
+One brings a tool.
+
+A small amount of wood is removed.
+
+The door moves.
+
+There is satisfaction in this, but the satisfaction is not the whole event.
+
+At first, something that ought to have moved could not move. Then the obstruction was discovered. An alteration was made. What had been prevented became possible again.
+
+The door's condition has changed.
+
+The people's understanding has changed.
+
+Their practical situation has changed.
+
+And the work has reached a point at which they can stop.
+
+Nothing about the event requires them to possess a fully developed common language.
+
+They may speak while working. They may gesture. One may take the tool from the other and indicate the place where it should be used.
+
+They can disagree about the cause of the problem.
+
+They can try a solution that fails.
+
+They can recognize the failure and attempt something else.
+
+Finally, the door opens.
+
+That final movement answers the difficulty with which they began.
+
+The relation between the difficulty and its resolution is not supplied retrospectively by a sentence. The sentence may describe it, and do so very well, but the repair has already occurred.
+
+We should pay attention to the word *answers*.
+
+An answer is not always a sentence.
+
+A bridge across a stream can answer the difficulty of crossing.
+
+A completed meal can answer hunger.
+
+A returned object can answer a search.
+
+A remembered promise can answer an expectation.
+
+A gesture can answer a question.
+
+An alteration can answer a defect.
+
+These answers are not interchangeable. They do not all achieve their sufficiency in the same way.
+
+The bridge does not answer the stream by explaining it.
+
+The meal does not answer hunger by representing it.
+
+The repaired door does not answer the obstruction by denying that the obstruction existed.
+
+In each case, something becomes sufficient in relation to something else.
+
+And the nature of that sufficiency belongs to what has occurred.
+
+We do not decide, simply by choosing words, whether the door can now open.
+
+The person who repaired it discovers whether the work has succeeded by trying it.
+
+If the door remains stuck, the work is unfinished.
+
+If it opens freely, the original difficulty has been answered.
+
+We are approaching another feature of intelligibility.
+
+An achievement may be recognizable not only because something is now the case, but because what is now the case fulfils, resolves or makes good something that was previously outstanding.
+
+This introduces a direction into understanding.
+
+There is something to be done.
+
+There is an attempt.
+
+There may be failure.
+
+There is further attention.
+
+And then, sometimes, there is enough.
+
+The word *enough* is especially important.
+
+It does not necessarily mean that nothing more could ever be done.
+
+The repaired door may later be painted. Its hinges may be replaced. A better door may eventually be made.
+
+Yet for the present difficulty, the work can be complete.
+
+It opens.
+
+That is enough.
+
+Human life is filled with these local sufficiencies.
+
+A question can be answered without answering every question.
+
+A journey can end without ending movement.
+
+An explanation can become adequate without exhausting its subject.
+
+A disagreement can be settled without the people involved becoming identical in their outlook.
+
+An intelligible completion is not the disappearance of every possible continuation.
+
+Indeed, some completions make continuations newly possible.
+
+Because the door opens, someone can carry water into the shelter.
+
+Because the explanation has become clear, the listener can attempt the work independently.
+
+Because a promise has been fulfilled, another undertaking can begin.
+
+Because a question has been settled, attention can turn elsewhere.
+
+The achievement remains involved in what follows.
+
+Sometimes it remains as an established condition.
+
+Sometimes as a consequence that must still be reckoned with.
+
+Sometimes as a capacity now available for use.
+
+We will eventually need to understand these differences with care.
+
+But here, at the beginning, we should resist the urge to name them too quickly.
+
+The islanders have finished repairing the door.
+
+The person holding the tool puts it down.
+
+Another person opens and closes the door several times, testing the movement.
+
+The child who watched yesterday has come back.
+
+This time the child pushes the door.
+
+It opens.
+
+The child laughs, pulls it shut, and opens it again.
+
+Someone says a word that has become familiar among the people living in the shelter.
+
+The child repeats it.
+
+Nobody present can say exactly when that word became theirs.
+
+Yesterday it was unfamiliar to someone. A week ago it may have belonged to only one of the survivors. A month from now it may be used by everyone.
+
+The word has a history.
+
+The movement has its own conditions.
+
+And the child's delight belongs to the meeting of the two.
+
+The door opens.
+
+The child knows how to make it happen again.
 
 ---
 
