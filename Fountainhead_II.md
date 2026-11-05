@@ -1750,6 +1750,223 @@ And in listening, understand.
 
 ---
 
+### Chapter VI
+### The Demand That No One Issued
+
+The next question concerns the force of the distinction itself.
+
+We have observed that languages can develop ways of expressing distinctions that their speakers already have reason to recognize.
+
+We have observed that a learner can acquire a second language because expressions in that language can become intelligible within an existing life.
+
+We have observed that translation can succeed or fail, and that a truth may remain discoverable through changes in the words used to express it.
+
+But there is something more to understand.
+
+Why does an inadequate expression call for correction?
+
+Why is one translation better than another?
+
+Why does a developing language acquire more definite ways of distinguishing what its speakers need to distinguish?
+
+We might answer that people want to communicate successfully.
+
+That is certainly part of the matter.
+
+But it does not yet tell us what makes an attempt successful.
+
+Suppose a person asks whether the boat has returned.
+
+Another answers that it will return.
+
+The answer is understandable.
+
+It may even be reassuring.
+
+But the question has not been answered.
+
+The speaker has introduced a future expectation where the listener was asking about a completed occurrence.
+
+The difference is not merely that the listener wanted one sentence and received another.
+
+The difference concerns what needed to become determinate.
+
+Has the boat returned?
+
+The listener may be waiting for someone aboard it. They may need supplies from it. They may be deciding whether to begin unloading its cargo.
+
+The question seeks to settle whether the relevant event has occurred.
+
+A prediction of its eventual occurrence does not settle that question.
+
+The inadequacy can be recognized because the answer has failed to accomplish the needed determination.
+
+The listener asks again.
+
+This time the speaker understands and replies that the boat has not yet returned.
+
+The question is answered.
+
+The listener may be disappointed.
+
+But disappointment does not make the answer inadequate.
+
+Indeed, the answer's sufficiency may be precisely what allows the disappointment to become definite.
+
+The listener now knows what is the case.
+
+We should linger over this because it separates two things that are easily confused.
+
+An intelligible achievement need not be pleasant.
+
+A correct answer may be unwelcome.
+
+A successful diagnosis may establish that something is seriously wrong.
+
+The discovery of a mistake may bring embarrassment.
+
+An accurate warning may produce fear.
+
+Yet each can accomplish an intelligible determination that was previously unavailable.
+
+The sufficiency of understanding is not the same as the satisfaction of every desire.
+
+A thing can become clear without becoming good.
+
+It can become settled without becoming easy.
+
+And a person can understand why something has failed without thereby possessing the means to put it right.
+
+The demand for intelligible adequacy therefore cannot simply be identified with a demand that experience turn out as we wish.
+
+It concerns whether what is being attempted has been accomplished in the relevant way.
+
+In the case of the boat, the listener needed to know whether it had returned.
+
+The second answer provided that determination.
+
+The first did not.
+
+This difference is available whether the answer is spoken in English, French, Arabic, Mandarin, or the developing language of our island community.
+
+The particular expressions may differ.
+
+What the question seeks to establish remains recognizable.
+
+And the question gives the answer its task.
+
+This is where the idea of a mandate begins to acquire substance.
+
+The mandate need not be imagined as a command sent from a hidden authority.
+
+It appears within the intelligible relations of the situation itself.
+
+A question calls for an answer.
+
+An attempted explanation calls for sufficient understanding.
+
+A broken mechanism calls for an appropriate repair if its function is to be restored.
+
+A promise calls for fulfilment if it is to be kept.
+
+A translation calls for fidelity to what is being translated.
+
+These are not identical demands, and their differences matter.
+
+But in each case, the nature of what is undertaken determines what would count as bringing it to an intelligible completion.
+
+A promise cannot be kept merely by uttering the words *I have kept my promise*.
+
+A bridge cannot be repaired merely by declaring it repaired.
+
+A question cannot be answered merely by producing any sentence in response.
+
+What counts as completion is answerable to the undertaking.
+
+This is elementary.
+
+And perhaps its very elementariness has prevented us from noticing how profound it is.
+
+Our lives are composed of countless situations in which we recognize not only that something has happened but whether what needed to happen has happened.
+
+We distinguish an attempt from its success.
+
+We distinguish a preparation from its fulfilment.
+
+We distinguish the appearance of resolution from a resolution that actually settles the matter.
+
+And we can make these distinctions even when we have difficulty putting them into words.
+
+A child tries to fit a shape into a space.
+
+It will not go.
+
+The child turns it.
+
+Again, it will not go.
+
+The shape is turned once more.
+
+This time it fits.
+
+The child releases it.
+
+The task is complete.
+
+No one needs to explain what makes the final movement different from the earlier attempts.
+
+The difference is present in the fit itself.
+
+The shape occupies the space as intended.
+
+The child recognizes enough to stop trying.
+
+This is not a linguistic judgment subsequently imposed upon an otherwise meaningless movement.
+
+It is an intelligible achievement within the child's activity.
+
+And the possibility of stopping matters.
+
+If the child were unable to distinguish the successful fit from the unsuccessful attempts, the activity could not proceed in the same way.
+
+The recognition of sufficiency is part of what allows the activity to become complete.
+
+The same holds in situations of far greater complexity.
+
+A scientist examines a result and realizes that an apparent anomaly has a different cause from the one originally suspected.
+
+A musician listens to a passage and recognizes that a misplaced note has finally been corrected.
+
+Two friends struggle to understand a misunderstanding until one says something that makes the other's action comprehensible.
+
+A person searches for a missing document and finds it beneath a stack of papers.
+
+The modes of completion differ.
+
+But each has a point at which a relevant demand is answered.
+
+We can now see something more clearly about language.
+
+A language does not have to be told, from outside, that it must distinguish every conceivable feature of experience.
+
+Speakers encounter circumstances in which certain differences matter to their undertakings.
+
+Their expressions become answerable to those undertakings.
+
+When an expression proves inadequate, the inadequacy is not arbitrary.
+
+It arises because something has failed to become sufficiently available.
+
+A person who meant to warn another about a falling branch discovers that the warning was taken as an instruction to approach the tree.
+
+The failure matters because the practical direction of the utterance has been reversed.
+
+The speaker tries another expression.
+
+The listener moves away.
+
+The warning succeeds.
+
 ## Chapter VII — The Same Answer, a Different Question
 
 The morning after the storm, a woman arrives at the shelter and finds the door closed. She asks whether anyone saw it close during the night. Someone answers that it is closed now.
