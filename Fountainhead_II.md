@@ -1459,6 +1459,297 @@ It is the continuing availability of intelligibility through language's changing
 
 ---
 
+### Chapter V
+### When Another Language Becomes One's Own
+
+A woman sits in a café in a city where she has lived for six months.
+
+When she arrived, she knew enough of the local language to purchase food, ask directions and exchange the simplest greetings.
+
+Every conversation demanded attention.
+
+She listened carefully, searching for familiar words. Sometimes she understood an entire sentence except for the one word upon which its meaning depended.
+
+A question could arrive faster than she could interpret it.
+
+She smiled, asked people to repeat themselves, and occasionally answered a different question from the one they had asked.
+
+Her days were filled with small corrections.
+
+She learned that a phrase she had taken as a refusal was often a polite hesitation.
+
+She learned that an expression which appeared to ask for information might instead function as an invitation.
+
+She discovered that a particular tone could turn an apparently neutral remark into a complaint.
+
+None of this was accomplished simply by memorizing a dictionary.
+
+She had to recognize what people were doing with their words.
+
+And at first, her familiar language stood between her and the new one.
+
+She heard a sentence.
+
+She formed an approximate translation.
+
+She considered what the translated sentence meant.
+
+Then she decided how to answer.
+
+The procedure worked often enough for ordinary life.
+
+But it was slow.
+
+By the time she had understood a joke, the others were already laughing.
+
+By the time she had formed a reply, the conversation had moved elsewhere.
+
+Sometimes she understood the words individually and still failed to recognize what the speaker intended to accomplish.
+
+The new language was present to her, but not yet fully available.
+
+Then, one morning in the café, the person behind the counter asks whether she wants her usual order.
+
+She answers immediately.
+
+Only afterward does she realize that she has not translated the question.
+
+She understood it.
+
+The realization surprises her.
+
+Nothing dramatic has happened. She has ordered breakfast.
+
+Yet something in her relation to the language has changed.
+
+The words reached her without requiring an equivalent sentence in the language she already knew.
+
+They were no longer merely signs from which she extracted a more familiar expression.
+
+They were directly intelligible.
+
+We might say that she has begun to think in the new language.
+
+But let us attend more closely to what this means.
+
+She has not acquired an entirely new capacity for recognizing a question.
+
+She was able to recognize questions before she arrived.
+
+Nor has she newly discovered what breakfast is, or what it means to have a usual order, or how a person can offer something to another.
+
+Those possibilities were already available in her life.
+
+What has changed is that the new language has become capable of making them immediately present to her.
+
+An expression now accomplishes something without the familiar language having to intervene.
+
+She recognizes the question as a question.
+
+She recognizes the offered choice.
+
+She answers.
+
+The movement is continuous.
+
+And when this becomes possible across more of the language, her life within it changes.
+
+She begins to anticipate what someone is saying.
+
+A sentence may be unfinished, yet its likely direction is already available.
+
+A familiar phrase carries an implication she no longer needs to explain to herself.
+
+She recognizes when a statement is tentative and when it is decisive.
+
+She notices when a person is gently correcting another.
+
+She can hear that someone has raised a possibility without committing to it.
+
+She can distinguish an answer that settles a question from one that leaves the matter open.
+
+She begins to participate in these movements herself.
+
+What has become fluent is not simply the production of words.
+
+It is the participation in intelligible achievements through the new language.
+
+This distinction matters because fluency is often measured from the outside.
+
+Can the person speak without long pauses?
+
+Can they use the appropriate grammatical forms?
+
+Can they understand rapid conversation?
+
+Can they pronounce words intelligibly?
+
+These are important questions, and the answers tell us something substantial.
+
+But there is also an internal transformation that the measurements do not fully describe.
+
+The language ceases to be an obstacle continually requiring conscious passage.
+
+It becomes a medium through which the person can move.
+
+A child running across familiar ground does not calculate every step.
+
+A skilled musician does not deliberate over every movement of the fingers.
+
+A fluent speaker does not need to reconstruct the conditions of each ordinary utterance before recognizing what it accomplishes.
+
+The capacities remain active.
+
+But their activity has become sufficiently integrated that attention can be directed toward what is being said rather than toward the separate effort of saying or understanding it.
+
+This does not eliminate thought.
+
+It changes where thought is needed.
+
+The woman in the café can now devote her attention to whether she wants to accept an invitation, rather than to working out whether an invitation has been made.
+
+She can consider whether an explanation is convincing, rather than merely whether she has understood the words.
+
+She can disagree.
+
+She can make a joke.
+
+She can change her mind in the middle of a sentence and find another way of expressing herself.
+
+The language is no longer simply something she is learning.
+
+It has become something through which she can live.
+
+And there is a particularly revealing moment in this development.
+
+She hears a sentence in the new language and understands it completely.
+
+A friend then asks her to translate it.
+
+She hesitates.
+
+The meaning is clear to her, but no immediate equivalent in her first language presents itself.
+
+She tries one expression and rejects it.
+
+She begins another.
+
+Finally she explains the sentence in several words rather than offering a direct translation.
+
+What has happened?
+
+The new language has become intelligible to her without first having to become the old language.
+
+The difficulty now lies not in understanding the sentence, but in finding a second expression that will preserve what the first accomplished.
+
+This reverses the situation with which she began.
+
+At first, translation was her path to understanding.
+
+Now understanding is what makes translation possible.
+
+And the adequacy of the translation has become a separate question.
+
+This reversal is important.
+
+It reveals that knowing what an expression means and knowing how to reproduce its achievement in another language are not identical capacities.
+
+A person may understand an expression perfectly well and still struggle to translate it.
+
+A translation may require explanation, circumlocution, or a change in grammatical construction.
+
+One language may make a distinction through a familiar everyday form while another requires the speaker to specify something that is ordinarily left to context.
+
+Yet the translator can recognize the task.
+
+They know what must be preserved, even when they have not yet found how to preserve it.
+
+That knowledge is not a dictionary entry.
+
+It is an understanding of the intelligible achievement for which a new expression must be found.
+
+The woman now speaks two languages fluently.
+
+She does not inhabit two sealed worlds.
+
+Nor does she always find exact correspondence between their expressions.
+
+She sometimes prefers one language for a particular thought.
+
+An experience may come to mind with a phrase that belongs naturally to one language and feels awkward when carried into the other.
+
+A memory may retain the sounds of the language in which it occurred.
+
+A joke may depend upon a form that cannot be reproduced without explanation.
+
+The differences are real.
+
+Yet they do not prevent her from understanding both languages.
+
+She can recognize when a distinction has been preserved.
+
+She can recognize when it has been altered.
+
+She can discover a new way of expressing something she previously understood only imperfectly.
+
+She can also discover that one language has made her attentive to something she had not previously learned to notice.
+
+Fluency is therefore not merely access to the same intelligibility through different labels.
+
+It is a growing capacity to participate directly in the intelligible life carried by another language, including the distinctions and possibilities that language has developed through its own history.
+
+The unity beneath languages is not impoverished by this diversity.
+
+It is disclosed through it.
+
+For the possibility of acquiring another language demonstrates that the person who begins outside its conventions is not thereby outside the possibility of understanding what its speakers understand.
+
+The learner can enter.
+
+They can discover.
+
+They can become proficient.
+
+And eventually they can encounter the language not as a foreign system continually requiring conversion, but as another immediate way in which things become intelligible.
+
+Consider the final change.
+
+One evening the woman receives a telephone call.
+
+A friend speaks quickly and with some distress.
+
+Something has happened.
+
+The woman listens, asks a question, understands the answer, and responds with reassurance.
+
+They speak for several minutes.
+
+When the call ends, she sits quietly for a while.
+
+Her concern is for her friend.
+
+Only much later does she remember that the entire conversation took place in the language she once struggled to understand.
+
+The language has done its work.
+
+It has allowed another person's difficulty to become present to her.
+
+It has allowed her to recognize what matters, distinguish what has happened from what may yet happen, and offer a response.
+
+The effort of understanding has not disappeared.
+
+But it is now directed toward her friend's circumstances rather than toward the language as an unfamiliar object.
+
+Perhaps this is one of the most revealing marks of fluency.
+
+The language becomes sufficiently available that something other than the language can once again occupy the centre of attention.
+
+The person can simply listen.
+
+And in listening, understand.
+
+---
+
 ## Chapter VII — The Same Answer, a Different Question
 
 The morning after the storm, a woman arrives at the shelter and finds the door closed. She asks whether anyone saw it close during the night. Someone answers that it is closed now.
