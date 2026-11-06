@@ -8,6 +8,8 @@ The vocabulary companion distinguishes local completion from continuation and in
 
 **Ordinary dialogue archive:** [Explore the live dialogue conversations](https://titanicparker.github.io/new-repository/#archive) · [Working Markdown corpus](https://github.com/TitanicParker/new-repository/blob/main/FICHE_CEATHAR_54_DIALOGUES_WORKING.md). Two-person exchanges elicit individual forms in everyday sense-making; their structural checks are working assessments, not canonical changes.
 
+**Flippable dialogue deck:** [Read the 54 ordinary conversations as swipeable, scrollable flip cards](the_54_ordinary_dialogues_deck.html). Each card presents its actual Cycle 1 conversation on the front and its three-question structural check on the reverse.
+
 ## A New Method for Talking about Organising Reality
 
 **The 54** is a constraint grammar of completed intelligibility. It offers a new organising principle for **how we talk about things, how we understand them, and how they work together**.
