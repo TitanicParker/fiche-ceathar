@@ -478,4 +478,47 @@ The author clarified the desired method: *Socratia* is to work as both **microsc
 
 ---
 
+## PROPOSED EDITION 6 — Four distinctions and the continuing moment (6 November 2026)
+
+**Status: proposed addition for author review, not a revision of the canonical 54.** This entry develops the living function of inquiry now enacted in the proposed *Socratia* Chapter XVIII and identifies the next earned question for a proposed Chapter XIX.
+
+### What is being distinguished
+
+The words **intelligibility**, **understanding**, **resolution**, and **moment** arise repeatedly in the manuscript. Do not impose four new primitive dimensions upon the 54. Use the distinctions to identify *what*, *whose recognition*, *which demand*, and *which occasion* is at issue.
+
+1. **Intelligibility** — the determinacy through which something is available to be recognized, distinguished, related, or rendered sufficiently comprehensible. *Socratia* I–V distinguishes what may be recognized from the words used to express it; IV treats a mathematical relation expressible across languages and generations.
+2. **Understanding** — someone's achieved recognition or grasp of something intelligible, sufficient in a specified respect for an encounter or undertaking. *Socratia* II, VII, XIII, XV and XVII disclose understanding in gestures, action, fluent language, correction, and recognition without exact translation. A person's understanding is not identical with the subject's intelligibility or with the sentence expressing it.
+3. **Resolution** — the achievement of sufficiency relative to a determinate demand. *Socratia* VI, IX–XVI shows that answering a question, repairing a fault, opening a way, and completing an arrangement each have their own terms of enoughness. Resolution in this broad sense must **not** be conflated with the canonical **Settlement** Transformation Pattern.
+4. **Moment** — an occasion in which a particular intelligible determination is achieved or becomes recognizable, considered with respect to what is available through it. A moment need not be an instantaneous clock-point; understanding may develop gradually. *Socratia* I, XI, XVI–XVIII distinguishes the movement or encounter, its completed result, and the result's availability afterward. An intelligible moment must not be confused with a fourth coordinate dimension.
+
+**The central conjunction of these distinctions:** what is intelligible, someone's act of understanding it, the sufficiency of a particular undertaking, and the occasion in which that sufficiency is achieved need not be one and the same. They may meet in one ordinary scene while answering to different questions. A completed understanding can belong to one occasion without requiring its intelligible subject to disappear with that occasion.
+
+### The discovered relation between moments
+
+Chapter XVII ends with a newly shared word directly understood. Proposed Chapter XVIII returns to the garden and shows a series of questions, each made newly relevant by what has already become clear. Yet there is an additional question that this progression now earns:
+
+**When a moment of understanding has passed, what, precisely, remains available for another moment of understanding?**
+
+A key identified yesterday can be used today (*Socratia* XI); a circle erased from sand can still have guided the arrangement of a garden (*Socratia* XVI); a word learned in one exchange can be used directly in another (*Socratia* XVII). The prior experience is not repeated merely because its achieved distinction continues to inform another occasion. The same intelligible relation may be recognized by different people at different times, without those separate acts of recognition becoming one numerical event (*Socratia* IV).
+
+**Working principle — continuity without repetition:** A completed intelligible determination can remain available for a later understanding without the original occasion or expression recurring. Subsequent discoveries can alter its bearing and significance without thereby erasing an earlier correct determination. When new evidence shows an essential condition was never met, revise the earlier conclusion specifically; otherwise preserve its earned scope.
+
+**A useful diagnostic:** separate (a) the earlier worldly occurrence; (b) what was then established; (c) the earlier person's understanding; (d) what is available to another person now; and (e) what new achievement is made in the subsequent occasion. Do not assume these share one conjunctive coordinate merely because they concern the same garden, door, or theorem.
+
+### The next Socratic movement
+
+A proposed Chapter XIX should not read as a glossary. It should begin from Chapter XVIII's ending: the speakers leave the garden knowing what to investigate tomorrow. On returning, they should discover that yesterday's question is available now without yesterday's conversation recurring. Let an ordinary event produce an unexpected distinction between remembering an experience, taking up its achieved determination, and learning something further. Allow the difference between the prior moment and the present moment to become recognizable before naming it.
+
+**Status and limits:** the four concepts are analytical distinctions and proposed definitions grounded in the manuscript, not a separate exhaustive taxonomy. Their value is to clarify which achievement the 54 are being asked to describe, not to require a repeated disclaimer about the 54's universal thesis. Ask whether a specific inference is earned when it matters.
+
+### Proposed record addition
+
+**IC-016 — Continuity of intelligible achievement across distinct occasions.** A sufficiently established determination may become available in later acts of understanding without its original event, utterance, or act of recognition occurring again. Later recognitions may preserve, enrich, or specifically correct its earlier scope. **Status:** argued principle within the ordinary examples of *Socratia* IV, XI, XVI–XVIII; broader metaphysical identity questions remain open.
+
+**Next earned question:** What makes a later understanding answerable to the *same* intelligible determination rather than merely a similar one, especially when the later context changes its significance?
+
+**Authoring discipline:** use *How Understanding Grows* or similarly ordinary language in narrative and editorial headings where possible. “Microscope” and “reciprocal microscope” may remain as method descriptions in the guide, but their technical phrasing is not itself a philosophical discovery. The central movement is simple: **what we understand gives us a way to understand more**.
+
+---
+
 **Invitation:** Do not merely affirm or reject the project. Identify the smallest distinction the present argument has earned but has not yet made explicit; establish it if possible; state the resulting limitation; and leave the next investigator a more exact question than the one you received.
