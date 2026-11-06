@@ -326,295 +326,437 @@ The child carries the board into the shelter, where it will be needed again.
 
 ## Chapter V — The Island
 
-Imagine an aircraft carrying three hundred people of many nationalities.
+“Imagine an aircraft coming down near an island,” says the visitor. “Its passengers have come from many different countries. They reach shore alive, but there is no language all of them share.”
 
-It crashes near an isolated island.
+The child looks alarmed. “Can they find water?”
 
-The survivors reach shore. They have no common language. They must live together, and in time their children will grow up among them.
+“They must. And shelter, and food.”
 
-What do they need?
+“Then they'll have to talk.”
 
-Water. Food. Shelter. Ways to cooperate, warn, request, remember and explain.
+“They will try. But at first, when one person speaks, many of the others do not understand.”
 
-Do they possess a shared vocabulary for all these things?
+The child thinks about this.
 
-No.
+“They could show one another things.”
 
-Do they nevertheless encounter differences between what has happened and what remains to be done?
+“Such as?”
 
-Yes.
+“One person could find a stream and take the others to it.”
 
-Between a safe path and an unsafe one?
+“And if someone drank from the stream and became ill?”
 
-Yes.
+“They would need to warn the others.”
 
-Between an injury that has been treated and one still requiring attention?
+“Suppose they had no word in common for dangerous.”
 
-Yes.
+The child points sharply towards the stream, then shakes their head.
 
-Between a shelter that fell during the night and one that remains standing?
+The visitor smiles. “Would everyone understand that?”
 
-Yes.
+“Maybe not. Someone might think I wanted them to look at the water.”
 
-Then they are already living amid intelligible distinctions.
+“Then what?”
 
-What happens when they cannot communicate those distinctions reliably?
+“I'd try to show what happened to the sick person.”
 
-They try.
+“And if the other person understood?”
 
-They gesture. They repeat sounds. They borrow words from one another. They establish conventions. They correct misunderstandings.
+“They wouldn't drink from it.”
 
-Over time their common means of expression develop.
+“So what made the warning successful?”
 
-Children encounter those means as the beginnings of an ordinary language.
+“It helped them know what mattered.”
 
-Now suppose the developing language has no dependable way to distinguish between a door that closed and a door that is closed.
+The first speaker, who has been listening, draws a line in the sand.
 
-Does that difference disappear from the island?
+“Now suppose several people build a shelter. One wall falls during the night. Another remains standing. Do the survivors need an agreed word for *standing* before they can encounter the difference?”
 
-No.
+“No,” says the child. “They would see which one fell.”
 
-Can the difference become important?
+“Would knowing how to repair the fallen wall be the same as knowing which wall fell?”
 
-Certainly.
+“No. They would have to find out why.”
 
-And if their available expressions are inadequate?
+“And if they learned how to keep the next wall upright?”
 
-They may develop new ways of expressing it.
+“They could show others how.”
 
-What prompts them?
+The visitor follows the line in the sand.
 
-The difference they need to communicate, and the inadequacy of their present means.
+“Imagine their children growing up on the island. Over the years the families borrow sounds, invent signs, correct misunderstandings and gradually form ways of speaking together.”
 
-Who issued the command?
+“Then the children would have a language,” says the child.
 
-No one need have done so.
+“Yes. But consider something strange. The people were already recognizing which water made them ill, which shelter stood, which path was safe, and which work remained unfinished. Their developing language helps them explain these things more clearly. Did it create the difference between safe water and unsafe water?”
 
-Then perhaps we have discovered something more remarkable than the persistence of intelligibility across languages.
+“No.”
 
-**Intelligibility may participate in the development of language itself.**
+“Could it help them discover differences they hadn't noticed?”
 
-Not simply as something language contains once it exists.
+“Of course.”
 
-But as something already operative in the lives from which a shared language emerges.
+“Then language changes what they can understand without having to be the source of every difference they understand.”
 
-What the people need to make intelligible may give them reason to develop expressions they do not yet possess.
+The child studies the sand drawing.
 
-And their recognition of linguistic inadequacy can become part of the process by which that inadequacy is repaired.
+“Maybe they invent a word because something keeps happening and they need to tell people.”
+
+“That is a possibility worth taking seriously,” says the first speaker. “The need to make something clear may help a language develop.”
+
+“Then people don't have to know the words before they can discover why they need them.”
+
+“Exactly.”
+
+The visitor looks towards the path.
+
+“What begins as pointing may become explanation. What begins as a failed warning may become a shared expression. And the expression can be corrected because the speakers are trying to make something definite available to one another.”
+
+“Is that how all languages began?” asks the child.
+
+“We have not shown that,” says the first speaker. “This island is an imagined situation, not a history of language. But it helps us see a possibility: people can already live among intelligible differences while they are still struggling to find common words.”
+
+The child wipes away the line in the sand.
+
+“The water would still flow, even if the drawing was gone.”
+
+“Yes.”
+
+“And someone could still get sick from it, even if nobody knew the right warning.”
+
+“Yes.”
+
+“Then there's a lot to learn before you can say it well.”
+
+“And,” says the visitor, “sometimes learning to say it well is one of the ways you learn more.”
 
 ## Chapter VI — The Mandate
 
-Someone on the island asks whether the boat has returned.
+On the island, a small boat has been sent to look for supplies.
 
-Another person answers, "It will return."
+People wait on the shore. The boat is overdue.
 
-Has the question been answered?
+“Has it returned?” one person asks.
 
-No.
+A neighbour replies, “It will return.”
 
-Is the answer intelligible?
+The child looks out at the water.
 
-Yes.
+“That wasn't what they asked.”
 
-Then why is it inadequate?
+“What did they ask?” says the visitor.
 
-Because the question asked whether an occurrence had taken place. The reply offered an expectation about the future.
+“Whether it has come back.”
 
-Suppose the person answers instead, "It has not returned yet."
+“Could the neighbour's answer be encouraging?”
 
-Has the question now been answered?
+“Yes.”
 
-Yes.
+“Could the neighbour sincerely believe it?”
 
-Even if the listener is disappointed?
+“Yes. But that doesn't tell them whether the boat has returned.”
 
-Yes.
+Another person approaches from the lookout and says, “Not yet.”
 
-What determined the adequacy of the answer?
+The waiting people seem disappointed, but they know what they needed to know.
 
-What the question sought to establish.
+“Was that a better answer?” asks the visitor.
 
-And what determines whether a repair succeeds?
+“Yes,” says the child. “Even though nobody liked it.”
 
-Whether the relevant difficulty has been overcome.
+“And if the neighbour had replied, ‘I hope so’?”
 
-And whether a promise has been kept?
+“That would tell us how the neighbour felt, not whether the boat was there.”
 
-Whether the undertaking has been fulfilled.
+The first speaker joins them by the shore.
 
-And whether a translation is faithful?
+“Why does one answer fit and another fail?”
 
-Whether it has adequately preserved what it undertook to translate.
+“Because of what the question asks,” says the child.
 
-We have encountered a recurring feature.
+“Did anyone have to invent an extra rule that a question about whether the boat has returned should be answered by saying whether it has returned?”
 
-An intelligible undertaking gives an attempted completion something to answer to.
+“It seems to come with the question.”
 
-A question is not answered by just any sentence.
+“Then something in the undertaking makes demands upon an answer.”
 
-A repair is not completed by merely declaring it complete.
+The visitor picks up a rope lying beside the landing place.
 
-A translation is not accurate simply because its words are grammatical.
+“Suppose this rope is frayed, and someone is asked to repair it. They tie a neat knot and say they are finished.”
 
-Something must have become sufficient in the relevant way.
+“Would they be?”
 
-Where is this requirement coming from?
+“It depends,” says the child. “Would the rope hold?”
 
-It is encountered within the intelligible character of the undertaking.
+“And if it didn't?”
 
-It need not be issued as a command by an external authority.
+“The knot might be neat, but the repair hadn't worked.”
 
-And it need not be invented by language before it can matter to the people whose language is developing.
+“Now suppose someone promises to keep watch for the boat and goes home before their turn begins.”
 
-This brings us to the possibility we have been approaching.
+“They haven't kept the promise.”
 
-**The demands of intelligibility may become recognizable through the inadequacy of our attempts to express, enact or complete them.**
+“Even if they say they have?”
 
-A failed expression can be repaired because there is something determinate it has failed to accomplish.
+“Yes.”
 
-The people invent the new expression.
+The first speaker sets down the rope.
 
-But the success of their invention is answerable to more than its mere existence.
+“Here we have different undertakings: answering the question, repairing the rope, keeping the promise. Each makes a different demand upon what would count as finished.”
+
+The child glances towards the sea.
+
+“Are we allowed to stop talking about the boat while it's still out there?”
+
+“Yes,” says the visitor. “Talking more won't bring it back.”
+
+“Then a conversation can stop without its question being answered.”
+
+The visitor nods.
+
+“And the boat may return without anyone being present to say it has returned. The event and the answer about the event are not identical.”
+
+A sail appears far out against the light.
+
+The child is the first to see it.
+
+“Is that the boat?”
+
+The others look, wait, and recognize its markings.
+
+“Now,” says the lookout, “we can answer.”
+
+The neighbour who had promised its return does not look triumphant.
+
+“I hoped I was right,” the neighbour says. “But until we could see it, hope was not the answer.”
+
+The first speaker smiles.
+
+“So we can understand why some attempts fail before we know how to make them succeed. A mistaken translation can be recognized as mistaken. A rope can be found still unfit for its purpose. An answer can be recognized as missing its question.”
+
+“And this is how we improve them?” asks the child.
+
+“Often. Their failure tells us something about what they were meant to accomplish.”
+
+The boat draws near.
+
+The visitor looks from the sail to the child.
+
+“A successful answer does not need to make us happy. It needs to be enough for what was asked. And sometimes, as we have just seen, what makes an answer enough can be examined in the world before us.”
 
 ## Chapter VII — Becoming Fluent
 
-Now consider someone learning a second language.
+A new person has joined the work on the island.
 
-At first, they hear a sentence in the unfamiliar language.
+For weeks she has been learning the shared language that has begun to grow among its people.
 
-They translate it into their familiar language.
+One morning a neighbour calls to her from the shelter. She pauses, silently finds the corresponding words in the language she learned as a child, and then brings the requested tool.
 
-Only then do they understand.
+The visitor watches.
 
-After months or years of learning, something changes.
+“What made you pause?”
 
-They hear the unfamiliar sentence again.
+“I had to turn the neighbour's words into my own before I knew what was wanted.”
 
-This time they understand it immediately.
+“And do you always need to do that?”
 
-What has happened?
+“For now.”
 
-The second language has become directly intelligible.
+Months pass.
 
-Must the person learn for the second time what it means for something to happen?
+The same neighbour calls from the shelter. This time the learner reaches for the tool before the neighbour has finished speaking.
 
-No.
+The child laughs. “She understood without stopping to translate.”
 
-Or what it means for something to remain the case?
+The learner smiles.
 
-No.
+“I heard what was wanted. I didn't think about my old words at all.”
 
-Or what it means to ask a question, recognize a failure or understand that a promise has been fulfilled?
+“Does that mean you have forgotten your first language?” asks the visitor.
 
-Not from the beginning.
+“Of course not.”
 
-What, then, are they learning?
+“Did you have to discover for the first time what it means to ask for help?”
 
-How another language makes such achievements available, together with the distinctions, practices and possibilities that language has developed through its own history.
+“No. But I had to learn how this language makes a request, and when the same words can mean something different.”
 
-At first, translation is the learner's path toward understanding.
+“Can you now explain everything you understand in the new language?”
 
-Eventually understanding may be what allows the learner to translate.
+The learner thinks.
 
-A fluent speaker can understand a sentence perfectly and still struggle to translate it into another language.
+“Not everything. Sometimes I know what a person means but cannot find a good way to say it in the language I knew first.”
 
-Why?
+“Then understanding an expression and translating it are different tasks.”
 
-Because understanding what an expression accomplishes and finding another expression that accomplishes it are different achievements.
+“Yes.”
 
-And fluency itself?
+The child asks, “Can somebody speak a language very quickly without understanding what they're saying?”
 
-It is not merely the rapid substitution of one vocabulary for another.
+“Certainly,” says the learner. “I could repeat phrases before I knew when to use them.”
 
-It is the capacity to participate immediately in an intelligible life through another language.
+“And could you understand a word but still use it badly?”
 
-The fluent speaker can recognize a question as a question, a warning as a warning, a correction as a correction.
+“Yes. People have had to correct me.”
 
-They can anticipate what is being said.
+The visitor asks, “What helped when you were corrected?”
 
-They can understand what has been left unsaid.
+“The person showed me why the phrase didn't fit the occasion. Sometimes we tried three different examples before I saw it.”
 
-They can notice a difference that a beginner cannot yet hear.
+“Did the examples make you learn only a new sound?”
 
-And they can discover new ways of making things intelligible that their first language did not habitually bring to their attention.
+“No. They helped me notice a difference that I had been missing.”
 
-The second language enlarges their possibilities of expression and understanding.
+The first speaker, coming into the shelter, asks the learner about a word that has no comfortable equivalent in the first language.
 
-Yet the possibility of understanding was already involved in their acquiring it.
+“Can you tell us what it means?”
 
-What, then, have they crossed?
+“I can tell you where people use it,” she replies. “And I can give examples. But I wouldn't want to pretend there is one word in my first language that does exactly the same work.”
 
-Not from a world without intelligibility into one that possesses it.
+“So fluency is not merely finding a faster way to exchange one word for another,” says the visitor.
 
-They have acquired another fluent means of participating in intelligibility.
+“No. It is being able to live and understand in the language itself.”
+
+The child picks up the requested tool and hands it to the neighbour.
+
+“Did the tool change because the learner became fluent?”
+
+“No,” says the visitor.
+
+“Did the language change?”
+
+“It may have, as its speakers used it and learned from one another.”
+
+“And did the learner change?”
+
+“Certainly.”
+
+“Then how can we say she understood the same request as before?”
+
+“Because we can examine what was requested and whether she recognized it. We need not confuse the changing path of her understanding with every thing she comes to understand.”
+
+The learner looks at the tool in the neighbour's hand.
+
+“At first, my first language gave me a way into this one. Now understanding this one gives me new things to ask about both.”
+
+The visitor nods.
+
+“An acquired language is not a prison into which all intelligibility must fit. It can be another way of participating in a world already offering things to discover.”
 
 ## Chapter VIII — The Question We Have Earned
 
-Let us gather what we have recognized.
+In the evening the visitors sit beside the shelter.
 
-A difference can be encountered before it is spoken.
+From somewhere nearby comes the sound of a door closing.
 
-People without a shared language can recognize and correct misunderstandings.
+The child looks up.
 
-Translation can preserve an intelligible achievement across different expressions.
+“We have talked about that before.”
 
-Mistranslation can be recognized because such preservation has failed.
+“About a door?” asks the first speaker.
 
-An intelligible relation can remain discoverable across centuries of linguistic change.
+“About the difference between closing and being closed.”
 
-A shared language can emerge through the attempts of people who already encounter differences, relations and demands in their lives.
+“And why did that matter?”
 
-A second language can become fluent because understanding is not confined to the first language a person learns.
+“Because someone who only finds a door closed shouldn't say they watched it close.”
 
-And an expression can be recognized as inadequate before a better expression has been found.
+The visitor remembers the travellers beside the fallen tree.
 
-What follows?
+“And when people without a shared language tried to show one another that a path was blocked?”
 
-We are entitled to ask whether intelligibility possesses an order that is not reducible to the grammatical structures of any particular language.
+“They could understand some of it, get it wrong, and try again.”
 
-But what kind of order?
+“And the translation?”
 
-We do not yet know.
+“The interpreter changed a report about a condition into a report about an event.”
 
-We must discover it.
+“And what helped put it right?”
 
-We should not begin by demanding that experience fit a list of predetermined categories.
+“Knowing which difference the first person was trying to preserve.”
 
-Instead, we can ask what changes when something becomes intelligible.
+The carpenter, passing by with a board, stops to listen.
 
-What is the difference between making something distinct and making something possible?
+“What about the triangle?”
 
-Between establishing a relation and repairing a failure?
+“The words and drawings could change, but there was a relationship that a correct explanation had to establish.”
 
-Between bringing separate things into coherence and bringing an unsettled matter to rest?
+“And the people waiting for the boat?” asks the first speaker.
 
-What makes an achievement sufficient?
+“They needed an answer to their question, not just something encouraging to hear.”
 
-And how does what has become intelligible remain available in what follows?
+The visitor looks around at them.
 
-These questions are not technical inventions.
+“We have met words, gestures, repairs, mathematical relationships, promises, and practical undertakings. Do these all concern one kind of object?”
 
-They arise from the ordinary achievements we have already encountered.
+“No,” says the child.
 
-The door closes.
+“Then why have they led us through one inquiry?”
 
-Someone asks whether it is closed.
+The child thinks for a long time.
 
-Someone answers.
+“Because we keep asking what was made clear, or what someone was trying to do.”
 
-The question is settled.
+The first speaker says, “And whether the attempt became enough.”
 
-But then someone asks why the door closed.
+“And whether what was understood could be used or understood again,” adds the learner.
 
-The same answer no longer suffices.
+The visitor nods.
 
-What has changed?
+“We have not yet found an account of every kind of completion. But our encounters have given us a way to look for one.”
 
-And what would count as answering the new question?
+The carpenter asks, “What would you look for first?”
 
-**Here our investigation properly begins.**
+“What changed between the difficulty and the achievement?”
 
----
+“And next?”
+
+“What made the change sufficient for the undertaking?”
+
+“And after that?”
+
+“What remained available as achieved?”
+
+The child raises a hand.
+
+“Does the order of the questions mean the things happen in that order?”
+
+“Not necessarily,” says the visitor. “We ask them one after another because we cannot say everything at once. But in a completed achievement, what changed, what made it enough, and what remains achieved belong together.”
+
+The child looks at the closed door.
+
+“So knowing that it is closed is not the same as knowing why it closed.”
+
+“No.”
+
+“And being able to open it isn't the same as knowing whether it is closed.”
+
+“No.”
+
+“And a person could know all three things?”
+
+“Yes, because one undertaking can lead into another.”
+
+The first speaker says, “Then perhaps the next part of our inquiry should begin where the things themselves lead us. Not with a table of names, but with a question that is hard to answer well unless we notice what a particular achievement requires.”
+
+“What question?” asks the child.
+
+The visitor points towards the shelter door.
+
+“What would make an answer enough?”
+
+The child considers this, then stands.
+
+“I can show you one thing. The door is closed.”
+
+“Is that enough?”
+
+“If that was what you wanted to know.”
+
+They go inside.
+
+The first question has been answered.
+
+The next one is waiting.
 
 ## Chapter IX — What Makes an Answer Enough?
 
