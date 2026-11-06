@@ -10,237 +10,319 @@
 
 A door closes.
 
-What has happened?
+A child standing nearby turns at the sound. A moment later, another person enters the room and sees the door shut.
 
-The door has moved from being open to being closed.
+“What happened?” asks the visitor.
 
-And afterward?
+“The door closed,” says the child.
 
-It is closed.
+The person who has just entered looks puzzled. “How do you know? I only found it closed.”
 
-Are these the same thing?
+The visitor looks from one to the other.
 
-No. One concerns what happened. The other concerns what is now the case.
+“Do you know different things?”
 
-Must anybody speak before this difference can be encountered?
+“I saw it move,” says the child.
 
-No.
+“And I know how it is now,” says the newcomer. “Someone might have shut it earlier.”
 
-And must we possess words for it before we can recognize it?
+“So the movement and the condition it leaves are not the same,” says the visitor.
 
-No.
+“Of course not,” says the child. “One happens. The other is what you find afterward.”
 
-Then let us begin with that.
+They stand for a moment before the door.
 
-A door closes. Something happens. The movement ends. A condition remains.
+“Must the child have said anything for the closing to happen?” asks the visitor.
 
-A child may watch the movement without having learned to describe it. A person arriving afterward may discover the condition without having witnessed the movement. Another person may hear a description and understand what occurred without having been present.
+“No.”
 
-These are different encounters.
+“And must the newcomer have witnessed the movement to recognize the condition?”
 
-And the differences matter.
+“No,” says the newcomer. “But I would have been wrong to say I saw it close.”
 
-Suppose I tell you that I saw the door close, when all I actually know is that I found it closed.
+“Would that sentence be difficult to understand?”
 
-Have I said something I cannot establish?
+“Not at all. You'd know exactly what I claimed. It simply wouldn't be something I could honestly claim to have seen.”
 
-Yes.
+The child opens the door again.
 
-Could my sentence nevertheless be perfectly grammatical?
+“Now you can both watch.”
 
-Yes.
+It closes once more, this time gently.
 
-What, then, is wrong with it?
+“Did we make yesterday's closing happen again?” asks the visitor.
 
-It makes an occurrence intelligible that my experience did not establish.
+“No,” says the child. “That was another time.”
 
-We have discovered something elementary.
+“Yet we can recognize the kind of difference again.”
 
-There is a difference between an occurrence, a condition, and what an expression makes intelligible about either.
+The newcomer nods. “I understand what you meant before. You were telling me about an occurrence, and I was telling you about the condition I found.”
 
-And that difference can determine whether an expression is adequate.
+The visitor looks at the door.
 
-We have not needed a theory to recognize this.
+“A small distinction. But consider what it allows us to notice. There is what happens. There is what remains the case afterward. There is what one person witnesses, what another discovers later, and what either can say about it. We must not confuse them merely because they concern one door.”
 
-We have merely attended to something ordinary.
+The child has begun to leave.
 
-Now let us consider something else.
+“Do we need a special word for every part of it?” the visitor asks.
+
+“We already have words,” the child says. “But I knew it closed before you asked me.”
+
+And the child goes out.
+
+The visitor follows, carrying a question that the door itself did not ask:
+
+What can be recognized before it has been put into words?
 
 ## Chapter II — Before a Common Language
 
-Imagine that you and I meet beside a path.
+Along a path, two travellers come upon a fallen tree.
 
-We have no language in common.
+They have never met. They speak different languages.
 
-Ahead of us, a fallen tree blocks the way.
+One traveller points toward the tree and makes a sound. The other looks beyond it, then steps towards the far end of the path.
 
-Can I make you aware of the obstruction?
+The first traveller hurries forward and waves an arm.
 
-I might point toward it.
+The second stops, uncertain.
 
-Will you necessarily understand me?
+“What has gone wrong?” asks the visitor, who has been watching them.
 
-No. I might be indicating the tree itself, the road beyond it, or something else entirely.
+“Perhaps the second traveller thought the first was pointing out the way ahead,” says the child.
 
-What can we do?
+“Was the first traveller doing that?”
 
-We can try again.
+“Perhaps not. The tree is in the way.”
 
-I might gesture toward another route. You might look where I am pointing. We might move a little way together and discover whether we have understood enough to proceed.
+“Then the gesture has not been enough to make its purpose clear.”
 
-If the first gesture fails, can we recognize that failure?
+The first traveller bends, touches the trunk, and tries to lift it. It does not move. Then the traveller points towards a narrow track around the trees.
 
-Yes.
+The second traveller watches, looks at the trunk, and tries the new track. After a few steps, both travellers nod.
 
-Can we attempt to correct it?
+“They've understood,” says the child.
 
-Yes.
+“What have they understood?”
 
-But we do not yet share a language.
+“That the path is blocked, and there may be another way.”
 
-No.
+“Have they learned one another's languages?”
 
-Then the possibility of recognizing an inadequate expression and attempting a better one is already present.
+“No.”
 
-Yes.
+“Do we know they understand every detail in the same way?”
 
-What are we trying to make available to each other?
+The child considers this.
 
-Something about the obstruction and the possibility of another route.
+“No. One may only want to get past, while the other wants to show why they cannot go straight ahead.”
 
-We should notice what has happened.
+“Yet something has become sufficient for what they are doing.”
 
-We have not yet established a shared vocabulary. Nevertheless, we can attempt to communicate, recognize misunderstanding, correct it and arrive at sufficient understanding.
+They follow the track until it joins the main path again.
 
-Someone might choose to call our gestures a language.
+The visitor asks, “What made the second gesture better than the first?”
 
-Very well.
+“It helped the other traveller see what mattered.”
 
-But calling them a language does not answer the question.
+“And how did the first traveller know there was something wrong with the first attempt?”
 
-What made one gesture inadequate and another sufficient?
+“The other one started walking the wrong way.”
 
-What allowed us to recognize the difference?
+“So a misunderstanding could be recognized before the travellers had agreed on words for describing it.”
 
-And how did we know there was something still to communicate before we found a way of communicating it?
+The child watches the travellers disappear.
 
-These questions remain.
+“Maybe pointing and gesturing are a kind of language.”
+
+“They may be. Calling them that does not settle the matter we are asking about.”
+
+“What matter?”
+
+“What allows an expression, whether spoken or gestured, to be suitable or unsuitable for what someone is trying to make clear?”
+
+The child points towards the fallen tree.
+
+“The tree is still there.”
+
+“Yes.”
+
+“And it would still be in the way even if nobody understood the pointing.”
+
+The visitor smiles.
+
+“Then the obstacle does not depend upon their agreement. And their communication succeeds only as it comes to answer to something about the situation and their undertaking.”
+
+They continue along the path, where the two travellers' footprints meet again in the mud.
+
+No shared dictionary has been made.
+
+But a way forward has been found.
 
 ## Chapter III — The Translation That Failed
 
-Now imagine that we have learned one another's languages.
+Later, the visitor listens to two people trying to pass a message between languages.
 
-I say, in mine, that the door is closed.
+One says, “The storehouse door is closed.”
 
-You tell someone else, in yours, that the door closed.
+The interpreter turns to a third person and says something in another language.
 
-Have you translated me accurately?
+The third person looks alarmed.
 
-Not necessarily.
+“What did you tell her?” asks the visitor.
 
-Why not?
+“That the door closed.”
 
-Because I stated a condition, while you may have described an occurrence.
+The first speaker shakes her head.
 
-Are both sentences intelligible?
+“That isn't quite what I said.”
 
-Yes.
+“But the door is closed,” says the interpreter. “So it must have closed.”
 
-Could both be grammatical?
+“Perhaps. But I didn't say when it happened, or claim to have seen it. I told you its condition.”
 
-Yes.
+The interpreter thinks for a moment.
 
-Then grammatical correctness alone cannot establish that the translation succeeded.
+“Then you could have found it closed when you arrived.”
 
-No.
+“Yes.”
 
-What has failed?
+“And by saying it closed, I made it sound as though you were telling us about an event.”
 
-A difference made intelligible by the first expression has not been adequately preserved in the second.
+“Exactly.”
 
-Now consider what we have admitted.
+The interpreter offers a different sentence. The third person relaxes and asks whether anyone has the key.
 
-Two languages may have different words, different sounds and different grammatical constructions.
+“Now she wants to know how to get in,” says the visitor.
 
-Yet we can recognize when an expression in one has accomplished what an expression in the other accomplished.
+“Which is another question,” says the first speaker.
 
-We can also recognize when it has failed.
+The interpreter smiles ruefully. “I thought I had translated correctly because every word I used was ordinary and the sentence made sense.”
 
-Indeed, mistranslation is especially revealing.
+“Could your first sentence have been true?” asks the visitor.
 
-A mistranslation may be a perfectly intelligible sentence.
+“Yes.”
 
-It simply makes the wrong thing intelligible.
+“Could it have been perfectly understandable?”
 
-What allows us to recognize this?
+“Yes.”
 
-We can compare what the expressions accomplish.
+“Then what made it a poor translation?”
 
-And what is that, if not a recognition that intelligibility cannot be identified simply with the particular words through which it is expressed?
+“It did not preserve the difference the first speaker was making.”
 
-Let us remain with this question.
+The visitor looks at the two speakers.
 
-For translation is so familiar that we scarcely find it astonishing.
+“They do not need identical words or identical grammar. But there must be something by which they can tell whether the message has arrived faithfully.”
 
-But perhaps we should.
+The interpreter pauses.
+
+“And even after a faithful translation, the listener may have another question.”
+
+“Certainly.”
+
+“Then translating the statement and answering the next question are not one task.”
+
+The first speaker opens the storehouse door and invites them inside.
+
+The interpreter laughs.
+
+“Now I can translate *that* as ‘the door opened,’ because I saw it happen.”
+
+The visitor does not laugh at once.
+
+“What is remarkable,” she says, “is that the mistake was recognizable. There was something to preserve, and something that could be lost, even while every sentence remained intelligible.”
+
+The interpreter looks back at the door.
+
+“Then perhaps I need to understand more than the words before I can translate them well.”
+
+“Perhaps,” says the first speaker. “And perhaps understanding more clearly is what lets you notice when the words have failed.”
 
 ## Chapter IV — The Relation That Did Not Age
 
-Consider a right triangle.
+The carpenter draws a right-angled triangle on a piece of board.
 
-The relation we call Pythagoras' theorem has been expressed across thousands of years in different languages, notations and forms of demonstration.
+The visitor has asked why a measurement made from the drawing can guide work that has not yet been done.
 
-Has the relation changed each time its expression changed?
+“Here is the right angle,” says the carpenter. “Suppose we know the lengths of the two sides that meet there. A particular relationship tells us the length of the side across from it.”
 
-No.
+The child looks at the drawing.
 
-Could someone discover it without knowing the original words in which earlier people expressed it?
+“Even if the triangle is much bigger?”
 
-Yes.
+“Yes, provided it is still a right triangle. The lengths change, but the relationship holds.”
 
-Could someone misunderstand it?
+“Who first found that out?” asks the child.
 
-Yes.
+“Many people investigated such relationships long before we were born,” says the carpenter. “We call this one the Pythagorean theorem.”
 
-Could a translation misstate it?
+“Did they use those words?” asks the visitor.
 
-Yes.
+“Not all of them. They used different words, drawings, numbers, and methods.”
 
-How would the mistake be recognized?
+The child looks at the chalk.
 
-By attending to the relation that the expression purports to establish.
+“Would a triangle know what name we gave it?”
 
-Then there is something extraordinary here.
+The carpenter laughs. “It wouldn't know any name at all.”
 
-The relation remains discoverable even when the words of earlier discoveries have changed or disappeared.
+“Then how can we tell that people using different explanations have understood the same thing?” the visitor asks.
 
-Different people, separated by centuries, may arrive at recognition of the same relation through entirely different linguistic paths.
+“By seeing what their explanations establish,” says the carpenter. “A proof can be different from another proof while reaching the same relationship. An explanation may also be mistaken.”
 
-What persists is not a single sentence.
+“What would make it mistaken?”
 
-And what makes the sentences correct or incorrect is not merely that they belong to an accepted language.
+“If it claimed the relationship held when the relevant conditions were not met, or if the reasoning did not establish what it claimed.”
 
-There is something to which they answer.
+The child takes the chalk and draws a lopsided triangle without a right angle.
 
-Do we have reason to believe that only mathematical language can behave this way?
+“Would it work for this one?”
 
-We have established no such restriction.
+“We cannot simply assume it would,” says the carpenter. “The right angle was part of what mattered.”
 
-A promise can be mistranslated.
+The visitor studies the two drawings.
 
-A warning can be distorted.
+“Then there is the triangle we have drawn, the relationship we are trying to establish, and our different attempts to understand it.”
 
-An explanation can omit the very difference upon which its success depends.
+“Yes.”
 
-A story can be retold in another language while preserving what made its events intelligible.
+“And when one explanation fails, we can criticize it by reference to something more than whether its words sound familiar.”
 
-Mathematics offers a particularly vivid encounter with the phenomenon.
+“Yes.”
 
-It does not give us grounds to declare the phenomenon exclusive to mathematics.
+“Could people who never met the original discoverer recognize the same relation?”
 
-So we should ask a larger question.
+“That is what happens when someone studies a sound proof.”
 
-**What is it about intelligibility that permits different linguistic expressions to answer to the same recognizable achievement?**
+The visitor asks, “Does the relation become new each time a child learns it?”
+
+“Not in the way a new drawing becomes new,” says the carpenter. “The child's act of understanding is new. The relationship it establishes need not be.”
+
+For a while they watch the child redraw the right angle carefully.
+
+“Mathematics makes this difference easy to see,” says the visitor. “But perhaps it does not belong to mathematics alone. A warning can be faithfully translated, or mistranslated. A promise can be understood across different words. A practical explanation can be recognized as right or wrong even when its speaker is long gone.”
+
+“Those are not all mathematical relations,” says the carpenter.
+
+“No. We have only begun to see what might connect them.”
+
+The child puts down the chalk.
+
+“Are we finished with the triangle?”
+
+“For today,” says the carpenter.
+
+“And is everything about triangles now understood?”
+
+“Not remotely.”
+
+The child seems pleased by this answer.
+
+The visitor looks at the board.
+
+“So a particular understanding may be enough without becoming the last thing anyone will ever understand about its subject.”
+
+The child carries the board into the shelter, where it will be needed again.
 
 ## Chapter V — The Island
 
