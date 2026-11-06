@@ -1,8 +1,8 @@
 # Fiche Ceathar — The Continuing Investigation
 
-**Living guide and argument ledger · Edition 5 · 5 November 2026**
+**Living guide and argument ledger · Edition 7 · 6 November 2026**
 
-**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 5): use *Socratia* as a cumulative microscope and reciprocal microscope—establish what its prior inquiry has earned, reason from those established distinctions, and propose the next Socratic chapter.** No contribution automatically becomes canonical; the author reviews it first.
+**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 7): read the existing Socratic inquiry through Chapter XXII, use its earned distinctions as the starting point for further investigation, and examine the conjunctive architecture through the governing achievement rather than treating cells as three appended labels.** The current *Socratia* sequence is complete through Chapter XXII; further chapters are not assigned merely because inquiry continues. The controlling 54 definitions remain unchanged.
 
 > **Governing discipline:** No claim advances in status because it has been repeated, illustrated many times, or praised by an expert. It advances only when a recognisable distinction, valid argument, discriminating comparison, or properly recorded test establishes something further. An objection that identifies an actual missing condition is a contribution; a new example alone is not a derivation.
 
@@ -83,50 +83,33 @@ Which earlier conclusion, if any, needs precise correction:
 Next necessary question:
 ```
 
-**The active task remains one candidate Chapter XVIII, not an independent foundational treatise.** The record is submitted separately; the chapter must make the new discovery accessible through *Socratia*'s own dialogue, not paste this analytical checklist into its literary text.
+**Historical note (Edition 5):** this microscope record guided earlier chapter drafting. The current manuscript now extends through Chapter XXII; use the method to examine actual achievements, not as an instruction to draft Chapter XVIII.
 
 ---
 
-## CURRENT VISITOR ASSIGNMENT — Continue *Socratia*, not all three manuscripts
+## CURRENT VISITOR ASSIGNMENT — Enter at the achieved frontier
 
-**Treat this section as your active instruction if you are an independent GPT beginning from this guide.** The current experiment is deliberately **one manuscript, one next chapter**. Do not independently expand *The Fountainhead* or *Fountainhead II* for this assignment. Their arguments remain relevant background, not additional deliverables. Do not edit the repository or claim that a draft has been accepted.
+**Active instruction for a new reader (Edition 7).** Read [Socratia.md](../Socratia.md) through **Chapter XXII, “What We Can Begin From.”** Do not mistake the historically preserved Chapter XVIII drafting exercise in Edition 5 for an open assignment. Chapters XVIII–XXII are already incorporated in the manuscript.
 
-### Reading before writing
+The ordinary entry to the developed vocabulary is [How Understanding Grows — A Working Vocabulary of Clarity](CLARITY_VOCABULARY.md). For the canonical 54-cell identities and controlling derivations, consult [THE_54_CONTROL.md](../THE_54_CONTROL.md). Read the appropriate passages rather than accepting this guide as a substitute.
 
-1. **Read [Socratia.md](../Socratia.md) in full**, from Chapter I through Chapter XVII, rather than only its outline, opening and ending. Trace the progression of its questions and instances. Verify the repository's present chapter count and ending before you number a proposed continuation.
-2. Read this guide, [THE_54_CONTROL.md](../THE_54_CONTROL.md), and the relevant [One Atlas](../THE_54_ONE_ATLAS.md) entries. Consult [the extended first Fountainhead](../the_fountainhead_of_intelligibility.md) and [Fountainhead II](../Fountainhead_II.md) wherever required to understand a distinction, without importing those books' narrative voice into *Socratia*.
-3. Provide a **verifiable reading audit**: chapters actually examined, any inaccessible passages, and specific references to earlier Socratic recognitions supporting your next step. If you have only read selectively, **do not declare the manuscript fully understood or the draft seamless**. Report the limitation and produce a clearly provisional proposal rather than inventing continuity.
-4. Read the existing ending closely: **Chapter XVII, “The Word That Has No Equivalent.”** One speaker learns to use a word directly, after recognition and correction, without an exact translation into the learner's earlier language. The chapter ends when the word is used in the garden and understood without further explanation. The new word gives an already recognizable experience another way to become present between people. **Do not mistake an absent dictionary equivalent for an absence of intelligibility.**
+**Purpose:** Identify a particular intelligible achievement, what demand governed it, what made it sufficient, how it persists, and what it makes newly possible. Then examine how the three canonical dimensions constitute that *one* achievement together.
 
-### Find Socratia's local frontier before composing
+**The five recognitions to carry into the inquiry:**
 
-The collective argument ledger is **not** a ready-made chapter outline. First reconstruct what *Socratia* has already earned in Chapters I–XVII. Identify the **last unresolved question genuinely generated by the ending**, and check that earlier chapters have not already answered it. Write a brief continuity note citing at least **three concrete chapter-level antecedents**, including one from the first half and one from the latter half of the book.
+1. **The 54 are a proposed generative conjunction, not a catalogue of sentence labels.** The Transformation Pattern, Completion Topology, and Persistence Mode constrain one another in the identity of a single properly individuated completion. Consider pairwise dependencies and the strongest rival when a derivation requires them.
+2. **Choose the governing achievement before its coordinate.** Distinguish the field of contributing operations, the achievement's landing or Operative Centre, and the later field that inherits it. A grammatical sentence or a long episode is not automatically one completed achievement.
+3. **Focal, Distributed, and Release answer the same explanatory question: what makes the transformation enough?** They need not all describe spatial arrangements. In Release, an earlier governing condition loses determining force. A Release can involve one physical locus or many without being reducible to Focal or Distributed.
+4. **Persistence is not transmission.** Standing, Bearing, and Efficacy describe how what was achieved remains available *as achieved*. Words, drawings, people, memories, institutions and records are possible carriers. A surviving conclusion and a surviving path of justification may differ.
+5. **Continuation does not cancel completion.** Distinguish preservation, enrichment, correction, supersession and Release. A condition can cease to govern a present undertaking without having been false or invalid in its original setting. A later undertaking inherits an earlier result only when the conditions relevant to using it still hold.
 
-A prior visiting GPT proposed **“When Two People Understand and Still Disagree”** as Chapter XVIII. Its candidate insight was that *shared understanding is not necessarily shared judgment*, and it explored disagreement about whether a familiar word is appropriate. This is **a preserved candidate, not an accepted next chapter**. Examine whether Chapter XVII already raises this difference; whether earlier chapters have substantially addressed it; and whether a more exact next question follows from the text. **Do not automatically repeat, adopt or reject that draft.** If you work from the same question, make clear what new discovery—not simply more examples—you can earn.
+**How to read and contribute.** Read the manuscript as a continuing philosophical argument rather than a series of prompts for agreement. Cite a chapter and the exact recognition it earned. Ask what new question that achievement makes possible. Separate what was observed, what was argued, and what remains a larger architectural claim. Identify particular weaknesses without restarting every settled question or adding reflexive caveats. An open question can be a well-achieved frontier, not a flaw.
 
-### Compose as Socratia, not as an examiner
+**If proposing new literary writing:** first verify the present final chapter; show a genuine new ordinary-life distinction rather than re-enacting the existing garden argument; allow interlocutors to resist or modify interpretations; propose a chapter only if an earned next undertaking needs one. Do not auto-generate a numbered continuation as an exercise.
 
-Write **one proposed Chapter XVIII of approximately 1,000 words**, titled appropriately and continuing the existing dialogue's recognitions. Begin from an ordinary situation that grows naturally out of Chapter XVII, unless the text itself warrants another move.
+**If testing the 54:** compare properly specified undertakings, the conjunctive derivation, and its rival. A canonical cell name is a compression handle, not an additional independent condition. Apparent multiple operations within one sentence do not refute the identity of a precisely individuated achievement; test whether independent readers can identify that same achievement and its governing conditions.
 
-- A genuine Socratic question **opens a distinction for the reader** rather than inserting the expected answer into the question. Allow some questions to remain unsettled until an example makes the difference recognizable. The prior continuation relied heavily on prompt/“Yes”/“No” exchanges and therefore risked becoming a guided quiz; **vary the questions, permit reconsideration, and let participants discover or resist a conclusion**.
-- Preserve differences among **shared expression**, **shared intelligible distinction**, **agreement about truth**, **appropriateness of use**, and **successful completion of an undertaking**. These cannot be declared equivalent merely because speakers recognize a word.
-- Do not turn the chapter into a lecture about the 54. Do not introduce canonical cells by name unless the narrative itself earns their necessity. A familiar example is not a discovery if it merely retells a principle already reached.
-- Preserve the distinction between **what a sentence makes intelligible**, **the worldly relation or event it describes**, **the claim's truth or falsity**, and **the reader's act of understanding**. The Pythagorean affirmation and denial, both proposed as Cell 23, are useful background examples of why polarity is not a change of form—but **do not force them into the garden dialogue**.
-- The chapter should **complete one local recognition and leave one specifically earned question open**. No artificial universal proof, forced 54-cell count, or instrumental prediction is required.
-
-### Return these deliverables, in this order
-
-**A. Reading audit and continuity map (separate from manuscript prose).** What chapters did you actually read? Where does Chapter XVII end? Name at least three earlier chapter-level recognitions that the new inquiry depends on. Identify a near-duplicate already in the manuscript and explain how your proposed move differs.
-
-**B. The next earned question and cumulative microscope record (short).** State one precisely scoped fact already earned in *Socratia* and show its argument, the inward question it invites, the outward implication it licenses, and the new distinction to be discovered. Explain why the ending makes the question available, which alternative you rejected and why. Treat an established premise as established within its scope, not as a compulsory fresh hypothesis.
-
-**C. Proposed Chapter XVIII (approximately 1,000 words).** Complete manuscript-quality *Socratia* prose, following the existing question-driven method without didactic over-control.
-
-**D. Contribution note (short, separate).** Give the explicit cumulative chain **established earlier fact → finer recognition → newly derived fact → reciprocal consequence → next earned question**. State what did *not* follow, what an objection would actually overturn, and which prior chapter the new result develops.
-
-**E. Guide diagnostic (short, separate).** Say whether the microscope/reciprocal-microscope discipline actually allowed a prior established fact to yield a new one. Identify instructions that assisted, confused or pre-empted independent discovery. Explicitly flag any place where the guide's overall frontier **pulled you away** from the local Socratic ending.
-
-**Submission rule:** Return your text to the author for review. Do not commit changes. Do not represent the contribution as an official new chapter. Honest partial reading and a carefully delimited draft are preferable to the appearance of comprehensive understanding.
+**Reader's compact record:** prior established determination → new demand → operative achievement and scale → sufficiency condition → survivor → correction or changed authority (if any) → legitimate next undertaking. Keep a meaningful distinction between what is earned and what is merely suggested.
 
 ---
 
@@ -474,7 +457,7 @@ A visiting GPT submitted three proposed continuations after **selectively**, not
 
 The author clarified the desired method: *Socratia* is to work as both **microscope** (finding finer necessary differences within what is established) and **reciprocal microscope** (deriving further facts from those differences). The dialogue should **accumulate established recognitions**, not continually reopen or merely rephrase them. This revision adds an explicit fact-to-fact reasoning discipline, guards against treating proposed universal claims as already demonstrated, and asks the visiting GPT to show its cumulative chain of philosophical discovery separately from the literary chapter.
 
-**Immediate assignment:** Read Chapters I–XVII closely, distinguish earned facts from live proposals, and produce **one provisional ~1,000-word Socratic Chapter XVIII** that derives a further recognition from prior established distinctions. Submit the microscope record, reading audit, continuity argument and guide diagnostic. No manuscript modifications without author approval.
+**Historical assignment, now fulfilled:** Edition 5 commissioned a provisional Chapter XVIII from a manuscript then ending at XVII. The active reading assignment is the Edition 7 section above; *Socratia* now extends through Chapter XXII.
 
 ---
 
@@ -533,3 +516,48 @@ This is a continuation of the earned inquiry, not a revision of the fifteen cont
 
 
 **Invitation:** Do not merely affirm or reject the project. Identify the smallest distinction the present argument has earned but has not yet made explicit; establish it if possible; state the resulting limitation; and leave the next investigator a more exact question than the one you received.
+
+---
+
+## EDITION 7 ADDITION — Towards clarity, inheritance, and the governing condition (6 November 2026)
+
+**Status: incorporated into the living guide.** The canonical 54 control remains unchanged; [the companion vocabulary](CLARITY_VOCABULARY.md) consolidates the developed distinctions. *Socratia* now includes Chapter XXI, “What No Longer Decides,” and Chapter XXII, “What We Can Begin From.”
+
+### The guiding recognition
+
+**Clarity grows when we become better able to identify what is being asked, what makes an answer sufficient, what remains established, and what no longer has authority to determine the result.** Greater information or confidence alone does not constitute this movement. A newly recognized distinction must improve what the inquiry can legitimately conclude.
+
+The architecture is to be understood **generatively**: three primitive dimensions jointly constitute a specific completed achievement. They are not independently attached descriptors. The unit is an achieved determination under a specified demand and scale, not a grammatical sentence by default. A cell's canonical name is shorthand for its derived identity, not a set of extra conditions inferred from its connotations.
+
+### The three conditions of sufficiency
+
+**Focal:** a privileged, decisive locus is sufficient.
+
+**Distributed:** the demand is answered through the necessary connected plurality or organization.
+
+**Release:** a previously governing condition ceases to determine the result. The condition may remain physically present and may have been legitimately governing before. Release is distinguishable from Repair, because removal of present governing force need not establish an earlier fault.
+
+The common question is **what makes this achievement sufficient?**, not **where is it located in space?** This avoids confusing a release's physical locus with its constitutive topology.
+
+### Three distinctions across occasions
+
+1. **Result and path.** A conclusion can survive when its proof or justificatory route cannot be immediately recovered. The result-survivor and path-survivor should not be collapsed.
+2. **Persistence and transmission.** Standing, Bearing and Efficacy characterize availability as achieved. Carriers and means of communicating or reconstructing an achievement are another question.
+3. **Correcting and no longer governing.** If yesterday's path was unsafe and has dried today, yesterday's warning was not necessarily mistaken. It can remain intelligible and justified for yesterday while ceasing to govern today's crossing. Conversely, if yesterday's warning was based on a false observation, its error must be corrected.
+
+### Remainder, inheritance, and traversal
+
+After a completion, do not speak vaguely of “what remains.” Specify whether it is **an achieved result**, **an unresolved demand**, **a newly available possibility**, or **a newly articulable question**. A continuing inquiry can contain all of these without making a previous completed achievement incomplete.
+
+**Inheritance** is not mere chronological succession. The next undertaking must be answerable to a relevant prior achievement. **Traversal** is a dependency-ordered movement in which earlier achievements alter the intelligible possibilities for later ones. A later use of an earlier result is legitimate where the conditions relevant to that use remain satisfied or are suitably re-established. This concerns the relationships *between* completed achievements, not an automatically added primitive coordinate of the 54.
+
+### Socratia's present literary landing
+
+Chapters XVIII–XX examined how a question makes another possible, how what was understood on one occasion remains available on another, and how different people may answer to the same intelligible determination. Chapter XXI examines how an earlier valid condition may cease to govern without becoming false. Chapter XXII distinguishes a surviving result from the path by which it can be checked, and shows how a completed achievement gives another undertaking somewhere to begin.
+
+**The sequence's present completion:** a reader can recognize, from ordinary events, that understanding grows through particular resolutions; the moment of their discovery passes, their achievements may persist, and their legitimate inheritance depends on what each actually established. This is a literary landing, not a claim that the broader philosophical inquiry must end.
+
+**Next philosophical frontier:** explain, through discriminating examples and the controlling derivations, how the same achieved determination remains identifiable under different expressions, occasions, corrections and conditions of later use. Examine specific rival conjunctive forms rather than reasserting a generalized demand for proof.
+
+**Editorial discipline:** keep the philosophical discoveries in the repository. Do not insert the identities or transcripts of outside readers or conversational assistants. Let the text be usable by a newcomer who has never seen the history of its drafting.
+
