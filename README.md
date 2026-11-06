@@ -6,6 +6,8 @@
 
 The vocabulary companion distinguishes local completion from continuation and inheritance; it clarifies why Focal, Distributed and Release are three ways sufficiency is constituted, and why Persistence Modes are not media of transmission. *Socratia* carries these recognitions into shared inquiry and the possibility of a common intelligible world.
 
+**Ordinary dialogue archive:** [Explore the live dialogue conversations](https://titanicparker.github.io/new-repository/#archive) · [Working Markdown corpus](https://github.com/TitanicParker/new-repository/blob/main/FICHE_CEATHAR_54_DIALOGUES_WORKING.md). Two-person exchanges elicit individual forms in everyday sense-making; their structural checks are working assessments, not canonical changes.
+
 ## A New Method for Talking about Organising Reality
 
 **The 54** is a constraint grammar of completed intelligibility. It offers a new organising principle for **how we talk about things, how we understand them, and how they work together**.
