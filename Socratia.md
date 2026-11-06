@@ -1920,3 +1920,391 @@ Only enough for what has now become clear.
 Tomorrow may disclose more.
 
 Let that be enough for today.
+
+## Chapter XIX — What Tomorrow Receives
+
+The next morning, the two speakers return to the garden.
+
+One carries a small jug of water.
+
+The other carries nothing.
+
+“What shall we do?” asks the first.
+
+“Watch where the water goes.”
+
+“Why?”
+
+The second looks surprised.
+
+“We discovered yesterday that the rain was passing beneath the stones. We wanted to know how.”
+
+“But yesterday has ended.”
+
+“Yes.”
+
+“Then why does yesterday's question still concern us?”
+
+The second sets down the jug.
+
+“Because we did not answer it.”
+
+“Must we remember every word we said yesterday to know what we came to do?”
+
+“No.”
+
+“Must the rain fall again exactly as it did yesterday?”
+
+“No. We can pour water and watch.”
+
+“Then what has remained?”
+
+The second considers the stones.
+
+“The difficulty. The question. Perhaps what we learned about the boundary.”
+
+Are those the same thing?
+
+No.
+
+The gap beneath one stone might still be there whether they remembered it or not.
+
+The question could remain in their minds even if the gap had been repaired overnight.
+
+And what they learned yesterday could be true even if they no longer recalled the moment in which they learned it.
+
+Let us look more closely.
+
+The first pours a little water beside the nearest stone.
+
+It runs down the side and disappears into the earth.
+
+“Is that what happened yesterday?”
+
+“Not exactly. Yesterday we saw where the soil had been washed away. Today we can see where the water goes.”
+
+“Then today has given us something yesterday did not.”
+
+“Yes.”
+
+“And yesterday?”
+
+“It gave us the reason to look here.”
+
+Could today's observation have been made without yesterday's question?
+
+It could. Anyone might have poured water on the soil.
+
+Would it necessarily have meant the same thing to them?
+
+No. They might only have been watering the bed.
+
+What makes this pouring an investigation?
+
+The question to which it is being asked to answer.
+
+The first moves to the next stone.
+
+“Then something from yesterday is here with us.”
+
+“Not yesterday itself.”
+
+“No. Yesterday is gone.”
+
+“Nor the words exactly as we spoke them.”
+
+“No.”
+
+“Yet we have not begun again from nothing.”
+
+The second smiles.
+
+“That is why I brought the jug.”
+
+They pour water along the boundary.
+
+At one place the water sinks almost immediately. At another it runs along the surface and carries away a thread of soil.
+
+They watch until the jug is empty.
+
+“What have we learned?”
+
+“That the water does not travel the same way all along the edge.”
+
+“Did we know that yesterday?”
+
+“No.”
+
+“Does that make yesterday's discovery false?”
+
+“No. We knew that soil had been carried away beneath some of the stones. We did not yet know how the water moved.”
+
+“Then today's discovery has added something.”
+
+“Yes.”
+
+“Has it changed yesterday's event?”
+
+“No.”
+
+“Has it changed what yesterday's observation means to us?”
+
+The second looks again at the gap.
+
+“Yes. What seemed to be a problem with one stone may belong to the slope of the whole bed.”
+
+Can the meaning of an earlier discovery grow while the earlier event remains what it was?
+
+It appears so.
+
+But let us not confuse the things involved.
+
+The rain that fell yesterday is not falling again now.
+
+The speaker who noticed the gap yesterday is not repeating that first noticing merely by looking again today.
+
+And the soil carried away yesterday has not returned to its former place.
+
+Yet the earlier discovery has not vanished from their work.
+
+How is that possible?
+
+The second answers slowly.
+
+“Because what we found out can still guide us.”
+
+“Is that the same as remembering how you felt when you first found it?”
+
+“No. I hardly remember how I felt.”
+
+“Is it the same as remembering every sentence?”
+
+“No. We might tell the story differently.”
+
+“Then what must be preserved if we are to continue the inquiry?”
+
+“That the soil was washed away, that the boundary may not hold, and that we still need to understand what the water is doing.”
+
+The first thinks for a moment.
+
+“Suppose I tell someone tomorrow that we discovered the stones were crooked.”
+
+“Would that preserve what we discovered?”
+
+“No. Some are straight. Our concern is how the water moves beneath them.”
+
+“Suppose I say that we discovered the garden could never hold its soil.”
+
+“That would be too much. We have not established that.”
+
+“So what we carry forward cannot be just any story about yesterday.”
+
+“No. It has to answer to what we actually found.”
+
+They sit on the dry path.
+
+“Now imagine that someone else comes here tomorrow,” says the first. “Someone who has never seen the garden.”
+
+“We could show them the gaps and how the water runs.”
+
+“Would that person have been with us yesterday?”
+
+“No.”
+
+“Could they nevertheless understand what we have established?”
+
+“Yes.”
+
+“Would their understanding be our understanding occurring again?”
+
+The second hesitates.
+
+“They would be understanding it themselves.”
+
+“Could they discover something we missed?”
+
+“Certainly.”
+
+“Would what we learned cease to be available because they learned more?”
+
+“No. Unless their discovery showed that we had misunderstood what we saw.”
+
+Then the same determination may be taken up in different acts of understanding.
+
+And those acts need not be identical.
+
+The first points to the water darkening the soil.
+
+“Can two people see this at different times?”
+
+“Yes.”
+
+“Can they both understand that water travels toward the lower ground?”
+
+“Yes.”
+
+“Must their experiences be the same experience?”
+
+“No.”
+
+“Then perhaps what becomes intelligible to them cannot be identified simply with either person's moment of recognizing it.”
+
+The second remains quiet.
+
+“Is that what you meant when you said yesterday had not returned?”
+
+“Yes. Yesterday's moment has passed. But what became clear in it can still matter.”
+
+“Then what is a moment?”
+
+“An instant?”
+
+“Was yesterday's discovery an instant?”
+
+The second thinks.
+
+“We looked at the stones, talked, remembered the rain, and changed our question. It took time.”
+
+“Could you say precisely when you first understood that one stone might not be the whole difficulty?”
+
+“Not precisely.”
+
+“Yet did that understanding become available?”
+
+“Yes. It brought us here today.”
+
+“Then perhaps the moment we are speaking of is not merely a very small piece of clock time.”
+
+“What is it?”
+
+“The occasion in which something becomes clear enough to matter in what follows.”
+
+“Even if the becoming clear takes a while?”
+
+“Yes.”
+
+“Even if no one can point to the exact second?”
+
+“Yes.”
+
+The second looks toward the shelter.
+
+“Then the moment is gone, but its work is not necessarily gone.”
+
+What does that mean?
+
+Not that the moment continues forever.
+
+Not that remembering preserves every part of it.
+
+And not that whatever we once believed must remain true.
+
+It means that an achievement can belong to one occasion and remain available to another.
+
+They rise and examine the edge of the bed.
+
+The first asks, “Have we resolved the problem now?”
+
+“Not yet. We have seen how water travels in two places.”
+
+“Have we understood anything?”
+
+“Yes.”
+
+“Has something become intelligible that was not clear yesterday?”
+
+“Yes. The slope affects the way the water carries the soil.”
+
+“Then why do you say the problem is unresolved?”
+
+“Because knowing what happens is not the same as having made the boundary hold.”
+
+“Could we understand the problem without having repaired it?”
+
+“We do.”
+
+“Could we repair it without knowing every reason why the repair works?”
+
+“We might.”
+
+“Then understanding and resolution are not always one achievement.”
+
+“No.”
+
+“And what about the water's path? Did it wait until we understood it before it could be there to be discovered?”
+
+“No.”
+
+“What, then, happened here this morning?”
+
+“We came to understand something about it.”
+
+“And when did that understanding become enough?”
+
+“Enough for which question?”
+
+The first laughs.
+
+“That is the question I ought to have asked.”
+
+They consider what they now know.
+
+For today's inquiry into the route of the water, their observation has given an answer in the places they tested. For the larger undertaking of keeping the soil in the garden, more work remains.
+
+Is the morning incomplete because tomorrow may require more?
+
+No.
+
+Would it be complete to say that the whole boundary is now repaired?
+
+No.
+
+Then one achievement has an end of its own, even as it becomes the beginning of another.
+
+The second gathers the empty jug.
+
+“Tomorrow we can change the slope beside the stones and try again.”
+
+“Will we need to repeat everything we said today?”
+
+“No.”
+
+“Will we need to remember what today's water showed us?”
+
+“We will need what we learned, whether we carry it in memory, in a mark, or in a way we have changed the bed.”
+
+“And if someone else does the work?”
+
+“They can take up what we found.”
+
+The first looks over the garden.
+
+“Yesterday taught us what to ask. Today taught us something about the answer. Tomorrow we may learn what to change.”
+
+“Three days,” says the second.
+
+“Three different occasions.”
+
+“And one continuing undertaking.”
+
+“Does that make the three days one moment?”
+
+“No. Each has happened in its own way.”
+
+“Then what connects them?”
+
+The second puts a hand upon the nearest stone.
+
+“What became clear did not have to become unclear when the day ended.”
+
+The stone is still in its place. The soil is still damp where the water passed. The speakers begin to walk home.
+
+The first asks, “And if we teach another person what we have learned, what must remain the same for that person to understand the very thing we understood?”
+
+The second looks back at the garden.
+
+“That,” she says, “we have not yet answered.”
+
+But they know where to begin.
+
+Let that be enough for today.
