@@ -1132,301 +1132,373 @@ They have found a difference that will matter again.
 
 ## Chapter XII — A True Sentence, an Unanswered Question
 
-A visitor comes to the island's storehouse and asks, "Where is the key?"
+The visitor arrives at the storehouse and finds the keeper sorting jars along a shelf.
 
-The keeper answers, "The door is locked."
+“Where is the key to the food room?” she asks.
 
-Is what the keeper said true?
+“The door is locked,” says the keeper.
 
-It may be.
+“I know. That's why I need the key.”
 
-Has the visitor's question been answered?
+“It was built last month,” the keeper adds, looking towards the doorway.
 
-No.
+The visitor laughs. “Are you going to tell me everything about the storehouse except where the key is?”
 
-Suppose the keeper adds, "The storehouse was built last month."
+The keeper turns, surprised.
 
-Another true statement?
+“I thought you were asking about the door.”
 
-Perhaps.
+“I asked where the key was.”
 
-An answer?
+“Oh. Mara has it. She took it home.”
 
-No.
+“Thank you. That answers my question.”
 
-And if the keeper says, "The key is with Mara"?
+The child, who has accompanied the visitor, looks at the keeper.
 
-Now the visitor knows where to look.
+“Was it wrong to say the door was locked?”
 
-What has made the third sentence sufficient when the others were not?
+“No,” says the keeper. “It is locked.”
 
-It answers what was being asked.
+“Or that the storehouse was built last month?”
 
-Then truth and adequacy to a particular question cannot simply be substituted for one another.
+“That is true too.”
 
-Yes.
+“Then why did she keep asking?”
 
-But let us be careful. If the question had been "Is the door locked?" could the first sentence have been enough?
+“Because neither was an answer to where the key was,” says the visitor.
 
-Yes.
+The child considers the shelves.
 
-And if it had been "When was the storehouse built?" might the second have been enough?
+“If she'd asked whether the door was locked, the first answer would have done.”
 
-Yes.
+“Yes.”
 
-So the same sentence can complete one inquiry while leaving another untouched.
+“And if she'd asked when it was built, the second would have done.”
 
-Yes.
+“Exactly.”
 
-What changed?
+The keeper closes a jar.
 
-The question to which the sentence was being asked to answer.
+“So the same words can be enough in one conversation and not in another.”
 
-Did the sentence's words change?
+“Not merely because people are pleased or displeased,” says the visitor. “The question gives them something to answer to.”
 
-No.
+They leave for Mara's home, but after a few steps the visitor stops.
 
-Then the intelligible achievement of a sentence in a living exchange is not given by its words considered in isolation.
+“Wait. When you heard that Mara had the key, what did you understand?”
 
-It depends also on what the sentence is doing there.
+“That we should go and find her,” says the child.
 
-Now suppose the visitor misunderstands "with Mara" as meaning that Mara is standing beside the key, when the keeper meant that Mara has taken responsibility for keeping it.
+“Where?”
 
-Can the visitor's misunderstanding become apparent?
+“Here, near the storehouse, I suppose.”
 
-Yes. The visitor may go looking for Mara near the storehouse and not find her.
+“Why near the storehouse?”
 
-What might the keeper do?
+“Because the keeper said the key was *with* Mara.”
 
-Explain further: "Mara has it. She took it home."
+“But the keeper also said Mara took it home.”
 
-Has anything changed in the physical location of the key while the explanation is being repaired?
+The child looks embarrassed. “I wasn't listening to the last part.”
 
-Not necessarily.
+“Then what happened?”
 
-What has changed?
+“I heard the answer, but I did not understand it properly.”
 
-The visitor can now understand the relevant arrangement more adequately.
+“Did the key move when you noticed that?”
 
-Is the correction merely the addition of more words?
+“No.”
 
-No. The additional words succeed because they remove a particular misunderstanding.
+“Did the keeper need to change what happened to the key?”
 
-And when the visitor understands, what can follow?
+“No. I needed to change what I understood.”
 
-The visitor can go to Mara and ask for the key.
+The first speaker, meeting them on the path, asks why they have turned around.
 
-So an intelligible completion can become effective in action without being itself a physical alteration of the object concerned.
+“We were going to search near the storehouse,” says the child. “But the key is at Mara's house. I understood the first part and missed the rest.”
 
-Yes.
+“Then is a successful explanation always the same thing as its listener's successful understanding?” asks the speaker.
 
-We have now encountered a fact standing, an arrangement bearing, and an understanding becoming effective.
+“Not if the listener hears it badly.”
 
-But the achievement in each case is still only properly described by noticing what question was alive and what made it enough.
+“Could a clear sentence also say something false?”
 
-Then perhaps we are ready for another question.
+“Of course.”
 
-When we recognize these different ways of completion and persistence, are we discovering differences that belong to the world we encounter, or merely inventing differences among our descriptions?
+“And could someone understand that false sentence perfectly?”
 
-Let us test it rather than answer too soon.
+“Yes. They would know what was being claimed, even if it wasn't true.”
+
+The visitor watches the child walk ahead.
+
+“We have been noticing three things that easily get tangled: what a sentence says, whether what it says is true, and what the listener actually understands.”
+
+“Would a longer explanation always help?” asks the first speaker.
+
+“No. It might merely give us more to misunderstand.”
+
+“Then what helps?”
+
+“A clarification that removes the particular mistake.”
+
+At Mara's house the child asks for the key.
+
+Mara retrieves it from a hook beside the door.
+
+“Was the keeper right?” asks the visitor.
+
+“Yes,” says the child, taking the key. “And now I know what *with Mara* meant in that conversation.”
+
+They return to the storehouse and open the food room.
+
+“Finding the key has helped us do something else,” says the visitor. “But that does not make answering its whereabouts, understanding the answer, and opening the door one and the same achievement.”
+
+The child hangs the key on its hook.
+
+“Can we now get the food?”
+
+“That,” says the keeper, “is a new and much better question.”
+
+The visitor smiles.
+
+“If words can be true without answering, and understood without being true, then perhaps we should not look only to sentences when we ask what it means for something to become intelligibly complete.”
+
+“Where else?” asks the child.
+
+“Let's look at someone who cannot yet say what they have recognized.”
 
 ## Chapter XIII — Before the Sentence Is Ready
 
-Imagine a child looking at two baskets of fruit.
+Two baskets sit outside the shelter.
 
-One contains three oranges. The other contains two.
+The younger child has helped gather fruit but has not yet learned the number words the adults use.
 
-The child has not yet learned the number words used by the adults.
+One basket holds three oranges. The other holds two.
 
-Can the child nevertheless notice that one basket has an orange the other lacks?
+The younger child looks from one basket to the other, then moves an orange from the first basket into the second.
 
-Yes, by comparing or pairing the fruit.
+The visitor, who has been watching, asks, “What did that tell us?”
 
-Suppose the child takes an orange from the first basket and places it in the second.
+The older child starts to answer.
 
-The arrangement changes.
+“It means—”
 
-Does the change wait for a sentence?
+“Perhaps we should be careful,” says the first speaker. “We can see what was moved. We can see what the younger child attended to. Do we know exactly what the child was thinking?”
 
-No.
+The older child looks at the baskets.
 
-If the child now pauses, looking at the baskets, must we know the child's unspoken words before acknowledging that something can have become recognizable?
+“No. Maybe they wanted the second one to have more.”
 
-No.
+“And maybe they were comparing the two,” says the visitor. “We cannot tell everything from the action.”
 
-What have we seen?
+The younger child reaches towards one basket, then stops as someone takes an orange from it.
 
-An encounter with a difference, an action, and a changed arrangement.
+The visitor offers the orange back. The younger child smiles and returns to the basket.
 
-Now the adults begin teaching number words.
+“Whatever the child has understood, must a sentence have been spoken first for there to be a difference between the arrangements?”
 
-Does the child suddenly acquire oranges, baskets, differences, and the possibility of arranging them?
+“No,” says the older child. “We can count them even if the younger one cannot.”
 
-No.
+“Could the younger child notice something about having more or fewer without possessing the adult number words?”
 
-What does the new language make possible?
+“It seems possible. But we mustn't pretend we know how far that recognition goes.”
 
-The child can state the numbers, ask how many there are, recount the change, and communicate about absent baskets.
+The first speaker nods.
 
-Can the words also help the child make distinctions that were previously difficult?
+“Then this is neither a reason to deny the younger child any understanding nor a reason to credit the child with every distinction the adults can state.”
 
-Yes.
+The older child sits beside the baskets.
 
-Then language can enlarge and refine intelligible life without being the creator of every distinction it enables us to express.
+“What happens when we teach the words?”
 
-Yes.
+“Try,” says the visitor.
 
-Suppose a new language is forming among the islanders. One speaker has not yet found the word that will distinguish a completed task from a task still being attempted.
+They begin naming the numbers, pairing oranges with fingers and sounds. The younger child repeats a sound, points to an orange, and laughs when everyone else laughs.
 
-Can the distinction be present to that speaker as something they are struggling to say?
+“Has saying a sound settled whether the child knows its use?” asks the visitor.
 
-Yes.
+“Not yet. We'd need to see what the child can do with it.”
 
-Can another person recognize from a gesture that their first interpretation was wrong?
+“Would learning numbers merely put labels on an understanding already fully present?”
 
-Yes.
+“No,” says the older child. “The words might help the child compare more things and tell someone who can't see the baskets.”
 
-And can the shared expression become more definite through these attempts?
+The first speaker picks up one basket.
 
-Yes.
+“Suppose I take this away. Can the younger child now learn to tell us how many oranges were inside it?”
 
-Then an inadequacy in expression can be encountered from within intelligibility, rather than from a place outside it.
+“That would be a new ability,” says the older child.
 
-Yes.
+“And could a question that was difficult before become possible?”
 
-Is this why language can be repaired?
+“Yes.”
 
-It is at least part of what makes repair possible.
+“Then language can help understanding grow. We need not say it creates every distinction to recognize how much it changes what can be made clear.”
 
-And if we wish to understand that possibility, where must we look?
+The younger child holds an orange towards the visitor and says a word nobody quite recognizes.
 
-Not merely at the words that eventually succeed, but at the intelligible undertaking in which their success becomes recognizable.
+“Was that the right word?” asks the older child.
 
-Good. We have no need to announce the whole of our inquiry yet.
+“We don't yet know what was intended,” says the visitor. “Let's look at what the child is trying to do.”
 
-We have earned another question, and it is enough for now:
+The younger child offers the orange again. The visitor takes it and says thank you. The younger child reaches for another.
 
-**What kinds of difference must we be able to recognize in order to know what has become intelligibly complete?**
+“Perhaps the child was asking you to take it,” says the first speaker.
+
+“Perhaps. And now we have an occasion to test that understanding.”
+
+The older child looks at the two baskets.
+
+“I thought learning language was just getting better at saying things.”
+
+“What do you think now?” asks the visitor.
+
+“That it also helps you notice what you need to say, even when you don't have the words for it.”
+
+The first speaker smiles.
+
+“An expression may be missing while a difficulty is already recognizable. And finding the expression may itself teach us a difference we had not properly seen before.”
+
+The younger child puts an orange in each of the visitor's hands.
+
+The visitor looks down, trying to decide whether it is an invitation, a game, or an instruction.
+
+“I think,” she says, “we have another little question to ask before we can be sure we've understood.”
+
+The older child laughs.
+
+“Then the younger one isn't the only person still learning.”
 
 ## Chapter XIV — One Answer, Three Questions
 
-A carpenter on the island has made a wooden door for the storehouse.
+Rain has blown against the storehouse door all morning.
 
-Someone asks, "Is the door closed?"
+The carpenter is examining a dark line of dampness beneath it when the child arrives.
 
-The carpenter looks and says yes.
+“Is the door closed?” asks the child.
 
-Has the question been answered?
+“Yes,” says the carpenter.
 
-Yes.
+“Then why is there water inside?”
 
-Someone else asks, "Will the door keep the rain out?"
+“Because being closed doesn't necessarily make it watertight.”
 
-Can the carpenter give the same answer?
+The visitor joins them.
 
-Not merely by saying that it is closed.
+“Can the door be closed and still fail to keep the rain out?”
 
-Why not?
+“Look here,” says the carpenter, pointing to a narrow gap beside the frame. “The water comes through.”
 
-Because a closed door may still admit rain through a gap.
+“And can we open it from inside?” asks the child.
 
-And if a third person asks whether the door can be opened from inside?
+The carpenter reaches for the latch. It is too high for the youngest people who use the storehouse.
 
-That is yet another question.
+“Some of us can,” he says. “Not everyone.”
 
-What must we now recognize?
+The visitor looks at the damp floor.
 
-The door can be closed, weatherproof, and openable from within, but these are not the same accomplishment.
+“So someone could truthfully tell us the door is shut while leaving two other undertakings unfinished.”
 
-Suppose the carpenter presses a strip of cloth into the gap. Water no longer enters during the next shower.
+“Keeping out the rain,” says the child.
 
-Has the door been repaired?
+“And allowing everyone who needs it to open the door from inside,” says the carpenter.
 
-In the respect that allowed rain through, yes.
+They press a strip of cloth into the gap. During the next shower the floor remains dry.
 
-Suppose the latch still cannot be reached from inside. Is that repair undone?
+“Now the first trouble is repaired,” says the child.
 
-No. The weatherproofing remains. Another requirement has not been satisfied.
+“Which trouble?” asks the visitor.
 
-Then a new demand does not necessarily cancel a completed achievement.
+“The leak.”
 
-No.
+“And the latch?”
 
-Now imagine the carpenter replacing the latch. It can be operated from inside, but only while the wood is dry. When the frame swells, it jams again.
+“Still too high.”
 
-Was the replacement useless?
+“Then the fact that another requirement remains does not undo the weatherproofing.”
 
-No. It answered some of the difficulty, but not the full demand of reliable operation under the conditions in which the door will be used.
+The carpenter nods.
 
-What must be done?
+He moves the latch lower. The child can now reach it easily, but on a damp morning the swollen frame holds fast.
 
-The carpenter must examine more than the latch alone: the frame, the clearance, and the way the door moves when the weather changes.
+“I thought I'd fixed it,” the carpenter says.
 
-Could a single adjustment be enough?
+“You made it reachable,” says the child. “But it still won't open.”
 
-Perhaps. But if the relevant demand concerns the door's reliable operation across the whole movement and across changing conditions, success at one point may not suffice.
+“Then I answered one demand and missed another.”
 
-Then what decides whether one point or a larger field must be attended to?
+The visitor examines the edge of the door.
 
-What the undertaking requires.
+“If the undertaking is reliable opening in wet and dry weather, would one adjustment necessarily be enough?”
 
-Let us consider a different case.
+“Not if the frame swells,” says the carpenter. “I need to examine the clearance and the movement of the whole door.”
 
-The storehouse was once entered through the door on its western side. After a storm, that entrance is blocked by a fallen tree. The people discover that a second entrance on the eastern side can serve their needs.
+They work through the afternoon. The carpenter tests the latch and the frame, then waits until the wood is damp again before calling the work finished.
 
-Must the fallen tree be removed before they can say that access to the storehouse has been restored?
+The child is impatient.
 
-No.
+“Why test it twice?”
 
-What has happened?
+“Because the trouble doesn't happen only when the wood is dry.”
 
-The old blockage remains, but it no longer governs whether they can enter.
+“So what makes this repair enough depends upon the conditions in which the door has to work.”
 
-Has a missing piece been installed in the old entrance?
+“Yes.”
 
-No.
+Later a neighbour arrives carrying a basket of grain.
 
-Has the entire western route been repaired?
+“Are you still working on the western door?” she asks.
 
-No.
+“We've made it work,” says the child.
 
-Yet a difficulty has ceased to govern the undertaking.
+“Good. After the storm we were using the eastern entrance. The fallen tree made the western way impossible.”
 
-Yes.
+“Did you move the tree?” asks the visitor.
 
-Then there are different ways an undertaking can become sufficient.
+“No. It still lies across the old approach. We went around the other side.”
 
-A single place may settle the matter. A whole arrangement may have to hold together. Or a condition that once governed the undertaking may cease to govern it at all.
+The carpenter sets down his tools.
 
-Are these merely different quantities of work?
+“So while this door was being repaired, the people were already able to enter by another way.”
 
-No. They are differences in what counts as enough.
+“For the purpose of delivering grain,” says the neighbour, “the western blockage had ceased to decide whether we could get in.”
 
-And if we were to call every one of them simply a repair?
+“Yet it might still matter if we needed to bring in a very wide cart,” the carpenter says.
 
-We might lose what distinguishes them.
+“Then the old obstruction could become relevant to a new undertaking,” says the visitor. “We should not confuse its no longer governing one question with its ceasing to exist.”
 
-So before choosing a name, we must ask: what was the live demand, where did sufficiency arise, and what stopped being required?
+The child looks at the two entrances.
 
-Yes.
+“We had one job that could be put right at the gap, another that needed the whole door to move reliably, and another where we didn't have to fix the old way at all.”
 
-Now another question.
+The carpenter smiles.
 
-Did the door have to be mentioned in a sentence for any of these differences to occur?
+“And those differences are not just how much time each job took.”
 
-No.
+“No,” says the visitor. “They concern what makes the undertaking sufficient.”
 
-Can a sentence nevertheless complete a separate undertaking by making those differences clear to someone who was absent?
+The child taps the newly lowered latch.
 
-Yes.
+“Did someone have to speak before the latch became reachable?”
 
-Then we have to attend to the world, to the sentence, and to the person's understanding without treating them as one event.
+“No.”
 
-Exactly.
+“But if we wanted to tell someone who wasn't here what had changed?”
 
-The distinctions are beginning to multiply, but they do not do so arbitrarily. Each appears because one account that was sufficient for something becomes inadequate to something else.
+“We would need to explain which achievement we meant,” says the carpenter. “A door may be shut, weatherproof, and easy to open. Those are different things to establish.”
 
-That is how we shall continue.
+The visitor watches the child open the door.
+
+“Perhaps this is why we must not describe every kind of success in the same way. The world, the words describing it, and a person's understanding of those words can be connected without becoming one event.”
+
+The child steps outside.
+
+“Right now I just need the door to open.”
+
+“And it does,” says the carpenter.
+
+For that undertaking, the answer is enough.
 
 ## Chapter XV — What We Cannot Yet Say
 
