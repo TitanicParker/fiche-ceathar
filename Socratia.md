@@ -2308,3 +2308,383 @@ The second looks back at the garden.
 But they know where to begin.
 
 Let that be enough for today.
+
+## Chapter XX — The Same Thing, Understood Again
+
+The following morning, a third person comes to the garden.
+
+She has not seen the earlier rain. She did not help place the stones. She has not heard the conversations of the previous two days.
+
+One speaker shows her the gaps beneath the boundary.
+
+“We discovered that water was carrying the soil away.”
+
+The visitor looks carefully.
+
+“Who discovered that?”
+
+“We did, two days ago.”
+
+“And must I have been here then to understand what you discovered?”
+
+“No. Look beneath this stone.”
+
+The visitor kneels.
+
+“I can see where the soil has gone.”
+
+“Then do you understand what we understood?”
+
+“Perhaps. But how do you know that what I understand is the same thing?”
+
+What would answer her?
+
+Could they say that they have spoken the same words?
+
+They could.
+
+But suppose she heard the words and imagined that the soil had been removed by someone digging beneath the stones.
+
+Would she have understood the same occurrence?
+
+No.
+
+Could they say that she has seen the same stones?
+
+She has.
+
+But someone might look at the stones and notice their colours, their shapes or their arrangement without understanding anything about the soil being carried away.
+
+Then neither the repetition of words nor the presence of the same objects is sufficient.
+
+What else is needed?
+
+The visitor points toward the lower end of the garden.
+
+“The water runs downhill. It carries the loose soil through the spaces beneath the stones.”
+
+The first speaker smiles.
+
+“That is what we discovered.”
+
+But the second speaker asks another question.
+
+“Is it exactly what we discovered?”
+
+The first hesitates.
+
+“We discovered that soil had been carried away. Only yesterday did we discover how the water moved through the gaps.”
+
+“Then she has understood something we did not understand on the first day.”
+
+“Yes.”
+
+“Does that mean she has not understood our earlier discovery?”
+
+“No. She has understood it, and something further.”
+
+How can that be?
+
+If the new understanding contains more, why is it not simply another understanding of another thing?
+
+The visitor takes a small stone from the path.
+
+“Suppose I tell you that this stone is heavy.”
+
+“It is.”
+
+“And tomorrow I discover that it is heavier than another stone of the same size.”
+
+“Then you have learned more about it.”
+
+“Have I ceased to know that it is heavy?”
+
+“No.”
+
+“Has my earlier discovery become a different discovery merely because I now understand a further relation?”
+
+“No.”
+
+“Then perhaps understanding can become richer without every determination within it losing its identity.”
+
+Let us examine that.
+
+The stone remains the stone.
+
+Its weight has not changed merely because another weight has been compared with it.
+
+And the earlier recognition can remain available within the later comparison.
+
+But does this happen with every new discovery?
+
+Suppose the visitor now says, “This stone is hollow.”
+
+The first speaker picks it up.
+
+“How do you know?”
+
+“I thought it sounded hollow when I tapped it.”
+
+They examine the stone and discover that it is solid throughout.
+
+Has the later examination merely added another fact to the earlier understanding?
+
+“No,” says the visitor. “It has shown that I was wrong.”
+
+“Then what happened to your earlier claim?”
+
+“I must withdraw it.”
+
+“Must you withdraw your recognition that the stone made a particular sound?”
+
+“No. I heard the sound. I was mistaken about what caused it.”
+
+Then correction need not destroy everything in the earlier encounter.
+
+It can preserve what was genuinely established while removing an unwarranted determination.
+
+Yes.
+
+And does that not require us to distinguish what was encountered from what was inferred?
+
+It does.
+
+The visitor replaces the stone.
+
+“I see something now. If I merely repeat your words, I may not understand what you meant. But if I discover more, I need not cease to understand what you discovered.”
+
+“Then what makes an understanding faithful?”
+
+The visitor considers the question.
+
+“It must preserve what was actually established.”
+
+“And if that was not yet clearly distinguished?”
+
+“Then we must return to it and find out.”
+
+“Return to the words?”
+
+“Sometimes.”
+
+“To the place?”
+
+“Sometimes.”
+
+“To the question?”
+
+“Perhaps especially to the question.”
+
+Why the question?
+
+“Because it tells us what the earlier answer was trying to establish.”
+
+The first speaker looks toward the boundary.
+
+“On the first day, we asked whether the stone had kept the soil in place.”
+
+“And what did we establish?”
+
+“That some soil had passed beneath it.”
+
+“On the second day, what did we ask?”
+
+“How the water travelled.”
+
+“And today?”
+
+“Whether another person can understand what we found without having been present.”
+
+Have they been asking the same question three times?
+
+No.
+
+Have they been investigating three entirely unrelated things?
+
+No.
+
+Then what connects the inquiries?
+
+The garden, the boundary, the earlier discoveries and the demands those discoveries make available.
+
+But is it enough to say that they all concern the garden?
+
+The visitor shakes her head.
+
+“Someone could investigate the flowers, the insects or the colour of the stones. That would still concern the garden.”
+
+“Then what must remain connected?”
+
+“The particular difference we are trying to understand.”
+
+“And what is that difference?”
+
+“That the boundary was meant to hold the soil, but soil has passed beneath it.”
+
+The second speaker says, “Now I think we have found something.”
+
+“What?”
+
+“We have been speaking of the same garden. But that alone did not make our understandings the same. We had to recognize what was established about it.”
+
+And can this recognition survive different descriptions?
+
+Yes.
+
+Could someone describe the water's movement in another language?
+
+Yes.
+
+Could someone draw it instead of describing it?
+
+Yes.
+
+Could someone discover it without knowing we had discovered it?
+
+Yes.
+
+Would these be the same spoken sentence?
+
+No.
+
+The same drawing?
+
+No.
+
+The same personal experience?
+
+No.
+
+And yet?
+
+They could concern the same determinate relationship.
+
+The visitor looks at the stream of water moving beneath the stones.
+
+“Then what we understand is not necessarily made different every time another person understands it.”
+
+That seems right.
+
+But the first speaker is not satisfied.
+
+“Suppose you draw the water passing over the stones instead of beneath them.”
+
+“Then my drawing would be wrong.”
+
+“Why?”
+
+“Because it would not preserve what we observed.”
+
+“And if you draw the water passing beneath them, but show it moving uphill?”
+
+“That would also be wrong.”
+
+“Then the difference between a faithful account and a mistaken one is not decided merely by whether the account resembles our words.”
+
+“No. It must answer to what we are trying to make intelligible.”
+
+What has become recognizable?
+
+The visitor answers:
+
+“That the same intelligible determination can be approached in different ways, and that the ways can be judged by whether they preserve it.”
+
+The first speaker considers this.
+
+“Then sameness is not merely the repetition of an expression.”
+
+“No.”
+
+“Nor is it the repetition of an experience.”
+
+“No.”
+
+“Nor is it any resemblance we choose to notice.”
+
+“No.”
+
+“What, then, is it?”
+
+The visitor looks again at the water.
+
+“Perhaps it is what remains answerable to the same determination, even when our ways of understanding it change.”
+
+Has she established everything that such sameness requires?
+
+Not yet.
+
+But has she distinguished something important?
+
+Yes.
+
+For an account can change its words and preserve what it makes intelligible.
+
+Another account can retain familiar words while changing what it claims.
+
+And an earlier understanding can be made richer without ceasing to contain what was correctly established.
+
+The second speaker walks toward the far end of the garden.
+
+“Then could someone discover the same thing a hundred years from now?”
+
+“If the relevant relationship can still be established.”
+
+“Even if our words have disappeared?”
+
+“Yes.”
+
+“Even if no one remembers us?”
+
+“Yes.”
+
+“Then what is it that survives?”
+
+The visitor looks toward the first speaker.
+
+“Perhaps we should be careful with that word.”
+
+“Survives?”
+
+“Yes. The stones may disappear. The garden may disappear. Our memories certainly will not last forever. Yet someone could discover the same kind of relationship elsewhere.”
+
+“Would that be the same particular occurrence?”
+
+“No. It would be another occurrence.”
+
+“Could it make the same relationship intelligible?”
+
+“Yes.”
+
+“Then we have another difference to investigate.”
+
+“What difference?”
+
+“Between discovering again the very same intelligible relation and discovering another instance of a similar relation.”
+
+The visitor looks toward the water.
+
+“Is that not what we have been asking all morning?”
+
+“Partly. But now we can ask it more exactly.”
+
+Have they completed their investigation?
+
+They have established that faithful understanding cannot be identified simply with repeated words, shared objects, or identical experiences.
+
+They have also recognized that later discoveries can preserve, enrich or correct what was established before.
+
+But another question has become available.
+
+**What makes the intelligible identity of a relationship independent of the particular occasions in which it is encountered?**
+
+The water continues moving beneath the stones.
+
+No one needs to speak for it to do so.
+
+The three stand looking at the same place.
+
+They are not having one and the same experience.
+
+But they have learned how to examine whether they are understanding the same thing.
+
+Let that be enough for today.

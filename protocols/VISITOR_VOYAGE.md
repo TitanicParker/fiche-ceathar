@@ -478,9 +478,9 @@ The author clarified the desired method: *Socratia* is to work as both **microsc
 
 ---
 
-## PROPOSED EDITION 6 — Four distinctions and the continuing moment (6 November 2026)
+## EDITION 6 ADDITION — Four distinctions and the continuing moment (6 November 2026)
 
-**Status: proposed addition for author review, not a revision of the canonical 54.** This entry develops the living function of inquiry now enacted in the proposed *Socratia* Chapter XVIII and identifies the next earned question for a proposed Chapter XIX.
+**Status: incorporated into the living guide; the canonical 54 remains unchanged.** This entry develops the living function of inquiry enacted in *Socratia* Chapters XVIII–XIX and identifies the next inquiry that led to Chapter XX.
 
 ### What is being distinguished
 
@@ -507,7 +507,7 @@ A key identified yesterday can be used today (*Socratia* XI); a circle erased fr
 
 ### The next Socratic movement
 
-A proposed Chapter XIX should not read as a glossary. It should begin from Chapter XVIII's ending: the speakers leave the garden knowing what to investigate tomorrow. On returning, they should discover that yesterday's question is available now without yesterday's conversation recurring. Let an ordinary event produce an unexpected distinction between remembering an experience, taking up its achieved determination, and learning something further. Allow the difference between the prior moment and the present moment to become recognizable before naming it.
+Chapter XIX should not read as a glossary. It should begin from Chapter XVIII's ending: the speakers leave the garden knowing what to investigate tomorrow. On returning, they should discover that yesterday's question is available now without yesterday's conversation recurring. Let an ordinary event produce an unexpected distinction between remembering an experience, taking up its achieved determination, and learning something further. Allow the difference between the prior moment and the present moment to become recognizable before naming it.
 
 **Status and limits:** the four concepts are analytical distinctions and proposed definitions grounded in the manuscript, not a separate exhaustive taxonomy. Their value is to clarify which achievement the 54 are being asked to describe, not to require a repeated disclaimer about the 54's universal thesis. Ask whether a specific inference is earned when it matters.
 
@@ -520,5 +520,16 @@ A proposed Chapter XIX should not read as a glossary. It should begin from Chapt
 **Authoring discipline:** use *How Understanding Grows* or similarly ordinary language in narrative and editorial headings where possible. “Microscope” and “reciprocal microscope” may remain as method descriptions in the guide, but their technical phrasing is not itself a philosophical discovery. The central movement is simple: **what we understand gives us a way to understand more**.
 
 ---
+
+### Chapter XX — Identity through changed understanding
+
+**Chapter XX, “The Same Thing, Understood Again,” continues the investigation.** It returns to the garden with a visitor who did not witness the earlier discovery. The visitor can repeat the speakers' words while misunderstanding them, or use different words while recognizing the same determination. The dialogue compares a later enrichment of understanding with a genuine correction of error, without confusing either with the original occurrence.
+
+**Recognition to examine:** A later act of understanding may preserve what an earlier act established while adding a further determination. Repeating words, seeing the same object or having an experience resembling the earlier one does not by itself establish faithful preservation. The inquiry must say *which determination* is being preserved and how its correct and incorrect renderings are distinguished.
+
+**New frontier:** Distinguish the identity of a particular occurrence, the identity of a determinable relation, and another occurrence that exemplifies a similar relation. Ask what would count as sameness across different expressions and moments before proposing a canonical 54-cell identity for the completed achievement.
+
+This is a continuation of the earned inquiry, not a revision of the fifteen controlling definitions or a new fourth dimension.
+
 
 **Invitation:** Do not merely affirm or reject the project. Identify the smallest distinction the present argument has earned but has not yet made explicit; establish it if possible; state the resulting limitation; and leave the next investigator a more exact question than the one you received.
