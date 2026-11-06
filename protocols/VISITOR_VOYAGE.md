@@ -1,8 +1,8 @@
 # Fiche Ceathar — The Continuing Investigation
 
-**Living guide and argument ledger · Edition 7 · 6 November 2026**
+**Living guide and argument ledger · Edition 8 · 6 November 2026**
 
-**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 7): read the existing Socratic inquiry through Chapter XXII, use its earned distinctions as the starting point for further investigation, and examine the conjunctive architecture through the governing achievement rather than treating cells as three appended labels.** The current *Socratia* sequence is complete through Chapter XXII; further chapters are not assigned merely because inquiry continues. The controlling 54 definitions remain unchanged.
+**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 8): read *Socratia* through Chapter XXVII as a continuous inquiry, follow its movement from ordinary understanding to shared intelligibility, and examine the 54 as a generative conjunction rather than three appended labels.** The manuscript now has a first complete narrative arc; further chapters are not assigned simply because further philosophical questions remain. The controlling 54 definitions remain unchanged.
 
 > **Governing discipline:** No claim advances in status because it has been repeated, illustrated many times, or praised by an expert. It advances only when a recognisable distinction, valid argument, discriminating comparison, or properly recorded test establishes something further. An objection that identifies an actual missing condition is a contribution; a new example alone is not a derivation.
 
@@ -83,13 +83,13 @@ Which earlier conclusion, if any, needs precise correction:
 Next necessary question:
 ```
 
-**Historical note (Edition 5):** this microscope record guided earlier chapter drafting. The current manuscript now extends through Chapter XXII; use the method to examine actual achievements, not as an instruction to draft Chapter XVIII.
+**Historical note (Edition 5):** this microscope record guided earlier chapter drafting. The current manuscript now extends through Chapter XXVII; use the method to examine actual achievements, not as an instruction to draft Chapter XVIII.
 
 ---
 
 ## CURRENT VISITOR ASSIGNMENT — Enter at the achieved frontier
 
-**Active instruction for a new reader (Edition 7).** Read [Socratia.md](../Socratia.md) through **Chapter XXII, “What We Can Begin From.”** Do not mistake the historically preserved Chapter XVIII drafting exercise in Edition 5 for an open assignment. Chapters XVIII–XXII are already incorporated in the manuscript.
+**Active instruction for a new reader (Edition 8).** Read [Socratia.md](../Socratia.md) through **Chapter XXVII, “The World We Can Understand.”** Earlier chapter-drafting instructions are preserved as editorial history, not open assignments. Read the manuscript's full arc before proposing a continuation.
 
 The ordinary entry to the developed vocabulary is [How Understanding Grows — A Working Vocabulary of Clarity](CLARITY_VOCABULARY.md). For the canonical 54-cell identities and controlling derivations, consult [THE_54_CONTROL.md](../THE_54_CONTROL.md). Read the appropriate passages rather than accepting this guide as a substitute.
 
@@ -457,7 +457,7 @@ A visiting GPT submitted three proposed continuations after **selectively**, not
 
 The author clarified the desired method: *Socratia* is to work as both **microscope** (finding finer necessary differences within what is established) and **reciprocal microscope** (deriving further facts from those differences). The dialogue should **accumulate established recognitions**, not continually reopen or merely rephrase them. This revision adds an explicit fact-to-fact reasoning discipline, guards against treating proposed universal claims as already demonstrated, and asks the visiting GPT to show its cumulative chain of philosophical discovery separately from the literary chapter.
 
-**Historical assignment, now fulfilled:** Edition 5 commissioned a provisional Chapter XVIII from a manuscript then ending at XVII. The active reading assignment is the Edition 7 section above; *Socratia* now extends through Chapter XXII.
+**Historical assignment, now fulfilled:** Edition 5 commissioned a provisional Chapter XVIII from a manuscript then ending at XVII. The active reading assignment is the Edition 8 section above; *Socratia* now extends through Chapter XXVII.
 
 ---
 
@@ -561,3 +561,12 @@ Chapters XVIII–XX examined how a question makes another possible, how what was
 
 **Editorial discipline:** preserve philosophical discoveries and their grounds, not accounts of how drafts were solicited or debated. Let the text be usable by a newcomer who has never seen its drafting history.
 
+---
+
+## EDITION 8 ADDITION — Socratia's first complete literary arc (6 November 2026)
+
+**Current status:** *Socratia* runs from Chapter I, “The Door,” to Chapter XXVII, “The World We Can Understand.” The ending returns to an ordinary gate, but the reader can now distinguish the occurrence, the recognition, what makes an undertaking enough, what remains achieved, and how understanding can be shared and inherited. This is a complete **first literary pass**, not a proof of the 54's unique exhaustiveness.
+
+**How the final movement inherits what precedes it:** Chapters XVIII–XX follow one garden difficulty through questions, investigation, and faithful later uptake. XXI distinguishes an earlier condition remaining justified from its continuing to govern. XXII keeps completed work distinct from an open question and prepares the unwitnessed rain of XXIII. XXIV uses a right-triangle relationship to explore identity across different expressions while distinguishing example-based recognition from mathematical proof. XXV tests shared understanding amid disagreement. XXVI explores inherited results, drawings and recoverable justification. XXVII brings these recognitions into a shared world without making agreement, language or uniform experience prerequisites of all intelligibility.
+
+**Editorial instruction:** let the ordinary examples do the philosophical work. Preserve the differences among truth, understanding, sufficiency, persistence, transmission, and inheritance. Avoid mechanical rehearsal of already established distinctions. The canonical grammar remains [THE_54_CONTROL.md](../THE_54_CONTROL.md), and [the vocabulary companion](CLARITY_VOCABULARY.md) remains explanatory rather than a new dimension.
