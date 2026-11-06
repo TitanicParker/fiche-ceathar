@@ -268,7 +268,7 @@ The carpenter laughs. “It wouldn't know any name at all.”
 
 “Then how can we tell that people using different explanations have understood the same thing?” the visitor asks.
 
-“By seeing what their explanations establish,” says the carpenter. “A proof can be different from another proof while reaching the same relationship. An explanation may also be mistaken.”
+“By seeing what their explanations establish,” says the carpenter. “An attempted demonstration can be different from another while reaching for the same relationship. An explanation may also be mistaken.”
 
 “What would make it mistaken?”
 
@@ -2600,215 +2600,97 @@ It belongs to today, and yesterday has helped them understand why.
 
 The garden is nearly planted.
 
-The child has left a small space unfilled.
+One patch near the low boundary remains empty. The child has left the seeds in a folded corner of cloth beside it.
 
-“Why not put seeds there?” asks the visitor.
+“Why not plant there?” asks the visitor.
 
-“I don't know whether the water will gather there when it rains again.”
+“Because the water might gather there again. I want to see what happens in another rain.”
 
-“Then something remains unfinished?”
+“Is the rest of the garden unfinished because of that patch?”
 
-“The planting does, in that place.”
+“No. Those rows are planted.”
 
-“And the work already done?”
+The visitor looks along the beds. She had been about to say that the work was not complete, but the child has made her hesitate.
 
-The child looks across the rows.
+“Then there is something you have done, and something you have decided not yet to do.”
 
-“That is finished.”
+“Yes. And it matters which is which.”
 
-The visitor turns to the first speaker.
+The second speaker takes out the drawing made after they poured water along the stones. The arrows show the places they observed it flowing.
 
-“When we began, I thought that if another question remained, our understanding must not yet have come to rest.”
+“Could this help someone who came tomorrow?” she asks.
 
-“Does the unplanted patch undo the planted rows?”
+The child studies the drawing.
 
-“No.”
+“It shows where the water went when we tried it.”
 
-“Does a planted row answer the question of what the next rain will do?”
+“Does it tell us everything the next rain will do?”
 
-“No.”
+“No. It may rain harder. The ground might change.”
 
-“So what have we learned?”
+“And if someone asked how we knew the water took that route?”
 
-“To let each achievement answer for itself.”
+“I'd have to tell them what we watched. Or show them again.”
 
-The second speaker has taken a scrap of paper from a pocket. On it is a drawing of the garden from the previous day, with arrows showing the movement of water.
+The visitor sits beside the empty patch.
 
-“Will the child understand this drawing?” the visitor asks.
+“So there is a difference between possessing a drawing of a result and knowing how the result was established.”
 
-“Ask.”
+“And between what the drawing says and what tomorrow will bring,” says the first speaker.
 
-The child studies the arrows.
+The child picks up a few seeds.
 
-“Those show where the water went.”
+“Couldn't a new person just trust us?”
 
-“Do they show where it must go next time?”
+“For some things, perhaps,” says the visitor. “But if the person needed to decide whether to build a wall here, might they need to know more?”
 
-“Not by themselves. It might rain harder. We might move the stones.”
+“They'd want to see where the water goes.”
 
-The visitor takes the drawing.
+“And if they discovered that we had read the marks wrongly?”
 
-“Then it holds something from yesterday, but does not command tomorrow.”
+“We should change what we say,” says the child.
 
-“It makes yesterday's finding available,” says the second speaker.
+“Would that make all the plants we have already set in the ground disappear?”
 
-“Is that the same as knowing why yesterday's conclusion was justified?”
+“Of course not.”
 
-The child shakes their head.
+The first speaker looks along the rows.
 
-“I remember the puddle. And we watched the soil move.”
+“Then we need not treat every unfinished question as a failure of the work that has been completed. Nor need we defend an old explanation when new evidence shows it was mistaken.”
 
-“If you had not been here?”
+The visitor rolls the drawing carefully.
 
-“I would have to ask how they knew.”
+“I used to think clarity would mean no more questions. Now I can say what we found, how we found it, and what we still need to discover. That seems a better kind of clarity.”
 
-“So the drawing gives you one thing, and the account of how it was observed gives you something else.”
+The child returns the seeds to their cloth.
 
-“The result, and the way to check it,” says the first speaker.
+“We'll watch this place when it rains,” the child says.
 
-“And both may matter when we use it again.”
+The second speaker stands.
 
-They place the drawing beside the empty patch.
+“And suppose it rains tonight, while everyone sleeps?”
 
-The visitor asks, “Suppose tomorrow a neighbour arrives. She has never seen the water move and knows nothing of our conversation. Can she begin from what we have learned?”
+“Then in the morning we'll see what it has done,” says the child.
 
-“Yes, if we can show her what we learned and what it depended upon.”
-
-“Must she have the very same experience?”
+“Would the water have waited for us to watch?”
 
 “No.”
 
-“Must she believe us merely because we were here?”
+“Could we still learn something from what remained?”
 
-“No.”
+“We could try.”
 
-“What might she do?”
+The visitor looks towards the darkening sky.
 
-“Look at the stones. Read the drawing. Ask how the water was observed. Wait for another rain, if she needs to.”
+“Then tomorrow may give us a question that goes beyond remembering what we already saw.”
 
-“And if she discovers a different cause?”
+The child gathers the tools.
 
-“We must examine what that changes.”
+“Good. We have enough questions for today.”
 
-The visitor looks around the garden.
+They leave the unplanted patch as it is.
 
-“The earlier finding may survive. Its explanation may need repair. And the neighbour may discover something none of us saw.”
-
-“Yes.”
-
-“Then perhaps our work is not a chain in which each link merely follows the last.”
-
-“What else is it?”
-
-“A later step takes its possibilities from an earlier achievement. But it must still answer its own question.”
-
-The child raises a hand.
-
-“Does that mean we cannot plant the last seeds?”
-
-“Not yet,” says the first speaker. “It means we have a question worth asking before we do.”
-
-“Then I know what to do,” says the child.
-
-“What?”
-
-“Watch that place when it rains.”
-
-The visitor laughs.
-
-“We began with a question, found an answer, and the answer has made another question possible.”
-
-“Is the first answer therefore incomplete?”
-
-“No.”
-
-“Is the last question already answered?”
-
-“No.”
-
-“And can the discovery of the right question sometimes be an achievement?”
-
-“Yes. We now know what to look for and why.”
-
-They stand by the unplanted patch.
-
-The visitor speaks slowly.
-
-“I once thought clarity was having more answers. Then I thought it was finding one answer that would settle everything. But neither is what I find here.”
-
-“What do you find?”
-
-“That I can say what we know, what made it enough, what we have only supposed, and what we still need to discover. I can see why yesterday's instruction was right then and why it does not decide every choice today.”
-
-“Has the world become simpler?”
-
-“Not necessarily.”
-
-“Have we learned to distinguish it more exactly?”
-
-“Yes.”
-
-The first speaker looks at the rows of seeds.
-
-“Then what do you now understand by clarity?”
-
-“Not the end of all questions. The ability to recognize what is being asked, what has actually been achieved, what continues to hold, and what must be examined next.”
-
-“And can understanding grow in this way without beginning again from nothing?”
-
-“It has done so here.”
-
-“Must every achievement remain in force forever?”
-
-“No. But a change in what governs need not destroy what was rightly established.”
-
-“Must we name every form of achievement before recognizing any of them?”
-
-“No. We began with doors, words, stones, water, and the difficulty of getting something right.”
-
-“Were the distinctions already waiting in those encounters?”
-
-“They became recognizable because we attended to what each encounter required.”
-
-The second speaker folds the paper carefully.
-
-“Someone may come tomorrow and understand this garden differently.”
-
-“Then she may teach us something.”
-
-“Someone may find that we were mistaken.”
-
-“Then we should correct what was mistaken.”
-
-“And someone may ask a question that none of us has yet imagined.”
-
-“Then today's understanding may help make it possible.”
-
-The child has already gone to put away the tools.
-
-“Are you coming?” the child calls.
-
-The visitor looks once more at the unplanted space.
-
-“What shall we tell someone who asks whether we finished?”
-
-“That we finished what we finished,” says the first speaker. “And we know what remains to be done.”
-
-The visitor considers the answer, then smiles.
-
-“That will do.”
-
-They walk away from the garden.
-
-Nothing requires the moment to last.
-
-Nothing requires the completed work to be repeated before it can matter again.
-
-The garden will meet another morning, another rain, perhaps another question.
-
-What has become clear does not have to end there.
-
-It gives them somewhere to begin.
+The planted rows are finished for now. The empty patch has a reason for remaining empty. And the drawing, folded into a pocket, may yet help someone understand what the next rain reveals.
 
 ## Chapter XXIII — Before Anyone Said It
 
@@ -2818,19 +2700,15 @@ By morning the garden path is scattered with leaves. A shallow channel has forme
 
 The child arrives first.
 
-“I knew it,” the child says.
+“I thought it might happen,” the child says.
 
 The visitor, coming behind, takes a look.
 
 “What did you know?”
 
-“That the water would gather there.”
+“That the water would gather here.”
 
-“You knew it would happen,” says the visitor, “or you knew that we ought to watch?”
-
-The child scowls a little. “I thought it would happen.”
-
-“And now?”
+“You suspected it,” says the visitor. “And now?”
 
 “Now I can see it.”
 
@@ -3052,7 +2930,7 @@ The carpenter takes a piece of chalk and makes three squares along the sides of 
 
 The child counts the little units in the squares.
 
-“The two smaller ones together have the same area as the big one.”
+“In this drawing, the two smaller squares together have the same area as the big one.”
 
 “Only in this drawing?” asks the visitor.
 
@@ -3064,7 +2942,9 @@ They draw another right-angled triangle, with different side lengths, and compar
 
 The child takes longer this time. One of the squares crosses the edge of the board. They fetch another piece and continue.
 
-“I can see the same relationship,” the child says at last.
+“It seems to happen again,” the child says at last.
+
+“The drawings suggest a pattern,” says the carpenter, “but two examples are not a proof that it holds for every right triangle. We would still need to establish why it must hold.”
 
 “Does the second triangle have the same lengths as the first?” asks the visitor.
 
@@ -3170,7 +3050,7 @@ The carpenter tests the table once more.
 
 “And if we had cut the piece wrongly?”
 
-“The relationship would not be to blame,” says the child. “Our work would need correction.”
+“A correct geometrical relation would not make our cutting accurate,” says the child. “Our work would need correction.”
 
 The visitor looks at the two triangles on the scrap board.
 
