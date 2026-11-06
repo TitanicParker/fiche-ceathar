@@ -3116,3 +3116,1208 @@ What has become clear does not have to end there.
 
 It gives them somewhere to begin.
 
+## Chapter XXIII — Before Anyone Said It
+
+The rain comes in the night.
+
+By morning the garden path is scattered with leaves. A shallow channel has formed beside the stones, and the unplanted patch is filled with water.
+
+The child arrives first.
+
+“I knew it,” the child says.
+
+The visitor, coming behind, takes a look.
+
+“What did you know?”
+
+“That the water would gather there.”
+
+“You knew it would happen,” says the visitor, “or you knew that we ought to watch?”
+
+The child scowls a little. “I thought it would happen.”
+
+“And now?”
+
+“Now I can see it.”
+
+The first speaker arrives with a spade. She stands at the edge of the water and sees the channel running from the higher ground to the unplanted patch.
+
+“No one was here when the rain began,” she says.
+
+“Not even the child?” asks the visitor.
+
+“I was asleep,” the child answers. “But the puddle came anyway.”
+
+“Then perhaps we should ask something,” the visitor says. “When did the water find its way down here?”
+
+“During the night.”
+
+“When did we discover the way it took?”
+
+“This morning.”
+
+“Are those the same event?”
+
+“No.”
+
+The visitor kneels to examine the channel. There are places where the water has carried fine soil, leaving the larger stones exposed. A small twig has lodged against one of them.
+
+“How can we tell which way the water went?”
+
+The child points from the higher ground to the lower patch.
+
+“It came from there. It left the little stones behind and brought the loose soil here.”
+
+“Is that all we know?”
+
+The first speaker shakes her head. “We can see where soil was displaced. We have good reason to think the water came along this channel. We did not watch every drop.”
+
+The child looks up. “But you can still know something about it.”
+
+“Yes,” says the speaker. “We can know what the marks are enough to tell us, and leave aside what they do not tell us.”
+
+The visitor lifts the twig.
+
+“Suppose the channel had formed in a part of the garden no one ever visited. Would the water have needed us in order to run down the slope?”
+
+“No.”
+
+“And if a person came a year later and found the marks?”
+
+“They might work out what happened,” says the child.
+
+“Would their discovery make the water run at that earlier time?”
+
+The child laughs. “It would be rather late for that.”
+
+The visitor smiles, but does not let the matter rest.
+
+“Then we must distinguish the event, the traces it leaves, and the understanding someone may later achieve.”
+
+“We have distinguished those before,” says the first speaker.
+
+“We have. But there is something further here. We speak as though a relationship could be understood long after the occurrence from which we learn of it.”
+
+The second speaker, who has been watching the little pool, answers.
+
+“Sometimes it can. But we must not pretend every explanation found afterward was already waiting in the stones.”
+
+“What do you mean?”
+
+“We can say the ground sloped, the rain fell, and water moved downhill. The movement did not wait for our account. But the words we use to describe it, the questions we choose, and the explanation we put together are our work.”
+
+“Does that make the movement depend upon the explanation?”
+
+“No. Nor does the movement tell us everything we might wish to explain.”
+
+The child begins clearing leaves from the lower end of the channel.
+
+“Wait,” says the first speaker. “What are you trying to do?”
+
+“Let the puddle drain.”
+
+“Then you have begun a new undertaking. Has the investigation of the water's earlier movement finished?”
+
+“Enough to know where to make a way out,” says the child.
+
+“Is the way out made?”
+
+“Not yet.”
+
+The visitor points to the child's muddy hands.
+
+“A moment ago you were looking at traces. Now you are trying to change the ground. Did the earlier discovery itself drain the water?”
+
+“No.”
+
+“Did it help you choose where to work?”
+
+“Yes.”
+
+“So what was achieved this morning?”
+
+The child pauses. “We found where the water went. And now we know where it might go if we clear the leaves.”
+
+“Those are two things,” says the visitor.
+
+“And neither is the rain itself,” adds the second speaker.
+
+The child looks from one adult to another. “Are we going to talk about it all day, or can I move the leaves?”
+
+“You can move the leaves,” says the first speaker, and picks up the spade.
+
+They work for a while.
+
+The water begins to trickle into a shallow bed beyond the stones. The puddle falls, slowly enough that they can watch the wet line withdraw.
+
+The visitor stands.
+
+“What we discovered was not produced by the words we found for it,” she says. “Yet without understanding what mattered in the marks, we might have dug in the wrong place.”
+
+“And without the words?” asks the first speaker.
+
+“We might still have noticed and acted. But the words have let us show the child what we noticed, ask whether we were right, and explain it to someone absent.”
+
+The second speaker takes up the twig and sets it beside the channel.
+
+“Then let us keep the distinction. Something may happen without being understood. Something may be understood without being spoken. And something spoken may still be mistaken.”
+
+“Yes.”
+
+“Does the same follow for every thing we might call intelligible?”
+
+The visitor considers the question.
+
+“Not all at once. We have examined an ordinary relationship in the ground. We should not claim to have explained all mathematics or all human understanding because water flows downhill.”
+
+“Then what have we earned?”
+
+“That we can distinguish the occurrence of a relationship from the occasion on which someone recognizes it. Our recognition may be later, but it can still answer to what happened.”
+
+The child, satisfied that the puddle is draining, plants the first seed in the formerly empty patch.
+
+“Now there is something else,” the child says.
+
+“What?”
+
+“We know what to do here.”
+
+The first speaker looks at the dark soil.
+
+“And when someone asks how we found out?”
+
+“We can tell them about the rain,” says the child. “Even though we were asleep when it came.”
+
+The visitor looks toward the open path.
+
+“We have been speaking of what can be understood again. Now we have reached something that does not need to have been understood the first time in order to become understandable afterward.”
+
+“And that,” says the second speaker, “raises a more difficult question.”
+
+“What question?”
+
+“How shall we tell when different explanations preserve the very relationship they claim to describe?”
+
+The child presses soil gently over the seed.
+
+“One question at a time,” the child says.
+
+This time no one objects.
+
+## Chapter XXIV — The Corner That Stayed Right
+
+The carpenter is repairing a small table beside the shelter.
+
+One leg has become loose, and the table rocks when a cup is placed upon it.
+
+The child brings the carpenter a piece of wood cut into a triangle.
+
+“This will keep it from wobbling,” the child says.
+
+“Where shall it go?” asks the carpenter.
+
+“Between the leg and the underside of the table.”
+
+The carpenter holds the piece against the corner. It does not fit. One angle is too wide.
+
+The visitor, who has come from the garden, watches the child turn the wood over.
+
+“Does turning it change its angles?”
+
+“No,” the child says. “I was hoping it would fit the other way.”
+
+The carpenter places a square against the table leg.
+
+“Look. This is the corner we must fit.”
+
+The child compares the piece of wood with the square.
+
+“So this piece is wrong.”
+
+“For this corner,” says the carpenter.
+
+The first speaker arrives carrying two lengths of string.
+
+“Before you cut another piece, may we try something?”
+
+She lays the strings along the two edges of the carpenter's square and marks their lengths. The carpenter draws a right-angled triangle on a scrap of board.
+
+“Now suppose we know the lengths of the two sides that meet at the corner,” she says. “Could we find how long the side across from that corner must be?”
+
+The child measures the drawing.
+
+“By measuring it.”
+
+“Yes. But what if the triangle is not drawn yet, or is much too large to measure?”
+
+“Then I wouldn't know.”
+
+The visitor asks, “Could there be a relationship between the lengths, whether or not we have drawn that particular triangle?”
+
+The carpenter takes a piece of chalk and makes three squares along the sides of the drawing.
+
+The child counts the little units in the squares.
+
+“The two smaller ones together have the same area as the big one.”
+
+“Only in this drawing?” asks the visitor.
+
+“I don't know.”
+
+“Good,” says the carpenter. “Don't answer before looking.”
+
+They draw another right-angled triangle, with different side lengths, and compare the squares again.
+
+The child takes longer this time. One of the squares crosses the edge of the board. They fetch another piece and continue.
+
+“I can see the same relationship,” the child says at last.
+
+“Does the second triangle have the same lengths as the first?” asks the visitor.
+
+“No.”
+
+“Does it have the same appearance?”
+
+“Not really.”
+
+“What is the same?”
+
+“The way the square on the long side is related to the other two.”
+
+The carpenter nods.
+
+“And if we built a triangle with sides that did not meet at a right angle?”
+
+The child studies the square again.
+
+“Then I couldn't just use what we found without checking.”
+
+“Why not?”
+
+“Because the right corner mattered.”
+
+The visitor turns to the first speaker.
+
+“We have spoken before of this mathematical relationship. But now we have encountered the difference between remembering its words and knowing what lets us use it.”
+
+The first speaker takes the chalk.
+
+“Suppose I explain the relationship to you without drawing any squares. And suppose the carpenter shows you a different proof with pieces of wood. Must our explanations be identical?”
+
+“No,” says the child.
+
+“Could one explanation be mistaken?”
+
+“Yes. It might measure badly, or use a triangle that isn't right-angled.”
+
+“Then how would we discover the mistake?”
+
+“By checking what it was trying to establish.”
+
+The visitor asks the child another question.
+
+“Imagine someone who speaks a language you do not know. They draw the same kinds of triangles and show you the areas. You understand what the drawing demonstrates. Have you learned their language?”
+
+“No.”
+
+“Have you understood something through their drawing?”
+
+“Yes.”
+
+“Would the relationship begin to be true only when you found words for it in your language?”
+
+The child is busy comparing the two drawings.
+
+“No. The squares would still fit.”
+
+The carpenter interjects.
+
+“Careful. We do not want to say that every rough wooden square gives a perfect demonstration. The pieces may be cut badly.”
+
+“But a badly cut piece can be wrong about the shape,” the child says, “not make the relationship wrong.”
+
+“That is the distinction,” says the carpenter. “A drawing helps us see. The relationship tells us what a correct drawing or proof must answer to.”
+
+The visitor looks toward the table.
+
+“So we have something more exact than an ancient sentence handed from one person to another.”
+
+“What?” asks the first speaker.
+
+“A relationship that different people can try to establish, express, test, and use. Their acts of understanding differ. Their diagrams differ. But they need not discover different relationships.”
+
+“Does that mean every comparison of two examples reveals an invariant?”
+
+“No. We had to identify what remained: the relation among the areas, under the right-angle condition. Merely saying the triangles look alike would not have been enough.”
+
+The child interrupts.
+
+“Are we going to fix the table?”
+
+The carpenter laughs. “That is still our undertaking.”
+
+He measures the corner again, marks a new piece of wood, and cuts it. This time the triangular brace fits closely. He fastens it to the leg, presses a hand against the tabletop, and then sets the cup down.
+
+The table stands without rocking.
+
+“Did the drawing repair the table?” asks the visitor.
+
+“No,” says the child. “We had to cut and put the piece in.”
+
+“Then was the drawing useless?”
+
+“No. We knew what length would fit before we cut it.”
+
+The first speaker wipes chalk from her fingers.
+
+“The mathematical achievement and the practical repair are not the same completion. One can help bring about the other.”
+
+The carpenter tests the table once more.
+
+“And if we had cut the piece wrongly?”
+
+“The relationship would not be to blame,” says the child. “Our work would need correction.”
+
+The visitor looks at the two triangles on the scrap board.
+
+“Today we have learned something about how an achievement crosses between people. It is not enough that one repeats a statement, nor that two drawings have the same subject. We must be able to recognize what relationship is claimed and what would make an attempted demonstration faithful or mistaken.”
+
+The second speaker joins them.
+
+“Does that mean the world has given us one expression that all people must use?”
+
+“No.”
+
+“One history they must repeat?”
+
+“No.”
+
+“One method they must always prefer?”
+
+“No.”
+
+“Then what have they in common?”
+
+The child puts a finger on the square drawn against the longest side.
+
+“Something they can all be right or wrong about.”
+
+No one answers immediately.
+
+The table is steady. The chalk lines remain on the board. The child takes the cup away without spilling it.
+
+The visitor says quietly, “If people can be answerable to the same relationship without sharing its first expression, perhaps they can also share a question before they share an answer.”
+
+“Then let us find a case,” says the first speaker, “in which they do not agree.”
+
+## Chapter XXV — The Crossing We Disagreed About
+
+The wooden footbridge near the garden has been damaged by rain.
+
+A plank has lifted at one end. Its fastening still holds, but the board bends when the carpenter presses on it.
+
+Two neighbours have stopped beside the bridge.
+
+“We can cross,” says the first. “It held me yesterday.”
+
+“No one should cross until it is fixed,” says the second.
+
+The visitor, approaching with the child, hears the disagreement.
+
+“What are you arguing about?” she asks.
+
+“Whether the bridge is safe,” says the first neighbour.
+
+“Whether we ought to let children use it,” says the second.
+
+The visitor looks from one to the other.
+
+“Those may be different questions.”
+
+“They are the same bridge,” says the first neighbour.
+
+“Yes,” says the visitor. “But are you asking exactly the same thing of it?”
+
+The first neighbour tries again.
+
+“It carried my weight yesterday. I believe it can carry someone across today.”
+
+The second points to the lifted plank.
+
+“I am saying we should not send the children onto it unless we know it will hold them.”
+
+“So you disagree,” says the visitor. “But perhaps not yet in the same respect.”
+
+The carpenter, who has followed them from the shelter, squats beside the plank.
+
+“Yesterday's crossing tells us something,” he says. “It tells us the bridge carried one person under yesterday's conditions. It does not tell us everything we need to know about this fastening after the rain.”
+
+The first neighbour frowns.
+
+“So my experience counts for nothing?”
+
+“No,” says the carpenter. “It counts for what it established.”
+
+The second neighbour is still impatient.
+
+“And while you discuss it, someone may fall.”
+
+“Then keep everyone off the bridge for now,” the carpenter says. “We can examine it without crossing.”
+
+The child helps lay a branch across the entrance as a warning.
+
+The first neighbour watches the work.
+
+“I thought you were saying the bridge had already failed.”
+
+“I wasn't,” says the second. “I was saying we don't know enough to let the children use it.”
+
+“And I thought yesterday's success was enough.”
+
+“It was enough to show you crossed yesterday,” the visitor says. “Now we need to ask what would be enough to establish the bridge's condition today.”
+
+The first neighbour comes closer.
+
+“What do you need to see?”
+
+The carpenter shows them the loose fastening and the cracked timber beneath it.
+
+“Look here. We can find out whether the plank is still supported, and whether the part holding the fastening has split.”
+
+They examine it together. The first neighbour notices a second crack that was hidden by a strip of mud.
+
+“I did not see that yesterday.”
+
+“Perhaps it was hidden,” says the carpenter. “Perhaps it has widened since. We don't yet know which.”
+
+The second neighbour points beneath the plank.
+
+“Would that be enough to tell us not to cross?”
+
+“It is enough to stop us treating the bridge as ready for use,” says the carpenter. “Whether the whole plank must be replaced is another matter.”
+
+The visitor asks, “Have the neighbours reached agreement?”
+
+“About not crossing for now,” says the child.
+
+“Has their agreement repaired the bridge?”
+
+“No.”
+
+“Have they discovered everything about the damage?”
+
+“No.”
+
+“But have they found something they can investigate together?”
+
+The first neighbour answers before the child can.
+
+“Yes. We can look at the same fastening and ask whether it will hold.”
+
+The second neighbour adds, “And we can disagree about what the answer is without pretending the fastening means something entirely different to each of us.”
+
+The visitor nods.
+
+“Then shared understanding is not the same as agreeing.”
+
+“Nor is agreement the same as being right,” says the carpenter.
+
+They carry tools from the shelter. The carpenter loosens the plank, exposing the timber beneath.
+
+The first neighbour holds the board steady while the second removes a bent nail.
+
+A new support must be cut and fitted. They measure it twice. The first measurement is wrong because the ruler's end has broken away.
+
+“Now that,” says the first neighbour, “was a mistake.”
+
+“What was?” asks the child.
+
+“Our measurement. We treated the broken end of the ruler as though it marked the beginning.”
+
+“And yesterday's crossing?” asks the visitor.
+
+“Not a mistake. I really crossed. I mistook what that success entitled me to say about today.”
+
+The carpenter sets aside the ruler.
+
+“That's worth remembering.”
+
+After the new support is fitted, the carpenter tests it carefully. The first neighbour asks to cross; the carpenter makes them wait while he checks the other side.
+
+When the examination is complete, the barrier is moved aside.
+
+The second neighbour crosses first, slowly, and comes back.
+
+“Well?” says the first.
+
+“It holds under the test we made. I would let the children cross now.”
+
+The visitor smiles.
+
+“Has the second neighbour changed her mind?”
+
+“Yes.”
+
+“Was her earlier refusal wrong?”
+
+“No,” says the first neighbour. “Not when the fastening was cracked and we hadn't checked it.”
+
+The child steps onto the bridge, then stops halfway.
+
+“Why are you smiling?”
+
+“Because you understand what changed,” says the visitor.
+
+“I understand that we fixed it. And that they were arguing about different things at first.”
+
+“Can you say what brought them together?”
+
+The child thinks.
+
+“They both wanted the bridge to work. But they had to look at it and find what was wrong.”
+
+“Would wanting the same thing have been enough?”
+
+“No.”
+
+“Would using the same words have been enough?”
+
+“No. They said safe and meant different things by it.”
+
+“So what did they come to share?”
+
+The child taps the plank with a foot.
+
+“What would count as finding out.”
+
+The visitor turns toward the neighbours.
+
+“A shared world is not a world in which everybody sees the same things, believes the same things, or has the same past. These two began from different experiences and different questions. They were able to make their disagreement more exact because the bridge could answer to an inquiry neither could settle by assertion alone.”
+
+The first neighbour looks over the side.
+
+“The bridge did not vote for either of us.”
+
+The second laughs. “And I hope it never will.”
+
+They walk across together.
+
+At the far end the child looks back.
+
+“Someone built this bridge before I was born,” the child says. “I didn't have to learn how to build a whole bridge before I could cross it.”
+
+The carpenter looks at the new support.
+
+“No. But when it failed, we needed to find out what could still be trusted, and what needed doing again.”
+
+The visitor remains beside the bridge.
+
+“Then there is a further question.”
+
+“About the bridge?” asks the child.
+
+“About all the things we use without having discovered them ourselves. A path someone cleared. A rule someone taught. A measurement someone established. A way of building that outlives its builder.”
+
+“Can't we just use them?” asks the child.
+
+“Often we can.”
+
+“And when we can't?”
+
+“We need to know what was established, what still holds, and how to examine it.”
+
+The child glances toward the garden.
+
+“Then someone else has already begun our next question.”
+
+The visitor looks at the bridge, the repaired plank, and the people crossing it.
+
+“Yes,” she says. “Many people have.”
+
+
+## Chapter XXVI — What Nobody Has to Discover Again
+
+The next day, the child returns to the bridge with a folded piece of paper.
+
+“Look what I found,” the child says.
+
+It is a drawing, somewhat faded, of the bridge as it was first built. There are numbers beside the planks and lines showing where the supports belong.
+
+“Where did you find it?” asks the carpenter.
+
+“In the box of old tools. Someone put it beneath the lid.”
+
+The carpenter unfolds the drawing across a dry board.
+
+“I remember this,” he says. “The person who built the bridge made it.”
+
+“Are all the numbers right?” asks the child.
+
+“They tell us what was planned. We still have to see whether the bridge was built that way and whether the parts have changed.”
+
+“Then why keep it?”
+
+“It may help us find out.”
+
+The visitor comes closer.
+
+“Suppose the builder had left no drawing. Would we know nothing about how the bridge stands?”
+
+“We could examine it,” says the carpenter. “We could measure its supports and work out what they do.”
+
+“Would we be making the original bridge again?”
+
+“No. We would be discovering how this one was made.”
+
+“And if we followed the drawing without examining the bridge?”
+
+“We might trust a support that has rotted away.”
+
+The child points to a line at the end of the page.
+
+“What does that say?”
+
+The carpenter reads it aloud. It explains why the outer support was set beyond the bank rather than directly above the water.
+
+“I didn't know that,” says the child.
+
+“Neither did I,” says the carpenter. “I had noticed where the support stood, but not why the builder chose that place.”
+
+The visitor considers the drawing.
+
+“Has the person who made it returned to explain?”
+
+“No.”
+
+“Yet we have understood something of what that person understood?”
+
+“Yes.”
+
+“Is the paper itself the understanding?”
+
+The child shakes their head.
+
+“It's only a drawing.”
+
+“Then why is it so useful?”
+
+“Because we can see what the marks mean. And ask whether they are right.”
+
+The carpenter shows the child how the measurements belong together. One gives a length. Another shows the distance between supports. The line at the riverbank gives the reason for a placement that had at first seemed strange.
+
+For a while they say nothing. The child traces the marks with one finger, then compares them with the bridge.
+
+“Here,” the child says. “The drawing shows another support underneath, but I can't see it.”
+
+“Come around the bank,” says the carpenter.
+
+They crouch beside the water. A broad beam stands partly hidden by grass.
+
+“It is there,” says the child.
+
+“Does the drawing tell us whether it is still sound?” asks the visitor.
+
+“No. We have to look.”
+
+The carpenter tests the beam. Its surface is weathered, but the wood beneath is firm.
+
+The child stands up.
+
+“So the drawing lets us start with something someone else already learned. But it doesn't do all our work.”
+
+“That seems right,” says the carpenter.
+
+The second speaker has joined them.
+
+“Would you say that we have inherited the bridge?”
+
+“Of course,” says the child.
+
+“And the drawing?”
+
+“Yes.”
+
+“And the builder's understanding?”
+
+The child hesitates.
+
+“Some of it, maybe. We don't know everything the builder knew.”
+
+“What makes you say *some of it*?”
+
+“We know why that support was placed there. But we don't know why every other thing was done.”
+
+The visitor smiles.
+
+“Then inheritance is not simply having an old object in our hands.”
+
+“No,” says the child. “We have to find out what it tells us.”
+
+The carpenter folds the drawing again.
+
+“Sometimes we can use a thing without knowing how it was discovered. I crossed this bridge for years without seeing the drawing.”
+
+“And today?”
+
+“Today I can explain one choice in its design. If that support ever needs replacing, the explanation may matter.”
+
+The visitor asks, “Which matters more: the bridge, the drawing, or the explanation?”
+
+The carpenter looks at the water.
+
+“I would not answer without knowing what we are trying to do. If we need to cross, the bridge must hold. If we need to repair it, the drawing may guide us. If we need to decide whether the drawing is trustworthy, we must examine what was actually built and how it works.”
+
+“Then one thing cannot do every other thing's work.”
+
+“No.”
+
+They carry the paper back to the shelter. An older neighbour is mending a net beside the entrance.
+
+“Do you remember the person who made the bridge?” asks the child.
+
+“Yes.”
+
+“Did you help?”
+
+“I brought some of the stones. I remember the builder sending us back for larger ones.”
+
+“Why larger?”
+
+“The bank was softer than expected. The first stones sank.”
+
+The carpenter unfolds the drawing.
+
+“Here is the outer support. This note explains why it stands beyond the bank.”
+
+The neighbour studies the page and nods.
+
+“That was after the stones sank. The first drawing would have looked different.”
+
+The visitor looks up.
+
+“Then the page records a choice made after another attempt failed.”
+
+“Yes,” says the neighbour. “We learned something from the ground.”
+
+“And was the failed attempt of no use?”
+
+“It wasn't a sound foundation. But it taught us what would not hold.”
+
+The child takes this seriously.
+
+“So they did not know everything before they began.”
+
+“Not at all,” says the neighbour.
+
+“But we don't have to try the small stones again just to know what happened?”
+
+“We need not repeat that failure. We can examine why it failed.”
+
+“And if the bank has changed?”
+
+“Then we must examine that too.”
+
+The visitor puts a hand on the drawing.
+
+“Here is a curious thing. The builder's work did not finish the work of all later builders. Yet it made something available to them. The bridge can be used. The drawing can be read. The old decision can be examined. The account of the failed stones may prevent someone from repeating a mistake.”
+
+“Unless they don't listen,” says the child.
+
+“Yes,” says the neighbour, laughing. “That can happen.”
+
+The first speaker, who has been quiet, asks, “Does the understanding become less real because someone ignores it?”
+
+“Not necessarily,” says the visitor. “But it may cease to guide what they do.”
+
+“Then what do we mean when we say that an achievement remains available?”
+
+“We mean more than that someone once thought it. We can encounter its result, recover its relation to the undertaking, or use what it has made possible. Sometimes the result survives when the explanation is lost. Sometimes the explanation survives when the original object is gone.”
+
+The child looks toward the bridge.
+
+“If the bridge fell down tomorrow, would the drawing be useless?”
+
+“It might help build another,” says the carpenter. “Or help us learn why this one fell. But not unless we understood what it showed.”
+
+The older neighbour ties off the net.
+
+“And if the drawing were lost?”
+
+“We could still examine the bridge,” says the child. “And we could ask you.”
+
+“For now,” says the neighbour.
+
+The child looks puzzled.
+
+“Why for now?”
+
+“Because I will not always be here.”
+
+No one speaks for a moment.
+
+The visitor asks the neighbour, “What would you want the child to keep from this conversation?”
+
+“Not just that we used larger stones. I would want the child to remember why.”
+
+“And if the child discovers a better way?”
+
+“Then I hope the child uses it.”
+
+The visitor turns to the child.
+
+“Do you see? What was done before you were born can help you, even though you cannot return to the moment when it was done. And what you do may help someone who is not here yet.”
+
+The child looks at the old drawing, then takes a fresh sheet of paper.
+
+“I'll draw where we repaired the plank.”
+
+“Why?” asks the carpenter.
+
+“Because whoever comes next might need to know.”
+
+The child starts drawing, stops, and adds the crack beside the fastening.
+
+“Should I draw the part that broke too?”
+
+“Yes,” says the carpenter. “Otherwise someone might not understand why we replaced it.”
+
+The visitor watches the child at work.
+
+“A bridge passes from one generation to another. So do words, methods, tools, and discoveries. But their passing is not enough by itself. Someone must still be able to recognize what was achieved and where it applies.”
+
+The child finishes the drawing and places it beside the older one.
+
+“Now there are two.”
+
+“Will the next person have to read both?”
+
+“Perhaps, if they want to understand what changed.”
+
+“And if they only need to cross?”
+
+“They can cross, if the bridge is safe.”
+
+The visitor looks at the two pages.
+
+“We have been trying to understand how a completed achievement can become the beginning of another. Here it has happened across lives that do not overlap in every moment.”
+
+The older neighbour rises to put away the net.
+
+“What is so surprising about that?” the neighbour asks.
+
+The visitor considers.
+
+“Perhaps the surprising thing is how ordinary it is.”
+
+The neighbour smiles.
+
+“Then perhaps you are beginning to understand what a village is.”
+
+## Chapter XXVII — The World We Can Understand
+
+In the morning the visitor walks alone to the garden.
+
+The bridge is quiet. The path is dry. Beyond the stones, the rows have begun to show small green shoots.
+
+At the far end, the child is trying to open the gate.
+
+The gate catches against the ground. The child pushes once, then stops, kneels, and looks beneath it.
+
+The visitor waits.
+
+The child picks a small stone out of the way. The gate opens.
+
+“You didn't push harder,” says the visitor.
+
+“No. It was catching on the stone.”
+
+The visitor smiles.
+
+“A door again.”
+
+“What?”
+
+“When we began, we asked what it meant for a door to close. Now you have opened a gate.”
+
+The child shrugs.
+
+“It was only a stone.”
+
+“Only a stone,” the visitor repeats.
+
+The first speaker comes along the path carrying the old drawing of the garden.
+
+“Are you speaking about stones again?”
+
+“We seem unable to escape them,” says the visitor.
+
+“Perhaps because we keep leaving them in useful places,” says the child.
+
+They sit beside the gate. The second speaker arrives with a bowl of water for the young plants.
+
+The visitor asks, “Have we ever found the answer to our first question?”
+
+“Which first question?” asks the second speaker.
+
+“What has happened when something becomes clear?”
+
+The child points at the gate.
+
+“I found the stone. I moved it. The gate opened.”
+
+“And if you had not found it?”
+
+“I might have pushed until something broke.”
+
+“Did discovering the stone and opening the gate happen as one thing?”
+
+“Not quite. First I understood what was stopping it.”
+
+“And that understanding made the next action possible.”
+
+“Yes.”
+
+The first speaker sets the drawing on the bench.
+
+“Could you have understood what stopped the gate without saying anything?”
+
+“I did.”
+
+“Could the visitor have understood it if you showed the stone?”
+
+“Yes.”
+
+“And if another child came tomorrow, unable to speak our language?”
+
+The child picks up the stone and moves it back toward the gate, then takes it away again.
+
+“I could show them.”
+
+The visitor watches the movement.
+
+“Then we have come a long way and returned to something very near where we began.”
+
+The second speaker pours water slowly beside a row of plants.
+
+“Not quite the same place,” she says.
+
+“Why not?”
+
+“Because now we understand what made some of our earlier questions worth asking. We know the difference between what happened and what was understood about it. We know an answer can be sufficient without being the last answer. And we know what was achieved can become available again.”
+
+The child watches the water soak into the earth.
+
+“We also know not to put too much water there.”
+
+“Because of the rain?” asks the visitor.
+
+“Because we watched where it collected. And we changed the ground.”
+
+The first speaker points to the drawing.
+
+“Could someone understand what we discovered if they had never seen the rain?”
+
+“Yes. If we showed them what happened and what we learned from it.”
+
+“Could they understand it in different words?”
+
+“Yes.”
+
+“Could they find that part of our explanation was wrong?”
+
+“Yes.”
+
+“And if they did?”
+
+“We would have to examine what we got wrong, not pretend we never learned anything.”
+
+The visitor looks out toward the bridge.
+
+“Yesterday two neighbours disagreed about whether the bridge could be used. Did their disagreement mean that they inhabited different worlds?”
+
+The child laughs.
+
+“They were both standing beside the same bridge.”
+
+“But they did not think the same thing.”
+
+“No.”
+
+“What made it possible for them to find out together?”
+
+“They looked at the fastening.”
+
+“And after that?”
+
+“They fixed what needed fixing. Then they checked it.”
+
+The second speaker sets down the bowl.
+
+“Could they have disagreed even after examining it?”
+
+“Of course,” says the visitor. “They might have read the evidence differently or wanted different standards of safety.”
+
+“Then what would remain between them?”
+
+“A question they could try to make more exact. Reasons they could examine. Conditions to which their judgments must answer.”
+
+“Would that guarantee agreement?”
+
+“No.”
+
+“Would it make disagreement meaningless?”
+
+“No. It would make it possible to discover what the disagreement was about.”
+
+The child has gone to gather the tools.
+
+The first speaker watches.
+
+“I wonder whether we have been asking the wrong question about what binds people.”
+
+“What question have we been asking?” says the visitor.
+
+“What must people possess in common before they can understand one another?”
+
+“Is that wrong?”
+
+“Not wrong. But perhaps it sends us first to their words, customs, and beliefs. Suppose two people share none of those completely. Must they be unable to discover anything together?”
+
+The visitor thinks of the islanders who once had no common language.
+
+“They can point, show, try, fail, correct, and begin to recognize what matters to a shared undertaking.”
+
+“Do they have to become the same person?”
+
+“No.”
+
+“Have the same experience?”
+
+“No.”
+
+“Agree about everything?”
+
+“No.”
+
+“Then what must be possible?”
+
+The visitor answers carefully.
+
+“Something must be able to become intelligible between them. A distinction one recognizes must be available, somehow, for another to recognize or examine. A question must have conditions by which an answer could be enough. An achievement must be capable of being taken up without the first moment happening again.”
+
+The second speaker asks, “Is this what binds them more deeply than their language?”
+
+“In one respect, perhaps. Language can help them share understanding. But the possibility of understanding something together cannot be explained solely by their already possessing the same words.”
+
+“Does that make language unimportant?”
+
+“Not at all. Think of what we could not have done without it: ask why, explain a mistake, tell someone absent, preserve a discovery. Our language is one of the great things we have made from the possibility of understanding.”
+
+“And a village?” asks the first speaker.
+
+“The village depends on more than understanding. People must care for one another, work, disagree, make promises, and keep them. But without something that can become intelligible between them, how would they know what they were promising, or recognize that a task had been done?”
+
+The child returns, dragging a small sack of soil.
+
+“Are you going to help me, or are you going to understand the garden until nightfall?”
+
+They help.
+
+The sack is heavier than it looks. One person holds it while another loosens the cord. The child tips it and spills soil beside the new plants.
+
+“That was too much,” says the child.
+
+“Can we put some back?” asks the first speaker.
+
+They do.
+
+For a while there is no further discussion.
+
+When the last of the soil has been spread, the visitor sits on the edge of the path.
+
+“We have been speaking of things that can be understood before anyone gives them a name. We have seen a relationship discovered through geometry, a bridge tested through disagreement, and a builder's decision made available long after the builder was gone.”
+
+The second speaker joins her.
+
+“Do those all concern the same subject?”
+
+“No. A gate, a triangle, a bridge, and a village are different things.”
+
+“Then why have they belonged to one inquiry?”
+
+“Because each has allowed us to ask what became clear, what made it sufficient, and what remained available for someone else.”
+
+The first speaker says, “And have they all been completed in exactly the same way?”
+
+“No. Sometimes one discovery is decisive. Sometimes a whole arrangement must hold. Sometimes a former obstacle ceases to determine the outcome. What remains can be a recognized result, a relationship on which that result depends, or a capacity that has become available.”
+
+“Can we now claim to have counted every way in which anything can become sufficiently understood?”
+
+The visitor shakes her head.
+
+“No. We have learned how to look for such differences. The counting requires another kind of patient examination.”
+
+“Then have we failed to finish our inquiry?”
+
+“Not this undertaking.”
+
+“What have we finished?”
+
+“We have found a way to recognize why completed understanding matters beyond any single moment. An answer can end one question without ending our ability to ask. What is understood can become available to another person. That person may preserve it, question it, correct it, or discover something further.”
+
+The child sits down beside them.
+
+“Does that mean I will know how to open every gate?”
+
+“No,” says the visitor.
+
+“Then what have I got?”
+
+“You know what stopped this one. And you know to look before you push harder.”
+
+The child considers that.
+
+“That seems useful.”
+
+“It is more than useful,” says the first speaker. “It gives you something from which another understanding can begin.”
+
+The visitor looks toward the bridge, where someone she does not recognize is crossing.
+
+“Who made the first path through this place?” she asks.
+
+“No one here remembers,” says the second speaker.
+
+“And who will walk it after us?”
+
+“We do not know.”
+
+“Yet the path can be followed. The bridge can be examined. The garden can be tended. What someone has discovered can become available to someone who has never met them.”
+
+“Is that what you mean by a common world?” asks the first speaker.
+
+“Partly. Not that we all see it from the same place. Not that we always understand it correctly. But that there is something we can meet, examine, learn from, and make more intelligible together.”
+
+“And if a person arrives tomorrow and asks a question we have never thought of?”
+
+The visitor watches the child carry the empty sack toward the shelter.
+
+“Then perhaps something we have understood will help us hear the question.”
+
+The child calls from the gate.
+
+“Are you coming?”
+
+“Yes,” says the visitor.
+
+The child holds the gate open.
+
+Nothing more needs explaining before they can pass through it.
+
+The visitor goes first, then the others.
+
+Behind them the garden remains, changed by their work and open to further change.
+
+Ahead of them there are things they do not yet understand.
+
+They go together.
+
