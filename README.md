@@ -8,6 +8,8 @@ The vocabulary companion distinguishes local completion from continuation and in
 
 **Ordinary dialogue archive:** [Explore the live dialogue conversations](https://titanicparker.github.io/new-repository/#archive) · [Working Markdown corpus](https://github.com/TitanicParker/new-repository/blob/main/FICHE_CEATHAR_54_DIALOGUES_WORKING.md). Two-person exchanges elicit individual forms in everyday sense-making; their structural checks are working assessments, not canonical changes.
 
+**New Socratia working edition:** [The Ordinary Conversations — opening movement](SOCRATIA_DIALOGUE_LED_WORKING.md). A dialogue-led revision of the opening five chapters, grounded in the ordinary-dialogue generator and preserving the original [Socratia](Socratia.md) as the primary manuscript. The generator's [exact original prompt](https://github.com/TitanicParker/new-repository/blob/main/THE_54_DIALOGUE_GENERATOR_PROMPT.md) is publicly reusable.
+
 ## A New Method for Talking about Organising Reality
 
 **The 54** is a constraint grammar of completed intelligibility. It offers a new organising principle for **how we talk about things, how we understand them, and how they work together**.
