@@ -2688,3 +2688,431 @@ They are not having one and the same experience.
 But they have learned how to examine whether they are understanding the same thing.
 
 Let that be enough for today.
+
+
+## Chapter XXI — What No Longer Decides
+
+The following morning, the three return to the garden.
+
+A child has placed a small board across the damp ground.
+
+“Don't step there,” the child says. “The soil is too soft.”
+
+The visitor steps back.
+
+“Was the child right?”
+
+The first speaker kneels and presses a hand against the ground.
+
+“Yesterday, certainly. We could scarcely stand here without leaving deep marks.”
+
+“And now?”
+
+“The surface still yields. We should go around.”
+
+They carry the water along the longer path.
+
+Later, after the sun has warmed the garden, the child returns. The board is still there, but the soil beside it is firm.
+
+“Can we cross now?” the visitor asks.
+
+The child removes the board, presses a heel into the ground and crosses without sinking.
+
+“Yesterday you told us not to step there,” the visitor says.
+
+“I know.”
+
+“Were you mistaken?”
+
+The child looks at the dry earth, then at the visitor.
+
+“No. It was wet yesterday.”
+
+“And are you mistaken to cross it now?”
+
+“No. It isn't wet like that now.”
+
+The visitor turns to the others.
+
+“We have heard two directions from the same child: do not cross, and now you may cross. Must one of them be wrong?”
+
+“Only if they were given for the same ground under the same conditions,” says the second speaker.
+
+“So the earlier direction can remain correct?”
+
+“Yes.”
+
+“Yet it no longer tells us what to do?”
+
+“Not today.”
+
+They watch the child carry the board to the edge of the garden.
+
+“I have been calling such a change a correction,” says the visitor. “But that cannot be quite right.”
+
+“What would you correct?”
+
+“Perhaps the earlier instruction.”
+
+“Would you tell the child that yesterday the ground was not soft?”
+
+“No. We saw it ourselves.”
+
+“Would you tell the child it was wrong to warn us?”
+
+“No.”
+
+“Then what has changed?”
+
+“The ground. And with it, what the warning requires of us.”
+
+The first speaker picks up a stone and lays it beside the path.
+
+“Suppose we kept the board there even after the ground had dried, merely because the warning was once needed. What would we be doing?”
+
+“Treating the earlier condition as though it still governed the crossing.”
+
+“And if we threw the board away, declaring that the warning had always been foolish?”
+
+“We would lose the reason for it.”
+
+“Can we do neither?”
+
+“Yes. We can remember why the crossing was unsafe and recognize why that reason no longer decides this crossing.”
+
+The child returns with a handful of seeds.
+
+“May I plant here?”
+
+The first speaker examines the soil.
+
+“Not too close to the stones. The water passed beneath them yesterday.”
+
+The child stops.
+
+“Will it always pass there?”
+
+“That is what we are still learning.”
+
+The visitor smiles.
+
+“So we have not finished every question about this place.”
+
+“No.”
+
+“But we have finished the question of whether we may cross it now?”
+
+“For the conditions before us, yes.”
+
+“And yesterday's warning has not been erased by today's answer?”
+
+“No.”
+
+The visitor is quiet for a while.
+
+“I think I see something that troubled me when we spoke of the same understanding passing from one moment to another. I imagined that remaining faithful meant continuing to obey every earlier conclusion.”
+
+“Can an earlier conclusion remain faithful to its own occasion without commanding every later occasion?”
+
+“Here it can.”
+
+“And how do you know?”
+
+“Because the warning answered to the softness of the ground. That was what made it appropriate. When the ground changed, the warning's reason ceased to decide what we should do. The reason did not cease to have been real.”
+
+The second speaker sets down the jug.
+
+“Now suppose someone had told us yesterday that the ground was soft when it was actually dry. Would today's crossing be the same sort of change?”
+
+“No. We would have discovered that the earlier warning was mistaken.”
+
+“What if yesterday the ground was soft, but today a bridge had been built above it?”
+
+“The old difficulty would still be there beneath the bridge, but it might no longer prevent us from passing.”
+
+“Must the obstacle disappear for the undertaking to be complete?”
+
+“No.”
+
+“And if we call all three cases a correction?”
+
+“We lose the difference between a false judgment, a changed condition, and a way forward that makes the old obstacle no longer decisive.”
+
+The first speaker nods toward the child, who has started arranging seeds in small groups.
+
+“Can this distinction help us understand more than paths?”
+
+The visitor thinks of the untranslatable word they learned in the garden.
+
+“A word may be suitable in one exchange and unsuitable in another, even when the earlier use was good.”
+
+“And a rule?”
+
+“It may be needed for one undertaking but not another.”
+
+“And a discovery?”
+
+“It can remain established while a new question demands more than it established.”
+
+“Then what must we preserve if we want to understand yesterday faithfully?”
+
+“Not merely the instruction. We must preserve what it was answering to.”
+
+“And what must we examine before carrying it into today?”
+
+“Whether those conditions still matter to what we are doing now.”
+
+The child calls out.
+
+“The small seeds should go nearer the fence. The others need more space.”
+
+“Why?” the visitor asks.
+
+“Because those will grow wider.”
+
+“Has the child answered every question about the garden?”
+
+“No.”
+
+“Has the child discovered something that may govern the planting?”
+
+“Yes.”
+
+“Will it govern every planting, in every garden?”
+
+“Not without looking at what is being planted and where.”
+
+The visitor takes up the jug.
+
+“Yesterday's understanding has not vanished. Nor must we surrender today's observation to yesterday's instruction. Perhaps to remain faithful is to know what an achievement was enough for, and what it is enough for now.”
+
+The first speaker looks at the path where the board had been.
+
+“Then we have found something more exact than either repetition or rejection.”
+
+“What?”
+
+“An earlier condition may stop governing without having been false. And what it once made intelligible can remain available to us.”
+
+They cross the path together.
+
+The crossing does not repair yesterday.
+
+It does not make yesterday happen again.
+
+It belongs to today, and yesterday has helped them understand why.
+ 
+## Chapter XXII — What We Can Begin From
+
+The garden is nearly planted.
+
+The child has left a small space unfilled.
+
+“Why not put seeds there?” asks the visitor.
+
+“I don't know whether the water will gather there when it rains again.”
+
+“Then something remains unfinished?”
+
+“The planting does, in that place.”
+
+“And the work already done?”
+
+The child looks across the rows.
+
+“That is finished.”
+
+The visitor turns to the first speaker.
+
+“When we began, I thought that if another question remained, our understanding must not yet have come to rest.”
+
+“Does the unplanted patch undo the planted rows?”
+
+“No.”
+
+“Does a planted row answer the question of what the next rain will do?”
+
+“No.”
+
+“So what have we learned?”
+
+“To let each achievement answer for itself.”
+
+The second speaker has taken a scrap of paper from a pocket. On it is a drawing of the garden from the previous day, with arrows showing the movement of water.
+
+“Will the child understand this drawing?” the visitor asks.
+
+“Ask.”
+
+The child studies the arrows.
+
+“Those show where the water went.”
+
+“Do they show where it must go next time?”
+
+“Not by themselves. It might rain harder. We might move the stones.”
+
+The visitor takes the drawing.
+
+“Then it holds something from yesterday, but does not command tomorrow.”
+
+“It makes yesterday's finding available,” says the second speaker.
+
+“Is that the same as knowing why yesterday's conclusion was justified?”
+
+The child shakes their head.
+
+“I remember the puddle. And we watched the soil move.”
+
+“If you had not been here?”
+
+“I would have to ask how they knew.”
+
+“So the drawing gives you one thing, and the account of how it was observed gives you something else.”
+
+“The result, and the way to check it,” says the first speaker.
+
+“And both may matter when we use it again.”
+
+They place the drawing beside the empty patch.
+
+The visitor asks, “Suppose tomorrow a neighbour arrives. She has never seen the water move and knows nothing of our conversation. Can she begin from what we have learned?”
+
+“Yes, if we can show her what we learned and what it depended upon.”
+
+“Must she have the very same experience?”
+
+“No.”
+
+“Must she believe us merely because we were here?”
+
+“No.”
+
+“What might she do?”
+
+“Look at the stones. Read the drawing. Ask how the water was observed. Wait for another rain, if she needs to.”
+
+“And if she discovers a different cause?”
+
+“We must examine what that changes.”
+
+The visitor looks around the garden.
+
+“The earlier finding may survive. Its explanation may need repair. And the neighbour may discover something none of us saw.”
+
+“Yes.”
+
+“Then perhaps our work is not a chain in which each link merely follows the last.”
+
+“What else is it?”
+
+“A later step takes its possibilities from an earlier achievement. But it must still answer its own question.”
+
+The child raises a hand.
+
+“Does that mean we cannot plant the last seeds?”
+
+“Not yet,” says the first speaker. “It means we have a question worth asking before we do.”
+
+“Then I know what to do,” says the child.
+
+“What?”
+
+“Watch that place when it rains.”
+
+The visitor laughs.
+
+“We began with a question, found an answer, and the answer has made another question possible.”
+
+“Is the first answer therefore incomplete?”
+
+“No.”
+
+“Is the last question already answered?”
+
+“No.”
+
+“And can the discovery of the right question sometimes be an achievement?”
+
+“Yes. We now know what to look for and why.”
+
+They stand by the unplanted patch.
+
+The visitor speaks slowly.
+
+“I once thought clarity was having more answers. Then I thought it was finding one answer that would settle everything. But neither is what I find here.”
+
+“What do you find?”
+
+“That I can say what we know, what made it enough, what we have only supposed, and what we still need to discover. I can see why yesterday's instruction was right then and why it does not decide every choice today.”
+
+“Has the world become simpler?”
+
+“Not necessarily.”
+
+“Have we learned to distinguish it more exactly?”
+
+“Yes.”
+
+The first speaker looks at the rows of seeds.
+
+“Then what do you now understand by clarity?”
+
+“Not the end of all questions. The ability to recognize what is being asked, what has actually been achieved, what continues to hold, and what must be examined next.”
+
+“And can understanding grow in this way without beginning again from nothing?”
+
+“It has done so here.”
+
+“Must every achievement remain in force forever?”
+
+“No. But a change in what governs need not destroy what was rightly established.”
+
+“Must we name every form of achievement before recognizing any of them?”
+
+“No. We began with doors, words, stones, water, and the difficulty of getting something right.”
+
+“Were the distinctions already waiting in those encounters?”
+
+“They became recognizable because we attended to what each encounter required.”
+
+The second speaker folds the paper carefully.
+
+“Someone may come tomorrow and understand this garden differently.”
+
+“Then she may teach us something.”
+
+“Someone may find that we were mistaken.”
+
+“Then we should correct what was mistaken.”
+
+“And someone may ask a question that none of us has yet imagined.”
+
+“Then today's understanding may help make it possible.”
+
+The child has already gone to put away the tools.
+
+“Are you coming?” the child calls.
+
+The visitor looks once more at the unplanted space.
+
+“What shall we tell someone who asks whether we finished?”
+
+“That we finished what we finished,” says the first speaker. “And we know what remains to be done.”
+
+The visitor considers the answer, then smiles.
+
+“That will do.”
+
+They walk away from the garden.
+
+Nothing requires the moment to last.
+
+Nothing requires the completed work to be repeated before it can matter again.
+
+The garden will meet another morning, another rain, perhaps another question.
+
+What has become clear does not have to end there.
+
+It gives them somewhere to begin.
+
