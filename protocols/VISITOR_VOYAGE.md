@@ -559,5 +559,5 @@ Chapters XVIII–XX examined how a question makes another possible, how what was
 
 **Next philosophical frontier:** explain, through discriminating examples and the controlling derivations, how the same achieved determination remains identifiable under different expressions, occasions, corrections and conditions of later use. Examine specific rival conjunctive forms rather than reasserting a generalized demand for proof.
 
-**Editorial discipline:** keep the philosophical discoveries in the repository. Do not insert the identities or transcripts of outside readers or conversational assistants. Let the text be usable by a newcomer who has never seen the history of its drafting.
+**Editorial discipline:** preserve philosophical discoveries and their grounds, not accounts of how drafts were solicited or debated. Let the text be usable by a newcomer who has never seen its drafting history.
 
