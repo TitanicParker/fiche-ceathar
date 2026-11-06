@@ -521,4 +521,15 @@ A proposed Chapter XIX should not read as a glossary. It should begin from Chapt
 
 ---
 
+### Proposed continuation after Chapter XIX — Identity through changed understanding
+
+**Chapter XX, “The Same Thing, Understood Again,” is a proposed continuation**, not yet an adopted part of *Socratia*. It returns to the garden with a visitor who did not witness the earlier discovery. The visitor can repeat the speakers' words while misunderstanding them, or use different words while recognizing the same determination. The dialogue compares a later enrichment of understanding with a genuine correction of error, without confusing either with the original occurrence.
+
+**Recognition to examine:** A later act of understanding may preserve what an earlier act established while adding a further determination. Repeating words, seeing the same object or having an experience resembling the earlier one does not by itself establish faithful preservation. The inquiry must say *which determination* is being preserved and how its correct and incorrect renderings are distinguished.
+
+**New frontier:** Distinguish the identity of a particular occurrence, the identity of a determinable relation, and another occurrence that exemplifies a similar relation. Ask what would count as sameness across different expressions and moments before proposing a canonical 54-cell identity for the completed achievement.
+
+This is a continuation of the earned inquiry, not a revision of the fifteen controlling definitions or a new fourth dimension.
+
+
 **Invitation:** Do not merely affirm or reject the project. Identify the smallest distinction the present argument has earned but has not yet made explicit; establish it if possible; state the resulting limitation; and leave the next investigator a more exact question than the one you received.
