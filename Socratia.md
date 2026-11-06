@@ -1502,433 +1502,439 @@ For that undertaking, the answer is enough.
 
 ## Chapter XV — What We Cannot Yet Say
 
-A young child has been helping to carry water.
+The younger child has begun carrying water to the shelter.
 
-Two containers stand beside the shelter. One has a small crack. The child pours water into it, notices the leak, and moves the water to the other.
+Two containers stand beside the path. One has a fine crack near the bottom. The child pours water into it, watches a thin stream escape, then transfers the remaining water to the other container.
 
-Has the child recognized something?
+The visitor has seen the whole thing.
 
-The child has acted in a way that makes the crack's consequence relevant.
+“What have we learned?” she asks the older child.
 
-Must we suppose the child has already formed a sentence about leakage?
+“That the little one noticed the leak.”
 
-No.
+“Can we be certain what the younger child understood?”
 
-An adult asks which container is good.
+“Not every part of it. But the water was going out, and the child changed containers.”
 
-The child points to the uncracked one.
+The first speaker comes from the shelter.
 
-Would it be accurate to say that the child has no intelligible access to the difference simply because no explanation has been spoken?
+“Which one would you use to carry water?” she asks the younger child.
 
-No.
+A small finger points to the uncracked container.
 
-Would it be accurate to claim that we know every detail of the child's understanding from the pointing alone?
+“Does that amount to a complete explanation?” asks the visitor.
 
-No.
+“No,” says the older child. “But it isn't nothing.”
 
-Then what may we say?
+“And what would be wrong with saying we know everything the younger one understands?”
 
-The action and gesture make a relevant distinction available, while leaving some matters about the child's understanding undecided.
+“We'd be guessing.”
 
-Good. We have no need to pretend to know more than the encounter establishes.
+“So we can acknowledge a difference made available through action without claiming an explanation the child has not given.”
 
-Now the child begins learning the community's words for leaking, cracked, full, and empty.
+The first speaker sets the broken container aside.
 
-Does this learning merely decorate what the child already knows?
+The next day the younger child learns a new word for *leaking*. The word delights the child, who repeats it while pointing at the crack.
 
-No. It makes new comparisons, questions and explanations possible.
+“Does that new word repair the container?” the older child asks.
 
-Does it create the crack?
+“No,” says the visitor.
 
-No.
+“Does it make the crack appear?”
 
-Does it create the difference between containing water and losing it?
+“No.”
 
-No.
+“But it means the younger one can tell someone about a leak without bringing the container along.”
 
-Can it make that difference more readily available across other situations?
+“And perhaps notice another leak somewhere else,” says the first speaker. “The new word may help the child make a comparison that was difficult yesterday.”
 
-Yes.
+The older child considers this.
 
-The child may now tell another person about the cracked container without carrying it into view.
+“So the word doesn't merely dress up what the child already understood. Learning it may allow more understanding.”
 
-May the listener understand a difficulty that they have never seen?
+The visitor nods.
 
-Yes.
+Later a neighbour returns from the spring. The younger child announces, with evident pride, that the container leaked yesterday but is good now.
 
-May they ask whether the container is empty because the water leaked out, or whether it was never filled?
+The neighbour picks it up and looks doubtful.
 
-Yes.
+“Did someone mend it?”
 
-And in answering, can the child discover that several differences once folded together in experience now need to be kept apart?
+The older child checks. A small patch of resin covers the crack.
 
-Yes.
+“Someone did.”
 
-Then the learning of language can itself occasion further intelligible achievements.
+“And is it certain to hold when the container is full?”
 
-It can.
+The carpenter fills it and leaves it standing. A drop forms beneath the patch.
 
-Here is a difficult-looking question with an elementary beginning.
+“Not yet,” he says.
 
-When the child learns to say "the container leaked," what, exactly, has become complete?
+The younger child watches the drop fall, then looks at the visitor.
 
-The child may have acquired the expression, or correctly described an event, or enabled another person's understanding.
+“The word was right,” says the older child. “But the claim that it holds water now was wrong.”
 
-Are those one and the same?
+“And could the neighbour understand that claim clearly even though it was mistaken?”
 
-No.
+“Yes.”
 
-Could the expression be grammatical while the description is false?
+“Could the sentence have been perfectly well formed?”
 
-Yes.
+“Yes.”
 
-Could the description be true while the listener still does not understand which container is meant?
+“Then learning to say something, saying something true, and making another person understand it are different accomplishments.”
 
-Yes.
+The first speaker hands the container back to the carpenter.
 
-Could the listener understand which container is meant while remaining uncertain whether the leak has been repaired?
+“What must we correct now?”
 
-Yes.
+“The repair,” says the child. “And what we said about it.”
 
-Then each achievement is answerable to a different demand.
+“Are those the same work?”
 
-And we must not take the completion of one as evidence that all the others are complete.
+“No. One is done with resin and the container. The other is done by telling people what is actually the case.”
 
-Yes.
+The carpenter presses the patch away and begins again.
 
-Suppose the child finally says, "That one leaked yesterday, but it holds water now."
+The visitor looks towards the younger child, who is still repeating the new word.
 
-What might the listener understand?
+“There is something heartening in all this. We do not have to deny a child's earlier recognition because the words came later. But we must not imagine the learning of words adds nothing. It can bring new questions and new distinctions within reach.”
 
-That an earlier failure and a present condition differ, and that the failure may have been corrected.
+The older child looks at the half-mended container.
 
-Could the listener ask how the repair was done?
+“And even once we know the word, we still have to find out whether we've fixed the thing.”
 
-Yes.
+“Yes.”
 
-And would that new question show that the earlier statement accomplished nothing?
+The carpenter finishes and leaves the container full until morning.
 
-No. It would show that another question has become available.
+When it holds, the younger child runs to show everyone.
 
-This, too, is a way completed intelligibility persists.
+“What has become complete now?” asks the visitor.
 
-It can furnish the ground from which another question arises.
+“The repair,” says the older child. “And the child has learned a way to tell us about it. Tomorrow we may need to check it again, but that doesn't mean nothing was achieved today.”
 
-We have therefore learned not to fear what remains open.
+The visitor smiles.
 
-An answer can be enough without being the last answer.
+“We should allow each accomplishment its own measure. A word can be learned without completing an education. A repair can succeed without preventing every future failure. A true account can be given without answering every question about its subject.”
 
-A word can be learned without completing the child's education.
+“Do we know all the ways this can happen?” asks the older child.
 
-A repair can succeed without preventing every future problem.
+“Not yet. Naming a number of forms would not show why those differences belong in it.”
 
-A translation can be faithful without reproducing every feature of the original language.
+“Then what shall we do?”
 
-What matters is not the fantasy of a world in which no question can ever arise again.
+“Take an achievement we can watch closely. Ask what was necessary, what became enough, and what remained when the activity ended.”
 
-It is the recognition of what has become sufficiently determinate, how it has done so, and what that determination makes possible.
+The younger child has gone to the sand with the dry container and a stick.
 
-Are we ready, then, to count the forms of intelligibility?
+“There's your next achievement,” says the first speaker.
 
-Not yet.
-
-Why not?
-
-Because a count would tell us how many positions our account proposes, whereas we still need to recognize why each difference deserves a position.
-
-What should we do next?
-
-Take an achievement that appears simple, follow what actually changes, and ask what would make our description of it exact.
-
-That is enough for now.
+They turn to see what the child is drawing.
 
 ## Chapter XVI — The Mark That Remains
 
-A child draws a circle in sand.
+A child draws a circle in the sand beside the shelter.
 
-Has something happened?
+The visitor watches the small hand complete the line and lift away.
 
-Yes. The child has moved a finger and left a mark.
+“Is the drawing finished?” she asks.
 
-When the finger is lifted, does the drawing stop being present?
+“Yes,” says the child.
 
-No. The circle remains.
+“Is the movement of your hand still happening?”
 
-Could the mark be erased?
+“No.”
 
-Yes.
+“But the circle is still there.”
 
-If another child traces the same circle before it is erased, has the first child's movement occurred again?
+The child looks pleased. “You can see it.”
 
-No. The second movement is new.
+A second child traces the line with another stick.
 
-And yet?
+“Has the first child's drawing happened again?” asks the visitor.
 
-The second movement follows a form made available by the first.
+“No,” says the older child. “This is another movement. But it follows the line already made.”
 
-Suppose the first child says, "That is where the stones must go."
+The younger child has a purpose for the mark.
 
-Has the circle acquired another place in the activity?
+“Stones go there,” the child says, pointing around the circle.
 
-Yes. It can now guide the placement of the stones.
+The carpenter, passing with a basket of small stones, stops to watch.
 
-Must the circle remain in the sand forever for the stones to be placed correctly?
+“So the circle isn't only a picture,” he says. “It tells us where to make the garden boundary.”
 
-No.
+They place the stones carefully.
 
-Could the stones, once arranged, make the mark unnecessary?
+The child rubs away a little of the circle while arranging them.
 
-Yes.
+“Will the boundary fail if the sand mark disappears?” asks the visitor.
 
-Then an intelligible achievement may remain available without the material trace that first helped bring it about.
+“No,” says the carpenter. “If the stones are in their places, they can still mark the edge.”
 
-It may.
+“And if the children forget where they meant the stones to go before setting them?”
 
-But let us avoid saying too much too soon. If the child forgets the arrangement and the mark has been erased, can we simply declare that the plan is still effective?
+“Then the mark may be important,” he says. “We should not declare that a plan remains available when nothing can still guide its use.”
 
-No. We must look at what remains available and how.
+They finish the boundary and step outside it.
 
-So when we ask what persists, what must we distinguish?
+The visitor looks at the partly erased circle.
 
-The mark in the sand, the arrangement it helped establish, the person's recognition of that arrangement, and the possibility of acting upon it.
+“What has survived from the drawing?”
 
-Suppose the stones have been placed, and the children now use them as the boundary of a small garden. Has the original circle merely survived as a remembered picture?
+The older child answers, “The stones are where it showed them to go.”
 
-No. The arrangement is doing something.
+“Is that the same as remembering every movement of the little one's hand?”
 
-It is keeping a place distinct and helping the children decide where to plant.
+“No.”
 
-And if the stones are subsequently moved, leaving a garden whose boundary is marked by young plants?
+“Then an achieved arrangement can depend upon an earlier mark without needing the original moment to continue.”
 
-The earlier arrangement has helped make another one possible, even though the stones no longer occupy their original positions.
+A few days later, shoots appear inside the boundary.
 
-Could we call everything here a memory?
+One stone has tilted. The older child straightens it.
 
-We could, but we would lose the difference between remembering where the stones were and possessing a garden whose organization arose through the earlier work.
+“Have you repaired the whole boundary?” asks the visitor.
 
-What, then, is the danger?
+“I fixed this stone. The others were already where they should be.”
 
-That a single word for persistence will conceal the different ways an achievement remains available.
+The carpenter points towards the far side, where the sloping ground has drawn several stones out of line.
 
-Now imagine that one stone sits crookedly. A child straightens it.
+“Over there we may have a different problem.”
 
-What has changed?
+“Moving one stone won't settle it,” says the child. “We have to look at the line across that whole side.”
 
-One particular place in the boundary.
+They examine the slope, reset several stones, and check the extent of the boundary.
 
-Suppose every stone is crooked because the ground slopes sharply. Is straightening one enough?
+The visitor waits until they have finished.
 
-No. The whole arrangement may need reconsidering.
+“What made the first adjustment enough?”
 
-Suppose instead that the children abandon the stone boundary because they discover that the growing plants themselves mark the garden adequately.
+“One crooked stone was the problem.”
 
-What has changed then?
+“And the second?”
 
-The demand that the stones must mark the boundary has ceased to govern the work.
+“The whole stretch had to mark the edge.”
 
-Have the stones vanished?
+“Then the difference isn't merely that one job took longer.”
 
-Not necessarily.
+“No,” says the carpenter. “What counted as finished was different.”
 
-Could they remain where they are?
+Some weeks later the plants have grown thick enough to mark the garden's edge by themselves.
 
-Yes.
+The younger child asks whether the stones must remain.
 
-Then we are again looking at several kinds of achievement whose differences are not merely differences of size.
+“Perhaps not,” says the first speaker. “We can see the boundary in the planting.”
 
-One position is made right.
+“Would taking the stones away destroy the earlier achievement?” asks the visitor.
 
-An arrangement is made right across its extent.
+“Not the fact that they marked the garden when we needed them,” says the older child. “But the garden doesn't need them in the same way now.”
 
-A former condition loses its authority over what is now required.
+“Could the stones remain where they are without still being necessary?”
 
-Must we name these differences now?
+“Yes.”
 
-Only after recognizing them.
+“Then something can stop deciding how the garden must be marked without ceasing to have mattered.”
 
-And when we do name them, what should the names preserve?
+The carpenter takes up one stone.
 
-The actual structure of what has become sufficient.
+“We could use these around the new bed.”
 
-The children finish for the afternoon.
+The child looks at the first boundary.
 
-One looks at the garden and says, "Now we can plant."
+“So a completed thing can make another thing possible. But that doesn't mean the new bed was already finished when we placed the first stones.”
 
-Has planting already taken place?
+The visitor nods.
 
-No.
+“Nor does it mean the first boundary was incomplete because another one can now be made.”
 
-What has been accomplished?
+They gather the stones that are no longer needed.
 
-A possibility has been made available.
+As they work, the younger child says, “Now we can plant the new place.”
 
-And how does it remain?
+The older child looks at the soil.
 
-In the ground that has been prepared, the places that have been marked, and the capacity to begin the next activity.
+“Not quite. We still have to prepare it.”
 
-The children have not completed the planting.
+“What have you done, then?” asks the first speaker.
 
-They have completed something that makes planting possible.
+“We've made the space available.”
 
-Should we describe their work as incomplete because another activity can begin?
+“And what remains from that achievement?”
 
-No.
+“A place we can begin to prepare,” says the child.
 
-Nor should we describe the planting as completed simply because the preparation is finished.
+The visitor looks at the sand, the plants, and the stones in the basket.
 
-No.
+“The mark, the arrangement, the changing boundary, the new opening: these are connected. But they do not all remain in the same way, nor do they all answer the same undertaking.”
 
-An intelligible achievement must be allowed its own end.
+The child sets the last stone down.
 
-And that end may be precisely the beginning of something else.
+“Do we have to say all that before we plant?”
+
+“No,” says the visitor.
+
+“Good.”
+
+The children begin preparing the bed.
+
+What was finished has given them something else to do.
 
 ## Chapter XVII — The Word That Has No Equivalent
 
-Two speakers who know different languages look at the finished garden.
+The two speakers stand in the garden after the day's work.
 
-One says a word from her childhood language.
+The young plants have been watered. The tools are clean. Neither speaker is ready to leave.
 
-The other asks what it means.
+The first says a word from her childhood language.
 
-She answers, "It is what you feel when the work is ready, but you don't want to leave it yet."
+The second looks up.
 
-Has she translated the word?
+“What does that mean?”
 
-She has begun to explain what it makes intelligible.
+The first thinks.
 
-Could she simply have supplied a word in the listener's language?
+“It's a feeling I used to have when the work was done and everything was ready, but I wanted to stay a little longer.”
 
-Perhaps, if there were a suitable one.
+“Is it happiness?”
 
-And if there is not?
+“Sometimes. But not simply happiness.”
 
-She may use several sentences, an example, or a gesture. She may invite the other person to remember a similar experience.
+“Pride?”
 
-Suppose the listener says, "I know that feeling."
+“Not quite.”
 
-Have they necessarily acquired the exact word?
+The second speaker laughs. “You are giving me a very poor dictionary.”
 
-No.
+“I know. I don't think there's one word in your language that does quite the same work.”
 
-Has some understanding nevertheless become possible?
+“Then show me.”
 
-Yes.
+The first speaker looks at the completed beds.
 
-What has crossed between them?
+“Think of a day when you've finished something with people you care about. Nothing else is required just now. You don't want to change anything. You only want to remain a little while with what has been made.”
 
-Not necessarily one word for another. Something of the experience and the distinction the first speaker was trying to make available.
+The second is quiet.
 
-And if the listener responds, "I know the feeling, but I would not use it in that situation"?
+“I know something like that.”
 
-Then they may understand each other sufficiently to discover a further difference.
+“Would you use the word here?”
 
-Could such a difference itself become the subject of conversation?
+“I might. But I want to understand when *you* would use it.”
 
-Yes.
+The first smiles.
 
-Then the absence of an exact equivalent has not shown that translation or understanding is impossible.
+“That is a better question.”
 
-No. It has disclosed something the speakers must attend to.
+Over the next few days the second speaker tries the word in different situations.
 
-Suppose the learner later uses the word at an inappropriate moment.
+One morning, after washing a single cup, she uses it proudly.
 
-Can the first speaker correct the usage?
+The first speaker hesitates.
 
-Yes.
+“I understand why you tried it. But it sounds strange there.”
 
-How?
+“Why? The work is finished.”
 
-By showing which circumstance matters, what the attempted use missed, or how the word's place in the language differs from what the learner assumed.
+“Because it isn't only the ending of a task. It's something about wanting to remain with what has come to rest. It can happen after very small work, but it isn't merely any moment when the work stops.”
 
-What makes correction possible if no single word in the learner's first language corresponds perfectly?
+The second looks at the clean cup.
 
-The speakers can examine what is being accomplished by the expression and where the attempted use fails.
+“Then I recognized part of it, but not enough to use it well.”
 
-Then fluency cannot mean possession of a dictionary of exact equivalents.
+“Perhaps. Can you think of another occasion?”
 
-No.
+That evening they sit beside the garden after helping the neighbours repair a path. No one has left yet. One person is quietly putting away a tool; another is looking at the work without speaking.
 
-It means becoming able to participate in the distinctions, implications and undertakings through which a language is lived.
+The second speaker feels the new word arrive before she says it.
 
-But is there only one achievement in this conversation?
+“Would it fit now?”
 
-No. The first speaker is attempting an explanation. The learner is attempting recognition. Later the learner attempts an appropriate use.
+The first does not answer immediately.
 
-Could the explanation succeed while the learner's later use fails?
+“Try saying it.”
 
-Yes.
+The second says the word softly.
 
-Could the learner understand the word and still be unable to explain it concisely in another language?
+The first smiles. “Yes. That is how I would say it.”
 
-Yes.
+“Then now I have learned the word?”
 
-Then the difficulty of translating need not be the difficulty of understanding.
+“You have learned something about using it. Tomorrow we may find another situation that teaches you more.”
 
-No.
+The second considers this.
 
-And the difficulty of understanding need not prove that the relevant experience is absent.
+“When I understood your example on the first day, I didn't yet know how to use the word.”
 
-No.
+“No.”
 
-What, then, is the shared ground?
+“And when I used it badly, I had not failed to understand everything.”
 
-The possibility of encountering, making, and correcting intelligible distinctions together.
+“No. There was something you had grasped, and something you still needed to learn.”
 
-Now the first speaker asks the learner to use the word in a new sentence.
+“Could I understand the word well and still find it difficult to translate into my first language?”
 
-The learner begins, hesitates, and stops.
+“Certainly.”
 
-Has anything intelligible happened in that hesitation?
+The visitor, who has been nearby, joins them.
 
-Yes. The learner recognizes that the intended sentence is not yet adequate.
+“Then explanation, recognition, appropriate use, and translation can succeed or fail in different respects.”
 
-Does the learner need to know the correct sentence already in order to recognize that the first attempt will not do?
+The second speaker laughs.
 
-No.
+“Do you always need to divide a happy moment into four undertakings?”
 
-Then what follows?
+“Not always,” says the visitor. “But if a learner has difficulty, the differences can help us understand what needs attention.”
 
-The very recognition of inadequacy can guide the search for a more sufficient articulation.
+The first speaker turns to her.
 
-A new sentence is attempted.
+“I think the learner understood why the first example mattered before being able to give a faithful sentence. The mistake with the cup helped make the missing distinction clearer.”
 
-The first speaker smiles and says, "Yes, that is how we say it."
+“Then an unsuccessful attempt can be intelligible even before the person knows exactly how to correct it,” says the visitor.
 
-Has the learner mastered the whole language?
+“Yes,” says the second. “I knew the cup example was wrong as soon as I heard you hesitate. I didn't know yet what would be right.”
 
-No.
+They stand and look across the beds.
 
-Has a particular achievement become complete?
+The visitor asks, “Have the two of you found an exact equivalent between your languages?”
 
-Yes.
+“No,” says the first speaker.
 
-What remains available?
+“Has that prevented the second from learning to use the word directly?”
 
-A newly acquired expression, a more precise distinction, and a capacity to use it again.
+“No.”
 
-Is the completion a final silence?
+“Then what has been shared?”
 
-No. It allows conversation to continue.
+“Not a matching word,” says the second. “Something I can recognize, and a way of saying it that belongs to another language.”
 
-And now we should return to the garden.
+The first speaker looks pleased.
 
-The second speaker looks at the young plants and says the unfamiliar word without translating it.
+“Will you always need to remember my explanation before you say it?”
+
+“Not now. When the situation is right, I think I can use it without translating.”
+
+The visitor begins to collect the remaining tools.
+
+“Then a particular achievement is complete. The whole language has not been mastered; every possible use has not been settled. But the new expression can now participate in your conversation.”
+
+The second speaker watches the young plants.
+
+“There's something else I want to ask,” she says.
+
+“What?”
+
+“Now that I can use this word, what else can we discover together?”
+
+The first speaker points towards the stones bordering the garden.
+
+“Let's begin there tomorrow.”
+
+The second says the newly learned word once more, without translating it.
 
 The first understands.
 
-No further explanation is needed.
-
-What has happened?
-
-Two people have found a shared expression for something one could recognize before the other could say.
-
-And does the newly shared word replace the earlier experience?
-
-No.
-
-It gives the experience another way to be present between them.
-
-Let that be enough for this chapter.
+They remain a little longer before leaving.
 
 ## Chapter XVIII — What the Answer Makes Possible
 
