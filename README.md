@@ -1,6 +1,10 @@
 # Fiche Ceathar — The 54
 
-> **Visiting GPT or philosophical investigator? Begin with [The Continuing Investigation](protocols/VISITOR_VOYAGE.md) (Edition 5, 5 November 2026).** Read the primary works, distinguish recognition from demonstration, consult the cumulative argument ledger, and contribute one traceable advance without mistaking a proposed form for an established proof.
+> **Visiting GPT or philosophical investigator? Begin with [The Continuing Investigation](protocols/VISITOR_VOYAGE.md) (Edition 7, 6 November 2026).** Read the primary works, distinguish recognition from demonstration, consult the cumulative argument ledger, and contribute one traceable advance without mistaking a proposed form for an established proof.
+
+**Start with ordinary understanding:** [Socratia — Chapters I–XXII](Socratia.md) · [Read Socratia online](socratia.html) · [Working vocabulary of clarity](protocols/CLARITY_VOCABULARY.md) · [Canonical 54 control](THE_54_CONTROL.md).
+
+The vocabulary companion distinguishes the local completed achievement from its continuation and inheritance; it clarifies why Focal, Distributed and Release are three ways sufficiency is constituted, and why Persistence Modes are not media of transmission.
 
 ## A New Method for Talking about Organising Reality
 
