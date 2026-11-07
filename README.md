@@ -1,5 +1,7 @@
 # Fiche Ceathar — The 54
 
+**Begin with recognition:** [What Must Already Be Recognised](WHAT_MUST_ALREADY_BE_RECOGNISED.md) · [Read the illustrated entrance](what_must_already_be_recognised.html). The Operative Centre is recognisable through three questions, ordinarily and at every scale.
+
 > **Visiting GPT or philosophical investigator? Begin with [The Continuing Investigation](protocols/VISITOR_VOYAGE.md) (Edition 7, 6 November 2026).** Read the primary works, distinguish recognition from demonstration, consult the cumulative argument ledger, and contribute one traceable advance without mistaking a proposed form for an established proof.
 
 **Start with ordinary understanding:** [Socratia — Chapters I–XXVII](Socratia.md) · [Read Socratia online](socratia.html) · [Working vocabulary of clarity](protocols/CLARITY_VOCABULARY.md) · [Canonical 54 control](THE_54_CONTROL.md).
