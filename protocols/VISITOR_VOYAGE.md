@@ -1,8 +1,8 @@
 # Fiche Ceathar — The Continuing Investigation
 
-**Living guide and argument ledger · Edition 8 · 6 November 2026**
+**Living guide and argument ledger · Edition 9 · 7 November 2026**
 
-**Purpose.** This document is both a **working prompt for a visiting GPT** and a cumulative argument ledger. It tells the investigator where to pick up the inquiry without treating the guide as a substitute for the primary manuscripts. **Current assignment (Edition 8): read *Socratia* through Chapter XXVII as a continuous inquiry, follow its movement from ordinary understanding to shared intelligibility, and examine the 54 as a generative conjunction rather than three appended labels.** The manuscript now has a first complete narrative arc; further chapters are not assigned simply because further philosophical questions remain. The controlling 54 definitions remain unchanged.
+**Purpose.** This document is the working orientation for a visiting GPT and the preserved cumulative argument ledger. **Current assignment (Edition 9): contribute to the sentence-by-sentence resolution of the canonical Project 54 corpus, beginning with the recognition and confirmation of each sentence's Operative Centre.** The theoretical and literary work supplies the intellectual equipment for this task; it must not indefinitely defer the task. The Edition 8 *Socratia* assignment has been fulfilled and is retained below as research history. The controlling 54 definitions remain unchanged.
 
 > **Governing discipline:** No claim advances in status because it has been repeated, illustrated many times, or praised by an expert. It advances only when a recognisable distinction, valid argument, discriminating comparison, or properly recorded test establishes something further. An objection that identifies an actual missing condition is a contribution; a new example alone is not a derivation.
 
@@ -14,7 +14,39 @@
 
 **Discipline:** Distinguish the thesis the authors assert from the part independently demonstrated so far. Neither a demand for predictive advantage nor enthusiasm for the architecture establishes or refutes its necessity, uniqueness, irreducibility or exhaustiveness. Tests of prediction and exclusion can be useful *later*, but are not the criterion of the existence of an invariant.
 
-**Navigation:** [Socratic microscope method](#the-socratic-method-for-this-stage--microscope-and-reciprocal-microscope) · [Current Socratia assignment](#current-visitor-assignment--continue-socratia-not-all-three-manuscripts) · [Read the corpus](#1-what-to-read-and-how) · [Method](#2-how-to-investigate) · [Argument ledger](#3-the-current-argument-ledger) · [First derivation](#4-first-derived-principle-demand-relative-non-cancellation) · [Next experiment](#5-the-next-earned-test) · [Visitor contribution](#6-how-a-visiting-investigator-contributes) · [Blind-test boundary](#7-keep-philosophical-inquiry-distinct-from-blind-tests) · [Revision rule](#8-how-this-living-record-advances)
+**Navigation:** [Active corpus mission](#active-mission--the-canonical-sentence-corpus-and-its-resolution) · [Socratic microscope method](#the-socratic-method-for-this-stage--microscope-and-reciprocal-microscope) · [Current Socratia assignment](#current-visitor-assignment--continue-socratia-not-all-three-manuscripts) · [Read the corpus](#1-what-to-read-and-how) · [Method](#2-how-to-investigate) · [Argument ledger](#3-the-current-argument-ledger) · [First derivation](#4-first-derived-principle-demand-relative-non-cancellation) · [Next experiment](#5-the-next-earned-test) · [Visitor contribution](#6-how-a-visiting-investigator-contributes) · [Blind-test boundary](#7-keep-philosophical-inquiry-distinct-from-blind-tests) · [Revision rule](#8-how-this-living-record-advances)
+
+---
+
+## ACTIVE MISSION — The canonical sentence corpus and its resolution
+
+The [Resolve library](https://titanicparker.github.io/resolve/) is reached from the **orange horizontal line** on [The 54 landing page](../index.html). Its authoritative source text is [Project_54_Combined_Corpus_1_Onward.md](https://github.com/TitanicParker/resolve/blob/main/Project_54_Combined_Corpus_1_Onward.md). Treat that source as the **canonical corpus of material to investigate**, not as an informal gallery of possible examples.
+
+The current source contains **6,954 numbered sentences and derivation steps**: 200 initial sentences, 1,883 sentences in 27 fairy tales, and 4,871 numbered steps in 615 mathematical traversals. The library also exposes the **615 mathematical claims** as separate cards, giving **7,569 individually accessible cards**. Keep these two totals distinct. Corpus numbers, traversal identifiers, claim-versus-step roles, exact text, and source version are part of the research record.
+
+**The assignment is to resolve the corpus individually, not to declare it already resolved.** Read a sentence in its genuine context, identify what it accomplishes, and ask the three governing questions:
+
+1. **What changed?**
+2. **What made that change sufficient?**
+3. **How does the result remain achieved?**
+
+Those answers must converge upon the **Operative Centre**, the minimal governing determination of that sentence's intelligible achievement. This recognition remains ordinary at every scale. It distinguishes the achievement from the grammatical subject, subject matter, proposition inventory, and the described world's continuing events. Use controlled omissions or alterations when needed to identify what would destroy the accomplishment.
+
+**Freeze the full confirmed Centre before deriving a coordinate.** Follow the detailed [Operative Centre confirmation protocol](https://github.com/TitanicParker/everything-fresh/blob/main/OPERATIVE_CENTRE_CONFIRMATION_PROTOCOL.md) and the [shared canonical resolution method](https://github.com/TitanicParker/everything-fresh/blob/main/Canonical_Resolution_Method.md) **when those paths and versions are verified in the live research repository**. The Project 54 continuation charter and the current research register govern the ongoing research lineage. Do not assume that this repository's older blind GPT-A/GPT-B instruments and the later two-gate Centre protocol are identical. Record which instrument was actually used; preserve genuine disputes and revisions.
+
+Once the Centre is confirmed, apply the [fifteen canonical definitions and Dimensional Conjunction](../THE_54_CONTROL.md) to that **same frozen achievement**. Consider the strongest rival conjunction and retain the reasoning that distinguishes them. A cell is not chosen by spotting keywords, fitting a favourite example, or having its name suggest the answer. **Never allow a desired coordinate to rewrite the Centre retrospectively.** Do not force one coordinate when the record has not warranted one.
+
+**Research record for each item:** source repository and version; corpus section; stable sentence, traversal, claim or step identifier; exact wording; relevant passage or mathematical context; Centre alternatives and tests; frozen Centre Confirmation Record; derived conjunction and strongest rival; status and reasons; any revision; links to the authoritative research record and teaching presentation. A blank reverse card is work awaiting research, not an implied successful classification.
+
+The [Everything Fresh research repository](https://github.com/TitanicParker/everything-fresh) is the established research-and-register route for the initial 200-sentence investigation; [How to do it](https://github.com/TitanicParker/how-to-do-it) is its teaching route. **Do not silently treat the wider Resolve corpus as already enrolled in the smaller 200-sentence register.** Check the current register, progress and authority before writing, and extend the workflow deliberately so one sentence receives one traceable research lineage.
+
+The objective is cumulative: as recognition of the Operative Centre becomes clearer, resolution becomes simpler without becoming superficial. The theory helps each sentence be read more faithfully; the sentence record in turn makes the theory more inspectable.
+
+### A visitor's first useful contribution
+
+Open the canonical corpus, inspect the current research register, choose the next genuinely unresolved item under the active workflow, and produce **one complete, source-faithful Centre-first resolution**. If the research repository cannot be accessed, perform a clearly labelled provisional analysis of an exact source item, without claiming to have recorded or synchronised it. Report what was actually achieved and what still needs to be persisted.
+
+**Reading priority:** [What Must Already Be Recognised](../what_must_already_be_recognised.html) → [canonical corpus](https://titanicparker.github.io/resolve/) → current research register and Centre protocol → [fifteen definitions](../THE_54_CONTROL.md) → the relevant detailed manuscript, historical ledger, Socratic chapter or blind-test instrument **only where it advances the live task**.
 
 ---
 
