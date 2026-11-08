@@ -14,7 +14,7 @@ The vocabulary companion distinguishes local completion from continuation and in
 
 **Flippable dialogue deck:** [Read the 54 ordinary conversations as swipeable, scrollable flip cards](the_54_ordinary_dialogues_deck.html). Each card presents its actual Cycle 1 conversation on the front and its three-question structural check on the reverse.
 
-## A New Method for Talking about Organising Reality
+## The 54: A Grammar of Completed Intelligibility
 
 **The 54** is a constraint grammar of completed intelligibility. It offers a new organising principle for **how we talk about things, how we understand them, and how they work together**.
 
@@ -22,9 +22,9 @@ The starting point is ordinary **sensemaking**. We watch something happen. We sa
 
 **Every sentence is a spoken invariant in motion.**
 
-That is the guiding proposition we want to explore. Sentences do jobs: they distinguish, open possibilities, establish relationships, repair misunderstandings, bring parts into a whole, and settle matters. A sentence can itself accomplish one of these changes in understanding, or describe a change that took place independently in the world. Those are different events, even when they share a recognisable form.
+That proposition guides the investigation. Sentences do jobs: they distinguish, open possibilities, establish relationships, repair misunderstandings, bring parts into a whole, and settle matters. A sentence can itself accomplish one of these changes in understanding, or describe a change that took place independently in the world. Those are different events, even when they share a recognisable form.
 
-## What we are trying to show
+## What the grammar makes visible
 
 **The characteristics of the 54 can be recognised in what sentences accomplish, and sentences can make those same characteristics visible in the world.**
 
