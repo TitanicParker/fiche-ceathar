@@ -16,9 +16,75 @@
 .scrollnote{font-size:.82rem;color:var(--muted)}.itemlist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:16px}.item{border:1px solid var(--edge);border-radius:12px;background:#162c37;padding:14px 17px;text-align:left;color:var(--ink);min-height:114px;display:flex;flex-direction:column;gap:7px}.item:hover,.item.active{border-color:var(--gold);background:#233d45}.item .line1{display:flex;justify-content:space-between;font-size:.72rem;letter-spacing:.08em;color:var(--gold)}.item .sentence{font:1.03rem/1.35 Georgia,serif}.item .tiny{font-size:.72rem;color:var(--muted)}
 .atlas{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.cell{border:1px solid var(--edge);border-radius:13px;padding:20px;background:#162b35}.celltop{display:flex;justify-content:space-between;color:var(--gold);font-size:.75rem;letter-spacing:.1em}.cell h3{font:normal 1.38rem/1.2 Georgia,serif;margin:10px 0 6px}.cell .ultra{font:italic 1.04rem Georgia,serif;color:var(--mint)}.cell p{font-size:.84rem;line-height:1.55;color:#c1d0cd}.cell .xyz{font-size:.72rem;color:var(--muted);margin:11px 0}.cell details{border-top:1px solid var(--edge);padding-top:10px;margin-top:13px}.cell summary{cursor:pointer;color:var(--gold);font-size:.81rem}.cell details p{margin-bottom:0}.methodintro{font:normal 1.35rem/1.6 Georgia,serif;max-width:900px;color:#dce5df}.defs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.def{border-top:1px solid var(--edge);padding:18px 14px 15px 0}.def small{color:var(--gold)}.def h3{font:normal 1.23rem Georgia,serif;margin:6px 0}.def p{font-size:.86rem;color:#c1d0cd}.principles{margin-top:18px;background:#172d36;border:1px solid var(--edge);border-radius:18px;padding:26px 32px}.principles h3{font:normal 1.7rem Georgia,serif;color:var(--gold)}.principles p,.principles li{font-size:.91rem;color:#d1dcda}.principles code{color:#f8d8a0}.footer{border-top:1px solid var(--edge);margin-top:70px;padding:28px 0 50px;color:var(--muted);font-size:.78rem;display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}
 [hidden]{display:none!important}
-@media(max-width:960px){.reader{grid-template-columns:1fr}.sidebox{display:grid;grid-template-columns:1fr 1fr;gap:16px}.sidebox h3{grid-column:1/-1}.sidebox>p{grid-column:1/-1}.atlas{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:650px){.shell{padding:0 15px}.hero{grid-template-columns:1fr;padding:40px 0}.hero h1{font-size:clamp(3.8rem,15vw,5.6rem)}.hero aside{display:flex;gap:15px;border-left:0;border-top:1px solid var(--edge);padding:22px 0}.hero aside p{margin:0}.deck,.flipper{min-height:530px}.face{padding:27px 24px}.face .centre{font-size:1.18rem}.sidebox{display:block}.itemlist,.atlas{grid-template-columns:1fr}.defs{grid-template-columns:1fr 1fr}.sectionhead{margin-top:49px}.cardactions .hint{display:none}}
-@media(max-width:420px){.defs{grid-template-columns:1fr}.deck,.flipper{min-height:575px}.globalnav{gap:13px}.face h3{font-size:1.55rem}}
+
+/* Mobile-first reading improvements: allow long text to occupy natural page height. */
+.face,.face h3,.face p,.item,.cell{overflow-wrap:break-word}
+.toolbutton,.act,.item,.pill{touch-action:manipulation}
+#moreIndex{display:block;margin:20px auto 0;min-width:170px}
+.flipinline{display:none;background:#234650;color:#f3f0e7;border:1px solid #426b6e;border-radius:11px;min-height:46px;padding:10px 16px;font-weight:700}
+.front .flipinline{background:#e3ca94;color:#26363a;border-color:#ad956b}
+.deckstatus{font-variant-numeric:tabular-nums}
+@media(max-width:960px){
+.reader{grid-template-columns:minmax(0,1fr)}
+.sidebox{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.sidebox h3,.sidebox>p{grid-column:1/-1}
+.atlas{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:650px){
+.shell{padding:0 14px}
+.topbar{padding:16px 0 11px;gap:8px}
+.brand{font-size:23px}
+.globalnav{gap:8px 14px;font-size:.77rem}
+.hero{grid-template-columns:1fr;gap:12px;padding:28px 0 25px}
+.hero h1{font-size:clamp(3.15rem,13vw,4.8rem);margin:12px 0}
+.lede{font-size:1.06rem;line-height:1.5}
+.hero aside{display:flex;align-items:center;flex-wrap:wrap;gap:14px;border-left:0;border-top:1px solid var(--edge);padding:16px 0 0}
+.hero aside .big{font-size:2rem}
+.hero aside p{display:none}
+.herolinks{margin-top:16px}
+.pill{padding:10px 14px}
+.sectionhead{margin:38px 0 17px}
+.sectionhead h2{font-size:2.45rem}
+.toolbar{gap:9px}
+.field{flex-basis:100%;min-width:0;width:100%;font-size:16px}
+.filter{flex:1;min-width:0;font-size:16px}
+.reader{display:block}
+.deckstatus{font-size:.77rem;flex-wrap:wrap}
+.deck,.flipper{height:auto;min-height:0;perspective:none;transform:none!important}
+.deck{cursor:default;touch-action:pan-y}
+.flipper{position:relative;transform-style:flat;transition:none!important}
+.face{position:relative;inset:auto;display:flex;min-height:0;max-height:none;overflow:visible;transform:none!important;backface-visibility:visible;padding:26px 23px;border-radius:16px;box-shadow:0 12px 30px #020a1038}
+.face.back{display:none}
+.deck.flipped .face.front{display:none}
+.deck.flipped .face.back{display:flex}
+.face h3{font-size:clamp(1.45rem,6vw,2.15rem);line-height:1.3}
+.face .centre{font-size:1.16rem}
+.face .origin{font-size:1.08rem}
+.face .footer{padding-top:22px;gap:8px;flex-wrap:wrap}
+.face .separator{margin:18px 0}
+.flipinline{display:inline-flex;justify-content:center;align-items:center;align-self:flex-start;margin-top:19px}
+.coord{margin:12px 0}
+.formline{padding:13px 0}
+.cardactions{margin:13px 0 25px;align-items:center}
+.cardactions .hint{display:none}
+.actions{width:100%;display:grid;grid-template-columns:1fr 1.4fr 1fr}
+.act{min-height:49px;min-width:0;font-size:.93rem}
+#permalink{margin-left:auto}
+.sidebox{display:block;padding:17px}
+.itemlist,.atlas{grid-template-columns:1fr;gap:9px}
+.item{min-height:0;padding:14px}
+.cell{padding:17px}
+.defs{grid-template-columns:1fr 1fr}
+.principles{padding:21px}
+}
+@media(max-width:420px){
+.defs{grid-template-columns:1fr}
+.globalnav{gap:7px 11px}
+.hero h1{font-size:3.35rem}
+.face{padding:23px 19px}
+.face .sup{font-size:.64rem}
+.face .footer{font-size:.7rem}
+}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.flipper{transition:none}}
 </style></head>
 <body><div class="shell">
@@ -30,12 +96,12 @@
 <div class="reader"><div class="deckwrap">
 <div class="deckstatus"><span id="position" class="num">A-001 / 200</span><span id="decktag">Corpus A · Statements about the world</span></div>
 <div id="deck" class="deck" role="button" tabindex="0" aria-label="Turn the current card" aria-pressed="false"><div class="flipper">
-<article class="face front"><div class="sup"><span id="frontId">A-001</span><span>01 · Read the sentence</span></div><h3 id="original"></h3><div class="separator"></div><div class="smalllabel" style="color:#64716d">Operative Centre</div><p id="centre" class="centre"></p><div class="footer"><span>Two expressions · One achievement</span><span>Tap to turn ↻</span></div></article>
-<article class="face back"><div class="sup"><span id="backId">A-001</span><span>02 · Examine the form</span></div><div style="margin-top:14px"><span id="reviewTag" class="flag" hidden>Review required · provisional</span></div><h3 id="cellName"></h3><div id="coords" class="coord"></div><div class="formline"><small>X–Y formulation</small><p id="xy"></p></div><div class="formline"><small>Minimal utterance</small><p id="short"></p></div><div class="formline"><small>Resolution rationale</small><p id="rationale"></p></div><div class="footer"><span>Recorded classification · audit status preserved</span><span>Tap to return ↻</span></div></article>
+<article class="face front"><div class="sup"><span id="frontId">A-001</span><span>01 · Read the sentence</span></div><h3 id="original"></h3><div class="separator"></div><div class="smalllabel" style="color:#64716d">Operative Centre</div><p id="centre" class="centre"></p><button type="button" class="flipinline" data-flip>Reveal the structural resolution ↻</button><div class="footer"><span>Two expressions · One achievement</span><span>Turn to examine the form</span></div></article>
+<article class="face back"><div class="sup"><span id="backId">A-001</span><span>02 · Examine the form</span></div><div style="margin-top:14px"><span id="reviewTag" class="flag" hidden>Review required · provisional</span></div><h3 id="cellName"></h3><div id="coords" class="coord"></div><div class="formline"><small>X–Y formulation</small><p id="xy"></p></div><div class="formline"><small>Minimal utterance</small><p id="short"></p></div><div class="formline"><small>Resolution rationale</small><p id="rationale"></p></div><button type="button" class="flipinline" data-flip>Return to the sentence ↻</button><div class="footer"><span>Recorded classification · audit status preserved</span><span>Return to read again</span></div></article>
 </div></div>
 <div class="cardactions"><div class="actions"><button id="prev" class="act" aria-label="Previous sentence">←</button><button id="flip" class="act" aria-label="Turn card">↻ Flip</button><button id="next" class="act" aria-label="Next sentence">→</button></div><span class="hint">← → navigate · Enter or Space flips · swipe across</span><a id="permalink" href="#read" style="font-size:.8rem">Link to this card</a></div></div>
 <aside class="sidebox"><h3>How to read</h3><p>Read the original. Then read the Centre. It should make the sentence’s governing intelligible achievement visible without importing another story, a favoured cell, or a new meaning.</p><div class="sidemeta"><small>THREE QUESTIONS</small><b>What changed?</b><b>What made it sufficient?</b><b>How does it remain achieved?</b></div><div class="sidemeta"><small>THE SECOND FACE</small><b id="sidename">Cell 22 — Sequential link</b><div id="sidecoords" class="guideNote"></div></div><div class="sidemeta"><small>AUDIT STATUS</small><p id="sidereview">Recorded as part of the 200-case structural audit.</p></div><p class="guideNote">3 of 200 structural assignments remain explicitly marked for further review. The Centres themselves are not revised by this display.</p></aside></div></section>
-<section id="index"><div class="sectionhead"><div><div class="eyebrow">02 / Scroll and choose</div><h2>Two hundred encounters</h2></div><p>A continuous, searchable index. Choose any case to return to the deck with its corresponding Centre and resolution.</p></div><div class="scrollnote"><span id="results">200 cases</span> · Corpus A: 001–100 · Corpus B: 101–200 · Review required: 063, 070, 097</div><div id="itemlist" class="itemlist"></div></section>
+<section id="index"><div class="sectionhead"><div><div class="eyebrow">02 / Scroll and choose</div><h2>Two hundred encounters</h2></div><p>A continuous, searchable index. Choose any case to return to the deck with its corresponding Centre and resolution.</p></div><div class="scrollnote"><span id="results">200 cases</span> · Corpus A: 001–100 · Corpus B: 101–200 · Review required: 063, 070, 097</div><div id="itemlist" class="itemlist"></div><button type="button" id="moreIndex" class="toolbutton" hidden>Show more sentences</button></section>
 <section id="atlas"><div class="sectionhead"><div><div class="eyebrow">03 / The conjunctive grammar</div><h2>The 54-cell atlas</h2></div><p>Every cell: its canonical name, three-dimensional address, earlier X–Y expression, minimal utterance, and ruling structural characterisation.</p></div><div class="toolbar"><select id="family" class="filter" aria-label="Filter transformation family"><option value="all">All six families</option><option>Differentiation</option><option>Opening</option><option>Relating</option><option>Repair</option><option>Integration</option><option>Settlement</option></select><input id="cellsearch" class="field" type="search" placeholder="Search 54 cells…" aria-label="Search cells"></div><div id="atlaslist" class="atlas"></div></section>
 <section id="method"><div class="sectionhead"><div><div class="eyebrow">04 / The governing discipline</div><h2>Fifteen definitions.<br>One conjunction.</h2></div></div><p class="methodintro">The axes are independent as definitions but conjunctive in their labour. A cell is not three properties added together: it is one completed intelligible achievement through which the three constraints reciprocally determine one another.</p><div id="definitions" class="defs"></div><div class="principles"><h3>Dimensional Conjunction</h3><p><strong>Not a fourth dimension.</strong> The address Transformation Pattern × Completion Topology × Persistence Mode indexes one form; it does not describe three detachable properties.</p><p><strong>Non-Cartesian.</strong> The three constraints operate simultaneously. There is no valid sequence “Transformation → Topology → Persistence.”</p><p><strong>Non-operator.</strong> Focal does not merely pick one object; Distributed does not merely pluralise; Release does not negate; Standing, Bearing and Efficacy do not act afterward on a completed result.</p><p><strong>Relational-field.</strong> Neighbouring cells constrain one another negatively. Changing one coordinate should change the identity of the completion, not just its phrasing.</p><p>For the exact full governing text, consult <a href="https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md">the controlling reference</a> or <a href="https://github.com/TitanicParker/resolve/blob/main/FIRST_200_CENTRE_TO_INVARIANT_WORKBOOK.md">Appendix B of the workbook</a>.</p></div></section>
 </main><footer class="footer"><span>Fiche Ceathar / Resolve · The First Handbook · Source faithful, audit aware</span><span><a href="https://github.com/TitanicParker/resolve/blob/main/FIRST_200_CENTRE_TO_INVARIANT_WORKBOOK.md">Canonical working document</a> · <a href="https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_COMPLETE_REFERENCE_TABLE.md">54-cell reference</a> · <a href="#top">Back to top ↑</a></span></footer>
@@ -49,9 +115,9 @@ const entries=source.items,cells=source.cells,defs=source.definitions;
 const E=id=>document.getElementById(id);
 const safe=s=>String(s==null?'':s);
 const escapeHTML=s=>safe(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]});
-let current=0,flipped=false,visible=entries.map((_,i)=>i),touchX=null;
+let current=0,flipped=false,visible=entries.map((_,i)=>i),touchStart=null,indexShown=24,lastSwipe=0;
 function activeIndex(){return visible.indexOf(current)}
-function choose(index){current=index;flipped=false;renderCard();const id=entries[current].id;if(history.replaceState)history.replaceState(null,'','#'+id.toLowerCase())}
+function choose(index){current=index;flipped=false;renderCard();renderIndex();const id=entries[current].id;if(history.replaceState)history.replaceState(null,'','#'+id.toLowerCase())}
 function renderCard(){
  const x=entries[current],a=x.axes;
  E('position').textContent=x.id+' / 200';E('decktag').textContent=x.n<=100?'Corpus A · Statements about the world':'Corpus B · Science';
@@ -61,28 +127,39 @@ function renderCard(){
  E('reviewTag').hidden=!x.review;E('sidename').textContent=x.cell;E('sidecoords').textContent=a.join(' × ');
  E('sidereview').textContent=x.review||'Recorded assignment · no separate review flag.';
  E('deck').classList.toggle('flipped',flipped);E('deck').setAttribute('aria-pressed',String(flipped));
+ E('deck').setAttribute('aria-label',flipped?'Structural resolution; use flip button to return':'Original and Operative Centre; use flip button to reveal the resolution');
+ E('deck').querySelectorAll('.face').forEach(face=>{const inactive=(face.classList.contains('back')&&!flipped)||(face.classList.contains('front')&&flipped);face.setAttribute('aria-hidden',String(inactive));if('inert' in face)face.inert=inactive;});
  E('permalink').href='#'+x.id.toLowerCase();
  E('prev').disabled=activeIndex()<=0;E('next').disabled=activeIndex()>=visible.length-1;
 }
-function turn(){flipped=!flipped;E('deck').classList.toggle('flipped',flipped);E('deck').setAttribute('aria-pressed',String(flipped))}
+function turn(){flipped=!flipped;renderCard()}
 function move(d){const k=activeIndex()+d;if(k>=0&&k<visible.length)choose(visible[k])}
 function filtered(){const q=E('jump').value.toLowerCase().trim(),scope=E('corpus').value;
  visible=entries.map((x,i)=>({x,i})).filter(({x})=>(scope==='all'||(scope==='world'&&x.n<=100)||(scope==='science'&&x.n>100)||(scope==='review'&&x.review))&&(!q||[x.id,x.original,x.centre,x.cell,x.xy,x.short,...x.axes].join(' ').toLowerCase().includes(q))).map(y=>y.i);
  E('results').textContent=visible.length+' matching cases';
  if(visible.length&&!visible.includes(current)){current=visible[0];flipped=false}
+ indexShown=window.matchMedia('(max-width:650px)').matches?12:24;
  renderIndex();if(visible.length){renderCard();E('deck').hidden=false}else{E('position').textContent='No matching cases';E('deck').hidden=true}
 }
 function renderIndex(){
- E('itemlist').innerHTML=visible.map(i=>{const x=entries[i];return '<button type="button" class="item'+(current===i?' active':'')+'" data-i="'+i+'"><span class="line1"><span>'+x.id+'</span><span>'+(x.review?'REVIEW REQUIRED':escapeHTML(x.cell))+'</span></span><span class="sentence">'+escapeHTML(x.original)+'</span><span class="tiny">'+escapeHTML(x.short)+' · '+escapeHTML(x.axes.join(' × '))+'</span></button>'}).join('');
+ E('itemlist').innerHTML=visible.slice(0,indexShown).map(i=>{const x=entries[i];return '<button type="button" class="item'+(current===i?' active':'')+'" data-i="'+i+'"><span class="line1"><span>'+x.id+'</span><span>'+(x.review?'REVIEW REQUIRED':escapeHTML(x.cell))+'</span></span><span class="sentence">'+escapeHTML(x.original)+'</span><span class="tiny">'+escapeHTML(x.short)+' · '+escapeHTML(x.axes.join(' × '))+'</span></button>'}).join('');
+ E('moreIndex').hidden=visible.length<=indexShown;
+ E('moreIndex').textContent='Show more sentences ('+Math.min(24,visible.length-indexShown)+' of '+(visible.length-indexShown)+' remaining)';
 }
 function renderAtlas(){
  const family=E('family').value,q=E('cellsearch').value.trim().toLowerCase();
  E('atlaslist').innerHTML=cells.filter(x=>(family==='all'||x.t===family)&&(!q||Object.values(x).join(' ').toLowerCase().includes(q))).map(x=>'<article class="cell"><div class="celltop"><span>CELL '+String(x.id).padStart(2,'0')+'</span><span>'+escapeHTML(x.t)+'</span></div><h3>'+escapeHTML(x.name)+'</h3><div class="ultra">“'+escapeHTML(x.short)+'”</div><div class="xyz">'+escapeHTML(x.t+' × '+x.top+' × '+x.mode)+'</div><details><summary>Open the ruling characterisation</summary><p><strong>Algebraic:</strong> '+escapeHTML(x.xy)+'</p><p>'+escapeHTML(x.rule)+'</p></details></article>').join('')||'<p>No cells match your search.</p>';
 }
 function renderDefs(){E('definitions').innerHTML=defs.map(x=>'<article class="def"><small>DEFINITION '+String(x.n).padStart(2,'0')+'</small><h3>'+escapeHTML(x.title)+'</h3><p>'+escapeHTML(x.text)+'</p></article>').join('')}
-E('deck').addEventListener('click',turn);E('deck').addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();turn()}else if(e.key==='ArrowRight'){e.preventDefault();move(1)}else if(e.key==='ArrowLeft'){e.preventDefault();move(-1)}});
+function isMobile(){return window.matchMedia('(max-width:650px)').matches}
+E('deck').addEventListener('click',e=>{if(e.target.closest('[data-flip]'))return;if(isMobile())return;if(Date.now()-lastSwipe<550)return;turn()});
+E('deck').addEventListener('keydown',e=>{if(e.target!==E('deck'))return;if(e.key==='Enter'||e.key===' '){e.preventDefault();turn()}else if(e.key==='ArrowRight'){e.preventDefault();move(1)}else if(e.key==='ArrowLeft'){e.preventDefault();move(-1)}});
+E('deck').querySelectorAll('[data-flip]').forEach(b=>b.addEventListener('click',e=>{e.stopPropagation();turn()}));
 E('flip').addEventListener('click',turn);E('prev').addEventListener('click',()=>move(-1));E('next').addEventListener('click',()=>move(1));
-E('deck').addEventListener('touchstart',e=>{touchX=e.changedTouches[0].screenX},{passive:true});E('deck').addEventListener('touchend',e=>{if(touchX===null)return;const dx=e.changedTouches[0].screenX-touchX;touchX=null;if(Math.abs(dx)>55){move(dx<0?1:-1);e.preventDefault()}},{passive:false});
+E('deck').addEventListener('touchstart',e=>{if(e.touches.length===1)touchStart={x:e.touches[0].screenX,y:e.touches[0].screenY};else touchStart=null},{passive:true});
+E('deck').addEventListener('touchend',e=>{if(!touchStart)return;const dx=e.changedTouches[0].screenX-touchStart.x,dy=e.changedTouches[0].screenY-touchStart.y;touchStart=null;if(Math.abs(dx)>65&&Math.abs(dx)>Math.abs(dy)*1.5){lastSwipe=Date.now();move(dx<0?1:-1);e.preventDefault()}},{passive:false});
+E('deck').addEventListener('touchcancel',()=>{touchStart=null},{passive:true});
+E('moreIndex').addEventListener('click',()=>{indexShown=Math.min(visible.length,indexShown+24);renderIndex()});
 E('jump').addEventListener('input',filtered);E('corpus').addEventListener('change',filtered);E('family').addEventListener('change',renderAtlas);E('cellsearch').addEventListener('input',renderAtlas);
 E('random').addEventListener('click',()=>{if(visible.length)choose(visible[Math.floor(Math.random()*visible.length)])});
 E('itemlist').addEventListener('click',e=>{const b=e.target.closest('[data-i]');if(b){choose(+b.dataset.i);renderIndex();E('read').scrollIntoView({behavior:'smooth',block:'start'})}});
