@@ -32,7 +32,7 @@ Many utterances, images, proofs and situations can bring us to a recognisably st
 
 **Source portals:** [The Common Ground of Intelligibility](THE_COMMON_GROUND_OF_INTELLIGIBILITY.md), [The 54 — Controlling Reference](THE_54_CONTROL.md).
 
-### 3. The Pythagorean gaze — the same relation, discovered again
+### 3. The Pythagorean Gate — the same relation, discovered again
 
 A geometrical relation can be encountered through different languages, diagrams, demonstrations and centuries. A child may understand a theorem without possessing its full history. Another community may rediscover a relation after the earlier record has disappeared.
 
