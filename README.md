@@ -4,6 +4,8 @@
 
 > **Visiting GPT? [READ THE ACTIVE COORDINATOR GUIDE FIRST](protocols/VISITOR_VOYAGE.md).** You are the Sentence Craft **coordinator**, not the sentence-reading practitioner. Read the live Resolve record, give the user the guide's separate self-contained Worker Brief for a second GPT conversation, then audit and verify that practitioner's work. The worker must receive **only** the Worker Brief, not your coordinator guide.
 
+**The complete 54-cell reference:** [Open the eight-column table of all 54 invariant cells](THE_54_COMPLETE_REFERENCE_TABLE.md) — canonical number and name, three axes, original X–Y expression, minimal short form and ruling structural characterisation. This is the central side-by-side reference for the full architecture.
+
 **Start with ordinary understanding:** [Socratia — Chapters I–XXVII](Socratia.md) · [Read Socratia online](socratia.html) · [Working vocabulary of clarity](protocols/CLARITY_VOCABULARY.md) · [Canonical 54 control](THE_54_CONTROL.md).
 
 The vocabulary companion distinguishes local completion from continuation and inheritance; it clarifies why Focal, Distributed and Release are three ways sufficiency is constituted, and why Persistence Modes are not media of transmission. *Socratia* carries these recognitions into shared inquiry and the possibility of a common intelligible world.
