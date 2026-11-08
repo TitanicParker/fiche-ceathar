@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Fiche Ceathar — The 54",
+  "short_name": "The 54",
+  "description": "An interactive atlas, handbook and reading world for the 54 invariant cells.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10151e",
+  "theme_color": "#142535",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "The Beautiful Table",
+      "url": "./the_54_complete_table.html"
+    },
+    {
+      "name": "First Handbook",
+      "url": "./handbook.html"
+    },
+    {
+      "name": "The 54 Atlas",
+      "url": "./the_54_one_atlas.html"
+    }
+  ]
+}
