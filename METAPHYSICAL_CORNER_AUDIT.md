@@ -4,6 +4,10 @@
 **Date:** 8 November 2026.  
 **Scope:** A focused reading of the public entrances, the 15 definitions and Dimensional Conjunction, *Socratia*, *The Common Ground of Intelligibility*, *The Fountainhead of Intelligibility*, and *Fountainhead II*. This is a thematic audit of principal source texts, **not** a claim that every sentence of every repository file was exhaustively searched.
 
+## Historical addition: Origins — Before the Sentence
+
+Three author-supplied early texts have now been read as a separate historical source set: *Provenance of the System*, *People Speak*, and *Connie Conscious*. They indicate that geometrical and relational questions preceded the sentence instrument. The detailed source-sensitive account is in [Origins — Before the Sentence](ORIGINS_BEFORE_THE_SENTENCE.md), with a [standalone reading page](origins-before-the-sentence.html). The provenance chronology remains a reconstruction until its named original dated artifacts and logs are individually checked. The historical X → Y vocabulary must not be identified mechanically with today’s three canonical axes.
+
 ## The finding
 
 Fiche Ceathar's primary method concerns the **recognition and structural resolution of intelligible completion**. It asks what changed, what made the transformation sufficient, and how the achievement remains achieved. The resulting conjunction is not presented in the controlling reference as an ontology of the universe, a theory of consciousness, a proof of Platonism, or a metaphysical explanation of why a world exists.
