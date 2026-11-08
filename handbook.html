@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head>
+<head><link rel="manifest" href="./manifest.webmanifest"><link rel="icon" type="image/svg+xml" href="./app-icon.svg"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="The 54">
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#111e27">
 <meta name="description" content="The First Handbook: 200 canonical sentences, 200 Operative Centres, 54 structural cells. A swipeable, flippable, scrollable Rosetta Stone for Fiche Ceathar.">
 <title>The First Handbook · Fiche Ceathar / Resolve</title>
@@ -167,4 +167,4 @@ function fromHash(){const hash=location.hash.toUpperCase().replace('#','');if(/^
 window.addEventListener('hashchange',fromHash);
 renderDefs();renderAtlas();filtered();fromHash();
 })();
-</script></body></html>
+</script><script>if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));}</script></body></html>
