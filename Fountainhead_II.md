@@ -98,9 +98,9 @@ Language transforms what can be done with an intelligible difference.
 
 It does not follow that language must have created the difference.
 
-This observation seems modest enough to pass almost unnoticed.
+The distinction is easily overlooked.
 
-Yet its consequences extend farther than we might expect.
+Its consequences extend across languages and their speakers.
 
 For there are thousands of languages in the world, and their speakers do not inhabit thousands of mutually inaccessible orders of intelligibility.
 
