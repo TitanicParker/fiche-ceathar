@@ -57,12 +57,22 @@ footer{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap;font-s
 .result-line em{font-style:normal}
 .result-line .match{font-weight:900}
 @media(max-width:520px){.dial-options,.dial-options.six{grid-template-columns:repeat(2,minmax(0,1fr))}.result-line{grid-template-columns:1fr;gap:4px}}
+
+/* Sentence marking is the preliminary reading act, before the three dials. */
+#sentence .word{font:inherit;letter-spacing:inherit;line-height:inherit;display:inline;border:0;border-radius:3px;background:transparent;color:inherit;padding:0 1px;min-height:0;cursor:pointer;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+#sentence .word:hover:not(:disabled){background:#ffc7bd;color:#190c0a}
+#sentence .word[aria-pressed="true"]{background:#1b0a08;color:#fff8ea;box-shadow:0 0 0 2px #1b0a08}
+#sentence .word:focus-visible{outline:2px solid #fff8e2;outline-offset:3px}
+#sentence .word:disabled{cursor:default;opacity:1}
+#mark-instruction{font-size:.79rem;line-height:1.45;font-weight:700;opacity:.82;margin:-20px 0 26px}
+#mark-count{font-variant-numeric:tabular-nums}
 </style></head>
 <body><main>
 <header><a href="index.html" aria-label="Return to The 54 homepage">← The 54</a><span>● Red Card</span><span id="count">1 / 200</span></header>
 <section id="card">
 <div id="tag">Read it. Find what holds it together.</div>
-<h1 id="sentence"></h1>
+<h1 id="sentence" aria-label="Tap words to mark what matters"></h1>
+<p id="mark-instruction">Tap words that matter. Tap again to unmark. <span id="mark-count" aria-live="polite">0 marked</span></p>
 <div id="front">
 <p class="dial-heading">Choose as you read. Change your mind whenever you like. Nothing is checked until you flip.</p>
 <fieldset class="dial"><legend>1 · Transformation Pattern</legend>
@@ -85,7 +95,7 @@ footer{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap;font-s
 <div class="actions"><button id="next" type="button">Deal another sentence →</button><button class="secondary" id="again" type="button">Try this one again</button></div>
 </div>
 </section>
-<footer><span>Three dials. No leading questions. No timer.</span><span>200 sentences · Choose, lock, flip</span></footer>
+<footer><span>Mark words. Choose three dimensions. Flip.</span><span>200 sentences · Choose, lock, flip</span></footer>
 </main>
 <script>
 "use strict";
@@ -97,7 +107,39 @@ const dimensions={
  p:["Standing","Bearing","Efficacy"]
 };
 const chosen={t:"",k:"",p:""};
+let markedWords=new Set();
+let revealed=false;
 let order=[],position=0,current=null;
+function updateMarkCount(){
+ $("mark-count").textContent=markedWords.size+" marked";
+}
+function renderSentence(){
+ const node=$("sentence");
+ node.replaceChildren();
+ // Preserve every space and line break in the source while making words independently tappable.
+ const tokens=current.sentence.match(/\s+|\S+/gu)||[];
+ let wordIndex=0;
+ for(const token of tokens){
+  if(/^\s+$/u.test(token)){node.append(document.createTextNode(token));continue;}
+  const index=wordIndex++;
+  const word=document.createElement("button");
+  word.type="button";
+  word.className="word";
+  word.textContent=token;
+  word.setAttribute("aria-label","Mark word: "+token);
+  word.setAttribute("aria-pressed",String(markedWords.has(index)));
+  word.disabled=revealed;
+  word.addEventListener("click",()=>{
+   if(revealed)return;
+   if(markedWords.has(index))markedWords.delete(index);else markedWords.add(index);
+   word.setAttribute("aria-pressed",String(markedWords.has(index)));
+   word.setAttribute("aria-label",(markedWords.has(index)?"Unmark word: ":"Mark word: ")+token);
+   updateMarkCount();
+  });
+  node.append(word);
+ }
+ updateMarkCount();
+}
 function makeDials(){
  for(const [axis,values] of Object.entries(dimensions)){
   const box=$(axis+"-options");
@@ -128,7 +170,9 @@ function shuffle(){
 function draw(){
  if(position>=order.length)shuffle();
  current=DATA[order[position++]];
- $("sentence").textContent=current.sentence;
+ revealed=false;
+ markedWords=new Set();
+ renderSentence();
  $("tag").textContent="Read it. Dial in your interpretation.";
  $("count").textContent=position+" / "+DATA.length;
  for(const axis of Object.keys(chosen)){
@@ -142,6 +186,8 @@ function draw(){
 }
 function flip(){
  if(!(chosen.t&&chosen.k&&chosen.p))return;
+ revealed=true;
+ for(const word of $("sentence").querySelectorAll(".word"))word.disabled=true;
  $("front").hidden=true;$("back").hidden=false;
  $("myguess").textContent=chosen.t+" × "+chosen.k+" × "+chosen.p;
  $("centre").textContent=current.centre;
@@ -162,6 +208,8 @@ $("flip").addEventListener("click",flip);
 $("next").addEventListener("click",draw);
 $("skip").addEventListener("click",draw);
 $("again").addEventListener("click",()=>{
+ revealed=false;
+ for(const word of $("sentence").querySelectorAll(".word"))word.disabled=false;
  $("back").hidden=true;$("front").hidden=false;
  $("tag").textContent=current.id+" · Try again";
  window.scrollTo({top:0,behavior:"smooth"});
