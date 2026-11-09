@@ -20,11 +20,11 @@ fieldset{border:0;padding:0;margin:24px 0 0}legend{font-weight:800;font-size:.81
 select{width:100%;border:2px solid #260e0c;border-radius:3px;background:#ffccc7;padding:12px;color:#160d0a;font:inherit;font-weight:650}
 .triple{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
 button{border:2px solid #180c0b;background:#160b09;color:#fff3ed;font:800 .91rem system-ui;cursor:pointer;padding:15px 20px;min-height:52px;border-radius:3px}
-button:hover{background:#38201c}button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #fff8e2;outline-offset:4px}
+button:hover:not(:disabled){background:#38201c}button:disabled{opacity:.45;cursor:not-allowed}button:focus-visible,a:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #fff8e2;outline-offset:4px}
 button.secondary{background:transparent;color:#160b09}button.secondary:hover{background:#ffaaa0}
 .actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:20px}
 .actions button{flex:1}
-#back{display:none;border-top:2px solid #210d0c;padding:28px 0 0}
+#back{display:block;border-top:2px solid #210d0c;padding:28px 0 0}
 #back h2{font:normal clamp(1.5rem,4vw,2.45rem)/1.25 Georgia,serif;margin:12px 0 23px}
 .answer{font:normal clamp(1.3rem,3.5vw,2.1rem)/1.4 Georgia,serif;margin:12px 0 24px}
 .kicker{font-size:.7rem;letter-spacing:.13em;text-transform:uppercase;font-weight:900;opacity:.72}
