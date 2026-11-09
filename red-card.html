@@ -59,7 +59,7 @@ footer{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap;font-s
 @media(max-width:520px){.dial-options,.dial-options.six{grid-template-columns:repeat(2,minmax(0,1fr))}.result-line{grid-template-columns:1fr;gap:4px}}
 
 /* Sentence marking is the preliminary reading act, before the three dials. */
-#sentence .word{font:inherit;letter-spacing:inherit;line-height:inherit;display:inline;border:0;border-radius:3px;background:transparent;color:inherit;padding:0 1px;min-height:0;cursor:pointer;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+#sentence,#sentence .word{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none;touch-action:manipulation}#sentence .word{font:inherit;letter-spacing:inherit;line-height:inherit;display:inline;border:0;border-radius:3px;background:transparent;color:inherit;padding:0 1px;min-height:0;cursor:pointer;box-decoration-break:clone;-webkit-box-decoration-break:clone}
 #sentence .word:hover:not(:disabled){background:#ffc7bd;color:#190c0a}
 #sentence .word[aria-pressed="true"]{background:#1b0a08;color:#fff8ea;box-shadow:0 0 0 2px #1b0a08}
 #sentence .word:focus-visible{outline:2px solid #fff8e2;outline-offset:3px}
@@ -129,6 +129,8 @@ function renderSentence(){
   word.setAttribute("aria-label","Mark word: "+token);
   word.setAttribute("aria-pressed",String(markedWords.has(index)));
   word.disabled=revealed;
+  word.addEventListener("contextmenu",event=>event.preventDefault());
+  word.addEventListener("selectstart",event=>event.preventDefault());
   word.addEventListener("click",()=>{
    if(revealed)return;
    if(markedWords.has(index))markedWords.delete(index);else markedWords.add(index);
