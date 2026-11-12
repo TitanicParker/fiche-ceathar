@@ -68,7 +68,7 @@ header h1 a{color:inherit;text-decoration:none}header h1 a:hover{text-decoration
 <div class="controls"><button id="spin" type="button" disabled>Loading the 54…</button></div>
 <p class="status" id="status" role="status" aria-live="polite">Reading the controlling reference…</p>
 <article class="result" id="result" hidden aria-live="polite">
-<div id="num" class="cellnum"></div><div class="instant-recognition" id="instant-recognition"><div class="instant-label">The form at a glance</div><p class="instant-form" id="instant-form"></p><p class="instant-companion" id="instant-companion"></p></div><h2 class="cellname" id="name"></h2><p id="coord" class="coordinate"></p>
+<div id="num" class="cellnum"></div><div class="instant-recognition" id="instant-recognition"><div class="instant-label">The form at a glance</div><p class="instant-form" id="instant-xy"></p><p class="instant-form" id="instant-form"></p><p class="instant-companion" id="instant-companion"></p></div><h2 class="cellname" id="name"></h2><p id="coord" class="coordinate"></p>
 <div class="pair"><div class="eyebrow">Canonical short utterance</div><p id="short"></p></div>
 <div class="pair"><div class="eyebrow">GPT-D's question</div><p id="question"></p></div>
 <details class="pair" id="three-questions"><summary>What changed? What made it sufficient? How does it remain?</summary><div class="eyebrow">What changed?</div><p id="changed"></p><div class="eyebrow">What made it sufficient?</div><p id="sufficient"></p><div class="eyebrow">How does it remain?</div><p id="remains"></p></details>
@@ -703,6 +703,7 @@ function parseReference(md){
   if(full.length!==54||full.some((c,i)=>c.number!==i+1)||q.size!==54||a.size!==54)throw Error('Expected 54 canonical cells, questions and three-part answers in the controlling Markdown.');
   return {full,q,a};
 }
+const xyExpressions=["X is simply placed as Y.","X is classified as one of Y₁ / Y₂.","X is separated from Y by a boundary.","X is constrained to the specific Y.","X indicates absent Y.","X differs from Y only within scope S.","X stands against Y.","X varies toward Y along a continuum.","X selects only one among Y options.","X expands outward into Y.","X moves away from source Y along shifting paths.","X branches into multiple Y’s.","X reaches Y by different path Z.","X affects distant Y.","X is spread as field Y.","X can follow any Y₁, Y₂, Y₃…","X gradually transitions into Y.","X grows at its edges into Y.","X relates directly to Y.","X balances with Y around pivot Z.","X mirrors Y.","X leads sequentially to Y.","X changes in response to Y.","X returns to Y in a loop.","X aligns structurally with Y.","X shares deep pattern with Y.","X interacts locally to produce global Y.","X shifts slightly toward Y.","X rebalances Y’s influence.","X transfers strain to Y.","X is tested by flipping into Y (its opposite).","X is corrected by its dual Y.","X changes direction toward Y.","X redefines its limits as Y.","X is resolved by reversing into Y.","X returns from disorder into Y.","X and Y form a functional unit.","X and Y collapse into one interpretive frame.","X and Y interlock to form system Z.","X aligns within structural matrix Y.","X and Y support one another’s constraints.","X fills its role within system Y.","X meets equalizing forces from Y.","X and Y oscillate into stability.","X approaches final Y regardless of origin.","X is affirmed as Y with no alternatives.","X becomes indistinguishable from Y.","X arrives at final Y.","X regularly leads to Y.","X always implies Y under valid conditions.","X typically produces Y across cases.","X remains Y under all transformations.","X reinterprets earlier states as Y.","X settles completely into Y."];
 function select(n){
   const c=cells[n-1],record=exampleRecords.get(n);
   if(!c||!record)throw Error('Unknown cell.');
@@ -710,6 +711,7 @@ function select(n){
   $('name').textContent=c.name;
   $('coord').textContent=c.coordinate;
   $('short').textContent='“'+c.short+'”';
+  $('instant-xy').textContent=xyExpressions[n-1];
   $('instant-form').textContent=c.generated;
   $('instant-companion').textContent='“'+c.short+'”';
   const instant=$('instant-recognition');
