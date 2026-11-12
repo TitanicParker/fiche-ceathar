@@ -38,6 +38,7 @@ header h1 a{color:inherit;text-decoration:none}header h1 a:hover{text-decoration
 
 .red-practice-dot{display:inline-flex;align-items:center;justify-content:center;flex:0 0 36px;width:36px;height:36px;border-radius:50%;background:#e53935;color:#160a08;border:2px solid #ff7772;text-decoration:none;font:900 1.2rem system-ui;box-shadow:0 0 0 3px #e5393520,0 0 16px #e5393590;transition:transform .15s ease}.red-practice-dot:hover,.red-practice-dot:focus-visible{transform:scale(1.14);background:#ff514a;color:#180b0a}.red-practice-dot:focus-visible{outline:3px solid var(--mint);outline-offset:3px}
 .manual-gear{display:inline-flex;align-items:center;gap:5px;padding:6px 9px;border:1px solid #a5b5c860;border-radius:999px;color:var(--muted);text-decoration:none;font:.78rem/1.25 system-ui,sans-serif;white-space:nowrap}.manual-gear .gear-symbol{font-size:1.15rem;line-height:1}.manual-gear:hover,.manual-gear:focus-visible{color:var(--gold);border-color:var(--gold);background:#edcf8310}@media(max-width:480px){.manual-gear{padding:6px 8px;font-size:.73rem}}
+.instant-recognition{margin:18px 0 22px;padding:24px 16px;text-align:center;border:2px solid var(--gold);border-radius:16px;background:radial-gradient(ellipse at center,#344354,#142130 78%)}.instant-label{color:var(--muted);font-size:.72rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase}.instant-form{margin:10px 0 4px;color:var(--mint);font:normal clamp(1.4rem,4.5vw,2.3rem)/1.2 Georgia,serif}.instant-companion{margin:8px 0 0;color:var(--gold);font:normal clamp(1.9rem,6vw,3.3rem)/1.15 Georgia,serif}.instant-recognition.flash{animation:recognition-flash 1.15s ease-out}@keyframes recognition-flash{0%{box-shadow:0 0 0 #edcf8300;transform:scale(.97);background:#516052}30%{box-shadow:0 0 55px #edcf83aa;transform:scale(1.025)}100%{box-shadow:0 0 0 #edcf8300;transform:scale(1)}}@media(prefers-reduced-motion:reduce){.instant-recognition.flash{animation:none}}
 </style>
 </head>
 <body><main>
@@ -67,7 +68,7 @@ header h1 a{color:inherit;text-decoration:none}header h1 a:hover{text-decoration
 <div class="controls"><button id="spin" type="button" disabled>Loading the 54…</button></div>
 <p class="status" id="status" role="status" aria-live="polite">Reading the controlling reference…</p>
 <article class="result" id="result" hidden aria-live="polite">
-<div id="num" class="cellnum"></div><h2 class="cellname" id="name"></h2><p id="coord" class="coordinate"></p>
+<div id="num" class="cellnum"></div><div class="instant-recognition" id="instant-recognition"><div class="instant-label">The form at a glance</div><p class="instant-form" id="instant-form"></p><p class="instant-companion" id="instant-companion"></p></div><h2 class="cellname" id="name"></h2><p id="coord" class="coordinate"></p>
 <div class="pair"><div class="eyebrow">Canonical short utterance</div><p id="short"></p></div>
 <div class="pair"><div class="eyebrow">GPT-D's question</div><p id="question"></p></div>
 <details class="pair" id="three-questions"><summary>What changed? What made it sufficient? How does it remain?</summary><div class="eyebrow">What changed?</div><p id="changed"></p><div class="eyebrow">What made it sufficient?</div><p id="sufficient"></p><div class="eyebrow">How does it remain?</div><p id="remains"></p></details>
@@ -709,6 +710,12 @@ function select(n){
   $('name').textContent=c.name;
   $('coord').textContent=c.coordinate;
   $('short').textContent='“'+c.short+'”';
+  $('instant-form').textContent=c.generated;
+  $('instant-companion').textContent='“'+c.short+'”';
+  const instant=$('instant-recognition');
+  instant.classList.remove('flash');
+  void instant.offsetWidth;
+  instant.classList.add('flash');
   $('question').textContent=questions.get(n);
   const parts=answers.get(n);
   $('changed').textContent=parts.changed;
