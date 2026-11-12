@@ -39,6 +39,7 @@ header h1 a{color:inherit;text-decoration:none}header h1 a:hover{text-decoration
 .red-practice-dot{display:inline-flex;align-items:center;justify-content:center;flex:0 0 36px;width:36px;height:36px;border-radius:50%;background:#e53935;color:#160a08;border:2px solid #ff7772;text-decoration:none;font:900 1.2rem system-ui;box-shadow:0 0 0 3px #e5393520,0 0 16px #e5393590;transition:transform .15s ease}.red-practice-dot:hover,.red-practice-dot:focus-visible{transform:scale(1.14);background:#ff514a;color:#180b0a}.red-practice-dot:focus-visible{outline:3px solid var(--mint);outline-offset:3px}
 .manual-gear{display:inline-flex;align-items:center;gap:5px;padding:6px 9px;border:1px solid #a5b5c860;border-radius:999px;color:var(--muted);text-decoration:none;font:.78rem/1.25 system-ui,sans-serif;white-space:nowrap}.manual-gear .gear-symbol{font-size:1.15rem;line-height:1}.manual-gear:hover,.manual-gear:focus-visible{color:var(--gold);border-color:var(--gold);background:#edcf8310}@media(max-width:480px){.manual-gear{padding:6px 8px;font-size:.73rem}}
 .instant-recognition{margin:18px 0 22px;padding:24px 16px;text-align:center;border:2px solid var(--gold);border-radius:16px;background:radial-gradient(ellipse at center,#344354,#142130 78%)}.instant-label{color:var(--muted);font-size:.72rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase}.instant-form{margin:10px 0 4px;color:var(--mint);font:normal clamp(1.4rem,4.5vw,2.3rem)/1.2 Georgia,serif}.instant-companion{margin:8px 0 0;color:var(--gold);font:normal clamp(1.9rem,6vw,3.3rem)/1.15 Georgia,serif}.instant-recognition.flash{animation:recognition-flash 1.15s ease-out}@keyframes recognition-flash{0%{box-shadow:0 0 0 #edcf8300;transform:scale(.97);background:#516052}30%{box-shadow:0 0 55px #edcf83aa;transform:scale(1.025)}100%{box-shadow:0 0 0 #edcf8300;transform:scale(1)}}@media(prefers-reduced-motion:reduce){.instant-recognition.flash{animation:none}}
+.instant-mode{margin:10px 0 4px;color:var(--gold);font-size:clamp(1.1rem,3.5vw,1.55rem);font-weight:800;letter-spacing:.04em}
 </style>
 </head>
 <body><main>
@@ -68,7 +69,7 @@ header h1 a{color:inherit;text-decoration:none}header h1 a:hover{text-decoration
 <div class="controls"><button id="spin" type="button" disabled>Loading the 54…</button></div>
 <p class="status" id="status" role="status" aria-live="polite">Reading the controlling reference…</p>
 <article class="result" id="result" hidden aria-live="polite">
-<div id="num" class="cellnum"></div><div class="instant-recognition" id="instant-recognition"><div class="instant-label">The form at a glance</div><p class="instant-form" id="instant-xy"></p><p class="instant-form" id="instant-form"></p><p class="instant-companion" id="instant-companion"></p></div><h2 class="cellname" id="name"></h2><p id="coord" class="coordinate"></p>
+<div id="num" class="cellnum"></div><div class="instant-recognition" id="instant-recognition"><div class="instant-label">The form at a glance</div><p id="instant-mode" class="instant-mode"></p><p class="instant-form" id="instant-xy"></p><p class="instant-form" id="instant-form"></p><p class="instant-companion" id="instant-companion"></p></div><h2 class="cellname" id="name"></h2><p id="coord" class="coordinate"></p>
 <div class="pair"><div class="eyebrow">Canonical short utterance</div><p id="short"></p></div>
 <div class="pair"><div class="eyebrow">GPT-D's question</div><p id="question"></p></div>
 <details class="pair" id="three-questions"><summary>What changed? What made it sufficient? How does it remain?</summary><div class="eyebrow">What changed?</div><p id="changed"></p><div class="eyebrow">What made it sufficient?</div><p id="sufficient"></p><div class="eyebrow">How does it remain?</div><p id="remains"></p></details>
@@ -703,6 +704,7 @@ function parseReference(md){
   if(full.length!==54||full.some((c,i)=>c.number!==i+1)||q.size!==54||a.size!==54)throw Error('Expected 54 canonical cells, questions and three-part answers in the controlling Markdown.');
   return {full,q,a};
 }
+const nineModes=["Anchor","Pivot","Actuation","Configuration","Nexus","Deployment","Independence","Regrounding","Displacement"];
 const xyExpressions=["X is simply placed as Y.","X is classified as one of Y₁ / Y₂.","X is separated from Y by a boundary.","X is constrained to the specific Y.","X indicates absent Y.","X differs from Y only within scope S.","X stands against Y.","X varies toward Y along a continuum.","X selects only one among Y options.","X expands outward into Y.","X moves away from source Y along shifting paths.","X branches into multiple Y’s.","X reaches Y by different path Z.","X affects distant Y.","X is spread as field Y.","X can follow any Y₁, Y₂, Y₃…","X gradually transitions into Y.","X grows at its edges into Y.","X relates directly to Y.","X balances with Y around pivot Z.","X mirrors Y.","X leads sequentially to Y.","X changes in response to Y.","X returns to Y in a loop.","X aligns structurally with Y.","X shares deep pattern with Y.","X interacts locally to produce global Y.","X shifts slightly toward Y.","X rebalances Y’s influence.","X transfers strain to Y.","X is tested by flipping into Y (its opposite).","X is corrected by its dual Y.","X changes direction toward Y.","X redefines its limits as Y.","X is resolved by reversing into Y.","X returns from disorder into Y.","X and Y form a functional unit.","X and Y collapse into one interpretive frame.","X and Y interlock to form system Z.","X aligns within structural matrix Y.","X and Y support one another’s constraints.","X fills its role within system Y.","X meets equalizing forces from Y.","X and Y oscillate into stability.","X approaches final Y regardless of origin.","X is affirmed as Y with no alternatives.","X becomes indistinguishable from Y.","X arrives at final Y.","X regularly leads to Y.","X always implies Y under valid conditions.","X typically produces Y across cases.","X remains Y under all transformations.","X reinterprets earlier states as Y.","X settles completely into Y."];
 function select(n){
   const c=cells[n-1],record=exampleRecords.get(n);
@@ -711,6 +713,7 @@ function select(n){
   $('name').textContent=c.name;
   $('coord').textContent=c.coordinate;
   $('short').textContent='“'+c.short+'”';
+  $('instant-mode').textContent='MODE '+String((n-1)%9+1)+' / 9 · '+nineModes[(n-1)%9];
   $('instant-xy').textContent=xyExpressions[n-1];
   $('instant-form').textContent=c.generated;
   $('instant-companion').textContent='“'+c.short+'”';
