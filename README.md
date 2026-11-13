@@ -1,5 +1,7 @@
 # Fiche Ceathar — The 54
 
+**The Matrix — 100 Memories × The 54:** [Open the interactive film-memory gallery and sentence resolver](THE_MATRIX_100_MEMORIES_SENTENCE_RESOLVER_v3.html). Browse a hundred remembered moments, formulate ordinary sentences, and explore their structures with the three questions. This is a practice workspace; it does not alter canonical rulings.
+
 **Begin with recognition:** [What Must Already Be Recognised](WHAT_MUST_ALREADY_BE_RECOGNISED.md) · [Read the illustrated entrance](what_must_already_be_recognised.html). The Operative Centre is recognisable through three questions, ordinarily and at every scale.
 
 > **Visiting GPT? [READ THE ACTIVE COORDINATOR GUIDE FIRST](protocols/VISITOR_VOYAGE.md).** You are the Sentence Craft **coordinator**, not the sentence-reading practitioner. Read the live Resolve record, give the user the guide's separate self-contained Worker Brief for a second GPT conversation, then audit and verify that practitioner's work. The worker must receive **only** the Worker Brief, not your coordinator guide.
