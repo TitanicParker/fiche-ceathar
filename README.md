@@ -118,3 +118,7 @@ GPT-B receives **only** the exact sentence and GPT-A's frozen *Complete internal
 For the stronger **round-trip** test, pass *only* GPT-B's coordinate to a fresh GPT-D derivation session, without exposing the source sentence or canonical table. Compare its independently derived form with the original sentence and the canonical record, without forcing agreement.
 
 The automated GitHub Action creates an issue template for the three governing questions. **It does not yet execute GPT-A or GPT-B.** Demonstrating reliability requires actual recorded blind runs and rival-coordinate checks.
+
+## The 54 declarations
+
+The [54 emerald-and-gold declaration cards](https://titanicparker.github.io/wonder/fiche-ceathar-54-declarations.html) are hosted in Wonder. Each form speaks in its own distilled first-person voice. The Fiche Ceathar homepage links to the collection as a coloured doorway, and the [living deck](deck.html) links to the matching declaration for whichever cell is selected.
